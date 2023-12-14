@@ -1,4 +1,4 @@
-import os, random, re, sys, time
+import os, random, sys, time
 from datetime import datetime
 
 if sys.version_info[0] != 3 or sys.version_info[1] < 11:
@@ -12,7 +12,6 @@ try:
     from pmmutils.args import PMMArgs
     from pmmutils.exceptions import Failed
     from pmmutils.yaml import YAML
-    from tmdbapis import TMDbAPIs, TMDbException
 except (ModuleNotFoundError, ImportError):
     print("Requirements Error: Requirements are not installed")
     sys.exit(0)
