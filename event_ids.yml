@@ -1,0 +1,16 @@
+event_ids:
+ - ev0000003 # Academy Awards (Oscars)
+ - ev0000123 # BAFTA Awards
+ - ev0000091 # Berlin International Film Festival
+ - ev0000147 # Cannes Film Festival
+ - ev0000157 # César Awards, France
+ - ev0000133 # Critics Choice Awards
+ - ev0000349 # Film Independent Spirit Awards
+ - ev0000292 # Golden Globes, USA
+ - ev0000468 # National Film Preservation Board, USA
+ - ev0000223 # Primetime Emmy Awards
+ - ev0000558 # Razzie Awards
+ - ev0000598 # Screen Actors Guild Awards
+ - ev0000631 # Sundance Film Festival
+ - ev0000659 # Toronto International Film Festival
+ - ev0000681 # Venice Film Festival
