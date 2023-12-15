@@ -1,2298 +1,2385 @@
 '2024':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt23561236, tt1517268, tt5537002, tt5535276, tt15398776, tt13238346, tt14230458, tt17351924, tt1200263, tt14849194]
       winner: []
-    Best Actor in a Drama Series:
+    best actor in a drama series:
       nominee: [tt7660850, tt7660850, tt3581920, tt17543592, tt14263564, tt9140554]
       winner: []
-    Best Actor:
+    best actor:
       nominee: [tt5535276, tt15398776, tt14160834, tt23561236, tt5537002, tt14849194]
       winner: []
-    Best Actor in a Comedy Series:
+    best actor in a comedy series:
       nominee: [tt5348176, tt13623580, tt8310612, tt14452776, tt7908628, tt11691774]
       winner: []
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt9185206, tt1517268, tt6166392, tt14849194, tt11858890, tt17009710]
       winner: []
-    Best Actress in a Drama Series:
+    best actress in a drama series:
       nominee: [tt14263564, tt3581920, tt7203552, tt17491088, tt7203552, tt7660850]
       winner: []
-    Best Actress:
+    best actress:
       nominee: [tt5535276, tt14230458, tt13238346, tt5537002, tt1517268, tt17009710]
       winner: []
-    Best Actress in a Comedy Series:
+    best actress in a comedy series:
       nominee: [tt14452776, tt12759100, tt13623580, tt14269590, tt14218830, tt5788792]
       winner: []
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt13651794, tt14230458, tt5537002, tt15398776, tt1517268, tt23561236]
       winner: []
-    Best Supporting Actor in a Comedy Series:
+    best supporting actor in a comedy series:
       nominee: [tt14452776, tt15677150, tt7908628, tt5348176, tt22074164, tt10986410]
       winner: []
-    Best Supporting Actor in a Drama Series:
+    best supporting actor in a drama series:
       nominee: [tt7203552, tt9140554, tt4786824, tt7660850, tt7821582, tt17491088]
       winner: []
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt1517268, tt14849194, tt1200263, tt15398776, tt5302918, tt13651794]
       winner: []
-    Best Supporting Actress in a Comedy Series:
+    best supporting actress in a comedy series:
       nominee: [tt5788792, tt14218830, tt15677150, tt11691774, tt13623580, tt14218830]
       winner: []
-    Best Supporting Actress in a Drama Series:
+    best supporting actress in a drama series:
       nominee: [tt12327578, tt11041332, tt4786824, tt7203552, tt7203552, tt9140554]
       winner: []
-    Best Director:
+    best director:
       nominee: [tt14849194, tt5535276, tt15398776, tt1517268, tt5537002, tt14230458]
       winner: []
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt16419074, tt1517268, tt5535276, tt13651794, tt13238346, tt14849194]
       winner: []
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt21192142, tt23561236, tt9185206, tt5537002, tt15398776, tt14230458]
       winner: []
-    Best Cinematography:
+    best cinematography:
       nominee: [tt1517268, tt5537002, tt5535276, tt15398776, tt14230458, tt17351924]
       winner: []
-    Best Costume Design:
+    best costume design:
       nominee: [tt1517268, tt5537002, tt13287846, tt14230458, tt1200263, tt6166392]
       winner: []
-    Best Editing:
+    best editing:
       nominee: [tt16419074, tt1517268, tt5537002, tt5535276, tt15398776, tt14230458]
       winner: []
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt6791350, tt9603212, tt15398776, tt14230458, tt9362722, tt11858890]
       winner: []
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt1517268, tt5535276, tt15398776, tt14230458, tt22041854, tt1200263]
       winner: []
-    Best Song:
+    best song:
       nominee: [tt1517268, tt1517268, tt1517268, tt14160834, tt6718170, tt11304740]
       winner: []
-    Best Score:
+    best score:
       nominee: [tt1517268, tt5537002, tt15398776, tt14230458, tt16277242, tt9362722]
       winner: []
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt17009710, tt23289160, tt27503384, tt16277242, tt19760052, tt7160372]
       winner: []
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt16419074, tt1517268, tt5537002, tt15398776, tt1200263, tt14849194]
       winner: []
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt23561236, tt1517268, tt17527468, tt15671028, tt14230458, tt14849194]
       winner: []
-    Best Comedy Series:
+    best comedy series:
       nominee: [tt14218830, tt5348176, tt14269590, tt13623580, tt15677150, tt14452776, tt5788792, tt7908628]
       winner: []
-    Best Comedy Special:
+    best comedy special:
       nominee: [tt27000929, tt11459818, tt27141610, tt29729075, tt30028158, tt26931915]
       winner: []
-    Best Drama Series:
+    best drama series:
       nominee: [tt9140554, tt12327578, tt7660850, tt4786824, tt17491088, tt3581920, tt7203552, tt10244600]
       winner: []
-    Best Limited Series:
+    best limited series:
       nominee: [tt15227418, tt17921714, tt14403178, tt8749198, tt2802850, tt15384586, tt13911628, tt14586350]
       winner: []
-    Best Production Design:
+    best production design:
       nominee: [tt14230388, tt1517268, tt5537002, tt15398776, tt14230458, tt17351924]
       winner: []
-    Best Talk Show:
+    best talk show:
       nominee: [tt0320037, tt3530232, tt3513388, tt0924651, tt9022950, tt3697842]
       winner: []
-    Best Actor in a Limited Series or Movie Made for Television:
+    best actor in a limited series or movie made for television:
       nominee: [tt15399640, tt24249946, tt15384586, tt14403178, tt14417718, tt27145269]
       winner: []
-    Best Actress in a Limited Series or Movie Made for Television:
+    best actress in a limited series or movie made for television:
       nominee: [tt14403178, tt17921714, tt13911628, tt2802850, tt14509110, tt24068064]
       winner: []
-    Best Supporting Actor in a Limited Series or Movie Made for Television:
+    best supporting actor in a limited series or movie made for television:
       nominee: [tt14586350, tt15384586, tt11468254, tt13911628, tt17921714, tt11816814]
       winner: []
-    Best Supporting Actress in a Limited Series or Movie Made for Television:
+    best supporting actress in a limited series or movie made for television:
       nominee: [tt13911628, tt17921714, tt8749198, tt14403178, tt15567174, tt15567174]
       winner: []
-    Best Movie Made for Television:
+    best movie made for television:
       nominee: [tt7991508, tt27145269, tt14509110, tt13405810, tt24068064, tt24249946]
       winner: []
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt15789038, tt19500164, tt9362722, tt8589698, tt6587046, tt11304740]
       winner: []
-    Best Animated Series:
+    best animated series:
       nominee: [tt7678620, tt1561755, tt7658402, tt16969708, tt9184820, tt12681586]
       winner: []
-    Best Foreign Language Series:
+    best foreign language series:
       nominee: [tt23149640, tt2531336, tt26258200, tt24640580, tt21344706, tt14206696, tt14588522]
       winner: []
 '2023':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt6710474, tt1630029, tt10640346, tt3704428, tt11564570, tt8178634, tt11813216, tt14208870, tt1745960, tt14444726, tt13669038]
       winner: [tt6710474]
-    Best Actor in a Drama Series:
+    best actor in a drama series:
       nominee: [tt3032476, tt11280740, tt1190634, tt9253284, tt5645432, tt5555260]
       winner: [tt3032476]
-    Best Actor:
+    best actor:
       nominee: [tt13833688, tt3704428, tt9051908, tt11813216, tt19770238, tt1745960]
       winner: [tt13833688]
-    Best Actor in a Comedy Series:
+    best actor in a comedy series:
       nominee: [tt14452776, tt5348176, tt13623580, tt15180134, tt7908628, tt11691774]
       winner: [tt14452776]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt14208870, tt10343028, tt11727866, tt19770238, tt4960748, tt13833688]
       winner: [tt14208870]
-    Best Actress in a Drama Series:
+    best actress in a drama series:
       nominee: [tt8772296, tt5853176, tt4236770, tt5071412, tt5555260, tt15469618]
       winner: [tt8772296]
-    Best Actress:
+    best actress:
       nominee: [tt14444726, tt4960748, tt10640346, tt14208870, tt6710474, tt8093700]
       winner: [tt14444726]
-    Best Actress in a Comedy Series:
+    best actress in a comedy series:
       nominee: [tt11815682, tt8064302, tt13623580, tt7569576, tt14218830, tt11650492]
       winner: [tt11815682]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt6710474, tt11813216, tt11813216, tt10192406, tt14208870, tt14208870]
       winner: [tt6710474]
-    Best Supporting Actor in a Comedy Series:
+    best supporting actor in a comedy series:
       nominee: [tt5348176, tt11379026, tt14218830, tt8064302, tt10985096, tt14218830]
       winner: [tt5348176]
-    Best Supporting Actor in a Drama Series:
+    best supporting actor in a drama series:
       nominee: [tt3032476, tt5853176, tt7631058, tt5645432, tt11198330, tt9055008]
       winner: [tt3032476]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt9114286, tt6710474, tt11564570, tt13669038, tt11813216, tt6710474]
       winner: [tt9114286]
-    Best Supporting Actress in a Comedy Series:
+    best supporting actress in a comedy series:
       nominee: [tt14218830, tt6226232, tt14452776, tt14218830, tt15466144, tt13623580]
       winner: [tt14218830]
-    Best Supporting Actress in a Drama Series:
+    best supporting actress in a drama series:
       nominee: [tt13406094, tt5853176, tt3032476, tt5071412, tt11198330, tt3032476]
       winner: [tt13406094]
-    Best Director:
+    best director:
       nominee: [tt6710474, tt3704428, tt10640346, tt8093700, tt1630029, tt11813216, tt8178634, tt13669038, tt14208870, tt14444726]
       winner: [tt6710474]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt6710474, tt19770238, tt11813216, tt14208870, tt14444726]
       winner: [tt6710474]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt13669038, tt11564570, tt9051908, tt11198810, tt13833688]
       winner: [tt13669038]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt1745960, tt1630029, tt10640346, tt14402146, tt14208870, tt14444726]
       winner: [tt1745960]
-    Best Costume Design:
+    best costume design:
       nominee: [tt9114286, tt10640346, tt3704428, tt6710474, tt11564570, tt8093700]
       winner: [tt9114286]
-    Best Editing:
+    best editing:
       nominee: [tt6710474, tt1630029, tt10640346, tt3704428, tt1745960, tt14444726]
       winner: [tt6710474]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt1630029, tt9114286, tt6710474, tt8178634, tt1877830, tt1745960]
       winner: [tt1630029]
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt3704428, tt10640346, tt9114286, tt6710474, tt1877830, tt13833688]
       winner: [tt3704428]
-    Best Song:
+    best song:
       nominee: [tt8178634, tt9114286, tt1488589, tt1745960, tt9411972, tt6160448]
       winner: [tt8178634]
-    Best Score:
+    best score:
       nominee: [tt14444726, tt10640346, tt1488589, tt1877830, tt14208870, tt13669038]
       winner: [tt14444726]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt8178634, tt1016150, tt15301048, tt14176542, tt9660502, tt12477480]
       winner: [tt8178634]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt11564570, tt6710474, tt11813216, tt14208870, tt8093700, tt13669038]
       winner: [tt11564570]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt11564570, tt9731598, tt6710474, tt11813216, tt11291274, tt7322224]
       winner: [tt11564570]
-    Best Comedy Series:
+    best comedy series:
       nominee: [tt14218830, tt5348176, tt4370596, tt11379026, tt11815682, tt15180134, tt13623580, tt14452776]
       winner: [tt14218830]
-    Best Comedy Special:
+    best comedy special:
       nominee: [tt20201450, tt22373568, tt18949702, tt19869374, tt16160708, tt19266900]
       winner: [tt20201450]
-    Best Drama Series:
+    best drama series:
       nominee: [tt3032476, tt9253284, tt15469618, tt8772296, tt11198330, tt11280740, tt4786824, tt5853176, tt4236770]
       winner: [tt3032476]
-    Best Limited Series:
+    best limited series:
       nominee: [tt10166622, tt11834592, tt13659418, tt10574236, tt12851512, tt13111040, tt8681148, tt1998372]
       winner: [tt10166622]
-    Best Production Design:
+    best production design:
       nominee: [tt10640346, tt1630029, tt9114286, tt3704428, tt6710474, tt14208870]
       winner: [tt10640346]
-    Best Talk Show:
+    best talk show:
       nominee: [tt3530232, tt5323988, tt3513388, tt11058078, tt9022950, tt2057880]
       winner: [tt3530232]
-    Best Actor in a Limited Series or Movie Made for Television:
+    best actor in a limited series or movie made for television:
       nominee: [tt17076046, tt1998372, tt9242528, tt8681148, tt13820498, tt13659418]
       winner: [tt17076046]
-    Best Actress in a Limited Series or Movie Made for Television:
+    best actress in a limited series or movie made for television:
       nominee: [tt10166622, tt11866324, tt8740976, tt11834592, tt13659418, tt13223570]
       winner: [tt10166622]
-    Best Supporting Actor in a Limited Series or Movie Made for Television:
+    best supporting actor in a limited series or movie made for television:
       nominee: [tt4301160, tt15574312, tt13111040, tt14675860, tt4301160, tt11834592]
       winner: [tt4301160]
-    Best Supporting Actress in a Limited Series or Movie Made for Television:
+    best supporting actress in a limited series or movie made for television:
       nominee: [tt13207736, tt11834592, tt11527058, tt13820498, tt13111040, tt13729648]
       winner: [tt13207736]
-    Best Movie Made for Television:
+    best movie made for television:
       nominee: [tt17076046, tt13403046, tt11866324, tt14124268, tt9242528, tt5322004]
       winner: [tt17076046]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt1488589, tt15339456, tt3915174, tt8097030, tt5181830]
       winner: [tt1488589]
-    Best Animated Series:
+    best animated series:
       nominee: [tt7658402, tt7678620, tt1561755, tt11191124, tt9184820, tt8101850]
       winner: [tt7658402]
-    Best Foreign Language Series:
+    best foreign language series:
       nominee: [tt8888462, tt9319668, tt1526318, tt21167784, tt14599306, tt15135104, tt7278862, tt10577736, tt4179452]
       winner: [tt8888462]
-  Lifetime Achievement Award:
-    Lifetime Achievement Award:
+  lifetime achievement award:
+    lifetime achievement award:
       nominee: []
       winner: []
-  SeeHer Award:
-    SeeHer Award:
+  seeher award:
+    seeher award:
       nominee: []
       winner: []
 '2022':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt12789558, tt11286314, tt11271038, tt10696784, tt10293406, tt3581652]
       winner: [tt12789558]
-    Best Actor:
+    best actor:
       nominee: [tt9620288, tt8721424, tt10293406, tt10095582, tt11003218, tt12889404]
       winner: [tt9620288]
-    Best Actor in a Comedy Series:
+    best actor in a comedy series:
       nominee: [tt10986410, tt6226232, tt7908628, tt11691774, tt2235759, tt11691774]
       winner: [tt10986410]
-    Best Actor in a Drama Series:
+    best actor in a drama series:
       nominee: [tt10919420, tt7562112, tt7660850, tt7660850, tt9055008, tt5555260]
       winner: [tt10919420]
-    Best Actor in a Limited Series or Movie Made for Television:
+    best actor in a limited series or movie made for television:
       nominee: [tt9174558, tt10574558, tt9179552, tt9140342, tt9140560, tt10380768]
       winner: [tt9174558]
-    Best Actress:
+    best actress:
       nominee: [tt9115530, tt11271038, tt12536294, tt11214590, tt4995540, tt9100054]
       winner: [tt9115530]
-    Best Actress in a Comedy Series:
+    best actress in a comedy series:
       nominee: [tt11815682, tt2235759, tt5024912, tt11650492, tt11834150, tt11691774]
       winner: [tt11815682]
-    Best Actress in a Drama Series:
+    best actress in a drama series:
       nominee: [tt11041332, tt11083696, tt5853176, tt9055008, tt7562112, tt0835434]
       winner: [tt11041332]
-    Best Actress in a Limited Series or Movie Made for Television:
+    best actress in a limited series or movie made for television:
       nominee: [tt10155688, tt5673782, tt13942226, tt9140560, tt11337908, tt6704972]
       winner: [tt10155688]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt10293406, tt10366460, tt1160419, tt9100054, tt3581652]
       winner: [tt10293406]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt7979580, tt2953050, tt8430054, tt12801262, tt5109280]
       winner: [tt7979580]
-    Best Animated Series:
+    best animated series:
       nominee: [tt10168312, tt6524350, tt7678620, tt1561755, tt10140028, tt9140632]
       winner: [tt10168312]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt10293406, tt12789558, tt1160419, tt7740496, tt10095582, tt3581652]
       winner: [tt10293406]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt11271038, tt3797512, tt11286314, tt6264654, tt8847712]
       winner: [tt11271038]
-    Best Comedy Series:
+    best comedy series:
       nominee: [tt10986410, tt11815682, tt5024912, tt11691774, tt13623580, tt2235759, tt8310612, tt7908628]
       winner: [tt10986410]
-    Best Comedy Special:
+    best comedy special:
       nominee: [tt14544192, tt15507516, tt13446472, tt15800076, tt14078164, tt16364432]
       winner: [tt14544192]
-    Best Costume Design:
+    best costume design:
       nominee: [tt3228774, tt1160419, tt11214590, tt7740496, tt3581652]
       winner: [tt3228774]
-    Best Director:
+    best director:
       nominee: [tt10293406, tt1160419, tt7740496, tt12789558, tt11271038, tt3581652]
       winner: [tt10293406]
-    Best Drama Series:
+    best drama series:
       nominee: [tt7660850, tt9055008, tt7772588, tt7562112, tt10919420, tt5853176, tt5555260, tt11041332]
       winner: [tt7660850]
-    Best Editing:
+    best editing:
       nominee: [tt3581652, tt12789558, tt1160419, tt11271038, tt10293406]
       winner: [tt3581652]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt14039582, tt11777738, tt8430054, tt12680684, tt10370710]
       winner: [tt14039582]
-    Best Foreign Language Series:
+    best foreign language series:
       nominee: [tt10919420, tt13567344, tt4277922, tt2531336, tt6468322, tt8714904]
       winner: [tt10919420]
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt9115530, tt3228774, tt1160419, tt11214590, tt7740496]
       winner: [tt9115530]
-    Best Limited Series:
+    best limited series:
       nominee: [tt10155688, tt9174558, tt9179552, tt9140342, tt11337908, tt10574558, tt6704972, tt9140560]
       winner: [tt10155688]
-    Best Movie Made for Television:
+    best movie made for television:
       nominee: [tt11790674, tt7638556, tt14321910, tt13942226, tt11080108, tt15388610]
       winner: [tt11790674]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt12789558, tt4995540, tt11286314, tt9620288, tt11271038]
       winner: [tt12789558]
-    Best Picture:
+    best picture:
       nominee: [tt10293406, tt12789558, tt10366460, tt11286314, tt1160419, tt9620288, tt11271038, tt7740496, tt3581652, tt8721424]
       winner: [tt10293406]
-    Best Production Design:
+    best production design:
       nominee: [tt1160419, tt12789558, tt7740496, tt8847712, tt3581652]
       winner: [tt1160419]
-    Best Score:
+    best score:
       nominee: [tt1160419, tt11286314, tt7740496, tt12536294, tt10293406]
       winner: [tt1160419]
-    Best Song:
+    best song:
       nominee: [tt2382320, tt11286314, tt2953050, tt9620288, tt10696784]
       winner: [tt2382320]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt10366460, tt12789558, tt4995540, tt12789558, tt11214590, tt10293406]
       winner: [tt10366460]
-    Best Supporting Actor in a Comedy Series:
+    best supporting actor in a comedy series:
       nominee: [tt10986410, tt0072562, tt11379026, tt7908628, tt7767422, tt7808566]
       winner: [tt10986410]
-    Best Supporting Actor in a Drama Series:
+    best supporting actor in a drama series:
       nominee: [tt7660850, tt7203552, tt5555260, tt5853176, tt7660850, tt7660850]
       winner: [tt7660850]
-    Best Supporting Actor in a Limited Series or Movie Made for Television:
+    best supporting actor in a limited series or movie made for television:
       nominee: [tt13406094, tt9179552, tt5673782, tt10155688, tt6704972, tt10574558]
       winner: [tt13406094]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt3581652, tt11389748, tt9620288, tt12789558, tt10293406, tt3581652]
       winner: [tt3581652]
-    Best Supporting Actress in a Comedy Series:
+    best supporting actress in a comedy series:
       nominee: [tt10986410, tt0072562, tt11815682, tt11032396, tt11808942, tt8310612]
       winner: [tt10986410]
-    Best Supporting Actress in a Drama Series:
+    best supporting actress in a drama series:
       nominee: [tt7660850, tt9055008, tt5853176, tt9055008, tt7660850, tt5555260]
       winner: [tt7660850]
-    Best Supporting Actress in a Limited Series or Movie Made for Television:
+    best supporting actress in a limited series or movie made for television:
       nominee: [tt13406094, tt10155688, tt10155688, tt9174558, tt9140560, tt8760932]
       winner: [tt13406094]
-    Best Talk Show:
+    best talk show:
       nominee: [tt3530232, tt9362790, tt3513388, tt11058078, tt9022950, tt2057880]
       winner: [tt3530232]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt1160419, tt7740496, tt2382320, tt9376612, tt10838180]
       winner: [tt1160419]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt12789558, tt11271038, tt10366460, tt3581652, tt9620288, tt10986222]
       winner: [tt12789558]
-  Lifetime Achievement Award:
-    Lifetime Achievement Award:
+  lifetime achievement award:
+    lifetime achievement award:
       nominee: []
       winner: []
-  SeeHer Award:
-    SeeHer Award:
+  seeher award:
+    seeher award:
       nominee: []
       winner: []
 '2021':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt9770150, tt9777644, tt10514222, tt10618286, tt10633456, tt6878306, tt10612922, tt9620292, tt5363618, tt1070874]
       winner: [tt9770150]
-    Best Actor in a Drama Series:
+    best actor in a drama series:
       nominee: [tt4786824, tt3032476, tt5071412, tt6905686, tt2077823, tt5555260]
       winner: [tt4786824]
-    Best Actor:
+    best actor:
       nominee: [tt10514222, tt10272386, tt8544498, tt9777644, tt10618286, tt5363618, tt10633456, tt6878306]
       winner: [tt10514222]
-    Best Actor in a Comedy Series:
+    best actor in a comedy series:
       nominee: [tt10986410, tt3526078, tt5722190, tt7908628, tt2235759, tt7649694]
       winner: [tt10986410]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt10633456, tt10539608, tt6878306, tt10627584, tt6857376, tt7772582]
       winner: [tt10633456]
-    Best Actress in a Drama Series:
+    best actress in a drama series:
       nominee: [tt4786824, tt5853176, tt1796960, tt6905686, tt5071412, tt4786824]
       winner: [tt4786824]
-    Best Actress:
+    best actress:
       nominee: [tt9620292, tt8521718, tt9770150, tt7772582, tt11161474, tt10514222, tt12676326]
       winner: [tt9620292]
-    Best Actress in a Comedy Series:
+    best actress in a comedy series:
       nominee: [tt3526078, tt8064302, tt5024912, tt7569576, tt7908628, tt4370596]
       winner: [tt3526078]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt9784798, tt9606374, tt9777644, tt10612922, tt5363618, tt1070874]
       winner: [tt9784798]
-    Best Supporting Actor in a Comedy Series:
+    best supporting actor in a comedy series:
       nominee: [tt3526078, tt10314462, tt7406334, tt7908628, tt7908628, tt2660806]
       winner: [tt3526078]
-    Best Supporting Actor in a Drama Series:
+    best supporting actor in a drama series:
       nominee: [tt6905686, tt2077823, tt3032476, tt5555260, tt4786824, tt5071412]
       winner: [tt6905686]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt13143964, tt10618286, tt11161474, tt6772802, tt10272386, tt10633456]
       winner: [tt13143964]
-    Best Supporting Actress in a Comedy Series:
+    best supporting actress in a comedy series:
       nominee: [tt10986410, tt8595140, tt3526078, tt8962124, tt2660806, tt5339440]
       winner: [tt10986410]
-    Best Supporting Actress in a Drama Series:
+    best supporting actress in a drama series:
       nominee: [tt4786824, tt8550800, tt5071412, tt5071412, tt3032476, tt6905686]
       winner: [tt4786824]
-    Best Director:
+    best director:
       nominee: [tt9770150, tt1070874, tt10618286, tt9620292, tt10633456, tt10612922, tt9777644]
       winner: [tt9770150]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt9620292, tt10618286, tt10633456, tt7772582, tt5363618, tt1070874]
       winner: [tt9620292]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt9770150, tt9231040, tt10514222, tt6878306, tt10612922, tt10272386]
       winner: [tt9770150]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt9770150, tt9777644, tt9231040, tt10618286, tt10633456, tt6878306, tt6723592]
       winner: [tt9770150]
-    Best Costume Design:
+    best costume design:
       nominee: [tt10514222, tt9214832, tt10618286, tt4566758, tt9620292, tt6439020]
       winner: [tt10514222]
-    Best Editing:
+    best editing:
       nominee: [tt5363618, tt1070874, tt10618286, tt9770150, tt6723592, tt10272386]
       winner: [tt5363618, tt1070874]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt6723592, tt6048922, tt10618286, tt4566758, tt1051906, tt10539608, tt7126948]
       winner: [tt6723592]
-    Best Hair and Makeup:
+    best hair and makeup:
       nominee: [tt10514222, tt9214832, tt6772802, tt10618286, tt9620292, tt8521718]
       winner: [tt10514222]
-    Best Song:
+    best song:
       nominee: [tt10612922, tt8580274, tt9784798, tt10627584, tt3833480, tt8521718]
       winner: [tt10612922]
-    Best Score:
+    best score:
       nominee: [tt2948372, tt10618286, tt10633456, tt6878306, tt6723592, tt10539608]
       winner: [tt2948372]
-    Best Short Form Series:
+    best short form series:
       nominee: [tt12059644, tt10584350, tt11317474, tt0370194, tt12026652, tt11447280]
       winner: [tt12059644]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt10633456, tt10288566, tt10706602, tt10767168, tt10627584, tt9845110]
       winner: [tt10633456]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt1070874, tt9777644, tt9784798, tt10514222, tt10633456, tt10612922]
       winner: [tt1070874]
-    Best Comedy:
+    best comedy:
       nominee: [tt9484998, tt13143964, tt9606374, tt10642834, tt9686708, tt10161886]
       winner: [tt9484998]
-    Best Comedy Series:
+    best comedy series:
       nominee: [tt10986410, tt4370596, tt2660806, tt8324422, tt7649694, tt3526078, tt7569576, tt7908628]
       winner: [tt10986410]
-    Best Comedy Special:
+    best comedy special:
       nominee: [tt12117854, tt12509942, tt11488724, tt10332256, tt11810418, tt12146952]
       winner: [tt12117854, tt12509942]
-    Best Drama Series:
+    best drama series:
       nominee: [tt4786824, tt3032476, tt6905686, tt5071412, tt2077823, tt5853176, tt8111088, tt5555260]
       winner: [tt4786824]
-    Best Limited Series:
+    best limited series:
       nominee: [tt10048342, tt11204260, tt9244556, tt9059760, tt3464896, tt9308346, tt8134470, tt9815454]
       winner: [tt10048342]
-    Best Production Design:
+    best production design:
       nominee: [tt10618286, tt9214832, tt10514222, tt6878306, tt6723592, tt6439020]
       winner: [tt10618286]
-    Best Talk Show:
+    best talk show:
       nominee: [tt3513388, tt9362790, tt5323988, tt2198870, tt9022950, tt3697842]
       winner: [tt3513388]
-    Best Actor in a Limited Series or a Movie Made for Television:
+    best actor in a limited series or a movie made for television:
       nominee: [tt3464896, tt2802850, tt8134470, tt0425118, tt9308346, tt9059760]
       winner: [tt3464896]
-    Best Actress in a Limited Series or a Movie Made for Television:
+    best actress in a limited series or a movie made for television:
       nominee: [tt10048342, tt9244556, tt9059760, tt11204260, tt9815454, tt9827834]
       winner: [tt10048342]
-    Best Supporting Actor in a Limited Series or a Movie Made for Television:
+    best supporting actor in a limited series or a movie made for television:
       nominee: [tt8134470, tt3673480, tt9827854, tt2802850, tt9308346, tt3673480]
       winner: [tt8134470]
-    Best Supporting Actress in a Limited Series or a Movie Made for Television:
+    best supporting actress in a limited series or a movie made for television:
       nominee: [tt9244556, tt10394844, tt9244556, tt10048342, tt9244556, tt9308346]
       winner: [tt9244556]
-    Best Movie Made for Television:
+    best movie made for television:
       nominee: [tt8503618, tt8206668, tt12890926, tt9827834, tt10098482, tt13096334]
       winner: [tt8503618]
-  SeeHer Award:
-    SeeHer Award:
+  seeher award:
+    seeher award:
       nominee: []
       winner: []
 '2020':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt7131622, tt8579674, tt1950186, tt2584384, tt7286456, tt3281548, tt7653254, tt6751668, tt1302006, tt5727208]
       winner: [tt7131622]
-    Best Actor in a Drama Series:
+    best actor in a drama series:
       nominee: [tt7660850, tt7562112, tt6470478, tt0944947, tt9055008, tt4270492, tt5555260, tt4786824]
       winner: [tt7660850]
-    Best Actor:
+    best actor:
       nominee: [tt7286456, tt7653254, tt5727208, tt8291806, tt8526872, tt7131622, tt1302006]
       winner: [tt7286456]
-    Best Actor in a Comedy Series:
+    best actor in a comedy series:
       nominee: [tt5348176, tt7422812, tt3526078, tt8880894, tt7649694, tt4955642, tt10329028]
       winner: [tt5348176]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt2584384, tt2584384, tt7131622, tt8151874, tt6857112, tt2584384]
       winner: [tt2584384]
-    Best Actress in a Drama Series:
+    best actress in a drama series:
       nominee: [tt7049682, tt5853176, tt7016936, tt7562112, tt3920596, tt4786824, tt7660850, tt8772296]
       winner: [tt7049682]
-    Best Actress:
+    best actress:
       nominee: [tt7549996, tt8637428, tt6394270, tt4648786, tt6857112, tt3281548, tt7653254]
       winner: [tt7549996]
-    Best Actress in a Comedy Series:
+    best actress in a comedy series:
       nominee: [tt5687612, tt5770786, tt3526078, tt8064302, tt1759761, tt6398232, tt5788792]
       winner: [tt5687612]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt7131622, tt1302006, tt8404614, tt1302006, tt3224458, tt7984734]
       winner: [tt7131622]
-    Best Supporting Actor in a Comedy Series:
+    best supporting actor in a comedy series:
       nominee: [tt5687612, tt2467372, tt5348176, tt3526078, tt5348176, tt4477976, tt4955642]
       winner: [tt5687612]
-    Best Supporting Actor in a Drama Series:
+    best supporting actor in a drama series:
       nominee: [tt7203552, tt5555260, tt4270492, tt5853176, tt5555260, tt0944947, tt7049682]
       winner: [tt7203552]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt7653254, tt3281548, tt5503686, tt6394270, tt2584384, tt8637428]
       winner: [tt7653254]
-    Best Supporting Actress in a Comedy Series:
+    best supporting actress in a comedy series:
       nominee: [tt5788792, tt3526078, tt5770786, tt4955642, tt8310612, tt5339440, tt5687612]
       winner: [tt5788792]
-    Best Supporting Actress in a Drama Series:
+    best supporting actress in a drama series:
       nominee: [tt7049682, tt5853176, tt0944947, tt4786824, tt3920596, tt3920596, tt5555260]
       winner: [tt7049682]
-    Best Director:
+    best director:
       nominee: [tt6751668, tt8579674, tt3281548, tt5727208, tt1302006, tt7653254, tt7131622]
       winner: [tt6751668, tt8579674]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt7131622, tt8946378, tt7653254, tt6751668, tt8637428]
       winner: [tt7131622]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt3281548, tt3224458, tt2584384, tt7286456, tt1302006, tt8404614]
       winner: [tt3281548]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt8579674, tt1950186, tt7286456, tt7131622, tt1302006, tt7984734]
       winner: [tt8579674]
-    Best Costume Design:
+    best costume design:
       nominee: [tt8526872, tt6398184, tt3281548, tt7131622, tt2066051, tt1302006]
       winner: [tt8526872]
-    Best Editing:
+    best editing:
       nominee: [tt8579674, tt1950186, tt7131622, tt6751668, tt1302006, tt5727208]
       winner: [tt8579674]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt4154796, tt8579674, tt2935510, tt1950186, tt6141246, tt1302006, tt6105098]
       winner: [tt4154796]
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt6394270, tt8526872, tt7286456, tt7549996, tt7131622, tt2066051, tt1302006]
       winner: [tt6394270]
-    Best Song:
+    best song:
       nominee: [tt2066051, tt5117428, tt6139732, tt7083526, tt4520988, tt4648786, tt6105098]
       winner: [tt2066051, tt5117428]
-    Best Score:
+    best score:
       nominee: [tt7286456, tt8579674, tt3281548, tt7653254, tt1302006, tt6857112]
       winner: [tt7286456]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt6751668, tt10199586, tt10199590, tt8291806, tt8613070]
       winner: [tt6751668]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt1979376, tt6324278, tt4520988, tt2386490, tt9806192, tt6348138]
       winner: [tt1979376]
-    Best Animated Series:
+    best animated series:
       nominee: [tt3398228, tt6524350, tt7745956, tt6905542, tt0096697, tt8101850]
       winner: [tt3398228]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt1302006, tt6394270, tt8946378, tt3281548, tt7653254, tt7131622, tt6751668]
       winner: [tt1302006]
-    Best Action Movie:
+    best action movie:
       nominee: [tt4154796, tt8579674, tt1950186, tt6146586, tt6320628]
       winner: [tt4154796]
-    Best Comedy:
+    best comedy:
       nominee: [tt8526872, tt1489887, tt2584384, tt8946378, tt8637428]
       winner: [tt8526872]
-    Best Comedy Series:
+    best comedy series:
       nominee: [tt5687612, tt5348176, tt2660806, tt5339440, tt8324422, tt3526078, tt5788792]
       winner: [tt5687612]
-    Best Comedy Special:
+    best comedy special:
       nominee: [tt10313336, tt9770590, tt10971520, tt10432620, tt11168100, tt9170648, tt9169592]
       winner: [tt10313336]
-    Best Drama Series:
+    best drama series:
       nominee: [tt7660850, tt8905948, tt0944947, tt7562112, tt4786824, tt5853176, tt5555260, tt7049682]
       winner: [tt7660850]
-    Best Limited Series:
+    best limited series:
       nominee: [tt7137906, tt5056196, tt7366338, tt8746478, tt6821044, tt7909970, tt8694364]
       winner: [tt7137906]
-    Best Production Design:
+    best production design:
       nominee: [tt7131622, tt8579674, tt6398184, tt7286456, tt3281548, tt6751668, tt1302006]
       winner: [tt7131622]
-    Best Sci-Fi/Horror Movie:
+    best sci-fi/horror movie:
       nominee: [tt6857112, tt2935510, tt4154796, tt8772262]
       winner: [tt6857112]
-    Best Talk Show:
+    best talk show:
       nominee: [tt3513388, tt4280606, tt9362790, tt5323988, tt3530232, tt9022950]
       winner: [tt3513388, tt4280606]
-    Best Actor in a Limited Series or Movie Made for Television:
+    best actor in a limited series or movie made for television:
       nominee: [tt7137906, tt5056196, tt7366338, tt2356777, tt9564862, tt6821044, tt8746478]
       winner: [tt7137906]
-    Best Actress in a Limited Series or Movie Made for Television:
+    best actress in a limited series or movie made for television:
       nominee: [tt8746478, tt8543390, tt10016704, tt8682948, tt7909970, tt10016704, tt7909970]
       winner: [tt8746478]
-    Best Supporting Actor in a Limited Series or Movie Made for Television:
+    best supporting actor in a limited series or movie made for television:
       nominee: [tt7366338, tt7137906, tt8543390, tt5056196, tt9243946, tt7137906, tt8694364]
       winner: [tt7366338]
-    Best Supporting Actress in a Limited Series or Movie Made for Television:
+    best supporting actress in a limited series or movie made for television:
       nominee: [tt7909970, tt7366338, tt8694364, tt8746478, tt7137906, tt7137906, tt8682948]
       winner: [tt7909970]
-    Best Movie Made for Television:
+    best movie made for television:
       nominee: [tt9243946, tt8425058, tt4943998, tt8858104, tt6566768, tt10016704]
       winner: [tt9243946]
-  SeeHer Award:
-    SeeHer Award:
+  seeher award:
+    seeher award:
       nominee: []
       winner: []
 '2019':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt6155172, tt1517451, tt7349662, tt1825683, tt1213641, tt6966692, tt7125860, tt5028340, tt5083738, tt6266538]
       winner: [tt6155172]
-    Best Actor in a Drama Series:
+    best actor in a drama series:
       nominee: [tt2149175, tt7562112, tt3032476, tt8714904, tt6470478, tt5555260, tt7493974]
       winner: [tt2149175]
-    Best Actor:
+    best actor:
       nominee: [tt6266538, tt1517451, tt6053438, tt1727824, tt1213641, tt6966692, tt6938828]
       winner: [tt6266538]
-    Best Actor in a Comedy:
+    best actor in a comedy:
       nominee: [tt6266538, tt2704998, tt3385524, tt5688932, tt5463162, tt6966692]
       winner: [tt6266538]
-    Best Actor in a Comedy Series:
+    best actor in a comedy series:
       nominee: [tt5348176, tt2467372, tt4288182, tt5722190, tt0898266, tt7255502, tt4955642]
       winner: [tt5348176]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt7014006, tt5580266, tt5929754, tt6644200, tt5613484, tt3892172]
       winner: [tt7014006]
-    Best Actress in a Drama Series:
+    best actress in a drama series:
       nominee: [tt7016936, tt5834204, tt8000638, tt7016936, tt7008682, tt2149175, tt4998350]
       winner: [tt7016936]
-    Best Actress:
+    best actress:
       nominee: [tt3750872, tt1517451, tt5028340, tt4595882, tt5083738, tt7784604, tt6155172]
       winner: [tt3750872, tt1517451]
-    Best Actress in a Comedy:
+    best actress in a comedy:
       nominee: [tt5083738, tt5610554, tt3104988, tt7014006, tt5028340, tt2704998]
       winner: [tt5083738]
-    Best Actress in a Comedy Series:
+    best actress in a comedy series:
       nominee: [tt5788792, tt2660806, tt0157246, tt5024912, tt5339440, tt4094300]
       winner: [tt5788792]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt6966692, tt7349662, tt1825683, tt4595882, tt1517451, tt1226837]
       winner: [tt6966692]
-    Best Supporting Actor in a Comedy Series:
+    best supporting actor in a comedy series:
       nominee: [tt5348176, tt4288182, tt4477976, tt0157246, tt5788792, tt4955642]
       winner: [tt5348176]
-    Best Supporting Actor in a Drama Series:
+    best supporting actor in a drama series:
       nominee: [tt2149175, tt4270492, tt5555260, tt7660850, tt5715524, tt6470478, tt7008682]
       winner: [tt2149175]
-    Best Supporting Actor in a Movie or Limited Series:
+    best supporting actor in a movie or limited series:
       nominee: [tt6938856, tt5673782, tt6874964, tt6866266, tt2788432, tt6474236]
       winner: [tt6938856]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt7125860, tt6266538, tt1213641, tt5083738, tt7008872, tt5083738]
       winner: [tt7125860]
-    Best Supporting Actress in a Comedy Series:
+    best supporting actress in a comedy series:
       nominee: [tt5788792, tt6226232, tt5770786, tt8595140, tt3288518, tt5339440, tt6226232]
       winner: [tt5788792]
-    Best Supporting Actress in a Drama Series:
+    best supporting actress in a drama series:
       nominee: [tt0475784, tt5057054, tt2149175, tt5071412, tt3032476, tt5834204]
       winner: [tt0475784]
-    Best Supporting Actress in a Movie or Limited Series:
+    best supporting actress in a movie or limited series:
       nominee: [tt2649356, tt2649356, tt4015500, tt2788432, tt7945720, tt2788432]
       winner: [tt2649356]
-    Best Director:
+    best director:
       nominee: [tt6155172, tt6266538, tt1517451, tt1213641, tt6966692, tt7349662, tt5083738]
       winner: [tt6155172]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt6053438, tt6644200, tt7014006, tt6966692, tt6155172, tt5083738, tt6266538]
       winner: [tt6053438]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt7125860, tt1517451, tt7349662, tt1825683, tt4595882, tt1213641]
       winner: [tt7125860]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt6155172, tt1517451, tt1825683, tt1213641, tt7125860, tt5083738]
       winner: [tt6155172]
-    Best Costume Design:
+    best costume design:
       nominee: [tt1825683, tt1727824, tt5028340, tt2328900, tt5083738]
       winner: [tt1825683]
-    Best Editing:
+    best editing:
       nominee: [tt1213641, tt1517451, tt6155172, tt5083738, tt6266538, tt4218572]
       winner: [tt1213641]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt1825683, tt4154756, tt1213641, tt5028340, tt4912910, tt1677720]
       winner: [tt1825683]
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt6266538, tt1825683, tt1727824, tt2328900, tt1034415, tt5083738]
       winner: [tt6266538]
-    Best Song:
+    best song:
       nominee: [tt1517451, tt1825683, tt4878482, tt5028340, tt5028340, tt7689964]
       winner: [tt1517451]
-    Best Score:
+    best score:
       nominee: [tt1213641, tt6966692, tt7125860, tt5104604, tt5028340]
       winner: [tt1213641]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt6155172, tt7282468, tt8267604, tt6543652, tt8075192]
       winner: [tt6155172]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt4633694, tt3606756, tt5104604, tt6900448, tt5848272, tt2709692]
       winner: [tt4633694]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt5083738, tt1825683, tt3104988, tt6266538, tt4218572]
       winner: [tt5083738]
-    Best Action Movie:
+    best action movie:
       nominee: [tt4912910, tt4154756, tt1825683, tt5463162, tt1677720, tt4218572]
       winner: [tt4912910]
-    Best Animation Series:
+    best animation series:
       nominee: [tt3398228, tt1305826, tt1486217, tt1561755, tt0121955, tt0096697]
       winner: [tt3398228]
-    Best Comedy:
+    best comedy:
       nominee: [tt3104988, tt5463162, tt2704998, tt5688932, tt4686844, tt5083738]
       winner: [tt3104988]
-    Best Comedy Series:
+    best comedy series:
       nominee: [tt5788792, tt4288182, tt5348176, tt5339440, tt3526078, tt4955642, tt7255502, tt1442464]
       winner: [tt5788792]
-    Best Drama Series:
+    best drama series:
       nominee: [tt2149175, tt3032476, tt7008682, tt7016936, tt7278862, tt7562112, tt7660850, tt5853176]
       winner: [tt2149175]
-    Best Limited Series:
+    best limited series:
       nominee: [tt2788432, tt6938856, tt6877772, tt6866266, tt5673782, tt2649356]
       winner: [tt2788432]
-    Best Production Design:
+    best production design:
       nominee: [tt1825683, tt3104988, tt1213641, tt5028340, tt6155172, tt5083738]
       winner: [tt1825683]
-    Best Sci-Fi/Horror Movie:
+    best sci-fi/horror movie:
       nominee: [tt6644200, tt2798920, tt1502407, tt7784604, tt1034415]
       winner: [tt6644200]
-    Best Actor in a Movie Made for Television or Limited Series:
+    best actor in a movie made for television or limited series:
       nominee: [tt2788432, tt5673782, tt6866266, tt6938856, tt6874964, tt6866266]
       winner: [tt2788432]
-    Best Actress in a Movie Made for Television or Limited Series:
+    best actress in a movie made for television or limited series:
       nominee: [tt2649356, tt6866266, tt7722000, tt6048596, tt7945720, tt4015500]
       winner: [tt2649356, tt6866266]
-    Best Movie Made for TV:
+    best movie made for tv:
       nominee: [tt6874964, tt6341668, tt7473890, tt1311076, tt7722000, tt4015500]
       winner: [tt6874964]
-  SeeHer Award:
-    SeeHer Award:
+  seeher award:
+    seeher award:
       nominee: []
       winner: []
 '2018':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt5580390, tt5726616, tt4555426, tt5013056, tt5052448, tt4925292, tt5462602, tt5649144, tt6294822, tt5027774]
       winner: [tt5580390]
-    Best Actor in a Drama Series:
+    best actor in a drama series:
       nominee: [tt5555260, tt3032476, tt2188671, tt1898069, tt2249007, tt4270492]
       winner: [tt5555260]
-    Best Actor:
+    best actor:
       nominee: [tt4555426, tt5776858, tt5052448, tt3881784, tt3521126, tt5726616, tt6294822]
       winner: [tt4555426]
-    Best Actor in a Comedy:
+    best actor in a comedy:
       nominee: [tt3521126, tt5536736, tt3501632, tt5462602, tt4622512]
       winner: [tt3521126]
-    Best Actor in a Comedy Series:
+    best actor in a comedy series:
       nominee: [tt4955642, tt3487356, tt4635276, tt5722190, tt3551096, tt2575988]
       winner: [tt4955642]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt5649144, tt3315342, tt2543472, tt4481414, tt5208216]
       winner: [tt5649144]
-    Best Actress in a Drama Series:
+    best actress in a drama series:
       nominee: [tt5834204, tt3006802, tt5853176, tt4786824, tt1856010, tt2234222]
       winner: [tt5834204]
-    Best Actress:
+    best actress:
       nominee: [tt5027774, tt4209788, tt5580036, tt6294822, tt5580390, tt4925292]
       winner: [tt5027774]
-    Best Actress in a Comedy:
+    best actress in a comedy:
       nominee: [tt5580036, tt4622512, tt4925292, tt3564472, tt5462602]
       winner: [tt5580036]
-    Best Actress in a Comedy Series:
+    best actress in a comedy series:
       nominee: [tt5788792, tt5770786, tt3551096, tt3339966, tt4955642, tt3288518]
       winner: [tt5788792]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt5027774, tt5726616, tt5726616, tt3315342, tt5580390, tt5649144]
       winner: [tt5027774]
-    Best Supporting Actor in a Comedy Series:
+    best supporting actor in a comedy series:
       nominee: [tt3766376, tt1442437, tt2575988, tt5770786, tt0157246, tt3339966]
       winner: [tt3766376]
-    Best Supporting Actor in a Drama Series:
+    best supporting actor in a drama series:
       nominee: [tt4574334, tt4270492, tt4158110, tt5853176, tt3032476, tt0944947]
       winner: [tt4574334]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt5580036, tt5462602, tt1389072, tt4925292, tt2396589, tt5580390, tt3564472]
       winner: [tt5580036]
-    Best Supporting Actress in a Comedy Series:
+    best supporting actress in a comedy series:
       nominee: [tt0898266, tt4635276, tt5788792, tt5770786, tt3487356, tt5339440]
       winner: [tt0898266]
-    Best Supporting Actress in a Drama Series:
+    best supporting actress in a drama series:
       nominee: [tt5834204, tt5555260, tt5853176, tt0944947, tt1898069, tt5011816]
       winner: [tt5834204]
-    Best Director:
+    best director:
       nominee: [tt5580390, tt5013056, tt4925292, tt5052448, tt5726616, tt5027774, tt6294822]
       winner: [tt5580390]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt5052448, tt4925292, tt5462602, tt6294822, tt5580390, tt5027774]
       winner: [tt5052448]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt5726616, tt4209788, tt2396589, tt3521126, tt2543472]
       winner: [tt5726616]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt1856101, tt5726616, tt5013056, tt2396589, tt5580390]
       winner: [tt1856101]
-    Best Costume Design:
+    best costume design:
       nominee: [tt5776858, tt2771200, tt1856101, tt5580390, tt0451279]
       winner: [tt5776858]
-    Best Editing:
+    best editing:
       nominee: [tt3890160, tt5013056, tt1856101, tt6294822, tt5580390]
       winner: [tt3890160, tt5013056]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt3450958, tt1856101, tt5013056, tt5580390, tt3501632, tt0451279]
       winner: [tt3450958]
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt4555426, tt2771200, tt5580036, tt5580390, tt2543472]
       winner: [tt4555426]
-    Best Song:
+    best song:
       nominee: [tt2380307, tt2771200, tt5726616, tt5301662, tt1485796]
       winner: [tt2380307]
-    Best Score:
+    best score:
       nominee: [tt5580390, tt1856101, tt4555426, tt5013056, tt5776858, tt6294822]
       winner: [tt5580390]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt5723272, tt6135348, tt5639354, tt4882376, tt4995790, tt6304046]
       winner: [tt5723272]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt2380307, tt3469046, tt3262342, tt3901826, tt4116284]
       winner: [tt2380307]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt5027774, tt5013056, tt4925292, tt2396589, tt6294822]
       winner: [tt5027774]
-    Best Action Movie:
+    best action movie:
       nominee: [tt0451279, tt3890160, tt3315342, tt3501632, tt3450958]
       winner: [tt0451279]
-    Best Animation Series:
+    best animation series:
       nominee: [tt2861424, tt1486217, tt3398228, tt1561755, tt5120600, tt0096697]
       winner: [tt2861424]
-    Best Comedy:
+    best comedy:
       nominee: [tt5462602, tt3564472, tt5580036, tt4925292, tt3521126]
       winner: [tt5462602]
-    Best Comedy Series:
+    best comedy series:
       nominee: [tt5788792, tt3487356, tt5770786, tt1442437, tt4687882, tt0898266]
       winner: [tt5788792]
-    Best Drama Series:
+    best drama series:
       nominee: [tt5834204, tt1898069, tt0944947, tt4574334, tt4786824, tt5555260]
       winner: [tt5834204]
-    Best Limited Series:
+    best limited series:
       nominee: [tt3920596, tt6877772, tt2802850, tt1984119, tt5516154, tt1210820]
       winner: [tt3920596]
-    Best Production Design:
+    best production design:
       nominee: [tt5580390, tt2771200, tt1856101, tt5013056, tt3402236, tt5776858]
       winner: [tt5580390]
-    Best Reality Competition Series:
+    best reality competition series:
       nominee: [tt1839337, tt0759364, tt1353281, tt0463398, tt0437741, tt1353056]
       winner: [tt1839337]
-    Best Reality Show Host:
+    best reality show host:
       nominee: [tt1353056, tt0472023, tt4591390, tt1353281, tt0463398, tt0759364]
       winner: [tt1353056]
-    Best Sci-Fi/Horror Movie:
+    best sci-fi/horror movie:
       nominee: [tt5052448, tt1856101, tt1396484, tt5580390]
       winner: [tt5052448]
-    Best Talk Show:
+    best talk show:
       nominee: [tt0320037, tt6002946, tt0379623, tt4280606, tt3444938, tt2057880]
       winner: [tt0320037]
-    Best Unstructured Reality Show:
+    best unstructured reality show:
       nominee: [tt5219042, tt1068912, tt0450920, tt6225166, tt5547946, tt1566154]
       winner: [tt5219042]
-    Best Actor in a Movie Made for Television or Limited Series:
+    best actor in a movie made for television or limited series:
       nominee: [tt2802850, tt6048596, tt1844624, tt5516154, tt5516154, tt6877772, tt1933667]
       winner: [tt2802850]
-    Best Actress in a Movie Made for Television or Limited Series:
+    best actress in a movie made for television or limited series:
       nominee: [tt3920596, tt7492998, tt2802850, tt6048596, tt1984119, tt3920596]
       winner: [tt3920596]
-    Best Movie Made for Television:
+    best movie made for television:
       nominee: [tt1933667, tt6397426, tt7492998, tt1475582, tt5686132]
       winner: [tt1933667]
-    Best Structured Reality Show:
+    best structured reality show:
       nominee: [tt1442550, tt4591390, tt3559912, tt3080030, tt1442553, tt1365047]
       winner: [tt1442550]
-    Best Supporting Actor in a Movie Made for Television or Limited Series:
+    best supporting actor in a movie made for television or limited series:
       nominee: [tt3920596, tt1984119, tt3488298, tt2802850, tt5673782, tt1984119]
       winner: [tt3920596]
-    Best Supporting Actress in a Movie Made for Television or Limited Series:
+    best supporting actress in a movie made for television or limited series:
       nominee: [tt3920596, tt1984119, tt1984119, tt2802850, tt1933667, tt3488298]
       winner: [tt3920596]
-  SeeHer Award:
-    SeeHer Award:
+  seeher award:
+    seeher award:
+      nominee: []
+      winner: []
+2016-2:
+  critics choice award:
+    best picture:
+      nominee: [tt3783958, tt2543164, tt2671706, tt2119532, tt2582782, tt3741834, tt4669986, tt4034228, tt4975722, tt3263904]
+      winner: [tt3783958]
+    best actor:
+      nominee: [tt4034228, tt2119532, tt2671706, tt4669986, tt3783958, tt3263904]
+      winner: [tt4034228]
+    best actor in a comedy:
+      nominee: [tt1431045, tt1489889, tt4136084, tt3799694, tt3553976]
+      winner: [tt1431045]
+    best actor in an action movie:
+      nominee: [tt2119532, tt1211837, tt3498820, tt4196776, tt1431045]
+      winner: [tt2119532]
+    best young actor/actress:
+      nominee: [tt4034228, tt4975722, tt1878870, tt3416532, tt4341582, tt3741834]
+      winner: [tt4034228]
+    best actress:
+      nominee: [tt1619029, tt2543164, tt4385888, tt3783958, tt3716530, tt4669986]
+      winner: [tt1619029]
+    best actress in a comedy:
+      nominee: [tt4136084, tt1878870, tt3068194, tt1289401, tt3766394]
+      winner: [tt4136084]
+    best actress in an action movie:
+      nominee: [tt1386697, tt2975590, tt3498820, tt1211837]
+      winner: [tt1386697]
+    best supporting actor:
+      nominee: [tt4975722, tt2582782, tt3741834, tt2582782, tt4034228, tt4550098]
+      winner: [tt4975722]
+    best supporting actress:
+      nominee: [tt2671706, tt4385888, tt4846340, tt4034228, tt4975722, tt3741834]
+      winner: [tt2671706]
+    best director:
+      nominee: [tt3783958, tt4975722, tt2582782, tt2543164, tt2671706, tt4034228, tt2119532]
+      winner: [tt3783958]
+    best original screenplay:
+      nominee: [tt3783958, tt4034228, tt2582782, tt4669986, tt4975722, tt3464902]
+      winner: [tt3783958, tt4034228]
+    best adapted screenplay:
+      nominee: [tt2543164, tt2671706, tt4846340, tt3741834, tt4550098, tt3263904]
+      winner: [tt2543164]
+    best cinematography:
+      nominee: [tt3783958, tt2543164, tt1619029, tt4975722, tt4550098]
+      winner: [tt3783958]
+    best costume design:
+      nominee: [tt1619029, tt3640424, tt3183660, tt4136084, tt3783958, tt3068194]
+      winner: [tt1619029]
+    best editing:
+      nominee: [tt3783958, tt2543164, tt2119532, tt4975722, tt3263904]
+      winner: [tt3783958]
+    best visual effects:
+      nominee: [tt3040964, tt3416532, tt2543164, tt1211837, tt3183660]
+      winner: [tt3040964]
+    best hair & makeup:
+      nominee: [tt1619029, tt1211837, tt3183660, tt2119532, tt2660888]
+      winner: [tt1619029]
+    best song:
+      nominee: [tt3783958, tt3783958, tt3521164, tt1974420, tt3544112, tt1679335]
+      winner: [tt3783958]
+    best score:
+      nominee: [tt3783958, tt2543164, tt1619029, tt3741834, tt4975722]
+      winner: [tt3783958]
+    best foreign language film:
+      nominee: [tt3716530, tt4326444, tt4698584, tt4016934, tt5186714, tt4048272]
+      winner: [tt3716530]
+    best animated feature:
+      nominee: [tt2948356, tt2277860, tt4302938, tt3521164, tt3666024, tt1679335]
+      winner: [tt2948356]
+    best acting ensemble:
+      nominee: [tt4975722, tt4385888, tt2671706, tt2582782, tt4846340, tt4034228]
+      winner: [tt4975722]
+    best action movie:
+      nominee: [tt2119532, tt3498820, tt1431045, tt1211837, tt4196776]
+      winner: [tt2119532]
+    best comedy:
+      nominee: [tt1431045, tt1489889, tt4972062, tt0475290, tt1878870, tt3799694]
+      winner: [tt1431045]
+    best production design:
+      nominee: [tt3783958, tt2543164, tt3183660, tt1619029, tt2361317]
+      winner: [tt3783958]
+    best sci-fi/horror movie:
+      nominee: [tt2543164, tt1179933, tt1211837, tt4160708, tt2660888, tt4263482]
+      winner: [tt2543164]
+  seeher award:
+    seeher award:
       nominee: []
       winner: []
 '2016':
-  Critics Choice Award:
-    Best Actor:
+  critics choice award:
+    best actor:
       nominee: [tt1663202, tt3203606, tt0810819, tt1355683, tt3659388, tt2080374]
       winner: [tt1663202]
-    Best Actor in a Comedy:
+    best actor in a comedy:
       nominee: [tt1596363, tt3152624, tt3079380, tt2361509, tt1596363]
       winner: [tt1596363]
-    Best Actor in an Action Movie:
+    best actor in an action movie:
       nominee: [tt1392190, tt0369610, tt2379713, tt0478970, tt2381249]
       winner: [tt1392190]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt3170832, tt1365050, tt3168230, tt2582496, tt3850214]
       winner: [tt3170832]
-    Best Actress:
+    best actress:
       nominee: [tt3170832, tt2402927, tt1392190, tt3544082, tt2446980, tt2381111]
       winner: [tt3170832]
-    Best Actress in a Comedy:
+    best actress in a comedy:
       nominee: [tt3152624, tt2446980, tt4270516, tt3079380, tt1850457]
       winner: [tt3152624]
-    Best Actress in an Action Movie:
+    best actress in an action movie:
       nominee: [tt1392190, tt0369610, tt3397884, tt1951266, tt2381249]
       winner: [tt1392190]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt3076658, tt1895587, tt3682448, tt2891174, tt0903657, tt1663202]
       winner: [tt3076658]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0810819, tt3203606, tt3460252, tt2080374, tt1895587, tt2402927]
       winner: [tt0810819]
-    Best Action Movie:
+    best action movie:
       nominee: [tt1392190, tt2820852, tt0369610, tt2381249, tt3397884]
       winner: [tt1392190]
-    Best Comedy:
+    best comedy:
       nominee: [tt1596363, tt2096673, tt2446980, tt1850457, tt3079380, tt3152624]
       winner: [tt1596363]
-    Best Sci-Fi/Horror Movie:
+    best sci-fi/horror movie:
       nominee: [tt0470752, tt3235888, tt0369610, tt1392190, tt3659388]
       winner: [tt0470752]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt1895587, tt1398426, tt1596363, tt3460252, tt3203606]
       winner: [tt1895587]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt1596363, tt2381111, tt3170832, tt2080374, tt3659388]
       winner: [tt1596363]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt2096673, tt2401878, tt2872750, tt1979388, tt2452042]
       winner: [tt2096673]
-    Best Art Direction:
+    best art direction:
       nominee: [tt1392190, tt3682448, tt2381111, tt2402927, tt0810819, tt3659388]
       winner: [tt1392190]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt1663202, tt2402927, tt1392190, tt3397884, tt3460252, tt3659388]
       winner: [tt1663202]
-    Best Costume Design:
+    best costume design:
       nominee: [tt1392190, tt2381111, tt2402927, tt1661199, tt0810819]
       winner: [tt1392190]
-    Best Director:
+    best director:
       nominee: [tt1392190, tt1663202, tt3659388, tt3682448, tt2402927, tt1895587]
       winner: [tt1392190]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt2870648, tt4126304, tt4257858, tt3065132, tt3521134, tt4897822]
       winner: [tt2870648]
-    Best Editing:
+    best editing:
       nominee: [tt1392190, tt1895587, tt1596363, tt3659388, tt1663202]
       winner: [tt1392190]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt3808342, tt3086442, tt3966404, tt3508840, tt3742378]
       winner: [tt3808342]
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt1392190, tt1355683, tt2402927, tt0810819, tt3460252, tt1663202]
       winner: [tt1392190]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt1895587, tt3682448, tt0470752, tt2096673, tt3460252]
       winner: [tt1895587]
-    Best Picture:
+    best picture:
       nominee: [tt1895587, tt3682448, tt2381111, tt2402927, tt1392190, tt3170832, tt3397884, tt2488496, tt1596363, tt3659388, tt1663202]
       winner: [tt1895587]
-    Best Score:
+    best score:
       nominee: [tt3460252, tt2402927, tt3397884, tt1895587, tt1663202]
       winner: [tt3460252]
-    Best Song:
+    best song:
       nominee: [tt2820852, tt2322441, tt0903657, tt2379713, tt4185572, tt3312830]
       winner: [tt2820852]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt1392190, tt0470752, tt0369610, tt3659388, tt1663202, tt3488710]
       winner: [tt1392190]
-  Critics' Choice MVP Award:
-    Critics' Choice MVP Award:
+  critics' choice mvp award:
+    critics' choice mvp award:
       nominee: []
       winner: []
 '2015':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt1065073, tt2562232, tt2267998, tt2872718, tt1020072, tt2278388, tt2084970, tt2980516, tt1809398, tt2582802]
       winner: [tt1065073]
-    Best Actor:
+    best actor:
       nominee: [tt2562232, tt2084970, tt1020072, tt2980516, tt2872718, tt2278388]
       winner: [tt2562232]
-    Best Actor in a Comedy Movie:
+    best actor in a comedy movie:
       nominee: [tt2562232, tt2170593, tt2294449, tt2784678, tt2883512, tt2278388]
       winner: [tt2562232]
-    Best Actor in an Action Movie:
+    best actor in an action movie:
       nominee: [tt2179136, tt2713180, tt1843866, tt2015381, tt1631867]
       winner: [tt2179136]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt1065073, tt2582846, tt2170593, tt0816692, tt2321549, tt1823664, tt2278388]
       winner: [tt1065073]
-    Best Actress:
+    best actress:
       nominee: [tt3316960, tt2980516, tt3442006, tt2737050, tt2305051, tt2267998]
       winner: [tt3316960]
-    Best Actress in a Comedy Movie:
+    best actress in a comedy movie:
       nominee: [tt2910274, tt1571249, tt2170593, tt2784678, tt2004420]
       winner: [tt2910274]
-    Best Actress in an Action Movie:
+    best actress in an action movie:
       nominee: [tt1631867, tt1951265, tt2872732, tt1840309, tt2015381]
       winner: [tt1631867]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt2582802, tt2562232, tt1065073, tt1791528, tt1100089, tt1872194]
       winner: [tt2582802]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt1065073, tt2562232, tt2937898, tt2084970, tt2180411, tt1706620]
       winner: [tt1065073]
-    Best Director:
+    best director:
       nominee: [tt1065073, tt2562232, tt1809398, tt1020072, tt2267998, tt2278388]
       winner: [tt1065073]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt2562232, tt1065073, tt2872718, tt2278388, tt2582802]
       winner: [tt2562232]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt2267998, tt1791528, tt2084970, tt2980516, tt1809398, tt2305051]
       winner: [tt2267998]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt2562232, tt0816692, tt2473794, tt2278388, tt1809398]
       winner: [tt2562232]
-    Best Art Direction:
+    best art direction:
       nominee: [tt2278388, tt2562232, tt1791528, tt0816692, tt2180411, tt1706620]
       winner: [tt2278388]
-    Best Costume Design:
+    best costume design:
       nominee: [tt2278388, tt1791528, tt2180411, tt1587310, tt2473794]
       winner: [tt2278388]
-    Best Editing:
+    best editing:
       nominee: [tt2562232, tt1065073, tt2267998, tt0816692, tt2582802]
       winner: [tt2562232]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt2103281, tt1631867, tt2015381, tt0816692, tt2310332]
       winner: [tt2103281]
-    Best Hair & Makeup:
+    best hair & makeup:
       nominee: [tt2015381, tt1100089, tt2180411, tt1587310, tt2310332]
       winner: [tt2015381]
-    Best Song:
+    best song:
       nominee: [tt1020072, tt1980929, tt1126590, tt1951265, tt1490017]
       winner: [tt1020072]
-    Best Score:
+    best score:
       nominee: [tt2562232, tt2267998, tt0816692, tt2084970, tt2980516]
       winner: [tt2562232]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt2382298, tt4044364, tt2049586, tt1935156, tt3279124, tt3263996]
       winner: [tt2382298]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt2121382, tt2718492, tt2802154, tt2737050, tt3011894]
       winner: [tt2121382]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt1490017, tt2245084, tt1646971, tt2262227, tt0787474]
       winner: [tt1490017]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt2562232, tt1065073, tt2180411, tt1020072, tt2278388, tt2084970]
       winner: [tt2562232]
-    Best Action Movie:
+    best action movie:
       nominee: [tt2015381, tt2179136, tt1843866, tt1631867, tt2713180]
       winner: [tt2015381]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt2278388, tt2294449, tt2562232, tt2170593, tt2784678]
       winner: [tt2278388]
-    Best Sci-Fi/Horror Movie:
+    best sci-fi/horror movie:
       nominee: [tt0816692, tt2103281, tt1706620, tt2321549, tt1441395]
       winner: [tt0816692]
-  Lifetime Achievement Award:
-    Lifetime Achievement Award:
+  lifetime achievement award:
+    lifetime achievement award:
       nominee: []
       winner: []
-  Critics' Choice Louis XIII Genius Award:
-    Critics' Choice Louis XIII Genius Award:
+  critics' choice louis xiii genius award:
+    critics' choice louis xiii genius award:
       nominee: []
       winner: []
-  Critics' Choice MVP Award:
-    Critics' Choice MVP Award:
+  critics' choice mvp award:
+    critics' choice mvp award:
       nominee: [tt2937898]
       winner: [tt2937898]
 '2014':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt2024544, tt1800241, tt1535109, tt0790636, tt1454468, tt1798709, tt2042568, tt1821549, tt2140373, tt0993846]
       winner: [tt2024544]
-    Best Actor:
+    best actor:
       nominee: [tt0790636, tt1821549, tt2024544, tt1800241, tt2017038, tt1535109]
       winner: [tt0790636]
-    Best Actor in a Comedy:
+    best actor in a comedy:
       nominee: [tt0993846, tt1800241, tt2390361, tt1727388, tt1213663]
       winner: [tt0993846]
-    Best Actor in an Action Movie:
+    best actor in an action movie:
       nominee: [tt1091191, tt0816711, tt0770828, tt1300854]
       winner: [tt1091191]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt2278871, tt1731141, tt1727388, tt0816442, tt1935179]
       winner: [tt2278871]
-    Best Actress:
+    best actress:
       nominee: [tt2334873, tt2370248, tt2140373, tt2431286, tt1322269, tt1454468]
       winner: [tt2334873]
-    Best Actress in a Comedy:
+    best actress in a comedy:
       nominee: [tt1800241, tt2347569, tt2390361, tt2404463, tt2404463]
       winner: [tt1800241]
-    Best Actress in an Action Movie:
+    best actress in an action movie:
       nominee: [tt1454468, tt1170358, tt1300854, tt1951264]
       winner: [tt1454468]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0790636, tt1535109, tt1800241, tt1979320, tt2390361, tt2024544]
       winner: [tt0790636]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt2024544, tt1800241, tt1322269, tt1821549, tt1327773, tt1798709]
       winner: [tt2024544]
-    Best Director:
+    best director:
       nominee: [tt1454468, tt1800241, tt0993846, tt1535109, tt1798709, tt2024544]
       winner: [tt1454468]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt1798709, tt1800241, tt2334873, tt2042568, tt1821549]
       winner: [tt1798709]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt2024544, tt1322269, tt2209418, tt1535109, tt2431286, tt0993846]
       winner: [tt2024544]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt1454468, tt2024544, tt2042568, tt1821549, tt1392214]
       winner: [tt1454468]
-    Best Art Direction:
+    best art direction:
       nominee: [tt1343092, tt2024544, tt1454468, tt1798709, tt1170358]
       winner: [tt1343092]
-    Best Costume Design:
+    best costume design:
       nominee: [tt1343092, tt2024544, tt1800241, tt2140373, tt1170358]
       winner: [tt1343092]
-    Best Editing:
+    best editing:
       nominee: [tt1454468, tt2024544, tt1800241, tt1535109, tt1979320, tt0993846]
       winner: [tt1454468]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt1454468, tt1300854, tt1663662, tt1408101, tt1170358]
       winner: [tt1454468]
-    Best Makeup:
+    best makeup:
       nominee: [tt1800241, tt2024544, tt1979320, tt1327773, tt1170358]
       winner: [tt1800241]
-    Best Song:
+    best song:
       nominee: [tt2294629, tt1690953, tt2042568, tt2304771, tt1343092, tt1951264]
       winner: [tt2294629]
-    Best Score:
+    best score:
       nominee: [tt1454468, tt2024544, tt1798709, tt2140373]
       winner: [tt1454468]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt2396566, tt2545118, tt2366450, tt2375605, tt3089388]
       winner: [tt2396566]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt2278871, tt2358891, tt2106476, tt2404461, tt2258858]
       winner: [tt2278871]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt2294629, tt1690953, tt1453405, tt0481499, tt2013293]
       winner: [tt2294629]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt1800241, tt2024544, tt1322269, tt1821549, tt1327773, tt0993846]
       winner: [tt1800241]
-    Best Action Movie:
+    best action movie:
       nominee: [tt1091191, tt1300854, tt1979320, tt1408101, tt1951264]
       winner: [tt1091191]
-    Best Comedy:
+    best comedy:
       nominee: [tt1800241, tt2390361, tt2404463, tt1727388, tt1213663, tt1245492]
       winner: [tt1800241]
-    Best Sci-Fi/Horror Movie:
+    best sci-fi/horror movie:
       nominee: [tt1454468, tt1408101, tt1457767, tt0816711]
       winner: [tt1454468]
-  Joel Siegel Award:
-    Joel Siegel Award:
+  joel siegel award:
+    joel siegel award:
       nominee: []
       winner: []
-  Critics' Choice Louis XIII Genius Award:
-    Critics' Choice Louis XIII Genius Award:
+  critics' choice louis xiii genius award:
+    critics' choice louis xiii genius award:
       nominee: []
       winner: []
 '2013':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt1024648, tt2125435, tt1853728, tt1707386, tt0454876, tt0443272, tt1748122, tt1045658, tt1560747, tt1790885]
       winner: [tt1024648]
-    Best Actor:
+    best actor:
       nominee: [tt0443272, tt1045658, tt1907668, tt1707386, tt1560747, tt1866249]
       winner: [tt0443272]
-    Best Actor in a Comedy:
+    best actor in a comedy:
       nominee: [tt1045658, tt1232829, tt1704573, tt1637725, tt1758830]
       winner: [tt1045658]
-    Best Actor in an Action Movie:
+    best actor in an action movie:
       nominee: [tt1074638, tt1345836, tt1855199, tt1276104, tt0848228]
       winner: [tt1074638]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt2125435, tt2115295, tt1748122, tt1659337, tt0454876, tt1649419]
       winner: [tt2125435]
-    Best Actress:
+    best actress:
       nominee: [tt1790885, tt1602620, tt1045658, tt2053425, tt1649419, tt2125435]
       winner: [tt1790885]
-    Best Actress in a Comedy:
+    best actress in a comedy:
       nominee: [tt1045658, tt1758830, tt1637725, tt1981677, tt1704573]
       winner: [tt1045658]
-    Best Actress in an Action Movie:
+    best actress in an action movie:
       nominee: [tt1392170, tt1345836, tt1276104, tt1506999, tt1074638]
       winner: [tt1392170]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt1560747, tt1024648, tt1074638, tt1915581, tt1045658, tt0443272]
       winner: [tt1560747]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt1707386, tt1560747, tt1971352, tt1866249, tt1074638, tt0443272]
       winner: [tt1707386]
-    Best Director:
+    best director:
       nominee: [tt1024648, tt0454876, tt1045658, tt1790885, tt0443272, tt1707386]
       winner: [tt1024648]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt1853728, tt1907668, tt1276104, tt1748122, tt1560747, tt1790885]
       winner: [tt1853728]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt0443272, tt1024648, tt0454876, tt1045658, tt1659337]
       winner: [tt0443272]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt0454876, tt1707386, tt0443272, tt1074638, tt1560747]
       winner: [tt0454876]
-    Best Art Direction:
+    best art direction:
       nominee: [tt1781769, tt1707386, tt0454876, tt0443272, tt0903624]
       winner: [tt1781769]
-    Best Costume Design:
+    best costume design:
       nominee: [tt1781769, tt1371111, tt1707386, tt0443272, tt0903624]
       winner: [tt1781769]
-    Best Editing:
+    best editing:
       nominee: [tt1790885, tt1024648, tt1707386, tt0454876, tt0443272]
       winner: [tt1790885]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt0454876, tt1371111, tt0848228, tt1345836, tt0903624]
       winner: [tt0454876]
-    Best Makeup:
+    best makeup:
       nominee: [tt1371111, tt1707386, tt0443272, tt0903624]
       winner: [tt1371111]
-    Best Song:
+    best song:
       nominee: [tt1074638, tt1591479, tt1217209, tt1707386, tt1956594]
       winner: [tt1074638]
-    Best Score:
+    best score:
       nominee: [tt0443272, tt1024648, tt0454876, tt1748122, tt1560747]
       winner: [tt0443272]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt2125608, tt1682181, tt2380247, tt1966604, tt2125666, tt2130321]
       winner: [tt2125608]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt1602620, tt1276419, tt2053425, tt1675434]
       winner: [tt1602620]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt1772341, tt1217209, tt1142977, tt1277953, tt1623288, tt1446192]
       winner: [tt1772341]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt1045658, tt1024648, tt1707386, tt0443272, tt1748122, tt1412386]
       winner: [tt1045658]
-    Best Action Movie:
+    best action movie:
       nominee: [tt1074638, tt1276104, tt0848228, tt1345836]
       winner: [tt1074638]
-    Best Comedy:
+    best comedy:
       nominee: [tt1045658, tt1232829, tt1704573, tt1637725, tt1758830]
       winner: [tt1045658]
-    Best Sci-Fi/Horror Movie:
+    best sci-fi/horror movie:
       nominee: [tt1276104, tt1446714, tt1259521]
       winner: [tt1276104]
-    Favorite Film Franchise:
+    favorite film franchise:
       nominee: [tt0120737, tt0372784, tt0241527, tt0082971, tt0114709, tt1099212]
       winner: [tt0120737]
-  Critics' Choice Louis XIII Genius Award:
-    Critics' Choice Louis XIII Genius Award:
+  critics' choice louis xiii genius award:
+    critics' choice louis xiii genius award:
       nominee: []
       winner: []
 '2012':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt1655442, tt0780504, tt0477302, tt0970179, tt1605783, tt1210166, tt1033575, tt1454029, tt0478304, tt1568911]
       winner: [tt1655442]
-    Best Actor:
+    best actor:
       nominee: [tt1033575, tt1210166, tt1655442, tt1616195, tt1723811, tt0780504]
       winner: [tt1033575]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt0477302, tt0970179, tt1650062, tt1242460, tt0993842, tt1033575]
       winner: [tt0477302]
-    Best Actress:
+    best actress:
       nominee: [tt1454029, tt1625346, tt1441326, tt1007029, tt1655420, tt1242460]
       winner: [tt1454029]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt1532503, tt0780504, tt1318514, tt1655420, tt1291584, tt1625346]
       winner: [tt1532503]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt1454029, tt1655442, tt1723811, tt1454029, tt1478338, tt1033575]
       winner: [tt1454029]
-    Best Director:
+    best director:
       nominee: [tt1655442, tt1033575, tt0970179, tt0780504, tt0477302, tt1568911]
       winner: [tt1655442]
-    Best Original Screenplay:
+    best original screenplay:
       nominee: [tt1605783, tt1306980, tt1655442, tt1606392, tt1625346]
       winner: [tt1605783]
-    Best Adapted Screenplay:
+    best adapted screenplay:
       nominee: [tt1210166, tt0477302, tt0970179, tt1033575, tt1454029]
       winner: [tt1210166]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt0478304, tt1568911, tt0780504, tt0970179, tt1655442]
       winner: [tt0478304, tt1568911]
-    Best Art Direction:
+    best art direction:
       nominee: [tt0970179, tt1201607, tt1655442, tt0478304, tt1568911]
       winner: [tt0970179]
-    Best Costume Design:
+    best costume design:
       nominee: [tt1655442, tt0970179, tt1229822, tt1655420, tt1454029]
       winner: [tt1655442]
-    Best Sound:
+    best sound:
       nominee: [tt1201607, tt0970179, tt1650062, tt0478304, tt1568911]
       winner: [tt1201607]
-    Best Editing:
+    best editing:
       nominee: [tt1568346, tt0780504, tt0970179, tt1655442, tt1568911]
       winner: [tt1568346]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt1318514, tt1201607, tt0970179, tt1650062, tt0478304]
       winner: [tt1318514]
-    Best Makeup:
+    best makeup:
       nominee: [tt1201607, tt1602098, tt1616195, tt1655420, tt1007029]
       winner: [tt1201607]
-    Best Song:
+    best song:
       nominee: [tt1204342, tt0377981, tt1454029, tt1204342, tt1204342]
       winner: [tt1204342]
-    Best Score:
+    best score:
       nominee: [tt1655442, tt0780504, tt0970179, tt1568346, tt1568911]
       winner: [tt1655442]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt1113829, tt1753549, tt1664894, tt1787777, tt1814836, tt1860355]
       winner: [tt1113829]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt1832382, tt1417075, tt1508675, tt1189073, tt1772424]
       winner: [tt1832382]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt1192628, tt1430607, tt1302011, tt0448694, tt0983193]
       winner: [tt1192628]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt1454029, tt1478338, tt1655442, tt1033575, tt1124035]
       winner: [tt1454029]
-    Best Action Movie:
+    best action movie:
       nominee: [tt0780504, tt1596343, tt0993842, tt1318514, tt1650062]
       winner: [tt0780504]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt1478338, tt1570728, tt1499658, tt1605783, tt1204342]
       winner: [tt1478338]
-  Joel Siegel Award:
-    Joel Siegel Award:
+  joel siegel award:
+    joel siegel award:
       nominee: []
       winner: []
 '2011':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt1285016, tt1542344, tt0947798, tt1375666, tt0964517, tt1504320, tt0840361, tt0435761, tt1403865, tt1399683]
       winner: [tt1285016]
-    Best Actor:
+    best actor:
       nominee: [tt1504320, tt1542344, tt1403865, tt1285016, tt1194263, tt1120985]
       winner: [tt1504320]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt1403865, tt1250777, tt1228987, tt1421051, tt1399683, tt1228987]
       winner: [tt1403865]
-    Best Actress:
+    best actress:
       nominee: [tt0947798, tt0842926, tt1399683, tt1120985, tt0935075, tt1132620]
       winner: [tt0947798]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0964517, tt1285016, tt1504320, tt0840361, tt0842926, tt1244754]
       winner: [tt0964517]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0964517, tt0964517, tt1403865, tt1504320, tt1313092, tt0947798]
       winner: [tt0964517]
-    Best Director:
+    best director:
       nominee: [tt1285016, tt1375666, tt1542344, tt0947798, tt1403865, tt1504320]
       winner: [tt1285016]
-    Best Screenplay, Original:
+    best screenplay, original:
       nominee: [tt1504320, tt1431181, tt0947798, tt1375666, tt0964517, tt0842926]
       winner: [tt1504320]
-    Best Screenplay, Adapted:
+    best screenplay, adapted:
       nominee: [tt1285016, tt1542344, tt0840361, tt0435761, tt1403865, tt1399683]
       winner: [tt1285016]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt1375666, tt1542344, tt0947798, tt1504320, tt1403865]
       winner: [tt1375666]
-    Best Art Direction:
+    best art direction:
       nominee: [tt1375666, tt1014759, tt0947798, tt1504320, tt1403865]
       winner: [tt1375666]
-    Best Costume Design:
+    best costume design:
       nominee: [tt1014759, tt0947798, tt1504320, tt1403865]
       winner: [tt1014759]
-    Best Sound:
+    best sound:
       nominee: [tt1375666, tt1542344, tt0947798, tt1285016, tt0435761]
       winner: [tt1375666]
-    Best Editing:
+    best editing:
       nominee: [tt1375666, tt1542344, tt0947798, tt1285016]
       winner: [tt1375666]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt1375666, tt1014759, tt0926084, tt1104001]
       winner: [tt1375666]
-    Best Makeup:
+    best makeup:
       nominee: [tt1014759, tt0947798, tt0926084, tt1403865]
       winner: [tt1014759]
-    Best Song:
+    best song:
       nominee: [tt1542344, tt1126591, tt0398286, tt0435761, tt1566648]
       winner: [tt1542344]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt1566648, tt1587707, tt1645089, tt1568150, tt1559549, tt1568334]
       winner: [tt1566648]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt1132620, tt1164999, tt1226236]
       winner: [tt1132620]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0435761, tt1323594, tt0892769, tt0398286, tt0775489]
       winner: [tt0435761]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt0964517, tt0842926, tt1504320, tt1285016, tt0840361]
       winner: [tt0964517]
-    Best Action Movie:
+    best action movie:
       nominee: [tt1375666, tt1250777, tt1245526, tt0840361, tt0477080]
       winner: [tt1375666]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt1282140, tt1336617, tt1279935, tt1226229, tt1045772, tt1386588]
       winner: [tt1282140]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0374463, tt1278469, tt1132623]
       winner: [tt0374463]
-    Best Score:
+    best score:
       nominee: [tt1285016, tt0947798, tt1375666, tt1504320, tt1403865]
       winner: [tt1285016]
-  Joel Siegel Award:
-    Joel Siegel Award:
+  joel siegel award:
+    joel siegel award:
       nominee: []
       winner: []
 '2010':
-  Critics Choice Award:
-    Best Picture:
+  critics choice award:
+    best picture:
       nominee: [tt0887912, tt1019452, tt1174732, tt0499549, tt0361748, tt1057500, tt0875034, tt0929632, tt1049413, tt1193138]
       winner: [tt0887912]
-    Best Actor:
+    best actor:
       nominee: [tt1263670, tt1315981, tt1193138, tt0887912, tt1057500, tt0898367]
       winner: [tt1263670]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt0380510, tt0765010, tt0878804, tt0898367, tt0386117]
       winner: [tt0380510]
-    Best Actress:
+    best actress:
       nominee: [tt1135503, tt0878804, tt1174732, tt0962736, tt0929632, tt0380510]
       winner: [tt1135503, tt0878804]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0361748, tt1174732, tt1175506, tt1057500, tt0380510, tt0790712]
       winner: [tt0361748]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0929632, tt1193138, tt1315981, tt0875034, tt0790712, tt1193138]
       winner: [tt0929632]
-    Best Director:
+    best director:
       nominee: [tt0887912, tt1057500, tt0499549, tt1193138, tt0929632, tt0361748]
       winner: [tt0887912]
-    Best Screenplay, Original:
+    best screenplay, original:
       nominee: [tt0361748, tt1022603, tt1019452, tt0887912, tt1049413]
       winner: [tt0361748]
-    Best Screenplay, Adapted:
+    best screenplay, adapted:
       nominee: [tt1193138, tt1315981, tt1174732, tt1136608, tt0432283, tt0929632]
       winner: [tt1193138]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt0499549, tt0361748, tt0875034, tt0887912, tt0380510]
       winner: [tt0499549]
-    Best Art Direction:
+    best art direction:
       nominee: [tt0499549, tt1315981, tt0361748, tt0875034, tt0380510]
       winner: [tt0499549]
-    Best Costume Design:
+    best costume design:
       nominee: [tt0962736, tt0810784, tt0361748, tt0875034, tt0386117]
       winner: [tt0962736]
-    Best Sound:
+    best sound:
       nominee: [tt0499549, tt1136608, tt0875034, tt0796366, tt0887912]
       winner: [tt0499549]
-    Best Editing:
+    best editing:
       nominee: [tt0499549, tt0361748, tt0875034, tt0887912, tt1193138]
       winner: [tt0499549]
-    Best Visual Effects:
+    best visual effects:
       nominee: [tt0499549, tt1190080, tt1136608, tt0796366, tt0380510]
       winner: [tt0499549]
-    Best Makeup:
+    best makeup:
       nominee: [tt1136608, tt0499549, tt0875034, tt0796366, tt0898367]
       winner: [tt1136608]
-    Best Song:
+    best song:
       nominee: [tt1263670, tt0780511, tt0875034, tt0780521, tt0386117]
       winner: [tt1263670]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt1313104, tt1157605, tt1232207, tt1286537, tt1477715]
       winner: [tt1313104]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt0913425, tt1035736, tt0425637, tt1127715, tt1149362]
       winner: [tt0913425]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt1049413, tt0844471, tt0327597, tt0432283, tt0780521]
       winner: [tt1049413]
-    Best Acting Ensemble:
+    best acting ensemble:
       nominee: [tt0361748, tt0875034, tt0929632, tt0796366, tt1193138]
       winner: [tt0361748]
-    Best Action Movie:
+    best action movie:
       nominee: [tt0499549, tt1136608, tt0361748, tt0796366, tt0887912]
       winner: [tt0499549]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt1119646, tt1022603, tt1230414, tt1041829, tt1156398]
       winner: [tt1119646]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0758751, tt1295085, tt0992993, tt1019454]
       winner: [tt0758751]
-    Best Score:
+    best score:
       nominee: [tt1049413, tt0988045, tt1130080, tt0780521, tt0386117]
       winner: [tt1049413]
-  Joel Siegel Award:
-    Joel Siegel Award:
+  joel siegel award:
+    joel siegel award:
       nominee: []
       winner: []
 '2009':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt1013753, tt0918927, tt1084950, tt0421715, tt0468569]
       winner: [tt1013753]
-    Best Action Movie:
+    best action movie:
       nominee: [tt0468569, tt0367882, tt0371746, tt0830515, tt0493464]
       winner: [tt0468569]
-    Best Actor:
+    best actor:
       nominee: [tt1013753, tt0421715, tt1205489, tt0870111, tt1125849, tt0857191]
       winner: [tt1013753]
-    Best Actress:
+    best actress:
       nominee: [tt1084950, tt0918927, tt0824747, tt0421715, tt1073241, tt0978759]
       winner: [tt1084950, tt0918927]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0910970, tt0397892, tt0441773, tt0479952, tt1185616]
       winner: [tt0910970]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt0942385, tt0887883, tt0800039, tt0430922, tt0497465]
       winner: [tt0942385]
-    Best Composer:
+    best composer:
       nominee: [tt1010048, tt0824747, tt1013753, tt0421715, tt0468569]
       winner: [tt1010048]
-    Best Director:
+    best director:
       nominee: [tt1010048, tt0468569, tt0421715, tt1013753, tt0870111]
       winner: [tt1010048]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt1155592, tt1279111, tt0963807, tt1157705, tt0896866, tt1047007]
       winner: [tt1155592, tt1279111]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt1185616, tt0993789, tt0929425, tt1068649, tt1139797, tt0416044]
       winner: [tt1185616]
-    Best Picture:
+    best picture:
       nominee: [tt1010048, tt0824747, tt0918927, tt0870111, tt1013753, tt0421715, tt0468569, tt0976051, tt1125849, tt0910970]
       winner: [tt1010048]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0472027, tt1094661, tt1000771]
       winner: [tt0472027]
-    Best Song:
+    best song:
       nominee: [tt1125849, tt0397892, tt0830515, tt1010048, tt0910970]
       winner: [tt1125849]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0468569, tt1013753, tt1013753, tt0918927, tt0942385]
       winner: [tt0468569]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0976051, tt1125849, tt0497465, tt0421715, tt1073241, tt0918927]
       winner: [tt0976051]
-    Best Writer:
+    best writer:
       nominee: [tt1010048, tt0918927, tt0870111, tt1013753, tt0421715]
       winner: [tt1010048]
-    Best Young Actor/Actress (Under 21):
+    best young actor/actress (under 21):
       nominee: [tt1010048, tt0455824, tt0416212, tt0976051]
       winner: [tt1010048]
-  Joel Siegel Award:
-    Joel Siegel Award:
+  joel siegel award:
+    joel siegel award:
       nominee: []
       winner: []
 '2008':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt0427327, tt0292963, tt0452623, tt0467406, tt0477348, tt0408236]
       winner: [tt0427327]
-    Best Actor:
+    best actor:
       nominee: [tt0469494, tt0758758, tt0465538, tt0408236, tt0805564, tt0765443]
       winner: [tt0469494]
-    Best Actress:
+    best actress:
       nominee: [tt0491747, tt0461770, tt0829459, tt0414055, tt0467406, tt0450188]
       winner: [tt0491747]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0382932, tt0389790, tt0442933, tt0808417, tt0462538]
       winner: [tt0382932]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt0467406, tt0480242, tt0427327, tt0478311, tt0829482]
       winner: [tt0467406]
-    Best Composer:
+    best composer:
       nominee: [tt0469494, tt0381849, tt0783233, tt0461770, tt0772168, tt0808357]
       winner: [tt0469494]
-    Best Director:
+    best director:
       nominee: [tt0477348, tt0783233, tt0401383, tt0758758, tt0292963, tt0408236]
       winner: [tt0477348]
-    Best Documentary:
+    best documentary:
       nominee: [tt0386032, tt0988102, tt0925248, tt0912593, tt0856008, tt0923752]
       winner: [tt0386032]
-    Best Family Film:
+    best family film:
       nominee: [tt0461770, tt0426931, tt0427327, tt0373889, tt0385752]
       winner: [tt0461770]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt0401383, tt1032846, tt0450188, tt0808357, tt0464141]
       winner: [tt0401383]
-    Best Picture:
+    best picture:
       nominee: [tt0477348, tt0765429, tt0783233, tt0758758, tt0467406, tt0465538, tt0408236, tt0401383, tt0419887, tt0469494]
       winner: [tt0477348]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0821638, tt0488352, tt0996994, tt0910812]
       winner: [tt0821638]
-    Best Song:
+    best song:
       nominee: [tt0907657, tt0765429, tt0461770, tt0427327, tt0758758]
       winner: [tt0907657]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0477348, tt0443680, tt0758758, tt0472062, tt0465538]
       winner: [tt0477348]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0452623, tt0368794, tt0758758, tt0465538, tt0783233]
       winner: [tt0452623]
-    Best Writer:
+    best writer:
       nominee: [tt0467406, tt0472062, tt0758758, tt0805564, tt0465538, tt0477348]
       winner: [tt0467406]
-    Best Young Actor:
+    best young actor:
       nominee: [tt0419887, tt0408236, tt0426931, tt0829482, tt0467406]
       winner: [tt0419887]
-    Best Young Actress:
+    best young actress:
       nominee: [tt0427327, tt0398808, tt0385752, tt0783233]
       winner: [tt0427327]
-  Joel Siegel Award:
-    Joel Siegel Award:
+  joel siegel award:
+    joel siegel award:
       nominee: []
       winner: []
 '2007':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt0449059, tt0420087, tt0449467, tt0308055, tt0443489, tt0407887]
       winner: [tt0449059]
-    Best Actor:
+    best actor:
       nominee: [tt0455590, tt0407887, tt0450259, tt0489327, tt0468489, tt0454921]
       winner: [tt0455590]
-    Best Actress:
+    best actress:
       nominee: [tt0436697, tt0465551, tt0404203, tt0458352, tt0441909]
       winner: [tt0436697]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0317219, tt0424095, tt0366548, tt0385880, tt0327084]
       winner: [tt0317219]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt0443453, tt0470765, tt0449059, tt0427944, tt0458352]
       winner: [tt0443453]
-    Best Composer:
+    best composer:
       nominee: [tt0443543, tt0449467, tt0382625, tt0407887, tt0414993, tt0452624]
       winner: [tt0443543]
-    Best Director:
+    best director:
       nominee: [tt0407887, tt0443489, tt0498380, tt0475276, tt0436697]
       winner: [tt0407887]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt0497116, tt0811136, tt0493459, tt0489037, tt0492506]
       winner: [tt0497116]
-    Best Family Film (Live Action):
+    best family film (live action):
       nominee: [tt0413895, tt0437800, tt0434215, tt0431213, tt0383574]
       winner: [tt0413895]
-    Best Foreign Language Film:
+    best foreign language film:
       nominee: [tt0498380, tt0472043, tt0444182, tt0457430, tt0441909, tt0240200]
       winner: [tt0498380]
-    Best Picture:
+    best picture:
       nominee: [tt0407887, tt0449467, tt0450259, tt0443489, tt0498380, tt0404203, tt0449059, tt0465551, tt0436697, tt0475276]
       winner: [tt0407887]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0465326, tt0481452, tt0455596, tt0473389, tt0783612]
       winner: [tt0465326]
-    Best Song:
+    best song:
       nominee: [tt0443489, tt0497116, tt0308055, tt0413895, tt0434215, tt0811136]
       winner: [tt0443489]
-    Best Soundtrack:
+    best soundtrack:
       nominee: [tt0443489, tt0449467, tt0317219, tt0366548, tt0422720]
       winner: [tt0443489]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0443489, tt0418689, tt0449059, tt0427969, tt0450259, tt0407887]
       winner: [tt0443489]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0443489, tt0449467, tt0465551, tt0470765, tt0420223, tt0449467]
       winner: [tt0443489]
-    Best Writer:
+    best writer:
       nominee: [tt0449059, tt0449467, tt0404203, tt0420223, tt0407887, tt0436697]
       winner: [tt0449059]
-    Best Young Actor:
+    best young actor:
       nominee: [tt0449059, tt0427944, tt0401445, tt0454921, tt0439289]
       winner: [tt0449059]
-    Best Young Actress:
+    best young actress:
       nominee: [tt0449059, tt0413895, tt0457430, tt0437800, tt0468489]
       winner: [tt0449059]
 '2006':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt0375679, tt0433383, tt0294870, tt0401792, tt0365737]
       winner: [tt0375679]
-    Best Actor:
+    best actor:
       nominee: [tt0379725, tt0433383, tt0388795, tt0358273, tt0352248, tt0410097]
       winner: [tt0379725]
-    Best Actress:
+    best actress:
       nominee: [tt0358273, tt0395972, tt0407265, tt0365885, tt0413015, tt0414387]
       winner: [tt0358273]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0312004, tt0371606, tt0121164, tt0347149, tt0351283]
       winner: [tt0312004]
-    Best Comedy Movie:
+    best comedy movie:
       nominee: [tt0405422, tt0373469, tt0413015, tt0395251, tt0396269]
       winner: [tt0405422]
-    Best Composer:
+    best composer:
       nominee: [tt0397535, tt0388795, tt0368709, tt0402399]
       winner: [tt0397535]
-    Best Director:
+    best director:
       nominee: [tt0388795, tt0433383, tt0375679, tt0360717, tt0352248, tt0408306]
       winner: [tt0388795]
-    Best Documentary:
+    best documentary:
       nominee: [tt0428803, tt0427312, tt0486531, tt0438205, tt0436613]
       winner: [tt0428803]
-    Best Family Film (Live Action):
+    best family film (live action):
       nominee: [tt0363771, tt0367594, tt0418647, tt0330373]
       winner: [tt0363771]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0373074, tt0212712, tt0387898, tt0364569, tt0445620]
       winner: [tt0373074]
-    Best Picture:
+    best picture:
       nominee: [tt0388795, tt0379725, tt0352248, tt0375679, tt0433383, tt0360717, tt0397535, tt0408306, tt0387131, tt0358273]
       winner: [tt0388795]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0409572, tt0367555, tt0384766, tt0423510]
       winner: [tt0409572]
-    Best Song:
+    best song:
       nominee: [tt0410097, tt0388795, tt0368709, tt0294870, tt0407265]
       winner: [tt0410097]
-    Best Soundtrack:
+    best soundtrack:
       nominee: [tt0358273, tt0368709, tt0397535, tt0294870, tt0395251]
       winner: [tt0358273]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0352248, tt0365737, tt0388795, tt0365885, tt0375679, tt0375679]
       winner: [tt0352248]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0418773, tt0388795, tt0379725, tt0395972, tt0399146, tt0387131]
       winner: [tt0418773, tt0388795]
-    Best Writer:
+    best writer:
       nominee: [tt0375679, tt0388795, tt0379725, tt0433383, tt0367089]
       winner: [tt0375679]
-    Best Young Actor:
+    best young actor:
       nominee: [tt0367594, tt0366777, tt0330373, tt0367089, tt0367089]
       winner: [tt0367594]
-    Best Young Actress:
+    best young actress:
       nominee: [tt0407304, tt0330373, tt0387059, tt0363771, tt0402399]
       winner: [tt0407304]
-  Freedom Award:
-    Freedom Award:
+  freedom award:
+    freedom award:
       nominee: [tt0433383]
       winner: [tt0433383]
 '2005':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt0375063, tt0376541, tt0349903, tt0362270]
       winner: [tt0375063]
-    Best Actor:
+    best actor:
       nominee: [tt0350258, tt0395169, tt0369702, tt0308644, tt0338751, tt0375063]
       winner: [tt0350258]
-    Best Actress:
+    best actress:
       nominee: [tt0405159, tt0340012, tt0390221, tt0383694, tt0338013, tt0378194]
       winner: [tt0405159]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0317705, tt0298148, tt0338348]
       winner: [tt0317705]
-    Best Composer:
+    best composer:
       nominee: [tt0338751, tt0375063, tt0317705]
       winner: [tt0338751]
-    Best Director:
+    best director:
       nominee: [tt0338751, tt0375063, tt0405159, tt0308644, tt0350258]
       winner: [tt0338751]
-    Best Documentary Feature:
+    best documentary feature:
       nominee: [tt0361596, tt0391024, tt0387412, tt0390521]
       winner: [tt0361596]
-    Best Family Film (Live Action):
+    best family film (live action):
       nominee: [tt0308644, tt0339291, tt0304141, tt0349825, tt0316654]
       winner: [tt0308644]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0369702, tt0344510, tt0385004, tt0390221, tt0318462]
       winner: [tt0369702]
-    Best Picture:
+    best picture:
       nominee: [tt0375063, tt0369339, tt0338013, tt0308644, tt0395169, tt0362269, tt0405159, tt0350258, tt0338751, tt0293508]
       winner: [tt0375063]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0352520, tt0386792, tt0400435, tt0377972]
       winner: [tt0352520]
-    Best Popular Movie:
+    best popular movie:
       nominee: [tt0316654, tt0374900, tt0372183, tt0317705, tt0335345]
       winner: [tt0316654]
-    Best Song:
+    best song:
       nominee: [tt0375173, tt0298148, tt0338348]
       winner: [tt0375173]
-    Best Soundtrack:
+    best soundtrack:
       nominee: [tt0350258, tt0375173, tt0363473, tt0352277, tt0333766]
       winner: [tt0350258]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0375063, tt0376541, tt0369339, tt0405159, tt0362269]
       winner: [tt0375063]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0375063, tt0338751, tt0308644, tt0362269, tt0376541]
       winner: [tt0375063]
-    Best Writer:
+    best writer:
       nominee: [tt0375063, tt0338013, tt0308644, tt0362269, tt0338751]
       winner: [tt0375063]
-    Best Young Actor:
+    best young actor:
       nominee: [tt0308644, tt0337876, tt0304141, tt0339291, tt0363473]
       winner: [tt0308644]
-    Best Young Actress:
+    best young actress:
       nominee: [tt0293508, tt0328107, tt0339291, tt0304141, tt0377092]
       winner: [tt0293508]
-  Distinguished Achievement in Performing Arts:
-    Distinguished Achievement in Performing Arts:
+  distinguished achievement in performing arts:
+    distinguished achievement in performing arts:
       nominee: []
       winner: []
 '2004':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt0167260, tt0310281, tt0314331, tt0327056]
       winner: [tt0167260]
-    Best Actor:
+    best actor:
       nominee: [tt0327056, tt0315983, tt0335266, tt0325980, tt0311113]
       winner: [tt0327056]
-    Best Actress:
+    best actress:
       nominee: [tt0340855, tt0337741, tt0315983, tt0315733, tt0159365, tt0298845]
       winner: [tt0340855]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0266543, tt0328880, tt0286244]
       winner: [tt0266543]
-    Best Composer:
+    best composer:
       nominee: [tt0167260, tt0319061, tt0159365, tt0327056, tt0325710]
       winner: [tt0167260]
-    Best Director:
+    best director:
       nominee: [tt0167260, tt0327056, tt0298845, tt0335266, tt0319061]
       winner: [tt0167260]
-    Best Documentary:
+    best documentary:
       nominee: [tt0342172, tt0297144, tt0317910]
       winner: [tt0342172]
-    Best Family Film - Live Action:
+    best family film - live action:
       nominee: [tt0325980, tt0322330, tt0311289, tt0316396, tt0298228]
       winner: [tt0325980]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0338135, tt0317248, tt0324133]
       winner: [tt0338135]
-    Best Picture:
+    best picture:
       nominee: [tt0167260, tt0319061, tt0159365, tt0266543, tt0298845, tt0335266, tt0311113, tt0327056, tt0329575, tt0325710]
       winner: [tt0167260]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0318997, tt0337824, tt0383139]
       winner: [tt0318997]
-    Best Song:
+    best song:
       nominee: [tt0310281, tt0319061, tt0298845, tt0304415, tt0332379]
       winner: [tt0310281]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0327056, tt0318374, tt0315733, tt0325710, tt0311113]
       winner: [tt0327056]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0159365, tt0328538, tt0327056, tt0311648, tt0335266]
       winner: [tt0159365]
-    Best Writer:
+    best writer:
       nominee: [tt0298845, tt0319061, tt0335266, tt0327056, tt0329575]
       winner: [tt0298845]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt0298228, tt0298845, tt0328538, tt0298845]
       winner: [tt0298228]
-  Passion in Film Award:
-    Passion in Film Award:
+  passion in film award:
+    passion in film award:
       nominee: []
       winner: []
-  Lifetime Achievement Award:
-    Lifetime Achievement Award:
+  lifetime achievement award:
+    lifetime achievement award:
       nominee: []
       winner: []
 '2003':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt0299658, tt0259446, tt0274558]
       winner: [tt0299658]
-    Best Actor:
+    best actor:
       nominee: [tt0217505, tt0257360, tt0265459]
       winner: [tt0217505, tt0257360]
-    Best Actress:
+    best actress:
       nominee: [tt0297884, tt0274558, tt0250797, tt0120679]
       winner: [tt0297884]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0245429, tt0268380, tt0275847, tt0166813]
       winner: [tt0245429]
-    Best Composer:
+    best composer:
       nominee: [tt0264464, tt0274558, tt0167261]
       winner: [tt0264464]
-    Best Digital Acting Performance:
+    best digital acting performance:
       nominee: [tt0167261, tt0295297, tt0121765]
       winner: [tt0167261]
-    Best Director:
+    best director:
       nominee: [tt0264464, tt0253474, tt0217505]
       winner: [tt0264464]
-    Best Documentary:
+    best documentary:
       nominee: [tt0310793, tt0314725, tt0303353]
       winner: [tt0310793]
-    Best Family Film - Live Action:
+    best family film - live action:
       nominee: [tt0295297, tt0265662, tt0283084]
       winner: [tt0295297]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0245574, tt0265343, tt0287467]
       winner: [tt0245574]
-    Best Picture:
+    best picture:
       nominee: [tt0299658, tt0257360, tt0268126, tt0264464, tt0297884, tt0217505, tt0257044, tt0274558, tt0167261, tt0253474]
       winner: [tt0299658]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0274468, tt0319758, tt0318908]
       winner: [tt0274468]
-    Best Song:
+    best song:
       nominee: [tt0298203, tt0145487, tt0282120]
       winner: [tt0298203]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0268126, tt0120679, tt0257044]
       winner: [tt0268126]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0299658, tt0268126, tt0257360]
       winner: [tt0299658]
-    Best Writer:
+    best writer:
       nominee: [tt0268126, tt0257360, tt0259446]
       winner: [tt0268126]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt0280760, tt0276751, tt0257044]
       winner: [tt0280760]
-  Freedom Award:
-    Freedom Award:
+  freedom award:
+    freedom award:
       nominee: [tt0168786]
       winner: [tt0168786]
 '2002':
-  Critics Choice Award:
-    Best Acting Ensemble:
+  critics choice award:
+    best acting ensemble:
       nominee: [tt0280707, tt0240772, tt0265666]
       winner: [tt0280707]
-    Best Actor:
+    best actor:
       nominee: [tt0268978, tt0277027, tt0248667]
       winner: [tt0268978]
-    Best Actor in a Picture Made for Television:
+    best actor in a picture made for television:
       nominee: [tt0240628, tt0250934, tt0250798]
       winner: [tt0240628]
-    Best Actress:
+    best actress:
       nominee: [tt0247425, tt0203009, tt0243155]
       winner: [tt0247425]
-    Best Actress in a Picture Made for Television:
+    best actress in a picture made for television:
       nominee: [tt0250581, tt0243664, tt0263467]
       winner: [tt0250581]
-    Best Animated Film:
+    best animated film:
       nominee: [tt0126029, tt0198781, tt0243017]
       winner: [tt0126029]
-    Best Composer:
+    best composer:
       nominee: [tt0120737, tt0212720, tt0120824]
       winner: [tt0120737]
-    Best Director:
+    best director:
       nominee: [tt0203009, tt0268978, tt0120737]
       winner: [tt0203009, tt0268978]
-    Best Family Film - Live Action:
+    best family film - live action:
       nominee: [tt0241527, tt0227538, tt0247638]
       winner: [tt0241527]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0211915, tt0118694, tt0283509]
       winner: [tt0211915]
-    Best Picture:
+    best picture:
       nominee: [tt0268978, tt0248667, tt0247425, tt0209144, tt0203009, tt0166924, tt0126029, tt0120737, tt0243133, tt0120824]
       winner: [tt0268978]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0250581, tt0185906, tt0244353]
       winner: [tt0250581]
-    Best Screenplay:
+    best screenplay:
       nominee: [tt0209144, tt0268978, tt0243133]
       winner: [tt0209144]
-    Best Song:
+    best song:
       nominee: [tt0120737, tt0259711, tt0035423, tt0213149]
       winner: [tt0120737, tt0259711]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0203119, tt0248667, tt0280778]
       winner: [tt0203119]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0268978, tt0259711, tt0247425]
       winner: [tt0268978]
-    Best Young Actor/Actress:
+    best young actor/actress:
       nominee: [tt0277027, tt0241527, tt0212720]
       winner: [tt0277027]
 '2001':
-  Critics Choice Award:
-    Best Actor:
+  critics choice award:
+    best actor:
       nominee: [tt0172495, tt0180073]
       winner: [tt0172495]
-    Best Actress:
+    best actress:
       nominee: [tt0195685, tt0203230]
       winner: [tt0195685]
-    Best Animated Feature:
+    best animated feature:
       nominee: [tt0130623, tt0120910, tt0213203, tt0120917]
       winner: []
-    Best Animated Film:
+    best animated film:
       nominee: [tt0120630]
       winner: [tt0120630]
-    Best Child Performance:
+    best child performance:
       nominee: [tt0249462]
       winner: [tt0249462]
-    Best Cinematography:
+    best cinematography:
       nominee: [tt0172495]
       winner: [tt0172495]
-    Best Director:
+    best director:
       nominee: [tt0181865, tt0172495]
       winner: [tt0181865]
-    Best Family Film:
+    best family film:
       nominee: [tt0156812]
       winner: [tt0156812]
-    Best Feature Documentary:
+    best feature documentary:
       nominee: [tt0208261]
       winner: [tt0208261]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0190332]
       winner: [tt0190332]
-    Best Inanimate Object:
+    best inanimate object:
       nominee: [tt0162222]
       winner: [tt0162222]
-    Best Picture:
+    best picture:
       nominee: [tt0172495, tt0181875, tt0249462, tt0162222, tt0190332, tt0195685, tt0180073, tt0146309, tt0181865, tt0185014, tt0203230]
       winner: [tt0172495]
-    Best Production Design:
+    best production design:
       nominee: [tt0172495]
       winner: [tt0172495]
-    Best Score:
+    best score:
       nominee: [tt0138749]
       winner: [tt0138749]
-    Best Screenplay, Adapted:
+    best screenplay, adapted:
       nominee: [tt0181865, tt0185014]
       winner: [tt0181865, tt0185014]
-    Best Screenplay, Original:
+    best screenplay, original:
       nominee: [tt0181875]
       winner: [tt0181875]
-    Best Song:
+    best song:
       nominee: [tt0120917]
       winner: [tt0120917]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0180073, tt0181865]
       winner: [tt0180073]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0181875, tt0181875]
       winner: [tt0181875]
-    Breakthrough Artist:
+    breakthrough artist:
       nominee: [tt0181875]
       winner: [tt0181875]
-  Alan J. Pakula Award:
-    Alan J. Pakula Award:
+  alan j. pakula award:
+    alan j. pakula award:
       nominee: [tt0208874]
       winner: [tt0208874]
 '2000':
-  Critics Choice Award:
-    Best Actor:
+  critics choice award:
+    best actor:
       nominee: [tt0140352]
       winner: [tt0140352]
-    Best Actress:
+    best actress:
       nominee: [tt0171804]
       winner: [tt0171804]
-    Best Animated Film:
+    best animated film:
       nominee: [tt0120363]
       winner: [tt0120363]
-    Best Child Performance:
+    best child performance:
       nominee: [tt0167404]
       winner: [tt0167404]
-    Best Director:
+    best director:
       nominee: [tt0169547]
       winner: [tt0169547]
-    Best Family Film:
+    best family film:
       nominee: [tt0132477]
       winner: [tt0132477]
-    Best Feature Documentary:
+    best feature documentary:
       nominee: [tt0186508]
       winner: [tt0186508]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0185125]
       winner: [tt0185125]
-    Best Picture:
+    best picture:
       nominee: [tt0169547, tt0120601, tt0175880, tt0125664, tt0124315, tt0120689, tt0140352, tt0167404, tt0134119, tt0120188]
       winner: [tt0169547]
-    Best Score:
+    best score:
       nominee: [tt0134119]
       winner: [tt0134119]
-    Best Screenplay, Adapted:
+    best screenplay, adapted:
       nominee: [tt0120689]
       winner: [tt0120689]
-    Best Screenplay, Original:
+    best screenplay, original:
       nominee: [tt0169547]
       winner: [tt0169547]
-    Best Song:
+    best song:
       nominee: [tt0166943]
       winner: [tt0166943]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0120689]
       winner: [tt0120689]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0172493]
       winner: [tt0172493]
-    Breakthrough Artist:
+    breakthrough artist:
       nominee: [tt0120601]
       winner: [tt0120601]
 '1999':
-  Critics Choice Award:
-    Best Actor:
+  critics choice award:
+    best actor:
       nominee: [tt0120684]
       winner: [tt0120684]
-    Best Actress:
+    best actress:
       nominee: [tt0127536]
       winner: [tt0127536]
-    Best Animated Film:
+    best animated film:
       nominee: [tt0120623, tt0120794]
       winner: [tt0120623, tt0120794]
-    Best Director:
+    best director:
       nominee: [tt0120815]
       winner: [tt0120815]
-    Best Documentary:
+    best documentary:
       nominee: [tt0141986]
       winner: [tt0141986]
-    Best Family Film:
+    best family film:
       nominee: [tt0120623]
       winner: [tt0120623]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0118799]
       winner: [tt0118799]
-    Best Picture:
+    best picture:
       nominee: [tt0120815, tt0120324, tt0127536, tt0120684, tt0118799, tt0120780, tt0120789, tt0138097, tt0120863, tt0120382]
       winner: [tt0120815]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0120570]
       winner: [tt0120570]
-    Best Score:
+    best score:
       nominee: [tt0120815]
       winner: [tt0120815]
-    Best Screenplay, Adapted:
+    best screenplay, adapted:
       nominee: [tt0120324]
       winner: [tt0120324]
-    Best Screenplay, Original:
+    best screenplay, original:
       nominee: [tt0138097]
       winner: [tt0138097]
-    Best Song:
+    best song:
       nominee: [tt0120794]
       winner: [tt0120794]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0120324]
       winner: [tt0120324]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0120789, tt0119942]
       winner: [tt0120789, tt0119942]
-    Breakthrough Artist:
+    breakthrough artist:
       nominee: [tt0127536]
       winner: [tt0127536]
 '1998':
-  Critics Choice Award:
-    Best Actor:
+  critics choice award:
+    best actor:
       nominee: [tt0119822]
       winner: [tt0119822]
-    Best Actress:
+    best actress:
       nominee: [tt0120520]
       winner: [tt0120520]
-    Best Child Performance:
+    best child performance:
       nominee: [tt0119080]
       winner: [tt0119080]
-    Best Director:
+    best director:
       nominee: [tt0120338]
       winner: [tt0120338]
-    Best Documentary:
+    best documentary:
       nominee: [tt0118540]
       winner: [tt0118540]
-    Best Family Film:
+    best family film:
       nominee: [tt0118617]
       winner: [tt0118617]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0117615]
       winner: [tt0117615]
-    Best Picture:
+    best picture:
       nominee: [tt0119488, tt0118607, tt0119822, tt0118749, tt0119008, tt0119217, tt0119164, tt0120520, tt0120338, tt0120885]
       winner: [tt0119488]
-    Best Picture Made for Television:
+    best picture made for television:
       nominee: [tt0119838]
       winner: [tt0119838]
-    Best Screenplay, Adapted:
+    best screenplay, adapted:
       nominee: [tt0119488]
       winner: [tt0119488]
-    Best Screenplay, Original:
+    best screenplay, original:
       nominee: [tt0119217]
       winner: [tt0119217]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0118607]
       winner: [tt0118607]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0119360]
       winner: [tt0119360]
-    Breakthrough Artist:
+    breakthrough artist:
       nominee: [tt0119217]
       winner: [tt0119217]
-  Lifetime Achievement Award:
-    Lifetime Achievement Award:
+  lifetime achievement award:
+    lifetime achievement award:
       nominee: []
       winner: []
 '1997':
-  Critics Choice Award:
-    Best Actor:
+  critics choice award:
+    best actor:
       nominee: [tt0117631, tt0116695]
       winner: [tt0117631]
-    Best Actress:
+    best actress:
       nominee: [tt0116282, tt0116999]
       winner: [tt0116282]
-    Best Child Performance:
+    best child performance:
       nominee: [tt0116695, tt0116329]
       winner: [tt0116695]
-    Best Director:
+    best director:
       nominee: [tt0116209, tt0116282]
       winner: [tt0116209]
-    Best Documentary:
+    best documentary:
       nominee: [tt0118147, tt0117040]
       winner: [tt0118147]
-    Best Family Film:
+    best family film:
       nominee: [tt0116329, tt0115433]
       winner: [tt0116329]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0117477, tt0112769]
       winner: [tt0117477]
-    Best Picture:
+    best picture:
       nominee: [tt0116282, tt0115678, tt0116250, tt0116477, tt0116695, tt0116905, tt0117631, tt0115988, tt0116209, tt0117318]
       winner: [tt0116282]
-    Best Screenplay:
+    best screenplay:
       nominee: [tt0116209, tt0116282]
       winner: [tt0116209]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0116695, tt0117381, tt0116410]
       winner: [tt0116695]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0115988, tt0117318]
       winner: [tt0115988]
-    Breakthrough Artist:
+    breakthrough artist:
       nominee: [tt0116695]
       winner: [tt0116695]
-  Lifetime Achievement Award:
-    Lifetime Achievement Award:
+  lifetime achievement award:
+    lifetime achievement award:
       nominee: []
       winner: []
 '1996':
-  Critics Choice Award:
-    Best Actor:
+  critics choice award:
+    best actor:
       nominee: [tt0113870, tt0113627]
       winner: [tt0113870]
-    Best Actress:
+    best actress:
       nominee: [tt0114681, tt0112637]
       winner: [tt0114681]
-    Best Director:
+    best director:
       nominee: [tt0112573, tt0112384]
       winner: [tt0112573]
-    Best Documentary:
+    best documentary:
       nominee: [tt0109508]
       winner: [tt0109508]
-    Best Family Film:
+    best family film:
       nominee: [tt0112431]
       winner: [tt0112431]
-    Best Foreign-Language Film:
+    best foreign-language film:
       nominee: [tt0110877]
       winner: [tt0110877]
-    Best Picture:
+    best picture:
       nominee: [tt0114388, tt0112384]
       winner: [tt0114388]
-    Best Screenplay:
+    best screenplay:
       nominee: [tt0114388]
       winner: [tt0114388]
-    Best Supporting Actor:
+    best supporting actor:
       nominee: [tt0112384, tt0114069]
       winner: [tt0112384, tt0114069]
-    Best Supporting Actress:
+    best supporting actress:
       nominee: [tt0113819]
       winner: [tt0113819]
