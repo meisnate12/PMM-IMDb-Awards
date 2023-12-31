@@ -57,6 +57,8 @@ for i, event_id in enumerate(event_ids, 1):
     total_years = len(event_years)
     if event_id not in valid:
         valid[event_id] = {"years": event_years, "awards": [], "categories": []}
+    if "years" not in valid[event_id]:
+        valid[event_id]["years"] = event_years
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
