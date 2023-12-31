@@ -56,7 +56,7 @@ for i, event_id in enumerate(event_ids, 1):
         event_years.append(f"{parts[3]}{f'-{parts[4]}' if parts[4] != '1' else ''}")
     total_years = len(event_years)
     if event_id not in valid:
-        valid[event_id] = {"awards": [], "categories": []}
+        valid[event_id] = {"years": event_years, "awards": [], "categories": []}
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
