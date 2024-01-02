@@ -4,7 +4,7 @@
       nominee: [tt23561236, tt1517268, tt5537002, tt5535276, tt15398776, tt13238346, tt14230458, tt17351924, tt1200263, tt14849194]
       winner: []
     best actor in a drama series:
-      nominee: [tt7660850, tt7660850, tt3581920, tt17543592, tt14263564, tt9140554]
+      nominee: [tt7660850, tt3581920, tt17543592, tt14263564, tt9140554]
       winner: []
     best actor:
       nominee: [tt5535276, tt15398776, tt14160834, tt23561236, tt5537002, tt14849194]
@@ -16,7 +16,7 @@
       nominee: [tt9185206, tt1517268, tt6166392, tt14849194, tt11858890, tt17009710]
       winner: []
     best actress in a drama series:
-      nominee: [tt14263564, tt3581920, tt7203552, tt17491088, tt7203552, tt7660850]
+      nominee: [tt14263564, tt3581920, tt7203552, tt17491088, tt7660850]
       winner: []
     best actress:
       nominee: [tt5535276, tt14230458, tt13238346, tt5537002, tt1517268, tt17009710]
@@ -37,10 +37,10 @@
       nominee: [tt1517268, tt14849194, tt1200263, tt15398776, tt5302918, tt13651794]
       winner: []
     best supporting actress in a comedy series:
-      nominee: [tt5788792, tt14218830, tt15677150, tt11691774, tt13623580, tt14218830]
+      nominee: [tt5788792, tt14218830, tt15677150, tt11691774, tt13623580]
       winner: []
     best supporting actress in a drama series:
-      nominee: [tt12327578, tt11041332, tt4786824, tt7203552, tt7203552, tt9140554]
+      nominee: [tt12327578, tt11041332, tt4786824, tt7203552, tt9140554]
       winner: []
     best director:
       nominee: [tt14849194, tt5535276, tt15398776, tt1517268, tt5537002, tt14230458]
@@ -67,7 +67,7 @@
       nominee: [tt1517268, tt5535276, tt15398776, tt14230458, tt22041854, tt1200263]
       winner: []
     best song:
-      nominee: [tt1517268, tt1517268, tt1517268, tt14160834, tt6718170, tt11304740]
+      nominee: [tt1517268, tt14160834, tt6718170, tt11304740]
       winner: []
     best score:
       nominee: [tt1517268, tt5537002, tt15398776, tt14230458, tt16277242, tt9362722]
@@ -109,7 +109,7 @@
       nominee: [tt14586350, tt15384586, tt11468254, tt13911628, tt17921714, tt11816814]
       winner: []
     best supporting actress in a limited series or movie made for television:
-      nominee: [tt13911628, tt17921714, tt8749198, tt14403178, tt15567174, tt15567174]
+      nominee: [tt13911628, tt17921714, tt8749198, tt14403178, tt15567174]
       winner: []
     best movie made for television:
       nominee: [tt7991508, tt27145269, tt14509110, tt13405810, tt24068064, tt24249946]
@@ -122,10 +122,6 @@
       winner: []
     best foreign language series:
       nominee: [tt23149640, tt2531336, tt26258200, tt24640580, tt21344706, tt14206696, tt14588522]
-      winner: []
-  seeher award:
-    seeher award:
-      nominee: []
       winner: []
 '2023':
   critics choice award:
@@ -154,22 +150,22 @@
       nominee: [tt11815682, tt8064302, tt13623580, tt7569576, tt14218830, tt11650492]
       winner: [tt11815682]
     best supporting actor:
-      nominee: [tt6710474, tt11813216, tt11813216, tt10192406, tt14208870, tt14208870]
+      nominee: [tt6710474, tt11813216, tt10192406, tt14208870]
       winner: [tt6710474]
     best supporting actor in a comedy series:
-      nominee: [tt5348176, tt11379026, tt14218830, tt8064302, tt10985096, tt14218830]
+      nominee: [tt5348176, tt11379026, tt14218830, tt8064302, tt10985096]
       winner: [tt5348176]
     best supporting actor in a drama series:
       nominee: [tt3032476, tt5853176, tt7631058, tt5645432, tt11198330, tt9055008]
       winner: [tt3032476]
     best supporting actress:
-      nominee: [tt9114286, tt6710474, tt11564570, tt13669038, tt11813216, tt6710474]
+      nominee: [tt9114286, tt6710474, tt11564570, tt13669038, tt11813216]
       winner: [tt9114286]
     best supporting actress in a comedy series:
-      nominee: [tt14218830, tt6226232, tt14452776, tt14218830, tt15466144, tt13623580]
+      nominee: [tt14218830, tt6226232, tt14452776, tt15466144, tt13623580]
       winner: [tt14218830]
     best supporting actress in a drama series:
-      nominee: [tt13406094, tt5853176, tt3032476, tt5071412, tt11198330, tt3032476]
+      nominee: [tt13406094, tt5853176, tt3032476, tt5071412, tt11198330]
       winner: [tt13406094]
     best director:
       nominee: [tt6710474, tt3704428, tt10640346, tt8093700, tt1630029, tt11813216, tt8178634, tt13669038, tt14208870, tt14444726]
@@ -235,7 +231,7 @@
       nominee: [tt10166622, tt11866324, tt8740976, tt11834592, tt13659418, tt13223570]
       winner: [tt10166622]
     best supporting actor in a limited series or movie made for television:
-      nominee: [tt4301160, tt15574312, tt13111040, tt14675860, tt4301160, tt11834592]
+      nominee: [tt4301160, tt15574312, tt13111040, tt14675860, tt11834592]
       winner: [tt4301160]
     best supporting actress in a limited series or movie made for television:
       nominee: [tt13207736, tt11834592, tt11527058, tt13820498, tt13111040, tt13729648]
@@ -252,14 +248,6 @@
     best foreign language series:
       nominee: [tt8888462, tt9319668, tt1526318, tt21167784, tt14599306, tt15135104, tt7278862, tt10577736, tt4179452]
       winner: [tt8888462]
-  lifetime achievement award:
-    lifetime achievement award:
-      nominee: []
-      winner: []
-  seeher award:
-    seeher award:
-      nominee: []
-      winner: []
 '2022':
   critics choice award:
     best acting ensemble:
@@ -269,10 +257,10 @@
       nominee: [tt9620288, tt8721424, tt10293406, tt10095582, tt11003218, tt12889404]
       winner: [tt9620288]
     best actor in a comedy series:
-      nominee: [tt10986410, tt6226232, tt7908628, tt11691774, tt2235759, tt11691774]
+      nominee: [tt10986410, tt6226232, tt7908628, tt11691774, tt2235759]
       winner: [tt10986410]
     best actor in a drama series:
-      nominee: [tt10919420, tt7562112, tt7660850, tt7660850, tt9055008, tt5555260]
+      nominee: [tt10919420, tt7562112, tt7660850, tt9055008, tt5555260]
       winner: [tt10919420]
     best actor in a limited series or movie made for television:
       nominee: [tt9174558, tt10574558, tt9179552, tt9140342, tt9140560, tt10380768]
@@ -353,28 +341,28 @@
       nominee: [tt2382320, tt11286314, tt2953050, tt9620288, tt10696784]
       winner: [tt2382320]
     best supporting actor:
-      nominee: [tt10366460, tt12789558, tt4995540, tt12789558, tt11214590, tt10293406]
+      nominee: [tt10366460, tt12789558, tt4995540, tt11214590, tt10293406]
       winner: [tt10366460]
     best supporting actor in a comedy series:
       nominee: [tt10986410, tt0072562, tt11379026, tt7908628, tt7767422, tt7808566]
       winner: [tt10986410]
     best supporting actor in a drama series:
-      nominee: [tt7660850, tt7203552, tt5555260, tt5853176, tt7660850, tt7660850]
+      nominee: [tt7660850, tt7203552, tt5555260, tt5853176]
       winner: [tt7660850]
     best supporting actor in a limited series or movie made for television:
       nominee: [tt13406094, tt9179552, tt5673782, tt10155688, tt6704972, tt10574558]
       winner: [tt13406094]
     best supporting actress:
-      nominee: [tt3581652, tt11389748, tt9620288, tt12789558, tt10293406, tt3581652]
+      nominee: [tt3581652, tt11389748, tt9620288, tt12789558, tt10293406]
       winner: [tt3581652]
     best supporting actress in a comedy series:
       nominee: [tt10986410, tt0072562, tt11815682, tt11032396, tt11808942, tt8310612]
       winner: [tt10986410]
     best supporting actress in a drama series:
-      nominee: [tt7660850, tt9055008, tt5853176, tt9055008, tt7660850, tt5555260]
+      nominee: [tt7660850, tt9055008, tt5853176, tt5555260]
       winner: [tt7660850]
     best supporting actress in a limited series or movie made for television:
-      nominee: [tt13406094, tt10155688, tt10155688, tt9174558, tt9140560, tt8760932]
+      nominee: [tt13406094, tt10155688, tt9174558, tt9140560, tt8760932]
       winner: [tt13406094]
     best talk show:
       nominee: [tt3530232, tt9362790, tt3513388, tt11058078, tt9022950, tt2057880]
@@ -385,14 +373,6 @@
     best young actor/actress:
       nominee: [tt12789558, tt11271038, tt10366460, tt3581652, tt9620288, tt10986222]
       winner: [tt12789558]
-  lifetime achievement award:
-    lifetime achievement award:
-      nominee: []
-      winner: []
-  seeher award:
-    seeher award:
-      nominee: []
-      winner: []
 '2021':
   critics choice award:
     best picture:
@@ -411,7 +391,7 @@
       nominee: [tt10633456, tt10539608, tt6878306, tt10627584, tt6857376, tt7772582]
       winner: [tt10633456]
     best actress in a drama series:
-      nominee: [tt4786824, tt5853176, tt1796960, tt6905686, tt5071412, tt4786824]
+      nominee: [tt4786824, tt5853176, tt1796960, tt6905686, tt5071412]
       winner: [tt4786824]
     best actress:
       nominee: [tt9620292, tt8521718, tt9770150, tt7772582, tt11161474, tt10514222, tt12676326]
@@ -423,7 +403,7 @@
       nominee: [tt9784798, tt9606374, tt9777644, tt10612922, tt5363618, tt1070874]
       winner: [tt9784798]
     best supporting actor in a comedy series:
-      nominee: [tt3526078, tt10314462, tt7406334, tt7908628, tt7908628, tt2660806]
+      nominee: [tt3526078, tt10314462, tt7406334, tt7908628, tt2660806]
       winner: [tt3526078]
     best supporting actor in a drama series:
       nominee: [tt6905686, tt2077823, tt3032476, tt5555260, tt4786824, tt5071412]
@@ -435,7 +415,7 @@
       nominee: [tt10986410, tt8595140, tt3526078, tt8962124, tt2660806, tt5339440]
       winner: [tt10986410]
     best supporting actress in a drama series:
-      nominee: [tt4786824, tt8550800, tt5071412, tt5071412, tt3032476, tt6905686]
+      nominee: [tt4786824, tt8550800, tt5071412, tt3032476, tt6905686]
       winner: [tt4786824]
     best director:
       nominee: [tt9770150, tt1070874, tt10618286, tt9620292, tt10633456, tt10612922, tt9777644]
@@ -504,18 +484,14 @@
       nominee: [tt10048342, tt9244556, tt9059760, tt11204260, tt9815454, tt9827834]
       winner: [tt10048342]
     best supporting actor in a limited series or a movie made for television:
-      nominee: [tt8134470, tt3673480, tt9827854, tt2802850, tt9308346, tt3673480]
+      nominee: [tt8134470, tt3673480, tt9827854, tt2802850, tt9308346]
       winner: [tt8134470]
     best supporting actress in a limited series or a movie made for television:
-      nominee: [tt9244556, tt10394844, tt9244556, tt10048342, tt9244556, tt9308346]
+      nominee: [tt9244556, tt10394844, tt10048342, tt9308346]
       winner: [tt9244556]
     best movie made for television:
       nominee: [tt8503618, tt8206668, tt12890926, tt9827834, tt10098482, tt13096334]
       winner: [tt8503618]
-  seeher award:
-    seeher award:
-      nominee: []
-      winner: []
 '2020':
   critics choice award:
     best picture:
@@ -531,7 +507,7 @@
       nominee: [tt5348176, tt7422812, tt3526078, tt8880894, tt7649694, tt4955642, tt10329028]
       winner: [tt5348176]
     best young actor/actress:
-      nominee: [tt2584384, tt2584384, tt7131622, tt8151874, tt6857112, tt2584384]
+      nominee: [tt2584384, tt7131622, tt8151874, tt6857112]
       winner: [tt2584384]
     best actress in a drama series:
       nominee: [tt7049682, tt5853176, tt7016936, tt7562112, tt3920596, tt4786824, tt7660850, tt8772296]
@@ -543,13 +519,13 @@
       nominee: [tt5687612, tt5770786, tt3526078, tt8064302, tt1759761, tt6398232, tt5788792]
       winner: [tt5687612]
     best supporting actor:
-      nominee: [tt7131622, tt1302006, tt8404614, tt1302006, tt3224458, tt7984734]
+      nominee: [tt7131622, tt1302006, tt8404614, tt3224458, tt7984734]
       winner: [tt7131622]
     best supporting actor in a comedy series:
-      nominee: [tt5687612, tt2467372, tt5348176, tt3526078, tt5348176, tt4477976, tt4955642]
+      nominee: [tt5687612, tt2467372, tt5348176, tt3526078, tt4477976, tt4955642]
       winner: [tt5687612]
     best supporting actor in a drama series:
-      nominee: [tt7203552, tt5555260, tt4270492, tt5853176, tt5555260, tt0944947, tt7049682]
+      nominee: [tt7203552, tt5555260, tt4270492, tt5853176, tt0944947, tt7049682]
       winner: [tt7203552]
     best supporting actress:
       nominee: [tt7653254, tt3281548, tt5503686, tt6394270, tt2584384, tt8637428]
@@ -558,7 +534,7 @@
       nominee: [tt5788792, tt3526078, tt5770786, tt4955642, tt8310612, tt5339440, tt5687612]
       winner: [tt5788792]
     best supporting actress in a drama series:
-      nominee: [tt7049682, tt5853176, tt0944947, tt4786824, tt3920596, tt3920596, tt5555260]
+      nominee: [tt7049682, tt5853176, tt0944947, tt4786824, tt3920596, tt5555260]
       winner: [tt7049682]
     best director:
       nominee: [tt6751668, tt8579674, tt3281548, tt5727208, tt1302006, tt7653254, tt7131622]
@@ -633,21 +609,17 @@
       nominee: [tt7137906, tt5056196, tt7366338, tt2356777, tt9564862, tt6821044, tt8746478]
       winner: [tt7137906]
     best actress in a limited series or movie made for television:
-      nominee: [tt8746478, tt8543390, tt10016704, tt8682948, tt7909970, tt10016704, tt7909970]
+      nominee: [tt8746478, tt8543390, tt10016704, tt8682948, tt7909970]
       winner: [tt8746478]
     best supporting actor in a limited series or movie made for television:
-      nominee: [tt7366338, tt7137906, tt8543390, tt5056196, tt9243946, tt7137906, tt8694364]
+      nominee: [tt7366338, tt7137906, tt8543390, tt5056196, tt9243946, tt8694364]
       winner: [tt7366338]
     best supporting actress in a limited series or movie made for television:
-      nominee: [tt7909970, tt7366338, tt8694364, tt8746478, tt7137906, tt7137906, tt8682948]
+      nominee: [tt7909970, tt7366338, tt8694364, tt8746478, tt7137906, tt8682948]
       winner: [tt7909970]
     best movie made for television:
       nominee: [tt9243946, tt8425058, tt4943998, tt8858104, tt6566768, tt10016704]
       winner: [tt9243946]
-  seeher award:
-    seeher award:
-      nominee: []
-      winner: []
 '2019':
   critics choice award:
     best picture:
@@ -669,7 +641,7 @@
       nominee: [tt7014006, tt5580266, tt5929754, tt6644200, tt5613484, tt3892172]
       winner: [tt7014006]
     best actress in a drama series:
-      nominee: [tt7016936, tt5834204, tt8000638, tt7016936, tt7008682, tt2149175, tt4998350]
+      nominee: [tt7016936, tt5834204, tt8000638, tt7008682, tt2149175, tt4998350]
       winner: [tt7016936]
     best actress:
       nominee: [tt3750872, tt1517451, tt5028340, tt4595882, tt5083738, tt7784604, tt6155172]
@@ -693,16 +665,16 @@
       nominee: [tt6938856, tt5673782, tt6874964, tt6866266, tt2788432, tt6474236]
       winner: [tt6938856]
     best supporting actress:
-      nominee: [tt7125860, tt6266538, tt1213641, tt5083738, tt7008872, tt5083738]
+      nominee: [tt7125860, tt6266538, tt1213641, tt5083738, tt7008872]
       winner: [tt7125860]
     best supporting actress in a comedy series:
-      nominee: [tt5788792, tt6226232, tt5770786, tt8595140, tt3288518, tt5339440, tt6226232]
+      nominee: [tt5788792, tt6226232, tt5770786, tt8595140, tt3288518, tt5339440]
       winner: [tt5788792]
     best supporting actress in a drama series:
       nominee: [tt0475784, tt5057054, tt2149175, tt5071412, tt3032476, tt5834204]
       winner: [tt0475784]
     best supporting actress in a movie or limited series:
-      nominee: [tt2649356, tt2649356, tt4015500, tt2788432, tt7945720, tt2788432]
+      nominee: [tt2649356, tt4015500, tt2788432, tt7945720]
       winner: [tt2649356]
     best director:
       nominee: [tt6155172, tt6266538, tt1517451, tt1213641, tt6966692, tt7349662, tt5083738]
@@ -729,7 +701,7 @@
       nominee: [tt6266538, tt1825683, tt1727824, tt2328900, tt1034415, tt5083738]
       winner: [tt6266538]
     best song:
-      nominee: [tt1517451, tt1825683, tt4878482, tt5028340, tt5028340, tt7689964]
+      nominee: [tt1517451, tt1825683, tt4878482, tt5028340, tt7689964]
       winner: [tt1517451]
     best score:
       nominee: [tt1213641, tt6966692, tt7125860, tt5104604, tt5028340]
@@ -768,7 +740,7 @@
       nominee: [tt6644200, tt2798920, tt1502407, tt7784604, tt1034415]
       winner: [tt6644200]
     best actor in a movie made for television or limited series:
-      nominee: [tt2788432, tt5673782, tt6866266, tt6938856, tt6874964, tt6866266]
+      nominee: [tt2788432, tt5673782, tt6866266, tt6938856, tt6874964]
       winner: [tt2788432]
     best actress in a movie made for television or limited series:
       nominee: [tt2649356, tt6866266, tt7722000, tt6048596, tt7945720, tt4015500]
@@ -776,10 +748,6 @@
     best movie made for tv:
       nominee: [tt6874964, tt6341668, tt7473890, tt1311076, tt7722000, tt4015500]
       winner: [tt6874964]
-  seeher award:
-    seeher award:
-      nominee: []
-      winner: []
 '2018':
   critics choice award:
     best picture:
@@ -813,7 +781,7 @@
       nominee: [tt5788792, tt5770786, tt3551096, tt3339966, tt4955642, tt3288518]
       winner: [tt5788792]
     best supporting actor:
-      nominee: [tt5027774, tt5726616, tt5726616, tt3315342, tt5580390, tt5649144]
+      nominee: [tt5027774, tt5726616, tt3315342, tt5580390, tt5649144]
       winner: [tt5027774]
     best supporting actor in a comedy series:
       nominee: [tt3766376, tt1442437, tt2575988, tt5770786, tt0157246, tt3339966]
@@ -906,10 +874,10 @@
       nominee: [tt5219042, tt1068912, tt0450920, tt6225166, tt5547946, tt1566154]
       winner: [tt5219042]
     best actor in a movie made for television or limited series:
-      nominee: [tt2802850, tt6048596, tt1844624, tt5516154, tt5516154, tt6877772, tt1933667]
+      nominee: [tt2802850, tt6048596, tt1844624, tt5516154, tt6877772, tt1933667]
       winner: [tt2802850]
     best actress in a movie made for television or limited series:
-      nominee: [tt3920596, tt7492998, tt2802850, tt6048596, tt1984119, tt3920596]
+      nominee: [tt3920596, tt7492998, tt2802850, tt6048596, tt1984119]
       winner: [tt3920596]
     best movie made for television:
       nominee: [tt1933667, tt6397426, tt7492998, tt1475582, tt5686132]
@@ -918,15 +886,11 @@
       nominee: [tt1442550, tt4591390, tt3559912, tt3080030, tt1442553, tt1365047]
       winner: [tt1442550]
     best supporting actor in a movie made for television or limited series:
-      nominee: [tt3920596, tt1984119, tt3488298, tt2802850, tt5673782, tt1984119]
+      nominee: [tt3920596, tt1984119, tt3488298, tt2802850, tt5673782]
       winner: [tt3920596]
     best supporting actress in a movie made for television or limited series:
-      nominee: [tt3920596, tt1984119, tt1984119, tt2802850, tt1933667, tt3488298]
+      nominee: [tt3920596, tt1984119, tt2802850, tt1933667, tt3488298]
       winner: [tt3920596]
-  seeher award:
-    seeher award:
-      nominee: []
-      winner: []
 2016-2:
   critics choice award:
     best picture:
@@ -954,7 +918,7 @@
       nominee: [tt1386697, tt2975590, tt3498820, tt1211837]
       winner: [tt1386697]
     best supporting actor:
-      nominee: [tt4975722, tt2582782, tt3741834, tt2582782, tt4034228, tt4550098]
+      nominee: [tt4975722, tt2582782, tt3741834, tt4034228, tt4550098]
       winner: [tt4975722]
     best supporting actress:
       nominee: [tt2671706, tt4385888, tt4846340, tt4034228, tt4975722, tt3741834]
@@ -984,7 +948,7 @@
       nominee: [tt1619029, tt1211837, tt3183660, tt2119532, tt2660888]
       winner: [tt1619029]
     best song:
-      nominee: [tt3783958, tt3783958, tt3521164, tt1974420, tt3544112, tt1679335]
+      nominee: [tt3783958, tt3521164, tt1974420, tt3544112, tt1679335]
       winner: [tt3783958]
     best score:
       nominee: [tt3783958, tt2543164, tt1619029, tt3741834, tt4975722]
@@ -1010,17 +974,13 @@
     best sci-fi/horror movie:
       nominee: [tt2543164, tt1179933, tt1211837, tt4160708, tt2660888, tt4263482]
       winner: [tt2543164]
-  seeher award:
-    seeher award:
-      nominee: []
-      winner: []
 '2016':
   critics choice award:
     best actor:
       nominee: [tt1663202, tt3203606, tt0810819, tt1355683, tt3659388, tt2080374]
       winner: [tt1663202]
     best actor in a comedy:
-      nominee: [tt1596363, tt3152624, tt3079380, tt2361509, tt1596363]
+      nominee: [tt1596363, tt3152624, tt3079380, tt2361509]
       winner: [tt1596363]
     best actor in an action movie:
       nominee: [tt1392190, tt0369610, tt2379713, tt0478970, tt2381249]
@@ -1100,10 +1060,6 @@
     best visual effects:
       nominee: [tt1392190, tt0470752, tt0369610, tt3659388, tt1663202, tt3488710]
       winner: [tt1392190]
-  critics' choice mvp award:
-    critics' choice mvp award:
-      nominee: []
-      winner: []
 '2015':
   critics choice award:
     best picture:
@@ -1190,14 +1146,6 @@
     best sci-fi/horror movie:
       nominee: [tt0816692, tt2103281, tt1706620, tt2321549, tt1441395]
       winner: [tt0816692]
-  lifetime achievement award:
-    lifetime achievement award:
-      nominee: []
-      winner: []
-  critics' choice louis xiii genius award:
-    critics' choice louis xiii genius award:
-      nominee: []
-      winner: []
   critics' choice mvp award:
     critics' choice mvp award:
       nominee: [tt2937898]
@@ -1223,7 +1171,7 @@
       nominee: [tt2334873, tt2370248, tt2140373, tt2431286, tt1322269, tt1454468]
       winner: [tt2334873]
     best actress in a comedy:
-      nominee: [tt1800241, tt2347569, tt2390361, tt2404463, tt2404463]
+      nominee: [tt1800241, tt2347569, tt2390361, tt2404463]
       winner: [tt1800241]
     best actress in an action movie:
       nominee: [tt1454468, tt1170358, tt1300854, tt1951264]
@@ -1288,14 +1236,6 @@
     best sci-fi/horror movie:
       nominee: [tt1454468, tt1408101, tt1457767, tt0816711]
       winner: [tt1454468]
-  joel siegel award:
-    joel siegel award:
-      nominee: []
-      winner: []
-  critics' choice louis xiii genius award:
-    critics' choice louis xiii genius award:
-      nominee: []
-      winner: []
 '2013':
   critics choice award:
     best picture:
@@ -1385,10 +1325,6 @@
     favorite film franchise:
       nominee: [tt0120737, tt0372784, tt0241527, tt0082971, tt0114709, tt1099212]
       winner: [tt0120737]
-  critics' choice louis xiii genius award:
-    critics' choice louis xiii genius award:
-      nominee: []
-      winner: []
 '2012':
   critics choice award:
     best picture:
@@ -1407,7 +1343,7 @@
       nominee: [tt1532503, tt0780504, tt1318514, tt1655420, tt1291584, tt1625346]
       winner: [tt1532503]
     best supporting actress:
-      nominee: [tt1454029, tt1655442, tt1723811, tt1454029, tt1478338, tt1033575]
+      nominee: [tt1454029, tt1655442, tt1723811, tt1478338, tt1033575]
       winner: [tt1454029]
     best director:
       nominee: [tt1655442, tt1033575, tt0970179, tt0780504, tt0477302, tt1568911]
@@ -1440,7 +1376,7 @@
       nominee: [tt1201607, tt1602098, tt1616195, tt1655420, tt1007029]
       winner: [tt1201607]
     best song:
-      nominee: [tt1204342, tt0377981, tt1454029, tt1204342, tt1204342]
+      nominee: [tt1204342, tt0377981, tt1454029]
       winner: [tt1204342]
     best score:
       nominee: [tt1655442, tt0780504, tt0970179, tt1568346, tt1568911]
@@ -1463,10 +1399,6 @@
     best comedy movie:
       nominee: [tt1478338, tt1570728, tt1499658, tt1605783, tt1204342]
       winner: [tt1478338]
-  joel siegel award:
-    joel siegel award:
-      nominee: []
-      winner: []
 '2011':
   critics choice award:
     best picture:
@@ -1476,7 +1408,7 @@
       nominee: [tt1504320, tt1542344, tt1403865, tt1285016, tt1194263, tt1120985]
       winner: [tt1504320]
     best young actor/actress:
-      nominee: [tt1403865, tt1250777, tt1228987, tt1421051, tt1399683, tt1228987]
+      nominee: [tt1403865, tt1250777, tt1228987, tt1421051, tt1399683]
       winner: [tt1403865]
     best actress:
       nominee: [tt0947798, tt0842926, tt1399683, tt1120985, tt0935075, tt1132620]
@@ -1485,7 +1417,7 @@
       nominee: [tt0964517, tt1285016, tt1504320, tt0840361, tt0842926, tt1244754]
       winner: [tt0964517]
     best supporting actress:
-      nominee: [tt0964517, tt0964517, tt1403865, tt1504320, tt1313092, tt0947798]
+      nominee: [tt0964517, tt1403865, tt1504320, tt1313092, tt0947798]
       winner: [tt0964517]
     best director:
       nominee: [tt1285016, tt1375666, tt1542344, tt0947798, tt1403865, tt1504320]
@@ -1544,10 +1476,6 @@
     best score:
       nominee: [tt1285016, tt0947798, tt1375666, tt1504320, tt1403865]
       winner: [tt1285016]
-  joel siegel award:
-    joel siegel award:
-      nominee: []
-      winner: []
 '2010':
   critics choice award:
     best picture:
@@ -1566,7 +1494,7 @@
       nominee: [tt0361748, tt1174732, tt1175506, tt1057500, tt0380510, tt0790712]
       winner: [tt0361748]
     best supporting actress:
-      nominee: [tt0929632, tt1193138, tt1315981, tt0875034, tt0790712, tt1193138]
+      nominee: [tt0929632, tt1193138, tt1315981, tt0875034, tt0790712]
       winner: [tt0929632]
     best director:
       nominee: [tt0887912, tt1057500, tt0499549, tt1193138, tt0929632, tt0361748]
@@ -1625,10 +1553,6 @@
     best score:
       nominee: [tt1049413, tt0988045, tt1130080, tt0780521, tt0386117]
       winner: [tt1049413]
-  joel siegel award:
-    joel siegel award:
-      nominee: []
-      winner: []
 '2009':
   critics choice award:
     best acting ensemble:
@@ -1671,7 +1595,7 @@
       nominee: [tt1125849, tt0397892, tt0830515, tt1010048, tt0910970]
       winner: [tt1125849]
     best supporting actor:
-      nominee: [tt0468569, tt1013753, tt1013753, tt0918927, tt0942385]
+      nominee: [tt0468569, tt1013753, tt0918927, tt0942385]
       winner: [tt0468569]
     best supporting actress:
       nominee: [tt0976051, tt1125849, tt0497465, tt0421715, tt1073241, tt0918927]
@@ -1682,10 +1606,6 @@
     best young actor/actress (under 21):
       nominee: [tt1010048, tt0455824, tt0416212, tt0976051]
       winner: [tt1010048]
-  joel siegel award:
-    joel siegel award:
-      nominee: []
-      winner: []
 '2008':
   critics choice award:
     best acting ensemble:
@@ -1742,10 +1662,6 @@
     best young actress:
       nominee: [tt0427327, tt0398808, tt0385752, tt0783233]
       winner: [tt0427327]
-  joel siegel award:
-    joel siegel award:
-      nominee: []
-      winner: []
 '2007':
   critics choice award:
     best acting ensemble:
@@ -1794,7 +1710,7 @@
       nominee: [tt0443489, tt0418689, tt0449059, tt0427969, tt0450259, tt0407887]
       winner: [tt0443489]
     best supporting actress:
-      nominee: [tt0443489, tt0449467, tt0465551, tt0470765, tt0420223, tt0449467]
+      nominee: [tt0443489, tt0449467, tt0465551, tt0470765, tt0420223]
       winner: [tt0443489]
     best writer:
       nominee: [tt0449059, tt0449467, tt0404203, tt0420223, tt0407887, tt0436697]
@@ -1850,7 +1766,7 @@
       nominee: [tt0358273, tt0368709, tt0397535, tt0294870, tt0395251]
       winner: [tt0358273]
     best supporting actor:
-      nominee: [tt0352248, tt0365737, tt0388795, tt0365885, tt0375679, tt0375679]
+      nominee: [tt0352248, tt0365737, tt0388795, tt0365885, tt0375679]
       winner: [tt0352248]
     best supporting actress:
       nominee: [tt0418773, tt0388795, tt0379725, tt0395972, tt0399146, tt0387131]
@@ -1859,7 +1775,7 @@
       nominee: [tt0375679, tt0388795, tt0379725, tt0433383, tt0367089]
       winner: [tt0375679]
     best young actor:
-      nominee: [tt0367594, tt0366777, tt0330373, tt0367089, tt0367089]
+      nominee: [tt0367594, tt0366777, tt0330373, tt0367089]
       winner: [tt0367594]
     best young actress:
       nominee: [tt0407304, tt0330373, tt0387059, tt0363771, tt0402399]
@@ -1927,10 +1843,6 @@
     best young actress:
       nominee: [tt0293508, tt0328107, tt0339291, tt0304141, tt0377092]
       winner: [tt0293508]
-  distinguished achievement in performing arts:
-    distinguished achievement in performing arts:
-      nominee: []
-      winner: []
 '2004':
   critics choice award:
     best acting ensemble:
@@ -1979,16 +1891,8 @@
       nominee: [tt0298845, tt0319061, tt0335266, tt0327056, tt0329575]
       winner: [tt0298845]
     best young actor/actress:
-      nominee: [tt0298228, tt0298845, tt0328538, tt0298845]
+      nominee: [tt0298228, tt0298845, tt0328538]
       winner: [tt0298228]
-  passion in film award:
-    passion in film award:
-      nominee: []
-      winner: []
-  lifetime achievement award:
-    lifetime achievement award:
-      nominee: []
-      winner: []
 '2003':
   critics choice award:
     best acting ensemble:
@@ -2156,7 +2060,7 @@
       nominee: [tt0180073, tt0181865]
       winner: [tt0180073]
     best supporting actress:
-      nominee: [tt0181875, tt0181875]
+      nominee: [tt0181875]
       winner: [tt0181875]
     breakthrough artist:
       nominee: [tt0181875]
@@ -2309,10 +2213,6 @@
     breakthrough artist:
       nominee: [tt0119217]
       winner: [tt0119217]
-  lifetime achievement award:
-    lifetime achievement award:
-      nominee: []
-      winner: []
 '1997':
   critics choice award:
     best actor:
@@ -2351,10 +2251,6 @@
     breakthrough artist:
       nominee: [tt0116695]
       winner: [tt0116695]
-  lifetime achievement award:
-    lifetime achievement award:
-      nominee: []
-      winner: []
 '1996':
   critics choice award:
     best actor:

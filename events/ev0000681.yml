@@ -59,10 +59,6 @@
     special jury prize:
       nominee: [tt28497330]
       winner: [tt28497330]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt28490044]
@@ -90,10 +86,6 @@
     best film:
       nominee: [tt14225838]
       winner: [tt14225838]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   fedic award:
     best film:
       nominee: [tt14225838]
@@ -193,10 +185,6 @@
     best set designer:
       nominee: [tt23573936]
       winner: [tt23573936]
-  campari passion for the cinema award:
-    campari passion for the cinema award:
-      nominee: []
-      winner: []
   mario serandrei - hotel saturnia & international award for the best technical contribution:
     mario serandrei - hotel saturnia & international award for the best technical contribution:
       nominee: [tt28516806]
@@ -244,16 +232,12 @@
       winner: [tt18989512]
   sic@sic short italian cinema @ settimana internazionale della critica:
     best short film:
-      nominee: [tt28484760, tt28484750, tt28484717, tt28484672, tt28484684, tt28484638, tt28484760, tt28484619]
+      nominee: [tt28484760, tt28484750, tt28484717, tt28484672, tt28484684, tt28484638, tt28484619]
       winner: [tt28484760]
   giornate degli autori award:
     giornate degli autori award:
       nominee: [tt24216998, tt28380004, tt28641753, tt21882016, tt27827704, tt28635355, tt26254622, tt28449053, tt27139897, tt16968976]
       winner: [tt24216998]
-  cartier glory to the filmmaker award:
-    cartier glory to the filmmaker award:
-      nominee: []
-      winner: []
   venice immersive:
     grand jury prize:
       nominee: [tt28498214]
@@ -285,10 +269,6 @@
     venice immersive grand prize:
       nominee: [tt23395398, tt25603068, tt28498896, tt28498942, tt28499674, tt28498162, tt28499586, tt28490566, tt10501214, tt28499356, tt28499593, tt28498956, tt28499609, tt28499386, tt28498390, tt28498843, tt28498919, tt28469509, tt28499573, tt28498985, tt28498353, tt28498459, tt28499622, tt28498214, tt28499734, tt28498416, tt28498325, tt28079209]
       winner: []
-  le vie dell'immagine award:
-    le vie dell'immagine award:
-      nominee: []
-      winner: []
   premio cinemasarà award - special mention:
     premio cinemasarà award - special mention:
       nominee: [tt28490044]
@@ -301,10 +281,6 @@
     unimed prize for cultural diversity:
       nominee: [tt27722543]
       winner: [tt27722543]
-  robert bresson award:
-    robert bresson award:
-      nominee: []
-      winner: []
   the film club audience award:
     the film club audience award:
       nominee: [tt20729172]
@@ -313,10 +289,6 @@
     impact award:
       nominee: [tt14225838]
       winner: [tt14225838]
-  premio kinéo:
-    best international actress:
-      nominee: []
-      winner: []
   cinema & arts award:
     cinema & arts award:
       nominee: [tt28380004, tt25650046]
@@ -382,10 +354,6 @@
     special jury prize:
       nominee: [tt15062756]
       winner: [tt15062756]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt15301048]
@@ -455,9 +423,6 @@
     best soundtrack:
       nominee: [tt13806164]
       winner: [tt13806164]
-    lifetime achievement award:
-      nominee: []
-      winner: []
   fedeora award:
     best film (venice days):
       nominee: [tt15304420, tt21438476, tt8649344, tt13844844, tt14572544, tt14071684, tt21352686, tt18039808, tt21859796, tt21838736]
@@ -490,10 +455,6 @@
     best production manager:
       nominee: [tt14575898]
       winner: [tt14575898]
-  campari passion for the cinema award:
-    campari passion for the cinema award:
-      nominee: []
-      winner: []
   smithers foundation award:
     ambassador of hope:
       nominee: [tt21374850]
@@ -551,10 +512,6 @@
     best technical contribution:
       nominee: [tt21833314]
       winner: [tt21833314]
-  cartier glory to the filmmaker award:
-    cartier glory to the filmmaker award:
-      nominee: []
-      winner: []
   hfpa special prize:
     hfpa special prize:
       nominee: [tt20834766, tt21379286, tt21379366, tt17424878]
@@ -588,10 +545,6 @@
     giornate degli autori's people choice award:
       nominee: [tt8649344]
       winner: [tt8649344]
-  amfar award:
-    award of courage:
-      nominee: []
-      winner: []
 '2021':
   golden lion:
     best film:
@@ -638,7 +591,7 @@
       nominee: [tt13269580]
       winner: [tt13269580]
     best film:
-      nominee: [tt15118036, tt15119676, tt12244822, tt13153782, tt15119666, tt13269580, tt10540510, tt14355860, tt12381206, tt13846472, tt3781118, tt15119668, tt15108354, tt12579120, tt9056484, tt9056484, tt13757758, tt10310074, tt10166880, tt11813228]
+      nominee: [tt15118036, tt15119676, tt12244822, tt13153782, tt15119666, tt13269580, tt10540510, tt14355860, tt12381206, tt13846472, tt3781118, tt15119668, tt15108354, tt12579120, tt9056484, tt13757758, tt10310074, tt10166880, tt11813228]
       winner: [tt15118036]
     best screenplay:
       nominee: [tt15119676]
@@ -649,10 +602,6 @@
     special jury prize:
       nominee: [tt15108354]
       winner: [tt15108354]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt13880104]
@@ -683,7 +632,7 @@
       winner: [tt14353840]
   queer lion:
     queer lion:
-      nominee: [tt15099928, tt12509164, tt12593218, tt11700260, tt12618926, tt15132028, tt13003972, tt12579120, tt13757758, tt10293406]
+      nominee: [tt15099928, tt12593218, tt11700260, tt12618926, tt15132028, tt13003972, tt12579120, tt12509164, tt13757758, tt10293406]
       winner: [tt15099928]
   label europa cinemas:
     best film:
@@ -705,9 +654,6 @@
     best soundtrack:
       nominee: [tt7270808]
       winner: [tt7270808]
-    lifetime achievement award:
-      nominee: []
-      winner: []
     special mention:
       nominee: [tt8760670]
       winner: [tt8760670]
@@ -827,10 +773,6 @@
     virtual reality competition:
       nominee: [tt15138598, tt15328056, tt15238316, tt15256454, tt15311578, tt15171978, tt15211340, tt15137272, tt15326688, tt15171782, tt10855054, tt15310908, tt15239762, tt15231236, tt15321440, tt15313428, tt15211268, tt15310882, tt15227742, tt15239690, tt15231388, tt15231144]
       winner: [tt15138598]
-  cartier glory to the filmmaker award:
-    cartier glory to the filmmaker award:
-      nominee: []
-      winner: []
   hfpa special prize:
     hfpa special prize:
       nominee: [tt15123534, tt15123740, tt13658076, tt14915618]
@@ -843,10 +785,6 @@
     premio per l'inclusione edipo re (giornate degli autori):
       nominee: [tt13919968]
       winner: [tt13919968]
-  premio ulisse terra di cinema:
-    premio ulisse terra di cinema:
-      nominee: []
-      winner: []
 '2020':
   golden lion:
     best film:
@@ -904,10 +842,6 @@
     special jury prize:
       nominee: [tt6627168]
       winner: [tt6627168]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt11423784]
@@ -953,10 +887,6 @@
     younger's in movie:
       nominee: [tt8166320]
       winner: [tt8166320]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   leoncino d'oro agiscuola award:
     leoncino d'oro agiscuola award:
       nominee: [tt12474056]
@@ -972,9 +902,6 @@
     best soundtrack:
       nominee: [tt11009666]
       winner: [tt11009666]
-    lifetime achievement award:
-      nominee: []
-      winner: []
   bisato d'oro:
     best cinematography:
       nominee: [tt12789540]
@@ -989,13 +916,6 @@
     best italian film:
       nominee: [tt7945450, tt8571674]
       winner: [tt7945450, tt8571674]
-  nuovoimaie talent award:
-    best new young actor:
-      nominee: []
-      winner: []
-    best new young actress:
-      nominee: []
-      winner: []
   fair play cinema award:
     fair play cinema award:
       nominee: [tt9770150]
@@ -1018,15 +938,8 @@
       nominee: [tt7278824]
       winner: [tt7278824]
   best vr story:
-    virtual reality competition:
-      nominee: []
-      winner: []
     best vr story:
       nominee: [tt11317978]
-      winner: []
-  campari passion for the cinema award:
-    campari passion for the cinema award:
-      nominee: []
       winner: []
   edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
     edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale):
@@ -1086,10 +999,6 @@
     giornate degli autori award:
       nominee: [tt12077032, tt12246266, tt11258824, tt11892046, tt12768944, tt10879920, tt10577318, tt12564514, tt11568878, tt7768720, tt11187986]
       winner: [tt12077032]
-  siae award:
-    siae award:
-      nominee: []
-      winner: []
 '2019':
   golden lion:
     best film:
@@ -1147,10 +1056,6 @@
     special jury prize:
       nominee: [tt10417642]
       winner: [tt10417642]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt2398149]
@@ -1190,10 +1095,6 @@
     green drop award:
       nominee: [tt2398149]
       winner: [tt2398149]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   venezia classici award:
     best documentary on cinema:
       nominee: [tt6850578, tt10476888, tt10850518, tt10166642, tt10681070, tt10604292]
@@ -1212,9 +1113,6 @@
     best soundtrack:
       nominee: [tt7286456]
       winner: [tt7286456]
-    lifetime achievement award:
-      nominee: []
-      winner: []
   fedeora award:
     best film (venice days):
       nominee: [tt10767168, tt8351646, tt7265272, tt9648886, tt9573180, tt8649186, tt8943224, tt10409498, tt6800268, tt10752196, tt9686154]
@@ -1258,9 +1156,6 @@
       nominee: [tt8706964]
       winner: [tt8706964]
   filming italy award:
-    best movie achievement international award:
-      nominee: []
-      winner: []
     filming italy award:
       nominee: [tt10195452]
       winner: [tt10195452]
@@ -1349,7 +1244,7 @@
       nominee: [tt8900172]
       winner: [tt8900172]
     best film:
-      nominee: [tt8837018, tt6792282, tt7491144, tt8751804, tt8751804, tt1759744, tt8836292, tt5368322, tt8900302, tt7121252, tt6078866, tt5791098, tt8473532, tt8900172, tt7660450, tt7111818, tt8847018, tt8589792, tt8900098]
+      nominee: [tt8837018, tt6792282, tt7491144, tt8751804, tt1759744, tt8836292, tt5368322, tt8900302, tt7121252, tt6078866, tt5791098, tt8473532, tt8900172, tt7660450, tt7111818, tt8847018, tt8589792, tt8900098]
       winner: [tt8837018]
     best screenplay:
       nominee: [tt8836292]
@@ -1360,10 +1255,6 @@
     special jury prize:
       nominee: [tt8751804]
       winner: [tt8751804]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     short film:
       nominee: [tt8817112]
@@ -1434,10 +1325,6 @@
     best film:
       nominee: [tt5791098]
       winner: [tt5791098]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   venezia classici award:
     best documentary on cinema:
       nominee: [tt8758548, tt8748882, tt8749074, tt9627228, tt8884452, tt8842066, tt8819192]
@@ -1620,10 +1507,6 @@
     special jury prize:
       nominee: [tt7225942]
       winner: [tt7225942]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best italian film:
     arca:
       nominee: [tt7343488]
@@ -1687,10 +1570,6 @@
     best film:
       nominee: [tt7224496]
       winner: [tt7224496]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   venezia classici award:
     best documentary on cinema:
       nominee: [tt7313522, tt7214762, tt8469426, tt6100294, tt7218470]
@@ -1832,10 +1711,6 @@
     special jury prize:
       nominee: [tt6034940]
       winner: [tt6034940]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     short film:
       nominee: [tt7142156, tt5073484]
@@ -1923,10 +1798,6 @@
     human rights film network award - special mention:
       nominee: [tt6012822]
       winner: [tt6012822]
-  mimmo rotella foundation award:
-    best producer:
-      nominee: []
-      winner: []
   biennale award:
     best film:
       nominee: [tt5997928]
@@ -1947,10 +1818,6 @@
     interfilm award:
       nominee: [tt3638644]
       winner: [tt3638644]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   best short film - special mention:
     short film:
       nominee: [tt5428146]
@@ -1973,9 +1840,6 @@
     best soundtrack:
       nominee: [tt4650414]
       winner: [tt4650414]
-    critic's choice:
-      nominee: []
-      winner: []
   fedeora award:
     best actress in a debut film (venice days):
       nominee: [tt3896738]
@@ -2063,10 +1927,6 @@
     special jury prize:
       nominee: [tt4899406]
       winner: [tt4899406]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   prix uip venice (european short film):
     prix uip venice (european short film):
       nominee: [tt4991086]
@@ -2105,8 +1965,8 @@
       winner: [tt1167611]
   pasinetti award - special mention:
     pasinetti award - special mention:
-      nominee: [tt3530970, tt3530970]
-      winner: [tt3530970, tt3530970]
+      nominee: [tt3530970]
+      winner: [tt3530970]
   fedic award:
     fedic award:
       nominee: [tt1167611]
@@ -2127,10 +1987,6 @@
     label europa cinemas:
       nominee: [tt4400174]
       winner: [tt4400174]
-  l'oreal paris award:
-    l'oreal paris award:
-      nominee: []
-      winner: []
   open prize:
     open prize:
       nominee: [tt5028968]
@@ -2159,10 +2015,6 @@
     human rights film network award:
       nominee: [tt4935282]
       winner: [tt4935282]
-  mimmo rotella foundation award:
-    best producer:
-      nominee: []
-      winner: []
   golden mouse:
     golden mouse:
       nominee: [tt4935282]
@@ -2187,10 +2039,6 @@
     interfilm award:
       nominee: [tt4944924]
       winner: [tt4944924]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   silver mouse:
     silver mouse:
       nominee: [tt1895587]
@@ -2271,18 +2119,6 @@
     best innovative budget award:
       nominee: [tt2056771]
       winner: [tt2056771]
-  persol tribute visionary talent award:
-    persol tribute visionary talent award:
-      nominee: []
-      winner: []
-  fondazione mimmo rotella special award:
-    fondazione mimmo rotella special award:
-      nominee: []
-      winner: []
-  soundtrack stars lifetime achievement award:
-    soundtrack stars lifetime achievement award:
-      nominee: []
-      winner: []
   amnesty international italia award:
     amnesty international italia award:
       nominee: [tt4991384]
@@ -2294,10 +2130,6 @@
     best italian actor in a debut film:
       nominee: [tt1167611]
       winner: [tt1167611]
-  saturnia prize:
-    saturnia prize:
-      nominee: []
-      winner: []
   s.i.a.e. award for emrging talent:
     best film:
       nominee: [tt5641696]
@@ -2354,10 +2186,6 @@
     special jury prize:
       nominee: [tt3922200]
       winner: [tt3922200]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   prix uip venice (european short film):
     prix uip venice (european short film):
       nominee: [tt4129430]
@@ -2419,18 +2247,6 @@
     label europa cinemas:
       nominee: [tt3561348]
       winner: [tt3561348]
-  l'oreal paris award:
-    l'oreal paris award:
-      nominee: []
-      winner: []
-  open prize:
-    open prize:
-      nominee: []
-      winner: []
-  lina mangiacapre award:
-    lina mangiacapre award:
-      nominee: []
-      winner: []
   brian award:
     brian award:
       nominee: [tt3163304]
@@ -2482,14 +2298,6 @@
     interfilm award:
       nominee: [tt2936180]
       winner: [tt2936180]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
-  persol award:
-    persol award:
-      nominee: []
-      winner: []
   silver mouse:
     silver mouse:
       nominee: [tt3012698]
@@ -2531,9 +2339,6 @@
     best soundtrack:
       nominee: [tt2562232]
       winner: [tt2562232]
-    critic's choice:
-      nominee: []
-      winner: []
   schermi di qualità award:
     schermi di qualità award:
       nominee: [tt3894190]
@@ -2606,9 +2411,6 @@
     best director:
       nominee: [tt3894190]
       winner: [tt3894190]
-    best film criticism:
-      nominee: []
-      winner: []
     best revelation:
       nominee: [tt4078856]
       winner: [tt4078856]
@@ -2668,10 +2470,6 @@
     special prize:
       nominee: [tt3257072]
       winner: [tt3257072]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   prix uip venice (european short film):
     prix uip venice (european short film):
       nominee: [tt3282190]
@@ -2736,10 +2534,6 @@
     best italian film:
       nominee: [tt2990836]
       winner: [tt2990836]
-  l'oreal paris award:
-    l'oreal paris award:
-      nominee: []
-      winner: []
   open prize:
     open prize:
       nominee: [tt2595390]
@@ -2796,14 +2590,6 @@
     interfilm award:
       nominee: [tt2431286]
       winner: [tt2431286]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
-  persol award:
-    persol award:
-      nominee: []
-      winner: []
   silver mouse:
     silver mouse:
       nominee: [tt3091552]
@@ -2839,10 +2625,6 @@
     golden mouse - special mention:
       nominee: [tt3119416]
       winner: [tt3119416]
-  gillo pontecorvo-arte e industria award:
-    gillo pontecorvo-arte e industria award:
-      nominee: []
-      winner: []
   vittorio veneto film festival award - special mention:
     vittorio veneto film festival award - special mention:
       nominee: [tt1966637]
@@ -2851,10 +2633,6 @@
     soundtrack stars award:
       nominee: [tt1966637]
       winner: [tt1966637]
-  soundtrack stars award - special mention:
-    best contemporary actor:
-      nominee: []
-      winner: []
   schermi di qualità award:
     schermi di qualità award:
       nominee: [tt3078718]
@@ -2886,10 +2664,6 @@
     venice days:
       nominee: [tt2579952]
       winner: [tt2579952]
-  bianchi award:
-    bianchi award:
-      nominee: []
-      winner: []
   ambiente wwf award:
     ambiente wwf award:
       nominee: [tt1240899]
@@ -2944,10 +2718,6 @@
     special jury prize:
       nominee: [tt2370034]
       winner: [tt2370034]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best european short film:
     best european short film:
       nominee: [tt2384512]
@@ -2987,19 +2757,12 @@
     best actor:
       nominee: [tt2370096]
       winner: [tt2370096]
-    best actress:
-      nominee: []
-      winner: []
     best documentary:
       nominee: [tt2373862]
       winner: [tt2373862]
     best film:
       nominee: [tt2290934]
       winner: [tt2290934]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   audience award (critics' week):
     audience award (critics' week):
       nominee: [tt2085002]
@@ -3031,10 +2794,6 @@
     best italian film:
       nominee: [tt2290918]
       winner: [tt2290918]
-  l'oreal paris award:
-    l'oreal paris award:
-      nominee: []
-      winner: []
   open prize:
     open prize:
       nominee: [tt1381404]
@@ -3086,10 +2845,6 @@
     golden mouse:
       nominee: [tt2299842]
       winner: [tt2299842]
-  premium cinema talent award:
-    premium cinema talent award:
-      nominee: []
-      winner: []
   vittorio veneto film festival award:
     vittorio veneto film festival award:
       nominee: [tt1381404]
@@ -3098,10 +2853,6 @@
     fondazione mimmo rotella award:
       nominee: [tt1846472]
       winner: [tt1846472]
-  gillo pontecorvo-arcobaleno latino award:
-    gillo pontecorvo-arcobaleno latino award:
-      nominee: []
-      winner: []
   green drop award:
     green drop award:
       nominee: [tt2298820]
@@ -3110,10 +2861,6 @@
     interfilm award:
       nominee: [tt2258858]
       winner: [tt2258858]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   la navicella venezia cinema award:
     la navicella venezia cinema award:
       nominee: [tt2395459]
@@ -3122,10 +2869,6 @@
     nazareno taddei award - special mention:
       nominee: [tt2395459]
       winner: [tt2395459]
-  persol award:
-    persol award:
-      nominee: []
-      winner: []
   silver mouse:
     silver mouse:
       nominee: [tt2358838]
@@ -3142,10 +2885,6 @@
     special pasinetti award:
       nominee: [tt2384694]
       winner: [tt2384694]
-  bresson award:
-    bresson award:
-      nominee: []
-      winner: []
   fedeora award:
     best film (international film critics week):
       nominee: [tt2419990]
@@ -3237,10 +2976,6 @@
     most creative stereoscopic film of the year:
       nominee: [tt2151815]
       winner: [tt2151815]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt1723811]
@@ -3273,12 +3008,6 @@
       nominee: [tt1555084]
       winner: []
   pasinetti award:
-    best actor:
-      nominee: []
-      winner: []
-    best actress:
-      nominee: []
-      winner: []
     best film:
       nominee: [tt1641410]
       winner: [tt1641410]
@@ -3286,10 +3015,6 @@
     pasinetti award - special mention:
       nominee: [tt2006781]
       winner: [tt2006781]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   fedic award:
     fedic award:
       nominee: [tt2036388]
@@ -3317,17 +3042,9 @@
     gianni astrei award:
       nominee: [tt2008006]
       winner: [tt2008006]
-  gucci prize:
-    gucci prize:
-      nominee: []
-      winner: []
   l'oreal paris award:
     l'oreal paris award:
       nominee: [tt1161864]
-      winner: []
-  open prize:
-    open prize:
-      nominee: []
       winner: []
   lina mangiacapre award:
     lina mangiacapre award:
@@ -3376,10 +3093,6 @@
     golden mouse:
       nominee: [tt1726669]
       winner: [tt1726669]
-  premium cinema talent award:
-    premium cinema talent award:
-      nominee: []
-      winner: []
   equal opportunity award:
     equal opportunity award:
       nominee: [tt2008006]
@@ -3388,10 +3101,6 @@
     vittorio veneto film festival award:
       nominee: [tt1821597]
       winner: [tt1821597]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   vittorio veneto film festival award - special mention:
     vittorio veneto film festival award - special mention:
       nominee: [tt1467061]
@@ -3469,10 +3178,6 @@
     most creative 3d film stereoscopic film of the year:
       nominee: [tt0499549, tt0892769]
       winner: [tt0499549, tt0892769]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     documentary:
       nominee: [tt1832920]
@@ -3509,9 +3214,6 @@
       nominee: [tt1437366, tt1614981, tt1538221, tt1334318, tt1547891]
       winner: [tt1437366]
   pasinetti award:
-    best actor:
-      nominee: []
-      winner: []
     best actress:
       nominee: [tt1441373]
       winner: [tt1441373]
@@ -3600,18 +3302,10 @@
     aif - for film fest award:
       nominee: [tt1438493]
       winner: [tt1438493]
-  special lion for the overall work:
-    special lion for the overall work:
-      nominee: []
-      winner: []
   equal opportunity award:
     equal opportunity award:
       nominee: [tt1401643]
       winner: [tt1401643]
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   award of the city of venice:
     award of the city of venice:
       nominee: [tt1508328]
@@ -3683,10 +3377,6 @@
     3-d award:
       nominee: [tt1085779]
       winner: [tt1085779]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     short film:
       nominee: [tt1502405, tt1518196, tt1455004, tt1462536, tt1450655, tt1479718, tt1526645, tt1491614, tt1508968]
@@ -3777,10 +3467,6 @@
     gucci prize:
       nominee: [tt0887912]
       winner: [tt0887912]
-  l'oreal paris award:
-    l'oreal paris award:
-      nominee: []
-      winner: []
   open prize:
     open prize:
       nominee: [tt1232207]
@@ -3831,10 +3517,6 @@
   best first film:
     best first film:
       nominee: [tt1559348]
-      winner: []
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
       winner: []
   international critics award:
     best feature film:
@@ -3895,10 +3577,6 @@
     best film:
       nominee: [tt1206485]
       winner: [tt1206485]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     golden lion:
       nominee: [tt1297849]
@@ -3936,10 +3614,6 @@
     pasinetti award - special mention:
       nominee: [tt1099226]
       winner: [tt1099226]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   critics' week award:
     best film:
       nominee: [tt1314197]
@@ -3978,10 +3652,6 @@
     gucci prize:
       nominee: [tt0986233]
       winner: [tt0986233]
-  l'oreal paris award:
-    l'oreal paris award:
-      nominee: []
-      winner: []
   doc/it award:
     doc/it award:
       nominee: [tt1270612]
@@ -4014,14 +3684,6 @@
     mimmo rotella foundation award:
       nominee: [tt0876563]
       winner: [tt0876563]
-  special lion for the overall work:
-    special lion for the overall work:
-      nominee: []
-      winner: []
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   silver lion - short film:
     silver lion - short film:
       nominee: [tt1352379]
@@ -4084,10 +3746,6 @@
     venice horizons award - special mention:
       nominee: [tt1094643]
       winner: [tt1094643]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   prix uip venice (european short film):
     prix uip venice (european short film):
       nominee: [tt1095446]
@@ -4226,18 +3884,6 @@
     mimmo rotella foundation award:
       nominee: [tt0446750]
       winner: [tt0446750]
-  special lion for the overall work:
-    special lion for the overall work:
-      nominee: []
-      winner: []
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
-  persol award:
-    persol award:
-      nominee: []
-      winner: []
   fedeora award:
     best film (venice days):
       nominee: [tt1094278, tt0488000, tt1094239, tt0970406, tt0847880, tt1093815, tt0881916, tt1087869, tt1093382, tt1075009, tt0920473, tt0486022, tt1039652, tt1094275, tt1094284]
@@ -4299,10 +3945,6 @@
     venice horizons documentary award:
       nominee: [tt0783612]
       winner: [tt0783612]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     short film:
       nominee: [tt0499309, tt0817311]
@@ -4344,14 +3986,6 @@
     best film:
       nominee: [tt0465188]
       winner: [tt0465188]
-  pasinetti award - special mention:
-    pasinetti award - special mention:
-      nominee: []
-      winner: []
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   critics' week award:
     critics' week award:
       nominee: [tt0473488]
@@ -4379,9 +4013,6 @@
     best international film:
       nominee: [tt0389557]
       winner: [tt0389557]
-    best italian film:
-      nominee: []
-      winner: []
   gucci prize:
     gucci prize:
       nominee: [tt0421238]
@@ -4398,10 +4029,6 @@
     doc/it award:
       nominee: [tt0855784, tt0921777]
       winner: [tt0855784, tt0921777]
-  lina mangiacapre award:
-    lina mangiacapre award:
-      nominee: []
-      winner: []
   uaar award:
     uaar award:
       nominee: [tt0452971]
@@ -4453,20 +4080,9 @@
     mimmo rotella foundation award:
       nominee: [tt0448131]
       winner: [tt0448131]
-  special lion for the overall work:
-    special lion for the overall work:
-      nominee: []
-      winner: []
-  jaeger-lecoultre glory to the filmmaker award:
-    jaeger-lecoultre glory to the filmmaker award:
-      nominee: []
-      winner: []
   silver lion - short film:
     corto cortissimo short film competition:
       nominee: [tt0858487]
-      winner: []
-    silver lion - short film:
-      nominee: []
       winner: []
   best short film - special mention:
     best short film - special mention:
@@ -4485,9 +4101,6 @@
     best film:
       nominee: [tt0388795, tt0475263, tt0443446, tt0435479, tt0488832, tt0433383, tt0381690, tt0474917, tt0451094, tt0472521, tt0425236, tt0472884, tt0377107, tt0443844, tt0368222, tt0478044, tt0355295, tt0387131, tt0474694, tt0472778]
       winner: [tt0388795]
-    golden lion:
-      nominee: []
-      winner: []
   grand special jury prize:
     grand special jury prize:
       nominee: [tt0425236]
@@ -4529,10 +4142,6 @@
     venice horizons documentary award:
       nominee: [tt0459929]
       winner: [tt0459929]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award:
     best film:
       nominee: [tt0450363]
@@ -4576,12 +4185,6 @@
     authors' days:
       nominee: [tt0826796]
       winner: [tt0826796]
-    best actor:
-      nominee: []
-      winner: []
-    best actress:
-      nominee: []
-      winner: []
     competition:
       nominee: [tt0433383]
       winner: [tt0433383]
@@ -4685,22 +4288,10 @@
     human rights film network award - special mention:
       nominee: [tt0433383]
       winner: [tt0433383]
-  eiuc award:
-    eiuc award:
-      nominee: []
-      winner: []
   mimmo rotella foundation award:
     mimmo rotella foundation award:
       nominee: [tt0425236]
       winner: [tt0425236]
-  special lion for the overall work:
-    special lion for the overall work:
-      nominee: []
-      winner: []
-  silver lion - short film:
-    silver lion - short film:
-      nominee: []
-      winner: []
   best short film - special mention:
     best short film - special mention:
       nominee: [tt0859621]
@@ -4761,10 +4352,6 @@
     digital cinema award - special mention:
       nominee: [tt2166734]
       winner: [tt2166734]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     short film:
       nominee: [tt1933591, tt0432083]
@@ -4976,10 +4563,6 @@
     best film:
       nominee: [tt0408295, tt0768100, tt0382804, tt0303830, tt0358676, tt0368559, tt0345549, tt0348874, tt0335266, tt0384708, tt0388395, tt0318270, tt0379159, tt0354575, tt0380631, tt0378906, tt0379577]
       winner: []
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award:
     best actor:
       nominee: [tt0315733, tt0329388]
@@ -5028,9 +4611,6 @@
     best actress:
       nominee: [tt0377569]
       winner: [tt0377569]
-    best film:
-      nominee: []
-      winner: []
   pasinetti award - special mention:
     pasinetti award - special mention:
       nominee: [tt0358676, tt0330252]
@@ -5175,10 +4755,6 @@
     best film:
       nominee: [tt0330904, tt0295743, tt0290212, tt0209077, tt0333801, tt0300140, tt0287580, tt0329429, tt0332322, tt0334229, tt0323836, tt0328831, tt0332831, tt0334027, tt0342778, tt0332817, tt0334574, tt0332834]
       winner: []
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award:
     best actor:
       nominee: [tt0301414]
@@ -5224,12 +4800,6 @@
       nominee: [tt0328802]
       winner: [tt0328802]
   pasinetti award:
-    best actor:
-      nominee: []
-      winner: []
-    best actress:
-      nominee: []
-      winner: []
     best film:
       nominee: [tt0329731]
       winner: [tt0329731]
@@ -5237,10 +4807,6 @@
     pasinetti award - special mention:
       nominee: [tt0329731]
       winner: [tt0329731]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   isvema award:
     isvema award:
       nominee: [tt0333373]
@@ -5257,10 +4823,6 @@
     wella prize:
       nominee: [tt0328831]
       winner: [tt0328831]
-  elvira notari prize:
-    elvira notari prize:
-      nominee: []
-      winner: []
   future film festival digital award:
     future film festival digital award:
       nominee: [tt0309377]
@@ -5340,10 +4902,6 @@
     cinema of the present - special jury award:
       nominee: [tt0296210]
       winner: [tt0296210]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award:
     best film:
       nominee: [tt0280921]
@@ -5397,10 +4955,6 @@
     italian cinema clubs award:
       nominee: [tt0298577]
       winner: [tt0298577]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   isvema award:
     isvema award:
       nominee: [tt0298577]
@@ -5522,10 +5076,6 @@
     cinema of the present - lion of the year:
       nominee: [tt0262210, tt0268935, tt0209037, tt0228687, tt0258761, tt0209144, tt0160550, tt0238435, tt0258883, tt0183659, tt0222293, tt0263321, tt0261270, tt0219333, tt0223954, tt0248103, tt0234988, tt0262826, tt0203166, tt0248001]
       winner: []
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     best feature:
       nominee: [tt0255094]
@@ -5571,10 +5121,6 @@
     best film:
       nominee: [tt0238891]
       winner: [tt0238891]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   isvema award:
     isvema award:
       nominee: [tt0260332]
@@ -5587,10 +5133,6 @@
     little golden lion:
       nominee: [tt0238891]
       winner: [tt0238891]
-  elvira notari prize:
-    elvira notari prize:
-      nominee: []
-      winner: []
   "'cult network italia' prize":
     "'cult network italia' prize":
       nominee: [tt0265420]
@@ -5683,10 +5225,6 @@
     cinema of the present - lion of the year:
       nominee: [tt0209973, tt0124811, tt0209923, tt0210200, tt0209933, tt0161292, tt0171804, tt0146516, tt0181396, tt0210302, tt0192194, tt0195023, tt0210249, tt0210629, tt0215196, tt0209885, tt0145929, tt0172338, tt0160596]
       winner: []
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt0209463]
@@ -5724,10 +5262,6 @@
     pasinetti award - special mention:
       nominee: [tt0213695]
       winner: [tt0213695]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   isvema award:
     isvema award:
       nominee: [tt0210247]
@@ -5859,10 +5393,6 @@
     marcello mastroianni award:
       nominee: [tt0143093]
       winner: [tt0143093]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     best film:
       nominee: [tt0169145]
@@ -5893,10 +5423,6 @@
     best actress:
       nominee: [tt0140332]
       winner: [tt0140332]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   isvema award:
     isvema award:
       nominee: [tt0119842]
@@ -6009,10 +5535,6 @@
     luigi de laurentiis award:
       nominee: [tt0120277]
       winner: [tt0120277]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   prize of the international youth jury:
     prize of the international youth jury:
       nominee: [tt0124207]
@@ -6051,10 +5573,6 @@
     best film:
       nominee: [tt0123868]
       winner: [tt0123868]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   isvema award:
     isvema award:
       nominee: [tt0123868]
@@ -6143,10 +5661,6 @@
     luigi de laurentiis award:
       nominee: [tt0115895]
       winner: [tt0115895]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award:
     best film:
       nominee: [tt0113675]
@@ -6159,10 +5673,6 @@
     ocic award:
       nominee: [tt0117359, tt0116378]
       winner: [tt0117359, tt0116378]
-  ocic special award:
-    ocic special award:
-      nominee: []
-      winner: []
   ocic award - honorable mention:
     ocic award - honorable mention:
       nominee: [tt0116844]
@@ -6185,10 +5695,6 @@
     best film:
       nominee: [tt0117364]
       winner: [tt0117364]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   fedic award:
     fedic award:
       nominee: [tt0118098]
@@ -6257,10 +5763,6 @@
     the president of the italian senate's gold medal:
       nominee: [tt0114096]
       winner: [tt0114096]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   golden ciak:
     golden ciak:
       nominee: [tt0112497]
@@ -6287,14 +5789,6 @@
     best film:
       nominee: [tt0112710]
       winner: [tt0112710]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
-  elvira notari prize:
-    elvira notari prize:
-      nominee: []
-      winner: []
   elvira notari prize - special mention:
     elvira notari prize - special mention:
       nominee: [tt0114461]
@@ -6354,14 +5848,10 @@
     the president of the italian senate's gold medal:
       nominee: [tt0110348]
       winner: [tt0110348]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award:
     best film:
-      nominee: [tt0110882, tt0110882]
-      winner: [tt0110882, tt0110882]
+      nominee: [tt0110882]
+      winner: [tt0110882]
   golden ciak:
     golden ciak:
       nominee: [tt0109236]
@@ -6399,10 +5889,6 @@
     best film:
       nominee: [tt0110299]
       winner: [tt0110299]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   fedic award:
     fedic award:
       nominee: [tt0111603]
@@ -6446,10 +5932,6 @@
     telepiù award - special mention:
       nominee: [tt0207134, tt0206957]
       winner: [tt0207134, tt0206957]
-  award of the city of venice:
-    award of the city of venice:
-      nominee: []
-      winner: []
   catholic cinema clubs award:
     catholic cinema clubs award:
       nominee: [tt0110882]
@@ -6502,10 +5984,6 @@
     the president of the italian senate's gold medal:
       nominee: [tt0197110]
       winner: [tt0197110]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   golden ciak:
     best actor:
       nominee: [tt0106660]
@@ -6541,10 +6019,6 @@
     best film:
       nominee: [tt0108122]
       winner: [tt0108122]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   little golden lion:
     little golden lion:
       nominee: [tt0108394]
@@ -6578,10 +6052,6 @@
     silver lion:
       nominee: [tt0105682, tt0104445, tt0104545]
       winner: [tt0105682, tt0104445, tt0104545]
-  golden osella:
-    golden osella:
-      nominee: []
-      winner: []
   volpi cup:
     best actor:
       nominee: [tt0104348]
@@ -6593,10 +6063,6 @@
     the president of the italian senate's gold medal:
       nominee: [tt0104373]
       winner: [tt0104373]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award:
     audience award:
       nominee: [tt0105531]
@@ -6645,10 +6111,6 @@
     best film:
       nominee: [tt0103943]
       winner: [tt0103943]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   little golden lion:
     little golden lion:
       nominee: [tt0105682]
@@ -6696,10 +6158,6 @@
     the president of the italian senate's gold medal:
       nominee: [tt0101307]
       winner: [tt0101307]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   golden ciak:
     best actor:
       nominee: [tt0102855]
@@ -6738,10 +6196,6 @@
     best film:
       nominee: [tt0103176]
       winner: [tt0103176]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   critics' week award:
     best film:
       nominee: [tt0101407]
@@ -6802,10 +6256,6 @@
     the president of the italian senate's gold medal:
       nominee: [tt0105220]
       winner: [tt0105220]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   audience award (arena):
     audience award (arena):
       nominee: [tt0099685]
@@ -6853,10 +6303,6 @@
     best film:
       nominee: [tt0100200]
       winner: [tt0100200]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   little golden lion:
     little golden lion:
       nominee: [tt0099040]
@@ -6889,10 +6335,6 @@
     gingerly award:
       nominee: [tt0099040]
       winner: [tt0099040]
-  photographers award:
-    photographers award:
-      nominee: []
-      winner: []
 '1989':
   golden lion:
     golden lion:
@@ -6927,10 +6369,6 @@
     the president of the italian senate's gold medal:
       nominee: [tt0098271]
       winner: [tt0098271]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   golden ciak:
     best actor:
       nominee: [tt0097051]
@@ -6978,10 +6416,6 @@
     best film:
       nominee: [tt0097555]
       winner: [tt0097555]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   little golden lion:
     little golden lion:
       nominee: [tt0297625, tt0098271]
@@ -7063,10 +6497,6 @@
     new cinema award - special mention:
       nominee: [tt0171863]
       winner: [tt0171863]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   prize of the students of the university 'la sapienza':
     prize of the students of the university 'la sapienza':
       nominee: [tt0095217, tt0096288]
@@ -7122,10 +6552,6 @@
     best film:
       nominee: [tt0096288]
       winner: [tt0096288]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   elvira notari prize:
     elvira notari prize:
       nominee: [tt0094892]
@@ -7204,10 +6630,6 @@
     the president of the italian senate's gold medal:
       nominee: [tt0091769]
       winner: [tt0091769]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   golden ciak:
     best actor:
       nominee: [tt0093205]
@@ -7222,10 +6644,6 @@
     special golden ciak:
       nominee: [tt0092593]
       winner: [tt0092593]
-  "'commendatore al merito della repubblica' medal":
-    "'commendatore al merito della repubblica' medal":
-      nominee: []
-      winner: []
   fipresci prize:
     competition:
       nominee: [tt0093454, tt0092558]
@@ -7259,10 +6677,6 @@
     best film:
       nominee: [tt0093223]
       winner: [tt0093223]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   elvira notari prize:
     elvira notari prize:
       nominee: [tt0096217]
@@ -7308,10 +6722,6 @@
     best film:
       nominee: [tt0190222]
       winner: [tt0190222]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   golden ciak:
     best actor:
       nominee: [tt0200055]
@@ -7344,10 +6754,6 @@
     best film:
       nominee: [tt0090557]
       winner: [tt0090557]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   de sica award:
     de sica award:
       nominee: [tt0140778]
@@ -7388,10 +6794,6 @@
     best actor:
       nominee: [tt0089821]
       winner: [tt0089821]
-  best actress:
-    best actress:
-      nominee: []
-      winner: []
   special mention:
     special mention:
       nominee: [tt0090374, tt0089804, tt0090124]
@@ -7400,10 +6802,6 @@
     best first work:
       nominee: [tt0089061]
       winner: [tt0089061]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   golden ciak:
     best actor:
       nominee: [tt0089491]
@@ -7443,10 +6841,6 @@
     best film:
       nominee: [tt0090125]
       winner: [tt0090125]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   young venice award:
     young venice award:
       nominee: [tt0088933]
@@ -7487,10 +6881,6 @@
     venezia genti - best short film:
       nominee: [tt0492331]
       winner: [tt0492331]
-  special lion for the overall work:
-    special lion for the overall work:
-      nominee: []
-      winner: []
 '1984':
   golden lion:
     golden lion:
@@ -7542,10 +6932,6 @@
     best film:
       nominee: [tt0088009]
       winner: [tt0088009]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   critics' week award:
     critics' week award:
       nominee: [tt0087699]
@@ -7566,10 +6952,6 @@
     venezia genti - best feature film:
       nominee: [tt0261269]
       winner: [tt0261269]
-  venezia genti - best short film:
-    venezia genti - best short film:
-      nominee: []
-      winner: []
   technical prize:
     technical prize:
       nominee: [tt0087813]
@@ -7595,14 +6977,6 @@
     best actress:
       nominee: [tt0086213]
       winner: [tt0086213]
-  best first work:
-    best first work:
-      nominee: []
-      winner: []
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0083922, tt0085882]
@@ -7625,10 +6999,6 @@
     best film:
       nominee: [tt0086637]
       winner: [tt0086637]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   de sica award:
     de sica award:
       nominee: [tt0209383, tt0166476]
@@ -7653,10 +7023,6 @@
     best first work:
       nominee: [tt0184883, tt0084697]
       winner: [tt0184883, tt0084697]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0081991, tt0084725]
@@ -7683,10 +7049,6 @@
     best film:
       nominee: [tt0084123]
       winner: [tt0084123]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   venice authors prize - special mention:
     best film:
       nominee: [tt0086228]
@@ -7757,10 +7119,6 @@
     best film:
       nominee: [tt0082945]
       winner: [tt0082945]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   golden phoenix:
     best actor:
       nominee: [tt0083232]
@@ -7826,10 +7184,6 @@
     best film:
       nominee: [tt0208458]
       winner: [tt0208458]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
   special jury citation:
     special jury citation:
       nominee: [tt0080830, tt0080361, tt0163051, tt0081544]
@@ -7861,19 +7215,11 @@
     best film:
       nominee: [tt0079679, tt0079843]
       winner: [tt0079679, tt0079843]
-  pietro bianchi award:
-    pietro bianchi award:
-      nominee: []
-      winner: []
 '1972':
   silver lion:
     best first work:
       nominee: [tt0069727]
       winner: [tt0069727]
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   best short film:
     golden lion:
       nominee: [tt7861596]
@@ -7886,9 +7232,6 @@
     best foreign film:
       nominee: [tt0066921]
       winner: [tt0066921]
-    best italian film:
-      nominee: []
-      winner: []
   italian film critics award:
     best actress:
       nominee: [tt0069098]
@@ -7909,10 +7252,6 @@
       nominee: [tt0068479]
       winner: [tt0068479]
 '1971':
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0064356]
@@ -7941,10 +7280,6 @@
       nominee: [tt0067327]
       winner: [tt0067327]
 '1970':
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   pasinetti award:
     best foreign film:
       nominee: [tt0067961]
@@ -7961,10 +7296,6 @@
       nominee: [tt9390400]
       winner: [tt9390400]
 '1969':
-  career golden lion:
-    career golden lion:
-      nominee: []
-      winner: []
   pasinetti award:
     best foreign film:
       nominee: [tt0062786]
@@ -8074,10 +7405,6 @@
     best actress:
       nominee: [tt0059585]
       winner: [tt0059585]
-  special mention:
-    special mention:
-      nominee: []
-      winner: []
   new cinema award:
     best actress:
       nominee: [tt0060063]
@@ -8124,8 +7451,8 @@
       nominee: [tt0208408]
       winner: [tt0208408]
     lion of san marco:
-      nominee: [tt0203686, tt0208451, tt0208451]
-      winner: [tt0203686, tt0208451, tt0208451]
+      nominee: [tt0203686, tt0208451]
+      winner: [tt0203686, tt0208451]
   plate 'lion of san marco':
     best animated film:
       nominee: [tt0208049]
@@ -8606,10 +7933,6 @@
     best film:
       nominee: [tt0051365]
       winner: [tt0051365]
-  san giorgio prize:
-    san giorgio prize:
-      nominee: []
-      winner: []
   fipresci prize:
     fipresci prize:
       nominee: [tt0052080]
@@ -8663,10 +7986,6 @@
     fipresci prize:
       nominee: [tt0051170]
       winner: [tt0051170]
-  ocic award:
-    ocic award:
-      nominee: []
-      winner: []
   pasinetti award:
     competition:
       nominee: [tt0051963]
@@ -8732,10 +8051,6 @@
     golden lion:
       nominee: [tt0048966, tt0049010, tt0049038, tt0048200, tt0049259, tt0049043, tt0048933, tt0051029, tt0049012, tt0049293, tt0049877, tt0049001, tt0124437, tt0049042, tt0051099, tt0174320]
       winner: []
-  silver lion:
-    silver lion:
-      nominee: []
-      winner: []
   volpi cup:
     best actor:
       nominee: [tt0049877]
@@ -8745,8 +8060,8 @@
       winner: [tt0049259]
   special mention:
     special mention:
-      nominee: [tt0048200, tt0049043, tt0049043, tt0048933, tt0051029, tt0049012, tt0049293, tt0049001, tt0051099]
-      winner: [tt0048200, tt0049043, tt0049043, tt0048933, tt0051029, tt0049012, tt0049293, tt0049001, tt0051099]
+      nominee: [tt0048200, tt0049043, tt0048933, tt0051029, tt0049012, tt0049293, tt0049001, tt0051099]
+      winner: [tt0048200, tt0049043, tt0048933, tt0051029, tt0049012, tt0049293, tt0049001, tt0051099]
   new cinema award:
     best actor:
       nominee: [tt0049293]
@@ -8794,9 +8109,6 @@
     best actor:
       nominee: [tt0048187, tt0047978]
       winner: [tt0048187, tt0047978]
-    best actress:
-      nominee: []
-      winner: []
   best short film:
     best short film:
       nominee: [tt0049000]
@@ -8834,9 +8146,6 @@
     best actor:
       nominee: [tt0046690]
       winner: [tt0046690]
-    best actress:
-      nominee: []
-      winner: []
   ocic award:
     ocic award:
       nominee: [tt0047296]
@@ -9226,12 +8535,6 @@
       nominee: [tt0035387]
       winner: [tt0035387]
   medal:
-    animation design:
-      nominee: []
-      winner: []
-    current affairs:
-      nominee: []
-      winner: []
     documentary:
       nominee: [tt0205830, tt3055062]
       winner: [tt0205830, tt3055062]
@@ -9273,10 +8576,6 @@
     plate:
       nominee: [tt0032240, tt0033959, tt0033122]
       winner: [tt0032240, tt0033959, tt0033122]
-  biennale trophy:
-    biennale trophy:
-      nominee: []
-      winner: []
   fascist party cup:
     fascist party cup:
       nominee: [tt0033941]
@@ -9293,13 +8592,6 @@
     best italian film:
       nominee: [tt0032225, tt0032999, tt0032180, tt0032400, tt0032865, tt0032317, tt0032896]
       winner: [tt0032225]
-  volpi cup:
-    best actor:
-      nominee: []
-      winner: []
-    best actress:
-      nominee: []
-      winner: []
 '1939':
   mussolini cup:
     best foreign film:
@@ -9308,21 +8600,11 @@
     best italian film:
       nominee: [tt0031017, tt0029977, tt0031391, tt0427669, tt0030458, tt0031424, tt0031798, tt0031949]
       winner: [tt0031017]
-  volpi cup:
-    best actor:
-      nominee: []
-      winner: []
-    best actress:
-      nominee: []
-      winner: []
   bronze medal:
     bronze medal:
       nominee: [tt0031277, tt0031508]
       winner: [tt0031277, tt0031508]
   fascist party cup:
-    best foreign film:
-      nominee: []
-      winner: []
     best italian film:
       nominee: [tt0030458]
       winner: [tt0030458]
@@ -9421,10 +8703,6 @@
     fascist party cup:
       nominee: [tt3053038]
       winner: [tt3053038]
-  best animation:
-    best animation:
-      nominee: []
-      winner: []
   best colonial film:
     best colonial film:
       nominee: [tt0029534]
@@ -9621,9 +8899,6 @@
     best actress:
       nominee: [tt0024264]
       winner: [tt0024264]
-    best actuality documentary:
-      nominee: []
-      winner: []
     best animation:
       nominee: [tt0025153]
       winner: [tt0025153]

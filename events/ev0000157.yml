@@ -58,10 +58,10 @@
       nominee: [tt16953666, tt14542254, tt13702796, tt13531468, tt19841734]
       winner: [tt16953666]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt16953666, tt13531468, tt14976386, tt13531468, tt19841734]
+      nominee: [tt16953666, tt13531468, tt14976386, tt19841734]
       winner: [tt16953666]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt19841734, tt14542254, tt19841734, tt21028846, tt14542254]
+      nominee: [tt19841734, tt14542254, tt21028846]
       winner: [tt19841734]
     best visual effects (meilleurs effets visuels):
       nominee: [tt12264966, tt14542254, tt13702796, tt15471560, tt13391708]
@@ -72,14 +72,6 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt14976386, tt15376894, tt19719862, tt13531468, tt13328732]
       winner: [tt14976386]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
-  daniel toscan du plantier prize:
-    daniel toscan du plantier prize:
-      nominee: []
-      winner: []
 '2022':
   césar:
     best actor (meilleur acteur):
@@ -140,10 +132,10 @@
       nominee: [tt6217926, tt9735462, tt10341034, tt10505316, tt14068864]
       winner: [tt6217926]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt10505316, tt10404944, tt10404944, tt9735462, tt10505316]
+      nominee: [tt10505316, tt10404944, tt9735462]
       winner: [tt10505316]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt13321730, tt10375106, tt10505316, tt9735462, tt10505316]
+      nominee: [tt13321730, tt10375106, tt10505316, tt9735462]
       winner: [tt13321730]
     best visual effects (meilleurs effets visuels):
       nominee: [tt6217926, tt9735462, tt10366514, tt10505316, tt10944760]
@@ -154,17 +146,13 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt13880104, tt10944760, tt12708658, tt9697780, tt10505316]
       winner: [tt13880104]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2021':
   césar:
     best actor (meilleur acteur):
       nominee: [tt10749760, tt10196398, tt8076110, tt10880402, tt12443930]
       winner: [tt10749760]
     best actress (meilleure actrice):
-      nominee: [tt11013434, tt9845110, tt12443930, tt9845110, tt10196398]
+      nominee: [tt11013434, tt9845110, tt12443930, tt10196398]
       winner: [tt11013434]
     best adapted screenplay (meilleure adaptation):
       nominee: [tt7766886, tt9288726, tt9665968, tt10457128, tt6760876]
@@ -218,25 +206,21 @@
       nominee: [tt10196398, tt11013434, tt10441958, tt7600716, tt12443930]
       winner: [tt10196398]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt12443930, tt7600716, tt10441958, tt10457128, tt10441958]
+      nominee: [tt12443930, tt7600716, tt10441958, tt10457128]
       winner: [tt12443930]
     most promising actor (meilleur espoir masculin):
-      nominee: [tt10426916, tt10123698, tt10457128, tt10457128, tt9262952]
+      nominee: [tt10426916, tt10123698, tt10457128, tt9262952]
       winner: [tt10426916]
     most promising actress (meilleur espoir féminin):
       nominee: [tt9196192, tt9894450, tt9164788, tt12443930, tt7766886]
       winner: [tt9196192]
-  anniversary césar:
-    anniversary césar:
-      nominee: []
-      winner: []
 '2020':
   césar:
     best actor (meilleur acteur):
-      nominee: [tt8359840, tt10199590, tt9172422, tt2398149, tt8095860, tt8655470, tt8655470]
+      nominee: [tt8359840, tt10199590, tt9172422, tt2398149, tt8095860, tt8655470]
       winner: [tt8359840]
     best actress (meilleure actrice):
-      nominee: [tt8903840, tt8613070, tt10115562, tt9172422, tt7374926, tt7600706, tt8613070]
+      nominee: [tt8903840, tt8613070, tt10115562, tt9172422, tt7374926, tt7600706]
       winner: [tt8903840]
     best adapted screenplay (meilleure adaptation):
       nominee: [tt2398149, tt7493370, tt9806192, tt8359840, tt10409498]
@@ -287,24 +271,17 @@
       nominee: [tt7458762, tt2398149, tt9172422, tt10199590, tt8613070]
       winner: [tt7458762]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt8095860, tt8265928, tt8095860, tt2398149, tt2398149]
+      nominee: [tt8095860, tt8265928, tt2398149]
       winner: [tt8095860]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt9172422, tt14448822, tt8095860, tt10409498, tt8359840]
       winner: [tt9172422]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt10199590, tt10545470, tt14448822, tt10199590, tt8783532]
+      nominee: [tt10199590, tt10545470, tt14448822, tt8783532]
       winner: [tt10199590]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt9522080, tt9170086, tt8613070, tt10199586, tt9678892]
       winner: [tt9522080]
-    trophée césar & techniques:
-      nominee: []
-      winner: []
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
   césar du public:
     césar du public:
       nominee: [tt10199590, tt10545470, tt8201404, tt6556670, tt8655470]
@@ -315,7 +292,7 @@
       nominee: [tt7253216, tt6002232, tt7530986, tt7543930, tt7534068, tt7773210, tt7491144]
       winner: [tt7253216]
     best actress (meilleure actrice):
-      nominee: [tt6002232, tt7534068, tt7530986, tt6313378, tt7543930, tt8260226, tt7543930]
+      nominee: [tt6002232, tt7534068, tt7530986, tt6313378, tt7543930, tt8260226]
       winner: [tt6002232]
     best adapted screenplay (meilleure adaptation):
       nominee: [tt7502234, tt8260226, tt7530986, tt6313378, tt4971344]
@@ -366,10 +343,10 @@
       nominee: [tt4971344, tt6002232, tt7253216, tt6313378, tt7476116]
       winner: [tt4971344]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt7476116, tt7502234, tt7534068, tt7534054, tt7476116]
+      nominee: [tt7476116, tt7502234, tt7534068, tt7534054]
       winner: [tt7476116]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt7502234, tt7534068, tt6892462, tt7476116, tt7476116]
+      nominee: [tt7502234, tt7534068, tt6892462, tt7476116]
       winner: [tt7502234]
     most promising actor (meilleur espoir masculin):
       nominee: [tt8459250, tt7839456, tt6892462, tt6002232, tt6690004]
@@ -377,10 +354,6 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt8459250, tt6559390, tt8260226, tt8075202, tt6121444]
       winner: [tt8459250]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
   césar du public:
     césar du public:
       nominee: [tt7066382]
@@ -442,24 +415,17 @@
       nominee: [tt6411984, tt6135348, tt5699154, tt4954522, tt5258850]
       winner: [tt6411984]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt6135348, tt5699154, tt5258850, tt5258850, tt5699154]
+      nominee: [tt6135348, tt5699154, tt5258850]
       winner: [tt6135348]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt6805302, tt6135348, tt7219324, tt6194530, tt5258850]
       winner: [tt6805302]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt6135348, tt6135348, tt5699154, tt5989394, tt5598100]
+      nominee: [tt6135348, tt5699154, tt5989394, tt5598100]
       winner: [tt6135348]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt6462462, tt5699154, tt4954522, tt6213362, tt5598160]
       winner: [tt6462462]
-    prix de l'innovation césar & techniques:
-      nominee: []
-      winner: []
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
   césar du public:
     césar du public:
       nominee: [tt5736696]
@@ -527,21 +493,17 @@
       nominee: [tt1659619, tt4400038, tt3716530, tt5029608, tt3794028]
       winner: [tt1659619]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt4400038, tt4741708, tt3716530, tt5078214, tt4645368, tt5078214]
+      nominee: [tt4400038, tt4741708, tt3716530, tt5078214, tt4645368]
       winner: [tt4400038]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt4730986, tt3716530, tt4632440, tt4645368, tt4726636]
       winner: [tt4730986]
     most promising actor (meilleur espoir masculin):
-      nominee: [tt3759370, tt4331970, tt5231812, tt3716530, tt4331970]
+      nominee: [tt3759370, tt4331970, tt5231812, tt3716530]
       winner: [tt3759370]
     most promising actress (meilleur espoir féminin):
       nominee: [tt4730986, tt4632440, tt5766118, tt5029608, tt4726636]
       winner: [tt4730986]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2016':
   césar:
     best actor (meilleur acteur):
@@ -599,7 +561,7 @@
       nominee: [tt4428788, tt4082068, tt3966404, tt4048050, tt3478962]
       winner: [tt4428788]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt3791302, tt4428788, tt3478962, tt4428788, tt4082068]
+      nominee: [tt3791302, tt4428788, tt3478962, tt4082068]
       winner: [tt3791302]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt4216908, tt4163644, tt4022440, tt4080768, tt3791302]
@@ -610,10 +572,6 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt4466544, tt4466362, tt3791302, tt4048050, tt3854802]
       winner: [tt4466544]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2015':
   césar:
     best actor (meilleur acteur):
@@ -668,7 +626,7 @@
       nominee: [tt3409392, tt2368635, tt3655522, tt3204144, tt2707848]
       winner: [tt3409392]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt2891070, tt3547740, tt2707858, tt2707848, tt2707848]
+      nominee: [tt2891070, tt3547740, tt2707858, tt2707848]
       winner: [tt2891070]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt2452254, tt2707858, tt2593230, tt3399024, tt2891070]
@@ -677,12 +635,8 @@
       nominee: [tt3204144, tt3289126, tt2991092, tt3146294, tt2289526]
       winner: [tt3204144]
     most promising actress (meilleur espoir féminin):
-      nominee: [tt3547740, tt3800010, tt3365778, tt3655522, tt3365778]
+      nominee: [tt3547740, tt3800010, tt3365778, tt3655522]
       winner: [tt3547740]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2014':
   césar:
     best actor (meilleur acteur):
@@ -751,10 +705,6 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt2278871, tt1638353, tt2018079, tt2752200, tt2215221]
       winner: [tt2278871]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2013':
   césar:
     best actor (meilleur acteur):
@@ -809,28 +759,24 @@
       nominee: [tt2076176, tt1602620, tt1753813, tt2076220, tt2053425]
       winner: [tt2076176]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt2179121, tt2076176, tt1906347, tt2253939, tt2253939]
+      nominee: [tt2179121, tt2076176, tt1906347, tt2253939]
       winner: [tt2179121]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt2179121, tt2076220, tt1602620, tt2253939, tt2253939]
+      nominee: [tt2179121, tt2076220, tt1602620, tt2253939]
       winner: [tt2179121]
     most promising actor (meilleur espoir masculin):
       nominee: [tt2053425, tt1964624, tt2144176, tt2062969, tt2112129]
       winner: [tt2053425]
     most promising actress (meilleur espoir féminin):
-      nominee: [tt2359668, tt2399501, tt2253939, tt2253939, tt2210823]
+      nominee: [tt2359668, tt2399501, tt2253939, tt2210823]
       winner: [tt2359668]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2012':
   césar:
     best actor (meilleur acteur):
-      nominee: [tt1675434, tt1711484, tt1675434, tt1655442, tt1781843, tt1582244, tt1710590]
+      nominee: [tt1675434, tt1711484, tt1655442, tt1781843, tt1582244, tt1710590]
       winner: [tt1675434]
     best actress (meilleure actrice):
-      nominee: [tt1655442, tt1852006, tt1661420, tt1686067, tt1942120, tt1661420, tt1931470]
+      nominee: [tt1655442, tt1852006, tt1661420, tt1686067, tt1942120, tt1931470]
       winner: [tt1655442]
     best adapted screenplay (meilleure adaptation):
       nominee: [tt1692486, tt1828995, tt1582244, tt1710590, tt1242521]
@@ -878,7 +824,7 @@
       nominee: [tt1781843, tt1931470, tt1660379, tt1661420, tt1675434]
       winner: [tt1781843]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt1781843, tt1711484, tt1661420, tt1661420, tt1661420]
+      nominee: [tt1781843, tt1711484, tt1661420]
       winner: [tt1781843]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt1805297, tt1675434, tt1661420, tt1660379, tt1781843]
@@ -887,12 +833,8 @@
       nominee: [tt1538221, tt1741542, tt1455106, tt1754795, tt1946269]
       winner: [tt1538221]
     most promising actress (meilleur espoir féminin):
-      nominee: [tt1538221, tt1661420, tt1660379, tt1821493, tt1660379]
+      nominee: [tt1538221, tt1661420, tt1660379, tt1821493]
       winner: [tt1538221, tt1661420]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2011':
   césar:
     best actor (meilleur acteur):
@@ -947,21 +889,17 @@
       nominee: [tt1329457, tt0765128, tt1588337, tt1451762, tt1139328]
       winner: [tt1329457]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt1588337, tt1465487, tt1440232, tt1533818, tt1588337]
+      nominee: [tt1588337, tt1465487, tt1440232, tt1533818]
       winner: [tt1588337]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt1517214, tt1465487, tt1521848, tt1329457, tt1440232]
       winner: [tt1517214]
     most promising actor (meilleur espoir masculin):
-      nominee: [tt1321865, tt1415255, tt1599975, tt1509797, tt1599975]
+      nominee: [tt1321865, tt1415255, tt1599975, tt1509797]
       winner: [tt1321865]
     most promising actress (meilleur espoir féminin):
-      nominee: [tt1587877, tt1509797, tt1587877, tt1587119, tt1401643]
+      nominee: [tt1587877, tt1509797, tt1587119, tt1401643]
       winner: [tt1587877]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2010':
   césar:
     best actor (meilleur acteur):
@@ -1019,15 +957,11 @@
       nominee: [tt1198385, tt1430110, tt1314280, tt1285246, tt1314237]
       winner: [tt1198385]
     most promising actor (meilleur espoir masculin):
-      nominee: [tt1235166, tt1235166, tt1314280, tt1314237, tt1406161]
+      nominee: [tt1235166, tt1314280, tt1314237, tt1406161]
       winner: [tt1235166]
     most promising actress (meilleur espoir féminin):
       nominee: [tt1245771, tt1194616, tt1258141, tt1486815, tt1198385]
       winner: [tt1245771]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2009':
   césar:
     best actor (meilleur acteur):
@@ -1085,15 +1019,11 @@
       nominee: [tt1068649, tt0993789, tt0836700, tt1052353, tt0869994]
       winner: [tt1068649]
     most promising actor (meilleur espoir masculin):
-      nominee: [tt0926759, tt1263778, tt0993789, tt0926759, tt1087829]
+      nominee: [tt0926759, tt1263778, tt0993789, tt1087829]
       winner: [tt0926759]
     most promising actress (meilleur espoir féminin):
       nominee: [tt0926759, tt1087851, tt1139800, tt1263778, tt1132608]
       winner: [tt0926759]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2008':
   césar:
     best actor (meilleur acteur):
@@ -1148,18 +1078,14 @@
       nominee: [tt0487273, tt0796335, tt0792965, tt0765141, tt0450188]
       winner: [tt0487273]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0490234, tt0864691, tt0490234, tt0815092, tt0450188]
+      nominee: [tt0490234, tt0864691, tt0815092, tt0450188]
       winner: [tt0490234]
     most promising actor (meilleur espoir masculin):
       nominee: [tt0792965, tt0996605, tt0875113, tt0487273, tt0864770]
       winner: [tt0792965]
     most promising actress (meilleur espoir féminin):
-      nominee: [tt0487419, tt0869977, tt0889652, tt0996605, tt0869977]
+      nominee: [tt0487419, tt0869977, tt0889652, tt0996605]
       winner: [tt0487419]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2007':
   césar:
     best actor (meilleur acteur):
@@ -1214,7 +1140,7 @@
       nominee: [tt0485241, tt0362225, tt0449851, tt0448245, tt0769508]
       winner: [tt0485241]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0444112, tt0478724, tt0464828, tt0444112, tt0465160]
+      nominee: [tt0444112, tt0478724, tt0464828, tt0465160]
       winner: [tt0444112]
     most promising actor (meilleur espoir masculin):
       nominee: [tt0814656, tt0474476, tt0475169, tt0774756, tt0465160, tt0442399]
@@ -1222,10 +1148,6 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt0485241, tt0814666, tt0487503, tt0459880, tt0498125]
       winner: [tt0485241]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2006':
   césar:
     best actor (meilleur acteur):
@@ -1277,7 +1199,7 @@
       nominee: [tt0411270, tt0424205, tt0436445, tt0387898, tt0431979]
       winner: [tt0411270]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0409184, tt0424338, tt0415932, tt0409184, tt0436091]
+      nominee: [tt0409184, tt0424338, tt0415932, tt0436091]
       winner: [tt0409184]
     most promising actor (meilleur espoir masculin):
       nominee: [tt0443844, tt0423914, tt0429052, tt0436546, tt0387898]
@@ -1285,10 +1207,6 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt0411270, tt0456396, tt0428965, tt0431493, tt0431827]
       winner: [tt0411270]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2005':
   césar:
     best actor (meilleur acteur):
@@ -1346,19 +1264,15 @@
       nominee: [tt0344510, tt0381292, tt0376961, tt0399738, tt0338977]
       winner: [tt0344510]
     most promising actress (meilleur jeune espoir féminin):
-      nominee: [tt0338977, tt0387892, tt0344273, tt0374583, tt0338977]
+      nominee: [tt0338977, tt0387892, tt0344273, tt0374583]
       winner: [tt0338977]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2004':
   césar:
     best actor (meilleur acteur):
       nominee: [tt0329388, tt0351770, tt0344604, tt0328955, tt0329584]
       winner: [tt0329388]
     best actress (meilleure actrice):
-      nominee: [tt0318725, tt0324133, tt0329584, tt0354448, tt0329584]
+      nominee: [tt0318725, tt0324133, tt0329584, tt0354448]
       winner: [tt0318725]
     best cinematography (meilleure photographie):
       nominee: [tt0310778, tt0308595, tt0329111]
@@ -1406,22 +1320,18 @@
       nominee: [tt0335351, tt0348572, tt0356999, tt0339028, tt0324133]
       winner: [tt0335351]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt0310778, tt0329111, tt0329111, tt0361474, tt0354855]
+      nominee: [tt0310778, tt0329111, tt0361474, tt0354855]
       winner: [tt0310778]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0335351, tt0336264, tt0361474, tt0338135, tt0326036]
       winner: [tt0335351]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2003':
   césar:
     best actor (meilleur acteur):
       nominee: [tt0253474, tt0259440, tt0273069, tt0309872, tt0280653]
       winner: [tt0253474]
     best actress (meilleure actrice):
-      nominee: [tt0259440, tt0293401, tt0283832, tt0283832, tt0293116]
+      nominee: [tt0259440, tt0293401, tt0283832, tt0293116]
       winner: [tt0259440]
     best cinematography (meilleure photographie):
       nominee: [tt0253474, tt0283832, tt0280653]
@@ -1463,7 +1373,7 @@
       nominee: [tt0253474, tt0283832, tt0280653]
       winner: [tt0253474]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0259440, tt0290916, tt0273069, tt0250223, tt0250223]
+      nominee: [tt0259440, tt0290916, tt0273069, tt0250223]
       winner: [tt0259440]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0290916, tt0283832, tt0302382, tt0273069, tt0283900]
@@ -1474,10 +1384,6 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0283900, tt0283832, tt0293155, tt0287448, tt0291538]
       winner: [tt0283900]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2002':
   césar:
     best actor (meilleur acteur):
@@ -1523,21 +1429,17 @@
       nominee: [tt0274117, tt0211915, tt0237534]
       winner: [tt0274117]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0273148, tt0269329, tt0211915, tt0240149, tt0211915]
+      nominee: [tt0273148, tt0269329, tt0211915, tt0240149]
       winner: [tt0273148]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0254686, tt0211915, tt0265116, tt0269329, tt0269499]
       winner: [tt0254686]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt0284573, tt0273148, tt0273148, tt0234041, tt0274155]
+      nominee: [tt0284573, tt0273148, tt0234041, tt0274155]
       winner: [tt0284573]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0265116, tt0269771, tt0242994, tt0234041, tt0263496]
       winner: [tt0265116]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2001':
   césar:
     best actor (meilleur acteur):
@@ -1583,21 +1485,17 @@
       nominee: [tt0216800, tt0228786, tt0244173]
       winner: [tt0216800]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0216787, tt0216787, tt0191636, tt0187474, tt0216841]
+      nominee: [tt0216787, tt0191636, tt0187474, tt0216841]
       winner: [tt0216787]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0216787, tt0216787, tt0217119, tt0217168, tt0216800]
+      nominee: [tt0216787, tt0217119, tt0217168, tt0216800]
       winner: [tt0216787]
     most promising actor (meilleur jeune espoir masculin):
       nominee: [tt0220726, tt0244173, tt0230098, tt0217119, tt0211387]
       winner: [tt0220726]
     most promising actress (meilleur jeune espoir féminin):
-      nominee: [tt0216578, tt0216911, tt0217019, tt0216578, tt0216800]
+      nominee: [tt0216578, tt0216911, tt0217019, tt0216800]
       winner: [tt0216578]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '2000':
   césar:
     best actor (meilleur acteur):
@@ -1643,10 +1541,10 @@
       nominee: [tt0151137, tt0167926, tt0144201]
       winner: [tt0151137]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0210163, tt0167926, tt0211286, tt0202283, tt0210163]
+      nominee: [tt0210163, tt0167926, tt0211286, tt0202283]
       winner: [tt0210163]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0211286, tt0174330, tt0210163, tt0181310, tt0174330]
+      nominee: [tt0211286, tt0174330, tt0210163, tt0181310]
       winner: [tt0211286]
     most promising actor (meilleur jeune espoir masculin):
       nominee: [tt0202283, tt0187200, tt0211401, tt0211504, tt0189916]
@@ -1654,10 +1552,6 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0174330, tt0205011, tt0187200, tt0187457, tt0200071]
       winner: [tt0174330]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1999':
   césar:
     best actor (meilleur acteur):
@@ -1703,7 +1597,7 @@
       nominee: [tt0152930, tt0119901, tt0118834]
       winner: [tt0152930]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0119038, tt0119901, tt0119901, tt0118834, tt0118834]
+      nominee: [tt0119038, tt0119901, tt0118834]
       winner: [tt0119038]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0118834, tt0123952, tt0168740, tt0119038, tt0119901]
@@ -1714,10 +1608,6 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0120449, tt0120799, tt0152930, tt0122082, tt0168740]
       winner: [tt0120449]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1998':
   césar:
     best actor (meilleur acteur):
@@ -1763,21 +1653,17 @@
       nominee: [tt0119828, tt0118895, tt0119116]
       winner: [tt0119828]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0119828, tt0119625, tt0119620, tt0119828, tt0118756]
+      nominee: [tt0119828, tt0119625, tt0119620, tt0118756]
       winner: [tt0119828]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0119828, tt0119981, tt0118895, tt0119773, tt0119620]
       winner: [tt0119828]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt0119773, tt0120471, tt0120494, tt0120494, tt0119981]
+      nominee: [tt0119773, tt0120471, tt0120494, tt0119981]
       winner: [tt0119773]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0120405, tt0120471, tt0119113, tt0119391, tt0119620]
       winner: [tt0120405]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1997':
   césar:
     best actor (meilleur acteur):
@@ -1823,31 +1709,27 @@
       nominee: [tt0117065, tt0118036, tt0116096, tt0111544, tt0118037]
       winner: [tt0117065]
     best sound (meilleur son):
-      nominee: [tt0117040, tt0115822, tt0117040, tt0117477]
+      nominee: [tt0117040, tt0115822, tt0117477]
       winner: [tt0117040]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0118015, tt0118020, tt0117477, tt0117412, tt0117477]
+      nominee: [tt0118015, tt0118020, tt0117477, tt0117412]
       winner: [tt0118015]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0118015, tt0118015, tt0117412, tt0118020, tt0117073]
+      nominee: [tt0118015, tt0117412, tt0118020, tt0117073]
       winner: [tt0118015]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt0115928, tt0118100, tt0115598, tt0115822, tt0115822]
+      nominee: [tt0115928, tt0118100, tt0115598, tt0115822]
       winner: [tt0115928]
     most promising actress (meilleur jeune espoir féminin):
-      nominee: [tt0118100, tt0115928, tt0115856, tt0115928, tt0115561]
+      nominee: [tt0118100, tt0115928, tt0115856, tt0115561]
       winner: [tt0118100]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1996':
   césar:
     best actor (meilleur acteur):
       nominee: [tt0113947, tt0113149, tt0112386, tt0113054, tt0113247]
       winner: [tt0113947]
     best actress (meilleure actrice):
-      nominee: [tt0112769, tt0113947, tt0113362, tt0112556, tt0112769]
+      nominee: [tt0112769, tt0113947, tt0113362, tt0112556]
       winner: [tt0112769]
     best cinematography (meilleure photographie):
       nominee: [tt0113362, tt0113247, tt0112682]
@@ -1889,21 +1771,17 @@
       nominee: [tt0113362, tt0113247, tt0113947]
       winner: [tt0113362]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0112556, tt0113947, tt0112769, tt0113947, tt0113149]
+      nominee: [tt0112556, tt0113947, tt0112769, tt0113149]
       winner: [tt0112556]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0113828, tt0112556, tt0113947, tt0112945, tt0112769]
       winner: [tt0113828]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt0112386, tt0113247, tt0112387, tt0113247, tt0113247]
+      nominee: [tt0112386, tt0113247, tt0112387]
       winner: [tt0112386]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0112951, tt0112945, tt0113362, tt0112387, tt0113057]
       winner: [tt0112951]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1995':
   césar:
     best actor (meilleur acteur):
@@ -1955,18 +1833,14 @@
       nominee: [tt0110963, tt0109800, tt0109798, tt0110646, tt0109454]
       winner: [tt0110963]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0110963, tt0110646, tt0110963, tt0110171, tt0111019]
+      nominee: [tt0110963, tt0110646, tt0110171, tt0111019]
       winner: [tt0110963]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt0110958, tt0110819, tt0111019, tt0111019, tt0111019]
+      nominee: [tt0110958, tt0110819, tt0111019]
       winner: [tt0110958]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0111019, tt0110521, tt0106618, tt0110796, tt0109702]
       winner: [tt0111019]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
   césar des césars:
     césar des césars:
       nominee: [tt0099334]
@@ -1974,7 +1848,7 @@
 '1994':
   césar:
     best actor (meilleur acteur):
-      nominee: [tt0108167, tt0108500, tt0107471, tt0108500, tt0107700]
+      nominee: [tt0108167, tt0108500, tt0107471, tt0107700]
       winner: [tt0108167]
     best actress (meilleure actrice):
       nominee: [tt0108394, tt0108435, tt0107471, tt0108369, tt0107002, tt0108167]
@@ -2027,14 +1901,10 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0106999, tt0107471, tt0108394, tt0107651, tt0107520]
       winner: [tt0106999]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1993':
   césar:
     best actor (meilleur acteur):
-      nominee: [tt0105448, tt0105448, tt0105682, tt0105131, tt0104025]
+      nominee: [tt0105448, tt0105682, tt0105131, tt0104025]
       winner: [tt0105448]
     best actress (meilleure actrice):
       nominee: [tt0104507, tt0105131, tt0105911, tt0105682, tt0104237]
@@ -2079,18 +1949,14 @@
       nominee: [tt0105682, tt0105243, tt0104507, tt0104830, tt0104025]
       winner: [tt0105682]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0104507, tt0105682, tt0104025, tt0104025, tt0104025]
+      nominee: [tt0104507, tt0105682, tt0104025]
       winner: [tt0104507]
     most promising actor (meilleur jeune espoir masculin):
       nominee: [tt0105356, tt0102583, tt0103616, tt0104473, tt0102552]
       winner: [tt0105356]
     most promising actress (meilleur jeune espoir féminin):
-      nominee: [tt0105032, tt0104658, tt0103782, tt0103782, tt0104507]
+      nominee: [tt0105032, tt0104658, tt0103782, tt0104507]
       winner: [tt0105032]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1992':
   césar:
     best actor (meilleur acteur):
@@ -2136,7 +2002,7 @@
       nominee: [tt0103110, tt0101700, tt0103190]
       winner: [tt0103110]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0102436, tt0103190, tt0103190, tt0101700, tt0103168]
+      nominee: [tt0102436, tt0103190, tt0101700, tt0103168]
       winner: [tt0102436]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0103110, tt0102436, tt0102136, tt0101428, tt0100303]
@@ -2145,12 +2011,8 @@
       nominee: [tt0102136, tt0103168, tt0103110, tt0101354, tt0102639]
       winner: [tt0102136]
     most promising actress (meilleur jeune espoir féminin):
-      nominee: [tt0102520, tt0103190, tt0103190, tt0102465, tt0101700]
+      nominee: [tt0102520, tt0103190, tt0102465, tt0101700]
       winner: [tt0102520]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1991':
   césar:
     best actor (meilleur acteur):
@@ -2199,7 +2061,7 @@
       nominee: [tt0099334, tt0100274, tt0100263]
       winner: [tt0099334]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0099334, tt0100851, tt0099436, tt0097884, tt0100851]
+      nominee: [tt0099334, tt0100851, tt0099436, tt0097884]
       winner: [tt0099334]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0097884, tt0100747, tt0100851, tt0099341, tt0099669]
@@ -2210,17 +2072,13 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0099436, tt0100357, tt0100851, tt0100747, tt0099406]
       winner: [tt0099436]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1990':
   césar:
     best actor (meilleur acteur):
       nominee: [tt0098596, tt0098520, tt0098552, tt0098000, tt0097515, tt0097904]
       winner: [tt0098596]
     best actress (meilleure actrice):
-      nominee: [tt0098520, tt0097279, tt0098520, tt0098596, tt0097904]
+      nominee: [tt0098520, tt0097279, tt0098596, tt0097904]
       winner: [tt0098520]
     best cinematography (meilleure photographie):
       nominee: [tt0098000, tt0098596, tt0098520]
@@ -2279,14 +2137,10 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0097995, tt0097614, tt0098409, tt0098552, tt0094711]
       winner: [tt0097995]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1989':
   césar:
     best actor (meilleur acteur):
-      nominee: [tt0095386, tt0095943, tt0094828, tt0095250, tt0095386]
+      nominee: [tt0095386, tt0095943, tt0094828, tt0095250]
       winner: [tt0095386]
     best actress (meilleure actrice):
       nominee: [tt0094828, tt0092931, tt0098087, tt0096336, tt0095511]
@@ -2351,14 +2205,10 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0096386, tt0095099, tt0095567, tt0092931]
       winner: [tt0096386]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1988':
   césar:
     best actor (meilleur acteur):
-      nominee: [tt0093111, tt0092837, tt0094011, tt0094105, tt0091529, tt0094105]
+      nominee: [tt0093111, tt0092837, tt0094011, tt0094105, tt0091529]
       winner: [tt0093111]
     best actress (meilleure actrice):
       nominee: [tt0093111, tt0092521, tt0091525, tt0093481, tt0094011]
@@ -2420,10 +2270,6 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0092797, tt0093505, tt0093709, tt0092550]
       winner: [tt0092797]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1987':
   césar:
     best actor (meilleur acteur):
@@ -2483,10 +2329,6 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0092090, tt0091038, tt0091497, tt0089935]
       winner: [tt0092090]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1986':
   césar:
     best actor (meilleur acteur):
@@ -2495,14 +2337,11 @@
     best actress (meilleure actrice):
       nominee: [tt0089960, tt0089726, tt0090095, tt0089902, tt0089860]
       winner: [tt0089960]
-    best advertising film (meilleur film publicitaire):
-      nominee: []
-      winner: []
     best cinematography (meilleure photographie):
       nominee: [tt0089726, tt0089256, tt0089902, tt0090095]
       winner: [tt0089726]
     best costume design (meilleurs costumes):
-      nominee: [tt0089256, tt0088844, tt0088844, tt0089072, tt0089902]
+      nominee: [tt0089256, tt0088844, tt0089072, tt0089902]
       winner: [tt0089256]
     best director (meilleur réalisateur):
       nominee: [tt0089860, tt0089960, tt0089072, tt0090206, tt0090095]
@@ -2547,7 +2386,7 @@
       nominee: [tt0090095, tt0089256, tt0089072, tt0089902]
       winner: [tt0090095]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0090206, tt0090095, tt0090095, tt0090095, tt0089726]
+      nominee: [tt0090206, tt0090095, tt0089726]
       winner: [tt0090206]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0089072, tt0089860, tt0089103, tt0090206, tt0089960]
@@ -2573,9 +2412,6 @@
     best adapted screenplay (meilleure adaptation):
       nominee: [tt0088318, tt0086988, tt0087250]
       winner: [tt0088318]
-    best advertising film (meilleur film publicitaire):
-      nominee: []
-      winner: []
     best cinematography (meilleure photographie):
       nominee: [tt0088318, tt0087034, tt0087284, tt0086890]
       winner: [tt0088318]
@@ -2636,10 +2472,6 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0087918, tt0088182, tt0087917, tt0087681]
       winner: [tt0087918]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1984':
   césar:
     best actor (meilleur acteur):
@@ -2694,7 +2526,7 @@
       nominee: [tt0086420, tt0084358, tt0085180, tt0085576]
       winner: [tt0086420]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0086420, tt0085576, tt0086655, tt0085370, tt0085576]
+      nominee: [tt0086420, tt0085576, tt0086655, tt0085370]
       winner: [tt0086420]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0086655, tt0086420, tt0086542, tt0084358, tt0085878]
@@ -2705,10 +2537,6 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0086650, tt0086420, tt0086550, tt0085432]
       winner: [tt0086650]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1983':
   césar:
     best actor (meilleur acteur):
@@ -2766,15 +2594,11 @@
       nominee: [tt0084962, tt0084843, tt0083686, tt0084468]
       winner: [tt0084962]
     most promising actor (meilleur jeune espoir masculin):
-      nominee: [tt0083920, tt0084589, tt0083611, tt0083611]
+      nominee: [tt0083920, tt0084589, tt0083611]
       winner: [tt0083920]
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0083686, tt0084843, tt0084962, tt0084019]
       winner: [tt0083686]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1982':
   césar:
     best actor (meilleur acteur):
@@ -2823,15 +2647,11 @@
       nominee: [tt0082269, tt0083260, tt0082701, tt0082436]
       winner: [tt0082269]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0082436, tt0082206, tt0083257, tt0082206]
+      nominee: [tt0082436, tt0082206, tt0083257]
       winner: [tt0082436]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0083257, tt0082539, tt0082206, tt0082370]
       winner: [tt0083257]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1981':
   césar:
     best actor (meilleur acteur):
@@ -2882,10 +2702,6 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0079854, tt0080610, tt0081678, tt0082182]
       winner: [tt0079854]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1980':
   césar:
     best actor (meilleur acteur):
@@ -2936,14 +2752,10 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0077308, tt0079003, tt0079091, tt0079980]
       winner: [tt0077308]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1979':
   césar:
     best actor (meilleur acteur):
-      nominee: [tt0077288, tt0075975, tt0078338, tt0078338]
+      nominee: [tt0077288, tt0075975, tt0078338]
       winner: [tt0077288]
     best actress (meilleure actrice):
       nominee: [tt0075975, tt0077348, tt0077943, tt0078467]
@@ -2988,12 +2800,8 @@
       nominee: [tt0078171, tt0075975, tt0078338, tt0077175]
       winner: [tt0078171]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0078467, tt0075975, tt0078338, tt0075975]
+      nominee: [tt0078467, tt0075975, tt0078338]
       winner: [tt0078467]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1978':
   césar:
     best actor (meilleur acteur):
@@ -3039,15 +2847,11 @@
       nominee: [tt0076574, tt0076410, tt0076470, tt0075824]
       winner: [tt0076574]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0075885, tt0076242, tt0076384, tt0075933, tt0076242]
+      nominee: [tt0075885, tt0076242, tt0076384, tt0075933]
       winner: [tt0075885]
     best supporting actress (meilleure actrice dans un second rôle):
-      nominee: [tt0076384, tt0075932, tt0076155, tt0076155, tt0076617]
+      nominee: [tt0076384, tt0075932, tt0076155, tt0076617]
       winner: [tt0076384]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1977':
   césar:
     best actor (meilleur acteur):
@@ -3098,10 +2902,6 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0074184, tt0076852, tt0074231, tt0074826]
       winner: [tt0074184]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []
 '1976':
   césar:
     best actor (meilleur acteur):
@@ -3138,12 +2938,8 @@
       nominee: [tt0072709, tt0139371, tt0073166, tt0073864]
       winner: [tt0072709]
     best supporting actor (meilleur acteur dans un second rôle):
-      nominee: [tt0072053, tt0073864, tt0072603, tt0072603]
+      nominee: [tt0072053, tt0073864, tt0072603]
       winner: [tt0072053]
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0072826, tt0187044, tt0072053, tt0071125]
       winner: [tt0072826]
-  honorary césar:
-    honorary césar:
-      nominee: []
-      winner: []

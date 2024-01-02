@@ -1,12 +1,3 @@
-'2024':
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
 '2023':
   oscar:
     best motion picture of the year:
@@ -19,10 +10,10 @@
       nominee: [tt6710474, tt1655389, tt8129806, tt14444726, tt14208870]
       winner: [tt6710474]
     best performance by an actor in a supporting role:
-      nominee: [tt6710474, tt11813216, tt11813216, tt10192406, tt14208870]
+      nominee: [tt6710474, tt11813216, tt10192406, tt14208870]
       winner: [tt6710474]
     best performance by an actress in a supporting role:
-      nominee: [tt6710474, tt9114286, tt13833688, tt11813216, tt6710474]
+      nominee: [tt6710474, tt9114286, tt13833688, tt11813216]
       winner: [tt6710474]
     best achievement in directing:
       nominee: [tt6710474, tt11813216, tt7322224, tt14208870, tt14444726]
@@ -78,30 +69,6 @@
     best international feature film:
       nominee: [tt1016150, tt15301048, tt9660502, tt19652910, tt15109082]
       winner: [tt1016150]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2022':
   oscar:
     best motion picture of the year:
@@ -114,7 +81,7 @@
       nominee: [tt9115530, tt12536294, tt4995540, tt9100054, tt12618926]
       winner: [tt9115530]
     best performance by an actor in a supporting role:
-      nominee: [tt10366460, tt12789558, tt4995540, tt10293406, tt10293406]
+      nominee: [tt10366460, tt12789558, tt4995540, tt10293406]
       winner: [tt10366460]
     best performance by an actress in a supporting role:
       nominee: [tt3581652, tt9620288, tt9100054, tt12789558, tt10293406]
@@ -173,14 +140,6 @@
     best international feature film:
       nominee: [tt14039582, tt8430054, tt10189300, tt12680684, tt10370710]
       winner: [tt14039582]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
   oscars cheer moment:
     oscars cheer moment:
       nominee: [tt12361974, tt10872600, tt4154796, tt0443489, tt0133093]
@@ -201,7 +160,7 @@
       nominee: [tt9770150, tt8521718, tt9620292, tt11161474, tt10514222]
       winner: [tt9770150]
     best performance by an actor in a supporting role:
-      nominee: [tt9784798, tt9784798, tt10612922, tt5363618, tt1070874]
+      nominee: [tt9784798, tt10612922, tt5363618, tt1070874]
       winner: [tt9784798]
     best performance by an actress in a supporting role:
       nominee: [tt10633456, tt10618286, tt6772802, tt13143964, tt10272386]
@@ -260,10 +219,6 @@
     best international feature film:
       nominee: [tt10288566, tt9586294, tt10706602, tt8633462, tt10360862]
       winner: [tt10288566]
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
 '2020':
   oscar:
     best motion picture of the year:
@@ -276,7 +231,7 @@
       nominee: [tt7549996, tt6394270, tt4648786, tt3281548, tt7653254]
       winner: [tt7549996]
     best performance by an actor in a supporting role:
-      nominee: [tt7131622, tt1302006, tt8404614, tt1302006, tt3224458]
+      nominee: [tt7131622, tt1302006, tt8404614, tt3224458]
       winner: [tt7131622]
     best performance by an actress in a supporting role:
       nominee: [tt7653254, tt3281548, tt3513548, tt6394270, tt2584384]
@@ -338,18 +293,6 @@
     best international feature film:
       nominee: [tt6751668, tt8649186, tt8991268, tt10199590, tt8291806]
       winner: [tt6751668]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '2019':
   oscar:
     best motion picture of the year:
@@ -365,7 +308,7 @@
       nominee: [tt6966692, tt7349662, tt4595882, tt1517451, tt6266538]
       winner: [tt6966692]
     best performance by an actress in a supporting role:
-      nominee: [tt7125860, tt6266538, tt5083738, tt6155172, tt5083738]
+      nominee: [tt7125860, tt6266538, tt5083738, tt6155172]
       winner: [tt7125860]
     best achievement in directing:
       nominee: [tt6155172, tt6266538, tt6543652, tt7349662, tt5083738]
@@ -424,22 +367,6 @@
     best foreign language film of the year:
       nominee: [tt6155172, tt8267604, tt6543652, tt5311542, tt8075192]
       winner: [tt6155172]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  john a. bonner award:
-    john a. bonner award:
-      nominee: []
-      winner: []
 '2018':
   oscar:
     best motion picture of the year:
@@ -452,7 +379,7 @@
       nominee: [tt5027774, tt5580036, tt6294822, tt5580390, tt4925292]
       winner: [tt5027774]
     best performance by an actor in a supporting role:
-      nominee: [tt5027774, tt5294550, tt5580390, tt5649144, tt5027774]
+      nominee: [tt5027774, tt5294550, tt5580390, tt5649144]
       winner: [tt5027774]
     best performance by an actress in a supporting role:
       nominee: [tt5580036, tt4925292, tt5776858, tt2396589, tt5580390]
@@ -518,26 +445,6 @@
     special achievement award:
       nominee: [tt6212516]
       winner: [tt6212516]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2017':
   oscar:
     best motion picture of the year:
@@ -583,7 +490,7 @@
       nominee: [tt3783958, tt1619029, tt3741834, tt4975722, tt1355644]
       winner: [tt3783958]
     best achievement in music written for motion pictures (original song):
-      nominee: [tt3783958, tt5278466, tt3783958, tt3521164, tt1679335]
+      nominee: [tt3783958, tt5278466, tt3521164, tt1679335]
       winner: [tt3783958]
     best achievement in sound mixing:
       nominee: [tt2119532, tt4172430, tt2543164, tt3783958, tt3748528]
@@ -612,18 +519,6 @@
     best animated feature film of the year:
       nominee: [tt2948356, tt4302938, tt3521164, tt2321405, tt3666024]
       winner: [tt2948356]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '2016':
   oscar:
     best motion picture of the year:
@@ -698,22 +593,6 @@
     best animated feature film of the year:
       nominee: [tt2096673, tt2401878, tt2872750, tt3183630, tt3398268]
       winner: [tt2096673]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '2015':
   oscar:
     best motion picture of the year:
@@ -788,34 +667,6 @@
     best animated feature film of the year:
       nominee: [tt2245084, tt1646971, tt1865505, tt0787474, tt2576852]
       winner: [tt2245084]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2014':
   oscar:
     best motion picture of the year:
@@ -890,34 +741,6 @@
     best animated feature film of the year:
       nominee: [tt2294629, tt1690953, tt1816518, tt0481499, tt2013293]
       winner: [tt2294629]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2013':
   oscar:
     best motion picture of the year:
@@ -992,30 +815,6 @@
     best animated feature:
       nominee: [tt1217209, tt1142977, tt1623288, tt1430626, tt1772341]
       winner: [tt1217209]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '2012':
   oscar:
     best motion picture of the year:
@@ -1031,7 +830,7 @@
       nominee: [tt1532503, tt1210166, tt1655420, tt0477302, tt1291584]
       winner: [tt1532503]
     best performance by an actress in a supporting role:
-      nominee: [tt1454029, tt1655442, tt1602098, tt1454029, tt1478338]
+      nominee: [tt1454029, tt1655442, tt1602098, tt1478338]
       winner: [tt1454029]
     best achievement in directing:
       nominee: [tt1655442, tt1033575, tt0970179, tt0478304, tt1605783]
@@ -1090,34 +889,6 @@
     best achievement in makeup:
       nominee: [tt1007029, tt1602098, tt1201607]
       winner: [tt1007029]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2011':
   oscar:
     best motion picture of the year:
@@ -1133,7 +904,7 @@
       nominee: [tt0964517, tt1504320, tt0840361, tt1399683, tt0842926]
       winner: [tt0964517]
     best performance by an actress in a supporting role:
-      nominee: [tt0964517, tt0964517, tt1403865, tt1504320, tt1313092]
+      nominee: [tt0964517, tt1403865, tt1504320, tt1313092]
       winner: [tt0964517]
     best achievement in directing:
       nominee: [tt1504320, tt0947798, tt1285016, tt0964517, tt1403865]
@@ -1192,26 +963,6 @@
     best achievement in makeup:
       nominee: [tt0780653, tt1423894, tt1023114]
       winner: [tt0780653]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '2010':
   oscar:
     best motion picture of the year:
@@ -1227,7 +978,7 @@
       nominee: [tt0361748, tt0824758, tt1057500, tt0380510, tt0790712]
       winner: [tt0361748]
     best performance by an actress in a supporting role:
-      nominee: [tt0929632, tt1193138, tt1263670, tt0875034, tt1193138]
+      nominee: [tt0929632, tt1193138, tt1263670, tt0875034]
       winner: [tt0929632]
     best achievement in directing:
       nominee: [tt0887912, tt0499549, tt1193138, tt0929632, tt0361748]
@@ -1251,7 +1002,7 @@
       nominee: [tt0962736, tt0810784, tt1035736, tt0875034, tt1054606]
       winner: [tt0962736]
     best achievement in music written for motion pictures, original song:
-      nominee: [tt1263670, tt0875034, tt0948535, tt0780521, tt0780521]
+      nominee: [tt1263670, tt0875034, tt0948535, tt0780521]
       winner: [tt1263670]
     best achievement in music written for motion pictures, original score:
       nominee: [tt1049413, tt0499549, tt0432283, tt0988045, tt0887912]
@@ -1286,22 +1037,6 @@
     best achievement in makeup:
       nominee: [tt0796366, tt1023490, tt0962736]
       winner: [tt0796366]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '2009':
   oscar:
     best motion picture of the year:
@@ -1317,7 +1052,7 @@
       nominee: [tt0468569, tt1013753, tt0959337, tt0918927, tt0942385]
       winner: [tt0468569]
     best performance by an actress in a supporting role:
-      nominee: [tt0497465, tt0918927, tt1125849, tt0421715, tt0918927]
+      nominee: [tt0497465, tt0918927, tt1125849, tt0421715]
       winner: [tt0497465]
     best achievement in directing:
       nominee: [tt1010048, tt0421715, tt1013753, tt0870111, tt0976051]
@@ -1341,7 +1076,7 @@
       nominee: [tt0864761, tt0455824, tt1013753, tt0959337, tt0421715]
       winner: [tt0864761]
     best achievement in music written for motion pictures, original song:
-      nominee: [tt1010048, tt1010048, tt0910970]
+      nominee: [tt1010048, tt0910970]
       winner: [tt1010048]
     best achievement in music written for motion pictures, original score:
       nominee: [tt1010048, tt1034303, tt1013753, tt0421715, tt0910970]
@@ -1376,26 +1111,6 @@
     best achievement in makeup:
       nominee: [tt0421715, tt0411477, tt0468569]
       winner: [tt0421715]
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2008':
   oscar:
     best motion picture of the year:
@@ -1435,7 +1150,7 @@
       nominee: [tt0414055, tt0445922, tt0783233, tt0450188, tt0408236]
       winner: [tt0414055]
     best achievement in music written for motion pictures, original song:
-      nominee: [tt0907657, tt0426931, tt0461770, tt0461770, tt0461770]
+      nominee: [tt0907657, tt0426931, tt0461770]
       winner: [tt0907657]
     best achievement in music written for motion pictures, original score:
       nominee: [tt0783233, tt0381849, tt0465538, tt0382932, tt0419887]
@@ -1470,34 +1185,6 @@
     best achievement in makeup:
       nominee: [tt0450188, tt0477051, tt0449088]
       winner: [tt0450188]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2007':
   oscar:
     best motion picture of the year:
@@ -1513,7 +1200,7 @@
       nominee: [tt0449059, tt0450259, tt0443489, tt0404203, tt0407887]
       winner: [tt0449059]
     best performance by an actress in a supporting role:
-      nominee: [tt0443489, tt0449059, tt0449467, tt0465551, tt0449467]
+      nominee: [tt0443489, tt0449059, tt0449467, tt0465551]
       winner: [tt0443489]
     best achievement in directing:
       nominee: [tt0407887, tt0449467, tt0498380, tt0475276, tt0436697]
@@ -1537,7 +1224,7 @@
       nominee: [tt0422720, tt0473444, tt0443489, tt0458352, tt0436697]
       winner: [tt0422720]
     best achievement in music written for motion pictures, original song:
-      nominee: [tt0497116, tt0317219, tt0443489, tt0443489, tt0443489]
+      nominee: [tt0497116, tt0317219, tt0443489]
       winner: [tt0497116]
     best achievement in music written for motion pictures, original score:
       nominee: [tt0449467, tt0465551, tt0457430, tt0452624, tt0436697]
@@ -1572,34 +1259,6 @@
     best achievement in makeup:
       nominee: [tt0457430, tt0472043, tt0389860]
       winner: [tt0457430]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2006':
   oscar:
     best motion picture of the year:
@@ -1674,30 +1333,6 @@
     best achievement in makeup:
       nominee: [tt0363771, tt0352248, tt0121766]
       winner: [tt0363771]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2005':
   oscar:
     best motion picture of the year:
@@ -1772,34 +1407,6 @@
     best achievement in makeup:
       nominee: [tt0339291, tt0335345, tt0369702]
       winner: [tt0339291]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2004':
   oscar:
     best picture:
@@ -1845,7 +1452,7 @@
       nominee: [tt0167260, tt0311113, tt0325980]
       winner: [tt0167260]
     best music, original song:
-      nominee: [tt0167260, tt0310281, tt0159365, tt0159365, tt0286244]
+      nominee: [tt0167260, tt0310281, tt0159365, tt0286244]
       winner: [tt0167260]
     best music, original score:
       nominee: [tt0167260, tt0319061, tt0159365, tt0266543, tt0315983]
@@ -1874,30 +1481,6 @@
     best director:
       nominee: [tt0167260, tt0327056, tt0317248, tt0311113, tt0335266]
       winner: [tt0167260]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2003':
   oscar:
     best picture:
@@ -1913,7 +1496,7 @@
       nominee: [tt0268126, tt0264464, tt0274558, tt0299658, tt0257044]
       winner: [tt0268126]
     best actress in a supporting role:
-      nominee: [tt0299658, tt0274558, tt0257360, tt0268126, tt0299658]
+      nominee: [tt0299658, tt0274558, tt0257360, tt0268126]
       winner: [tt0299658]
     best director:
       nominee: [tt0253474, tt0217505, tt0287467, tt0299658, tt0274558]
@@ -1972,26 +1555,6 @@
     best visual effects:
       nominee: [tt0167261, tt0145487, tt0121765]
       winner: [tt0167261]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '2002':
   oscar:
     best picture:
@@ -2007,7 +1570,7 @@
       nominee: [tt0280778, tt0203119, tt0139654, tt0120737, tt0248667]
       winner: [tt0280778]
     best actress in a supporting role:
-      nominee: [tt0268978, tt0280707, tt0280778, tt0280707, tt0247425]
+      nominee: [tt0268978, tt0280707, tt0280778, tt0247425]
       winner: [tt0268978]
     best director:
       nominee: [tt0268978, tt0166924, tt0120737, tt0265086, tt0280707]
@@ -2066,38 +1629,6 @@
     best animated feature:
       nominee: [tt0126029, tt0268397, tt0198781]
       winner: [tt0126029]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2001':
   oscar:
     best actor in a leading role:
@@ -2110,7 +1641,7 @@
       nominee: [tt0195685, tt0180093, tt0208874, tt0241303, tt0203230]
       winner: [tt0195685]
     best actress in a supporting role:
-      nominee: [tt0183659, tt0181875, tt0241303, tt0249462, tt0181875]
+      nominee: [tt0183659, tt0181875, tt0241303, tt0249462]
       winner: [tt0183659]
     best art direction-set decoration:
       nominee: [tt0190332, tt0172495, tt0170016, tt0180073, tt0190861]
@@ -2169,38 +1700,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0181875, tt0249462, tt0195685, tt0172495, tt0203230]
       winner: [tt0181875]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '2000':
   oscar:
     best actor in a leading role:
@@ -2272,30 +1771,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0169547, tt0120601, tt0175880, tt0167404, tt0151568]
       winner: [tt0169547]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1999':
   oscar:
     best actor in a leading role:
@@ -2370,30 +1845,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0138097, tt0118798, tt0118799, tt0120815, tt0120382]
       winner: [tt0138097]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1998':
   oscar:
     best actor in a leading role:
@@ -2468,30 +1919,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0119217, tt0119822, tt0118749, tt0118954, tt0119164]
       winner: [tt0119217]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1997':
   oscar:
     best actor in a leading role:
@@ -2569,30 +1996,6 @@
   honorary award:
     honorary award:
       nominee: [tt0278558]
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  award of commendation:
-    award of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
       winner: []
 '1996':
   oscar:
@@ -2672,26 +2075,6 @@
     special achievement award:
       nominee: [tt0114709]
       winner: [tt0114709]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1995':
   oscar:
     best actor in a leading role:
@@ -2704,7 +2087,7 @@
       nominee: [tt0109306, tt0110638, tt0111454, tt0109446, tt0110367]
       winner: [tt0109306]
     best actress in a supporting role:
-      nominee: [tt0109348, tt0110428, tt0109348, tt0111454, tt0110912]
+      nominee: [tt0109348, tt0110428, tt0111454, tt0110912]
       winner: [tt0109348]
     best art direction-set decoration:
       nominee: [tt0110428, tt0109348, tt0109830, tt0110148, tt0110322]
@@ -2743,7 +2126,7 @@
       nominee: [tt0110357, tt0109830, tt0110148, tt0110367, tt0111161]
       winner: [tt0110357]
     best music, original song:
-      nominee: [tt0110357, tt0110216, tt0110357, tt0110357, tt0110771]
+      nominee: [tt0110357, tt0110216, tt0110771]
       winner: [tt0110357]
     best picture:
       nominee: [tt0109830, tt0109831, tt0110912, tt0110932, tt0111161]
@@ -2763,34 +2146,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0110912, tt0109348, tt0109831, tt0110005, tt0111495]
       winner: [tt0110912]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1994':
   oscar:
     best actor in a leading role:
@@ -2842,7 +2197,7 @@
       nominee: [tt0108052, tt0106226, tt0106918, tt0106977, tt0107943]
       winner: [tt0108052]
     best music, original song:
-      nominee: [tt0107818, tt0106375, tt0107818, tt0107840, tt0108160]
+      nominee: [tt0107818, tt0106375, tt0107840, tt0108160]
       winner: [tt0107818]
     best picture:
       nominee: [tt0108052, tt0107207, tt0106977, tt0107822, tt0107943]
@@ -2862,34 +2217,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0107822, tt0106673, tt0107206, tt0107818, tt0108160]
       winner: [tt0107822]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1993':
   oscar:
     best actor in a leading role:
@@ -2941,7 +2268,7 @@
       nominee: [tt0103639, tt0105265, tt0103772, tt0103939, tt0104454]
       winner: [tt0103639]
     best music, original song:
-      nominee: [tt0103639, tt0103639, tt0103855, tt0103855, tt0104802]
+      nominee: [tt0103639, tt0103855, tt0104802]
       winner: [tt0103639]
     best picture:
       nominee: [tt0105695, tt0104257, tt0104454, tt0105323, tt0104036]
@@ -2961,44 +2288,16 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0104036, tt0104466, tt0104756, tt0105107, tt0105695]
       winner: [tt0104036]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1992':
   oscar:
     best actor in a leading role:
       nominee: [tt0102926, tt0102713, tt0101540, tt0101889, tt0101516]
       winner: [tt0102926]
     best actor in a supporting role:
-      nominee: [tt0101587, tt0101516, tt0101516, tt0101410, tt0102138]
+      nominee: [tt0101587, tt0101516, tt0101410, tt0102138]
       winner: [tt0101587]
     best actress in a leading role:
-      nominee: [tt0102926, tt0101902, tt0103074, tt0102753, tt0103074]
+      nominee: [tt0102926, tt0101902, tt0103074, tt0102753]
       winner: [tt0102926]
     best actress in a supporting role:
       nominee: [tt0101889, tt0102753, tt0101921, tt0101540, tt0102713]
@@ -3040,7 +2339,7 @@
       nominee: [tt0101414, tt0101516, tt0102138, tt0101889, tt0102713]
       winner: [tt0101414]
     best music, original song:
-      nominee: [tt0101414, tt0101414, tt0101414, tt0102057, tt0102798]
+      nominee: [tt0101414, tt0102057, tt0102798]
       winner: [tt0101414]
     best picture:
       nominee: [tt0102926, tt0101414, tt0101516, tt0102138, tt0102713]
@@ -3060,34 +2359,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0103074, tt0101507, tt0101516, tt0101969, tt0101889]
       winner: [tt0103074]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1991':
   oscar:
     best actor in a leading role:
@@ -3160,34 +2431,6 @@
     special achievement award:
       nominee: [tt0100802]
       winner: [tt0100802]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1990':
   oscar:
     best actor in a leading role:
@@ -3200,7 +2443,7 @@
       nominee: [tt0097239, tt0094828, tt0100211, tt0097322, tt0098319]
       winner: [tt0097239]
     best actress in a supporting role:
-      nominee: [tt0097937, tt0097276, tt0098067, tt0098384, tt0097276]
+      nominee: [tt0097937, tt0097276, tt0098067, tt0098384]
       winner: [tt0097937]
     best art direction-set decoration:
       nominee: [tt0096895, tt0097239, tt0097441, tt0096754, tt0096764]
@@ -3239,7 +2482,7 @@
       nominee: [tt0097757, tt0096969, tt0097351, tt0097576, tt0097322]
       winner: [tt0097757]
     best music, original song:
-      nominee: [tt0097757, tt0097044, tt0098067, tt0098319, tt0097757]
+      nominee: [tt0097757, tt0097044, tt0098067, tt0098319]
       winner: [tt0097757]
     best picture:
       nominee: [tt0097239, tt0096969, tt0097165, tt0097351, tt0097937]
@@ -3259,34 +2502,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0097165, tt0097123, tt0097216, tt0098724, tt0098635]
       winner: [tt0097165]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  special commendation:
-    special commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1989':
   oscar:
     best actor in a leading role:
@@ -3299,7 +2514,7 @@
       nominee: [tt0094608, tt0094947, tt0096463, tt0094924, tt0095243]
       winner: [tt0094608]
     best actress in a supporting role:
-      nominee: [tt0094606, tt0095647, tt0096463, tt0094947, tt0096463]
+      nominee: [tt0094606, tt0095647, tt0096463, tt0094947]
       winner: [tt0094606]
     best art direction-set decoration:
       nominee: [tt0094947, tt0094715, tt0095953, tt0096316, tt0096438]
@@ -3362,26 +2577,6 @@
     special achievement award:
       nominee: [tt0096438]
       winner: [tt0096438]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1988':
   oscar:
     best actor in a leading role:
@@ -3454,33 +2649,13 @@
     special achievement award:
       nominee: [tt0093870]
       winner: [tt0093870]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1987':
   oscar:
     best actor in a leading role:
       nominee: [tt0090863, tt0091538, tt0090557, tt0091886, tt0090830]
       winner: [tt0090863]
     best actor in a supporting role:
-      nominee: [tt0091167, tt0091867, tt0091217, tt0091763, tt0091763]
+      nominee: [tt0091167, tt0091867, tt0091217, tt0091763]
       winner: [tt0091167]
     best actress in a leading role:
       nominee: [tt0090830, tt0091554, tt0091738, tt0090605, tt0090886]
@@ -3545,30 +2720,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0091167, tt0090555, tt0091578, tt0091763, tt0091886]
       winner: [tt0091167]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1986':
   oscar:
     best actor in a leading role:
@@ -3581,7 +2732,7 @@
       nominee: [tt0090203, tt0088683, tt0090110, tt0089755, tt0088939]
       winner: [tt0090203]
     best actress in a supporting role:
-      nominee: [tt0089841, tt0090223, tt0088939, tt0088683, tt0088939]
+      nominee: [tt0089841, tt0090223, tt0088939, tt0088683]
       winner: [tt0089841]
     best art direction-set decoration:
       nominee: [tt0089755, tt0088846, tt0089881, tt0088939, tt0090329]
@@ -3620,7 +2771,7 @@
       nominee: [tt0089755, tt0088683, tt0090022, tt0088939, tt0090329]
       winner: [tt0089755]
     best music, original song:
-      nominee: [tt0090319, tt0088915, tt0088763, tt0088939, tt0090319]
+      nominee: [tt0090319, tt0088915, tt0088763, tt0088939]
       winner: [tt0090319]
     best picture:
       nominee: [tt0089755, tt0089424, tt0089841, tt0088939, tt0090329]
@@ -3640,34 +2791,10 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0090329, tt0088763, tt0088846, tt0089276, tt0089853]
       winner: [tt0090329]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1985':
   oscar:
     best actor in a leading role:
-      nominee: [tt0086879, tt0088322, tt0088172, tt0087553, tt0086879]
+      nominee: [tt0086879, tt0088322, tt0088172, tt0087553]
       winner: [tt0086879]
     best actor in a supporting role:
       nominee: [tt0087553, tt0088146, tt0087921, tt0087538, tt0087365]
@@ -3712,7 +2839,7 @@
       nominee: [tt0087892, tt0087469, tt0087781, tt0088007, tt0088322]
       winner: [tt0087892]
     best music, original song:
-      nominee: [tt0088414, tt0086859, tt0087277, tt0087277, tt0087332]
+      nominee: [tt0088414, tt0086859, tt0087277, tt0087332]
       winner: [tt0088414]
     best music, original song score:
       nominee: [tt0087957, tt0088153, tt0087755]
@@ -3739,40 +2866,16 @@
     special achievement award:
       nominee: [tt0088007]
       winner: [tt0088007]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1984':
   oscar:
     best actor in a leading role:
-      nominee: [tt0086423, tt0085461, tt0085478, tt0084591, tt0085461]
+      nominee: [tt0086423, tt0085461, tt0085478, tt0084591]
       winner: [tt0086423]
     best actor in a supporting role:
-      nominee: [tt0086425, tt0086450, tt0086425, tt0085380, tt0086197]
+      nominee: [tt0086425, tt0086450, tt0085380, tt0086197]
       winner: [tt0086425]
     best actress in a leading role:
-      nominee: [tt0086425, tt0086425, tt0086429, tt0085478, tt0086312]
+      nominee: [tt0086425, tt0086429, tt0085478, tt0086312]
       winner: [tt0086425]
     best actress in a supporting role:
       nominee: [tt0086617, tt0085380, tt0086619, tt0086312, tt0085244]
@@ -3808,7 +2911,7 @@
       nominee: [tt0086197, tt0085380, tt0086190, tt0086425, tt0086510]
       winner: [tt0086197]
     best music, original song:
-      nominee: [tt0085549, tt0085549, tt0086423, tt0086619, tt0086619]
+      nominee: [tt0085549, tt0086423, tt0086619]
       winner: [tt0085549]
     best music, original song score and its adaptation or best adaptation score:
       nominee: [tt0086619, tt0086370, tt0086465]
@@ -3835,30 +2938,6 @@
     special achievement award:
       nominee: [tt0086190]
       winner: [tt0086190]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1983':
   oscar:
     best actor in a leading role:
@@ -3871,7 +2950,7 @@
       nominee: [tt0084707, tt0084434, tt0083967, tt0084865, tt0084335]
       winner: [tt0084707]
     best actress in a supporting role:
-      nominee: [tt0084805, tt0084917, tt0083967, tt0084865, tt0084805]
+      nominee: [tt0084805, tt0084917, tt0083967, tt0084865]
       winner: [tt0084805]
     best art direction-set decoration:
       nominee: [tt0083987, tt0083564, tt0083658, tt0084821, tt0084865]
@@ -3933,30 +3012,6 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0083987, tt0084434, tt0083833, tt0083866, tt0084805]
       winner: [tt0083987]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1982':
   oscar:
     best actor in a leading role:
@@ -4029,41 +3084,13 @@
     special achievement award:
       nominee: [tt0082971]
       winner: [tt0082971]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
-  gordon e. sawyer award:
-    gordon e. sawyer award:
-      nominee: []
-      winner: []
 '1981':
   oscar:
     best actor in a leading role:
       nominee: [tt0081398, tt0081656, tt0080678, tt0081568, tt0079239]
       winner: [tt0081398]
     best actor in a supporting role:
-      nominee: [tt0081283, tt0081150, tt0081398, tt0081283, tt0079239]
+      nominee: [tt0081283, tt0081150, tt0081398, tt0079239]
       winner: [tt0081283]
     best actress in a leading role:
       nominee: [tt0080549, tt0081414, tt0080798, tt0081375, tt0081283]
@@ -4099,7 +3126,7 @@
       nominee: [tt0080716, tt0080360, tt0080684, tt0080009, tt0080678]
       winner: [tt0080716]
     best music, original song:
-      nominee: [tt0080716, tt0080319, tt0080716, tt0080888, tt0080556]
+      nominee: [tt0080716, tt0080319, tt0080888, tt0080556]
       winner: [tt0080716]
     best picture:
       nominee: [tt0081283, tt0080549, tt0081398, tt0080009, tt0080678]
@@ -4123,26 +3150,6 @@
     special achievement award:
       nominee: [tt0080684]
       winner: [tt0080684]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1980':
   oscar:
     best actor in a leading role:
@@ -4155,7 +3162,7 @@
       nominee: [tt0079638, tt0079826, tt0078966, tt0079948, tt0078952]
       winner: [tt0079638]
     best actress in a supporting role:
-      nominee: [tt0079417, tt0078902, tt0079948, tt0079417, tt0079522]
+      nominee: [tt0079417, tt0078902, tt0079948, tt0079522]
       winner: [tt0079417]
     best art direction-set decoration:
       nominee: [tt0078754, tt0078748, tt0078788, tt0079945, tt0078966]
@@ -4215,34 +3222,6 @@
     special achievement award:
       nominee: [tt0078872]
       winner: [tt0078872]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1979':
   oscar:
     best actor in a leading role:
@@ -4312,40 +3291,16 @@
     special achievement award:
       nominee: [tt0078346]
       winner: [tt0078346]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1978':
   oscar:
     best actor in a leading role:
       nominee: [tt0076095, tt0076666, tt0076085, tt0075995, tt0075686]
       winner: [tt0076095]
     best actor in a supporting role:
-      nominee: [tt0076245, tt0076759, tt0076245, tt0076843, tt0075995]
+      nominee: [tt0076245, tt0076759, tt0076843, tt0075995]
       winner: [tt0076245]
     best actress in a leading role:
-      nominee: [tt0075686, tt0076843, tt0076245, tt0076095, tt0076843]
+      nominee: [tt0075686, tt0076843, tt0076245, tt0076095]
       winner: [tt0075686]
     best actress in a supporting role:
       nominee: [tt0076245, tt0076843, tt0075860, tt0076095, tt0076327]
@@ -4408,41 +3363,13 @@
     special achievement award:
       nominee: [tt0075860, tt0076759]
       winner: [tt0075860, tt0076759]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  medal of commendation:
-    medal of commendation:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1977':
   oscar:
     best actor in a leading role:
-      nominee: [tt0074958, tt0075040, tt0075314, tt0075148, tt0074958]
+      nominee: [tt0074958, tt0075040, tt0075314, tt0075148]
       winner: [tt0074958]
     best actor in a supporting role:
-      nominee: [tt0074119, tt0075148, tt0075148, tt0074860, tt0074958]
+      nominee: [tt0074119, tt0075148, tt0074860, tt0074958]
       winner: [tt0074119]
     best actress in a leading role:
       nominee: [tt0074958, tt0074147, tt0072826, tt0074285, tt0075148]
@@ -4505,22 +3432,6 @@
     special achievement award:
       nominee: [tt0074751, tt0074812]
       winner: [tt0074751, tt0074812]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1976':
   oscar:
     best actor in a leading role:
@@ -4533,7 +3444,7 @@
       nominee: [tt0073486, tt0073812, tt0073107, tt0073098, tt0073114]
       winner: [tt0073486]
     best actress in a supporting role:
-      nominee: [tt0073692, tt0073190, tt0073440, tt0073440, tt0072973]
+      nominee: [tt0073692, tt0073190, tt0073440, tt0072973]
       winner: [tt0073692]
     best art direction-set decoration:
       nominee: [tt0072684, tt0073692, tt0073113, tt0073341, tt0073766]
@@ -4588,39 +3499,15 @@
       winner: [tt0073486]
   special achievement award:
     special achievement award:
-      nominee: [tt0073113, tt0073113]
-      winner: [tt0073113, tt0073113]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
+      nominee: [tt0073113]
+      winner: [tt0073113]
 '1975':
   oscar:
     best actor in a leading role:
       nominee: [tt0071598, tt0071562, tt0071877, tt0071746, tt0071315]
       winner: [tt0071598]
     best actor in a supporting role:
-      nominee: [tt0071562, tt0072308, tt0072288, tt0071562, tt0071562]
+      nominee: [tt0071562, tt0072308, tt0072288]
       winner: [tt0071562]
     best actress in a leading role:
       nominee: [tt0071115, tt0071334, tt0071315, tt0072417, tt0071746]
@@ -4683,26 +3570,6 @@
     special achievement award:
       nominee: [tt0071455]
       winner: [tt0071455]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1974':
   oscar:
     best actor in a leading role:
@@ -4715,7 +3582,7 @@
       nominee: [tt0070819, tt0070903, tt0070047, tt0070748, tt0069883]
       winner: [tt0070819]
     best actress in a supporting role:
-      nominee: [tt0070510, tt0069704, tt0070047, tt0070510, tt0070748]
+      nominee: [tt0070510, tt0069704, tt0070047, tt0070748]
       winner: [tt0070510]
     best art direction-set decoration:
       nominee: [tt0070735, tt0069824, tt0070047, tt0070903, tt0070814]
@@ -4768,37 +3635,13 @@
     best writing, story and screenplay based on factual material or material not previously published or produced:
       nominee: [tt0070735, tt0070819, tt0069704, tt0069467, tt0070640]
       winner: [tt0070735]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1973':
   oscar:
     best actor in a leading role:
-      nominee: [tt0068646, tt0069281, tt0069281, tt0069303, tt0069198]
+      nominee: [tt0068646, tt0069281, tt0069303, tt0069198]
       winner: [tt0068646]
     best actor in a supporting role:
-      nominee: [tt0068327, tt0068646, tt0068687, tt0068646, tt0068646]
+      nominee: [tt0068327, tt0068646, tt0068687]
       winner: [tt0068327]
     best actress in a leading role:
       nominee: [tt0068327, tt0069303, tt0068828, tt0067919, tt0069404]
@@ -4861,39 +3704,19 @@
     special achievement award:
       nominee: [tt0069113]
       winner: [tt0069113]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1972':
   oscar:
     best actor in a leading role:
       nominee: [tt0067116, tt0067217, tt0067805, tt0067093, tt0067314]
       winner: [tt0067116]
     best actor in a supporting role:
-      nominee: [tt0067328, tt0067328, tt0067093, tt0067774, tt0067116]
+      nominee: [tt0067328, tt0067093, tt0067774, tt0067116]
       winner: [tt0067328]
     best actress in a leading role:
       nominee: [tt0067309, tt0067805, tt0067483, tt0067411, tt0067402]
       winner: [tt0067309]
     best actress in a supporting role:
-      nominee: [tt0067328, tt0066892, tt0067980, tt0067328, tt0067144]
+      nominee: [tt0067328, tt0066892, tt0067980, tt0067144]
       winner: [tt0067328]
     best art direction-set decoration:
       nominee: [tt0067483, tt0066817, tt0067093, tt0067402, tt0066769]
@@ -4949,22 +3772,6 @@
     best writing, story and screenplay based on factual material or material not previously published or produced:
       nominee: [tt0067217, tt0065889, tt0067309, tt0067803, tt0067805]
       winner: [tt0067217]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1971':
   oscar:
     best actor in a leading role:
@@ -4977,7 +3784,7 @@
       nominee: [tt0066579, tt0066011, tt0065636, tt0065797, tt0066319]
       winner: [tt0066579]
     best actress in a supporting role:
-      nominee: [tt0065377, tt0065724, tt0065963, tt0065377, tt0066026]
+      nominee: [tt0065377, tt0065724, tt0065963, tt0066026]
       winner: [tt0065377]
     best art direction-set decoration:
       nominee: [tt0066206, tt0065377, tt0066344, tt0066090, tt0066473]
@@ -5033,34 +3840,10 @@
     best writing, story and screenplay based on factual material or material not previously published or produced:
       nominee: [tt0066206, tt0065724, tt0065916, tt0066011, tt0064612]
       winner: [tt0066206]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1970':
   oscar:
     best actor in a leading role:
-      nominee: [tt0065126, tt0064665, tt0064665, tt0064382, tt0064030]
+      nominee: [tt0065126, tt0064665, tt0064382, tt0064030]
       winner: [tt0065126]
     best actor in a supporting role:
       nominee: [tt0065088, tt0064030, tt0064100, tt0064276, tt0064886]
@@ -5125,26 +3908,6 @@
     best writing, story and screenplay based on material not previously published or produced:
       nominee: [tt0064115, tt0064100, tt0064276, tt0064118, tt0065214]
       winner: [tt0064115]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1969':
   oscar:
     best actor in a leading role:
@@ -5217,29 +3980,13 @@
     honorary award:
       nominee: [tt0063385, tt0063442]
       winner: [tt0063385, tt0063442]
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1968':
   oscar:
     best actor in a leading role:
       nominee: [tt0061811, tt0061722, tt0061512, tt0061735, tt0061418]
       winner: [tt0061811]
     best actor in a supporting role:
-      nominee: [tt0061512, tt0061735, tt0061418, tt0061578, tt0061418]
+      nominee: [tt0061512, tt0061735, tt0061418, tt0061578]
       winner: [tt0061512]
     best actress in a leading role:
       nominee: [tt0061735, tt0061722, tt0062467, tt0061180, tt0061418]
@@ -5304,30 +4051,6 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0061735, tt0061418, tt0061581, tt0060481, tt0062407]
       winner: [tt0061735]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1967':
   oscar:
     best actor in a leading role:
@@ -5408,30 +4131,6 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0061138, tt0060176, tt0060588, tt0060424, tt0060736]
       winner: [tt0061138]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1966':
   oscar:
     best actor in a leading role:
@@ -5444,7 +4143,7 @@
       nominee: [tt0059084, tt0059573, tt0059742, tt0059043, tt0059712]
       winner: [tt0059084]
     best actress in a supporting role:
-      nominee: [tt0059573, tt0059555, tt0059555, tt0059742, tt0059314]
+      nominee: [tt0059573, tt0059555, tt0059742, tt0059314]
       winner: [tt0059573]
     best art direction-set decoration, black-and-white:
       nominee: [tt0059712, tt0059573, tt0059358, tt0059729, tt0059749]
@@ -5512,34 +4211,10 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0059084, tt0059015, tt0059825, tt0058450, tt0059797]
       winner: [tt0059084]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1965':
   oscar:
     best actor in a leading role:
-      nominee: [tt0058385, tt0057831, tt0057877, tt0057012, tt0057877]
+      nominee: [tt0058385, tt0057831, tt0057877, tt0057012]
       winner: [tt0058385]
     best actor in a supporting role:
       nominee: [tt0058672, tt0058576, tt0057877, tt0057883, tt0058385]
@@ -5620,18 +4295,6 @@
     honorary award:
       nominee: [tt0057812]
       winner: [tt0057812]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1964':
   oscar:
     best actor in a leading role:
@@ -5644,7 +4307,7 @@
       nominee: [tt0057163, tt0057239, tt0057263, tt0057578, tt0057187]
       winner: [tt0057163]
     best actress in a supporting role:
-      nominee: [tt0057634, tt0057590, tt0057590, tt0057590, tt0057251]
+      nominee: [tt0057634, tt0057590, tt0057251]
       winner: [tt0057634]
     best art direction-set decoration, black-and-white:
       nominee: [tt0056825, tt0056801, tt0057163, tt0057263, tt0057609]
@@ -5712,22 +4375,6 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0056085, tt0056801, tt0056825, tt0057263, tt0056389]
       winner: [tt0056085]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1963':
   oscar:
     best actor in a leading role:
@@ -5805,29 +4452,13 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0055913, tt0055998, tt0054632, tt0056575, tt0055499]
       winner: [tt0055913]
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1962':
   oscar:
     best actor in a leading role:
-      nominee: [tt0055031, tt0054866, tt0054997, tt0055031, tt0055146]
+      nominee: [tt0055031, tt0054866, tt0054997, tt0055146]
       winner: [tt0055031]
     best actor in a supporting role:
-      nominee: [tt0055614, tt0054997, tt0054997, tt0055031, tt0055312]
+      nominee: [tt0055614, tt0054997, tt0055031, tt0055312]
       winner: [tt0055614]
     best actress in a leading role:
       nominee: [tt0054749, tt0054698, tt0055489, tt0055471, tt0054997]
@@ -5902,26 +4533,6 @@
     honorary award:
       nominee: [tt0121293]
       winner: [tt0121293]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1961':
   oscar:
     best actor in a leading role:
@@ -6003,39 +4614,19 @@
     juvenile award:
       nominee: [tt0054195]
       winner: [tt0054195]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1960':
   oscar:
     best actor in a leading role:
       nominee: [tt0052618, tt0053291, tt0052561, tt0053226, tt0052990]
       winner: [tt0052618]
     best actor in a supporting role:
-      nominee: [tt0052618, tt0052561, tt0052738, tt0052561, tt0053462]
+      nominee: [tt0052618, tt0052561, tt0052738, tt0053462]
       winner: [tt0052618]
     best actress in a leading role:
-      nominee: [tt0053226, tt0053131, tt0053172, tt0053318, tt0053318]
+      nominee: [tt0053226, tt0053131, tt0053172, tt0053318]
       winner: [tt0053226]
     best actress in a supporting role:
-      nominee: [tt0052738, tt0053226, tt0052918, tt0052918, tt0053172]
+      nominee: [tt0052738, tt0053226, tt0052918, tt0053172]
       winner: [tt0052738]
     best art direction-set decoration, black-and-white:
       nominee: [tt0052738, tt0052673, tt0053291, tt0053318, tt0052990]
@@ -6100,30 +4691,10 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0053172, tt0053125, tt0053143, tt0053198, tt0050986]
       winner: [tt0053172]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1959':
   oscar:
     best actor in a leading role:
-      nominee: [tt0052182, tt0051459, tt0051525, tt0052027, tt0051525]
+      nominee: [tt0052182, tt0051459, tt0051525, tt0052027]
       winner: [tt0052182]
     best actor in a supporting role:
       nominee: [tt0051411, tt0052218, tt0052278, tt0051435, tt0051525]
@@ -6191,39 +4762,19 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0051525, tt0051745, tt0052278, tt0051667, tt0052190]
       winner: [tt0051525]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1958':
   oscar:
     best actor in a leading role:
       nominee: [tt0050212, tt0050487, tt0051193, tt0051201, tt0050933]
       winner: [tt0050212]
     best actor in a supporting role:
-      nominee: [tt0050933, tt0050839, tt0050839, tt0050212, tt0050379]
+      nominee: [tt0050933, tt0050839, tt0050212, tt0050379]
       winner: [tt0050933]
     best actress in a leading role:
       nominee: [tt0051077, tt0051193, tt0050490, tt0050882, tt0050839]
       winner: [tt0051077]
     best actress in a supporting role:
-      nominee: [tt0050933, tt0050156, tt0050839, tt0051201, tt0050839]
+      nominee: [tt0050933, tt0050156, tt0050839, tt0051201]
       winner: [tt0050933]
     best art direction-set decoration:
       nominee: [tt0050933, tt0050419, tt0050631, tt0050815, tt0050882]
@@ -6273,30 +4824,10 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0050306, tt0050419, tt0046521, tt0050681, tt0051087]
       winner: [tt0050306]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1957':
   oscar:
     best actor in a leading role:
-      nominee: [tt0049408, tt0049261, tt0049456, tt0049674, tt0049261]
+      nominee: [tt0049408, tt0049261, tt0049456, tt0049674]
       winner: [tt0049408]
     best actor in a supporting role:
       nominee: [tt0049456, tt0049233, tt0049038, tt0049022, tt0049966]
@@ -6305,7 +4836,7 @@
       nominee: [tt0048947, tt0048973, tt0049408, tt0049653, tt0048977]
       winner: [tt0048947]
     best actress in a supporting role:
-      nominee: [tt0049966, tt0048977, tt0049261, tt0048973, tt0048977]
+      nominee: [tt0049966, tt0048977, tt0049261, tt0048973]
       winner: [tt0049966]
     best art direction-set decoration, black-and-white:
       nominee: [tt0049778, tt0047478, tt0049831, tt0049640, tt0049777]
@@ -6376,30 +4907,6 @@
     best writing, motion picture story:
       nominee: [tt0049030, tt0048166, tt0049170, tt0046149, tt0045274]
       winner: [tt0049030]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  jean hersholt humanitarian award:
-    jean hersholt humanitarian award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1956':
   oscar:
     best actor in a leading role:
@@ -6484,31 +4991,19 @@
     honorary award:
       nominee: [tt0047444]
       winner: [tt0047444]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1955':
   oscar:
     best actor in a leading role:
       nominee: [tt0047296, tt0046874, tt0044386, tt0046816, tt0047522]
       winner: [tt0047296]
     best actor in a supporting role:
-      nominee: [tt0046754, tt0047296, tt0047296, tt0047296, tt0046816]
+      nominee: [tt0046754, tt0047296, tt0046816]
       winner: [tt0046754]
     best actress in a leading role:
       nominee: [tt0046874, tt0047437, tt0046828, tt0047203, tt0047522]
       winner: [tt0046874]
     best actress in a supporting role:
-      nominee: [tt0047296, tt0047086, tt0047086, tt0046808, tt0046963]
+      nominee: [tt0047296, tt0047086, tt0046808, tt0046963]
       winner: [tt0047296]
     best art direction-set decoration, black-and-white:
       nominee: [tt0047296, tt0046963, tt0045034, tt0047437, tt0046874]
@@ -6578,27 +5073,15 @@
       winner: [tt0047296]
   honorary award:
     honorary award:
-      nominee: [tt0045935, tt0046006, tt0046006]
-      winner: [tt0045935, tt0046006, tt0046006]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
+      nominee: [tt0045935, tt0046006]
+      winner: [tt0045935, tt0046006]
 '1954':
   oscar:
     best actor in a leading role:
-      nominee: [tt0046359, tt0045793, tt0045943, tt0045793, tt0046247]
+      nominee: [tt0046359, tt0045793, tt0045943, tt0046247]
       winner: [tt0046359]
     best actor in a supporting role:
-      nominee: [tt0045793, tt0046303, tt0046250, tt0046303, tt0046359]
+      nominee: [tt0045793, tt0046303, tt0046250, tt0046359]
       winner: [tt0045793]
     best actress in a leading role:
       nominee: [tt0046250, tt0046085, tt0045793, tt0046000, tt0046094]
@@ -6672,26 +5155,6 @@
     best writing, story and screenplay:
       nominee: [tt0046435, tt0046398, tt0045537, tt0045679, tt0044953]
       winner: [tt0046435]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1953':
   oscar:
     best actor in a leading role:
@@ -6776,29 +5239,13 @@
     honorary award:
       nominee: [tt0043686]
       winner: [tt0043686]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1952':
   oscar:
     best actor in a leading role:
       nominee: [tt0043265, tt0043361, tt0043458, tt0044081, tt0043924]
       winner: [tt0043265]
     best actor in a supporting role:
-      nominee: [tt0044081, tt0043424, tt0043458, tt0043949, tt0043949]
+      nominee: [tt0044081, tt0043424, tt0043458, tt0043949]
       winner: [tt0044081]
     best actress in a leading role:
       nominee: [tt0044081, tt0043465, tt0043350, tt0043265, tt0043924]
@@ -6876,22 +5323,6 @@
     honorary award:
       nominee: [tt0042876]
       winner: [tt0042876]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1951':
   oscar:
     best actor in a leading role:
@@ -6901,10 +5332,10 @@
       nominee: [tt0042192, tt0042742, tt0043014, tt0042286, tt0042208]
       winner: [tt0042192]
     best actress in a leading role:
-      nominee: [tt0042276, tt0042192, tt0042192, tt0042296, tt0043014]
+      nominee: [tt0042276, tt0042192, tt0042296, tt0043014]
       winner: [tt0042276]
     best actress in a supporting role:
-      nominee: [tt0042546, tt0042192, tt0042296, tt0043014, tt0042192]
+      nominee: [tt0042546, tt0042192, tt0042296, tt0043014]
       winner: [tt0042546]
     best art direction-set decoration, black-and-white:
       nominee: [tt0043014, tt0042192, tt0041788]
@@ -6976,22 +5407,6 @@
     honorary award:
       nominee: [tt0040137]
       winner: [tt0040137]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1950':
   oscar:
     best actor in a leading role:
@@ -7004,7 +5419,7 @@
       nominee: [tt0041452, tt0041329, tt0041746, tt0041257, tt0041672]
       winner: [tt0041452]
     best actress in a supporting role:
-      nominee: [tt0041113, tt0041257, tt0041257, tt0041746, tt0041746]
+      nominee: [tt0041113, tt0041257, tt0041746]
       winner: [tt0041113]
     best art direction-set decoration, black-and-white:
       nominee: [tt0041452, tt0041257, tt0041615]
@@ -7072,26 +5487,10 @@
     best writing, story and screenplay:
       nominee: [tt0041163, tt0041530, tt0038823, tt0041737, tt0040717]
       winner: [tt0041163]
-  juvenile award:
-    juvenile award:
-      nominee: []
-      winner: []
   honorary award:
     honorary award:
       nominee: [tt0040522]
       winner: [tt0040522]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1949':
   oscar:
     best actor in a leading role:
@@ -7104,7 +5503,7 @@
       nominee: [tt0040495, tt0040823, tt0040491, tt0040458, tt0040806]
       winner: [tt0040495]
     best actress in a supporting role:
-      nominee: [tt0040506, tt0040495, tt0040458, tt0040458, tt0040416]
+      nominee: [tt0040506, tt0040495, tt0040458, tt0040416]
       winner: [tt0040506]
     best art direction-set decoration, black-and-white:
       nominee: [tt0040416, tt0040495]
@@ -7177,22 +5576,6 @@
     honorary award:
       nominee: [tt0040491, tt0039632]
       winner: [tt0040491, tt0039632]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1948':
   oscar:
     best actor in a leading role:
@@ -7205,7 +5588,7 @@
       nominee: [tt0039370, tt0039416, tt0039725, tt0039636, tt0039840]
       winner: [tt0039370]
     best actress in a supporting role:
-      nominee: [tt0039416, tt0039416, tt0039694, tt0039286, tt0039349]
+      nominee: [tt0039416, tt0039694, tt0039286, tt0039349]
       winner: [tt0039416]
     best art direction-set decoration, black-and-white:
       nominee: [tt0038574, tt0039394]
@@ -7271,18 +5654,6 @@
     honorary award:
       nominee: [tt0039188, tt0038913, tt0038969]
       winner: [tt0039188, tt0038913, tt0038969]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1947':
   oscar:
     best actor in a leading role:
@@ -7354,30 +5725,10 @@
     best writing, screenplay:
       nominee: [tt0036868, tt0038303, tt0037558, tt0038890, tt0038669]
       winner: [tt0036868]
-  juvenile award:
-    juvenile award:
-      nominee: []
-      winner: []
   honorary award:
     honorary award:
       nominee: [tt0036910, tt0036868]
       winner: [tt0036910, tt0036868]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1946':
   oscar:
     best actor in a leading role:
@@ -7390,7 +5741,7 @@
       nominee: [tt0037913, tt0037865, tt0038213, tt0037536, tt0037885]
       winner: [tt0037913]
     best actress in a supporting role:
-      nominee: [tt0037120, tt0037988, tt0037913, tt0037913, tt0037614]
+      nominee: [tt0037120, tt0037988, tt0037913, tt0037614]
       winner: [tt0037120]
     best art direction-interior decoration, black-and-white:
       nominee: [tt0037547, tt0036807, tt0037885, tt0036983, tt0037988]
@@ -7452,30 +5803,14 @@
     best writing, screenplay:
       nominee: [tt0037884, tt0038190, tt0037913, tt0038000, tt0038120]
       winner: [tt0037884]
-  juvenile award:
-    juvenile award:
-      nominee: []
-      winner: []
   honorary award:
     honorary award:
       nominee: [tt0037792]
       winner: [tt0037792]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1945':
   oscar:
     best actor in a leading role:
-      nominee: [tt0036872, tt0037465, tt0036872, tt0037135, tt0036855]
+      nominee: [tt0036872, tt0037465, tt0037135, tt0036855]
       winner: [tt0036872]
     best actor in a supporting role:
       nominee: [tt0036872, tt0037094, tt0037008, tt0037263, tt0037280]
@@ -7550,26 +5885,6 @@
     juvenile award:
       nominee: [tt0037059]
       winner: [tt0037059]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1944':
   oscar:
     best actor in a leading role:
@@ -7582,7 +5897,7 @@
       nominee: [tt0036377, tt0036126, tt0035896, tt0036172, tt0035751]
       winner: [tt0036377]
     best actress in a supporting role:
-      nominee: [tt0035896, tt0036377, tt0036377, tt0036515, tt0036367]
+      nominee: [tt0035896, tt0036377, tt0036515, tt0036367]
       winner: [tt0035896]
     best art direction-interior decoration, black-and-white:
       nominee: [tt0036377, tt0035884, tt0035888, tt0036126, tt0036166, tt0036217]
@@ -7644,26 +5959,6 @@
     best writing, screenplay:
       nominee: [tt0034583, tt0036009, tt0036172, tt0036377, tt0036515]
       winner: [tt0034583]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1943':
   oscar:
     best actor in a leading role:
@@ -7676,7 +5971,7 @@
       nominee: [tt0035093, tt0035140, tt0035567, tt0035105, tt0035211]
       winner: [tt0035093]
     best actress in a supporting role:
-      nominee: [tt0035093, tt0035015, tt0035140, tt0035093, tt0035238]
+      nominee: [tt0035093, tt0035015, tt0035140, tt0035238]
       winner: [tt0035093]
     best art direction-interior decoration, black-and-white:
       nominee: [tt0035431, tt0034780, tt0035238, tt0035335, tt0035413, tt0035015, tt0035211, tt0034175, tt0035369, tt0035417]
@@ -7739,22 +6034,6 @@
     honorary award:
       nominee: [tt0034891]
       winner: [tt0034891]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1942':
   oscar:
     best actor in a leading role:
@@ -7767,7 +6046,7 @@
       nominee: [tt0034248, tt0033373, tt0033836, tt0033407, tt0033722]
       winner: [tt0034248]
     best actress in a supporting role:
-      nominee: [tt0033677, tt0034167, tt0033836, tt0033729, tt0033836]
+      nominee: [tt0033677, tt0034167, tt0033836, tt0033729]
       winner: [tt0033677]
     best art direction-interior decoration, black-and-white:
       nominee: [tt0033729, tt0033467, tt0033722, tt0033802, tt0034167, tt0034193, tt0034242, tt0034272, tt0033606, tt0033836, tt0033076, tt0034386]
@@ -7828,24 +6107,8 @@
       winner: [tt0033712]
   honorary award:
     honorary award:
-      nominee: [tt0121453, tt0032455, tt0032455, tt0121791]
-      winner: [tt0121453, tt0032455, tt0032455, tt0121791]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
+      nominee: [tt0121453, tt0032455, tt0121791]
+      winner: [tt0121453, tt0032455, tt0121791]
 '1941':
   oscar:
     best actor in a leading role:
@@ -7914,35 +6177,19 @@
     best writing, screenplay:
       nominee: [tt0032904, tt0032671, tt0032976, tt0032551, tt0032728]
       winner: [tt0032904]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1940':
   oscar:
     best actor in a leading role:
       nominee: [tt0031385, tt0031381, tt0031679, tt0032145, tt0031066]
       winner: [tt0031385]
     best actor in a supporting role:
-      nominee: [tt0031971, tt0031516, tt0031088, tt0031679, tt0031679]
+      nominee: [tt0031971, tt0031516, tt0031088, tt0031679]
       winner: [tt0031971]
     best actress in a leading role:
       nominee: [tt0031381, tt0031210, tt0031385, tt0031725, tt0031593]
       winner: [tt0031381]
     best actress in a supporting role:
-      nominee: [tt0031381, tt0031252, tt0032145, tt0031593, tt0031381]
+      nominee: [tt0031381, tt0031252, tt0032145, tt0031593]
       winner: [tt0031381]
     best art direction:
       nominee: [tt0031381, tt0031088, tt0031137, tt0031311, tt0031593, tt0031620, tt0031679, tt0031971, tt0031826, tt0031835, tt0032138, tt0032145]
@@ -7992,26 +6239,10 @@
     best writing, screenplay:
       nominee: [tt0031381, tt0031385, tt0031679, tt0031725, tt0032145]
       winner: [tt0031381]
-  juvenile award:
-    juvenile award:
-      nominee: []
-      winner: []
   honorary award:
     honorary award:
       nominee: [tt0031381]
       winner: [tt0031381]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
   technical achievement award:
     technical achievement award:
       nominee: [tt0031381]
@@ -8072,30 +6303,10 @@
     best writing, screenplay:
       nominee: [tt0030637, tt0029942, tt0030149, tt0029995, tt0030993]
       winner: [tt0030637]
-  juvenile award:
-    juvenile award:
-      nominee: []
-      winner: []
   honorary award:
     honorary award:
       nominee: [tt0029583, tt0030775, tt0030817]
       winner: [tt0029583, tt0030775, tt0030817]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1938':
   oscar:
     best actor in a leading role:
@@ -8162,22 +6373,6 @@
     honorary award:
       nominee: [tt0029606]
       winner: [tt0029606]
-  irving g. thalberg memorial award:
-    irving g. thalberg memorial award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1937':
   oscar:
     best actor in a leading role:
@@ -8244,22 +6439,10 @@
     honorary award:
       nominee: [tt0027657]
       winner: [tt0027657]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1936':
   oscar:
     best actor in a leading role:
-      nominee: [tt0026529, tt0026752, tt0026752, tt0026752, tt0026121]
+      nominee: [tt0026529, tt0026752, tt0026121]
       winner: [tt0026529]
     best actress in a leading role:
       nominee: [tt0026261, tt0026893, tt0026320, tt0026056, tt0026264, tt0026104]
@@ -8301,7 +6484,7 @@
       nominee: [tt0024777, tt0026086, tt0026167]
       winner: [tt0024777]
     best sound, recording:
-      nominee: [tt0026768, tt0026027, tt0026174, tt0026507, tt0026654, tt0027088, tt0026138, tt0026264, tt0026643]
+      nominee: [tt0026768, tt0026027, tt0026138, tt0026174, tt0026507, tt0026654, tt0027088, tt0026264, tt0026643]
       winner: [tt0026768]
     best writing, original story:
       nominee: [tt0026970, tt0026393, tt0026144, tt0026400]
@@ -8309,22 +6492,6 @@
     best writing, screenplay:
       nominee: [tt0026529, tt0026174, tt0026752, tt0026643]
       winner: [tt0026529]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1935':
   oscar:
     best actor in a leading role:
@@ -8375,18 +6542,6 @@
     best writing, original story:
       nominee: [tt0025464, tt0025251, tt0025718]
       winner: [tt0025464]
-  juvenile award:
-    juvenile award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
   technical achievement award:
     technical achievement award:
       nominee: [tt0025601]
@@ -8402,9 +6557,6 @@
     best art direction:
       nominee: [tt0023876, tt0022879, tt0024763]
       winner: [tt0023876]
-    best assistant director:
-      nominee: []
-      winner: []
     best cinematography:
       nominee: [tt0022879, tt0024496, tt0023470]
       winner: [tt0022879]
@@ -8432,18 +6584,6 @@
     best writing, original story:
       nominee: [tt0023305, tt0023374, tt0024475]
       winner: [tt0023305]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1932':
   oscar:
     best actor in a leading role:
@@ -8473,31 +6613,12 @@
     best short subject, novelty:
       nominee: [tt0023711, tt0023441, tt0152771]
       winner: [tt0023711]
-    best sound, recording:
-      nominee: []
-      winner: []
     best writing, adaptation:
       nominee: [tt0021635, tt0021622, tt0022835]
       winner: [tt0021635]
     best writing, original story:
       nominee: [tt0021730, tt0023109, tt0022430, tt0023686]
       winner: [tt0021730]
-  honorary award:
-    honorary award:
-      nominee: []
-      winner: []
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 '1931':
   oscar:
     best actor in a leading role:
@@ -8518,27 +6639,12 @@
     best picture:
       nominee: [tt0021746, tt0021826, tt0022397, tt0021890, tt0022495]
       winner: [tt0021746]
-    best sound, recording:
-      nominee: []
-      winner: []
     best writing, adaptation:
       nominee: [tt0021746, tt0020985, tt0021079, tt0022397, tt0021770]
       winner: [tt0021746]
     best writing, original story:
       nominee: [tt0020815, tt0021053, tt0022403, tt0020836, tt0022286]
       winner: [tt0020815]
-  academy award of merit:
-    academy award of merit:
-      nominee: []
-      winner: []
-  scientific and engineering award:
-    scientific and engineering award:
-      nominee: []
-      winner: []
-  technical achievement award:
-    technical achievement award:
-      nominee: []
-      winner: []
 1930-2:
   oscar:
     best actor in a leading role:

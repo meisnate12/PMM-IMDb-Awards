@@ -12,10 +12,6 @@
     world cinema - dramatic:
       nominee: [tt26749327, tt18277182, tt2118648, tt30141676, tt23888758, tt28500076, tt11220024, tt30317033, tt30320410, tt26006472]
       winner: []
-  visionary award:
-    visionary award:
-      nominee: []
-      winner: []
   short film grand jury prize:
     best short film:
       nominee: [tt28355685, tt13021784, tt29134283, tt28670320, tt27612246, tt30420138, tt30420185, tt23768110, tt30062682, tt30421212, tt30420685, tt30253429, tt26451699, tt30421215, tt30421218, tt30052206, tt30420991, tt30421224, tt19889406, tt28671712, tt23039638, tt28755203, tt13162310, tt30252620, tt26007706, tt29346140, tt30421226, tt30420749, tt30420791, tt30420996, tt30421207, tt24656910, tt29897029, tt30420986, tt30146387, tt26256574, tt30421211, tt28670640, tt29579095, tt30420719, tt30420743, tt30069369, tt30421250, tt30421231, tt29549406, tt21650346, tt30421233, tt30098567, tt28350115, tt30421235, tt27661652]
@@ -23,14 +19,6 @@
   next innovator award:
     next innovator award:
       nominee: [tt28510594, tt27367464, tt21740488, tt12309944, tt18325446, tt30320639]
-      winner: []
-  vanguard award:
-    vanguard award:
-      nominee: []
-      winner: []
-  trailblazer award:
-    trailblazer award:
-      nominee: []
       winner: []
 '2023':
   grand jury prize:
@@ -153,14 +141,6 @@
     u.s. documentary:
       nominee: [tt24079640]
       winner: [tt24079640]
-  amazon studios nonfiction producers award:
-    amazon studios nonfiction producers award:
-      nominee: []
-      winner: []
-  amazon studios fiction producers award:
-    amazon studios fiction producers award:
-      nominee: []
-      winner: []
 '2022':
   grand jury prize:
     documentary:
@@ -523,14 +503,6 @@
     social impact filmmaking:
       nominee: [tt11394184]
       winner: [tt11394184]
-  horizon award:
-    emerging female filmmaker:
-      nominee: []
-      winner: []
-  vanguard award:
-    vanguard award:
-      nominee: []
-      winner: []
 '2019':
   grand jury prize:
     documentary:
@@ -593,10 +565,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt7533152]
       winner: [tt7533152]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   editing award:
     documentary:
       nominee: [tt8760684]
@@ -636,10 +604,6 @@
     new frontier:
       nominee: [tt9670896]
       winner: []
-  sundance institute/amazon studios producers award:
-    sundance institute/amazon studios producers award:
-      nominee: []
-      winner: []
   next innovator award:
     next innovator award:
       nominee: [tt6885114, tt6316466, tt4169146, tt9358160, tt6127004, tt9133378, tt8759834, tt8456696, tt9356952, tt5342950]
@@ -669,10 +633,6 @@
     emerging female filmmaker:
       nominee: [tt2566082, tt8816028]
       winner: [tt2566082, tt8816028]
-  vanguard award:
-    vanguard award:
-      nominee: []
-      winner: []
 '2018':
   grand jury prize:
     documentary:
@@ -762,7 +722,7 @@
       winner: [tt8508734]
   short film grand jury prize:
     short film grand jury prize:
-      nominee: [tt6915280, tt7139480, tt7882592, tt7535612, tt7874476, tt7007792, tt7844392, tt6324068, tt7207674, tt7379682, tt7370910, tt6966866, tt5363486, tt7434238, tt7132658, tt7879350, tt5968262, tt7471538, tt7467476, tt7288818, tt6772698, tt6585312, tt6236696, tt6952952, tt7475988, tt6988216, tt7561610, tt7676148, tt7206606, tt7889616, tt7872488, tt7872596, tt6982812, tt6724880, tt7374512, tt7639222, tt6527474, tt7790166, tt6569966, tt6915280, tt7611684, tt7571616, tt6740132, tt7879414, tt7877938, tt7227522, tt7498346, tt7238340, tt6531506, tt7441028, tt7319504, tt7106790, tt6710828, tt6905458, tt7924820, tt6485750, tt7889578, tt6718814, tt7655416, tt6089092, tt7771642, tt7385592, tt7679416, tt7278178, tt7130628, tt6739808, tt6764622, tt7820962]
+      nominee: [tt6915280, tt7139480, tt7882592, tt7535612, tt7874476, tt7007792, tt7844392, tt6324068, tt7207674, tt7379682, tt7370910, tt6966866, tt5363486, tt7434238, tt7132658, tt7879350, tt5968262, tt7471538, tt7467476, tt7288818, tt6772698, tt6585312, tt6236696, tt6952952, tt7475988, tt6988216, tt7561610, tt7676148, tt7206606, tt7889616, tt7872488, tt7872596, tt6982812, tt6724880, tt7374512, tt7639222, tt6527474, tt7790166, tt6569966, tt7611684, tt7571616, tt6740132, tt7879414, tt7877938, tt7227522, tt7498346, tt7238340, tt6531506, tt7441028, tt7319504, tt7106790, tt6710828, tt6905458, tt7924820, tt6485750, tt7889578, tt6718814, tt7655416, tt6089092, tt7771642, tt7385592, tt7679416, tt7278178, tt7130628, tt6739808, tt6764622, tt7820962]
       winner: [tt7139480]
   short film jury award:
     u.s. fiction:
@@ -775,18 +735,10 @@
     new frontier:
       nominee: [tt7720282, tt10324286, tt7918178]
       winner: []
-  sundance institute/amazon studios producers award:
-    sundance institute/amazon studios producers award:
-      nominee: []
-      winner: []
   next innovator award:
     next innovator award:
       nominee: [tt7184124, tt7681824]
       winner: [tt7184124, tt7681824]
-  vanguard award:
-    vanguard award:
-      nominee: []
-      winner: []
 '2017':
   grand jury prize:
     documentary:
@@ -864,10 +816,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt4978710]
       winner: [tt4978710]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   editing award:
     world cinema - documentary:
       nominee: [tt6333078]
@@ -900,10 +848,6 @@
     editing:
       nominee: [tt6306190]
       winner: [tt6306190]
-  horizon award:
-    emerging female filmmaker:
-      nominee: []
-      winner: []
 '2016':
   grand jury prize:
     documentary:
@@ -1129,18 +1073,10 @@
     short film special jury prize:
       nominee: [tt3686716, tt4215316]
       winner: [tt3686716, tt4215316]
-  sundance institute/mahindra global filmmaking award:
-    sundance institute/mahindra global filmmaking award:
-      nominee: []
-      winner: []
   short film grand jury prize:
     short film grand jury prize:
       nominee: [tt4171032, tt3140068, tt3826888, tt4214952, tt3686716, tt3453988, tt3843154, tt3623302, tt3679164, tt4214838, tt4214874, tt3730322, tt3630326, tt3885278, tt4214870, tt4322280, tt3831378, tt4215318, tt4196270, tt3823224, tt4180724, tt4214924, tt4383786, tt4215316, tt3672582, tt3505434, tt3951560, tt4033206, tt3373082, tt4214922, tt3755218, tt3642328, tt4214868, tt3630144, tt3901550, tt3624806, tt4215340, tt4215062, tt3831540, tt3203054, tt3730206, tt3609780, tt4215336, tt4196820, tt4110934, tt4214824, tt4439096, tt3561188, tt4061634, tt4439128, tt4357072, tt4357094, tt4357052]
       winner: [tt4171032]
-  red crown producer's award:
-    red crown producer's award:
-      nominee: []
-      winner: []
 '2014':
   grand jury prize:
     documentary:
@@ -1166,8 +1102,8 @@
       nominee: [tt3362914]
       winner: [tt3362914]
     world cinema - dramatic:
-      nominee: [tt2141751, tt2141751]
-      winner: [tt2141751, tt2141751]
+      nominee: [tt2141751]
+      winner: [tt2141751]
   directing award:
     documentary:
       nominee: [tt2107850]
@@ -1259,7 +1195,7 @@
       winner: [tt3830162, tt4635372, tt8090564]
   short film grand jury prize:
     short film grand jury prize:
-      nominee: [tt3216358, tt3278940, tt3469462, tt2963658, tt3334028, tt2649628, tt2914716, tt3400904, tt2187064, tt3455624, tt3315732, tt2922078, tt3325034, tt2937630, tt3442560, tt3020682, tt3465312, tt1213575, tt3410858, tt3454716, tt3408882, tt3334396, tt2658170, tt2909154, tt3395836, tt3072076, tt3379508, tt3434046, tt3469580, tt3333202, tt3145466, tt2964792, tt2902316, tt3120806, tt3420378, tt3180148, tt3244856, tt2935290, tt2793902, tt2918338, tt2567960, tt3469616, tt2951912, tt3358498, tt3469626, tt3469642, tt2922112, tt3394946, tt3469674, tt3004842, tt3436196, tt3014054, tt3202982, tt3042000, tt3469500, tt3225348, tt3216358, tt3402078, tt3469604, tt2543714, tt3416142, tt3469682, tt3427062, tt3225532, tt3086458, tt3278420]
+      nominee: [tt3216358, tt3278940, tt3469462, tt2963658, tt3334028, tt2649628, tt2914716, tt3400904, tt2187064, tt3455624, tt3315732, tt2922078, tt3325034, tt2937630, tt3442560, tt3020682, tt3465312, tt1213575, tt3410858, tt3454716, tt3408882, tt3334396, tt2658170, tt2909154, tt3395836, tt3072076, tt3379508, tt3434046, tt3469580, tt3333202, tt3145466, tt2964792, tt2902316, tt3120806, tt3420378, tt3180148, tt3244856, tt2935290, tt2793902, tt2918338, tt2567960, tt3469616, tt2951912, tt3358498, tt3469626, tt3469642, tt2922112, tt3394946, tt3469674, tt3004842, tt3436196, tt3014054, tt3202982, tt3042000, tt3469500, tt3225348, tt3402078, tt3469604, tt2543714, tt3416142, tt3469682, tt3427062, tt3225532, tt3086458, tt3278420]
       winner: [tt3278940]
   red crown producer's award:
     red crown producer's award:
@@ -1345,10 +1281,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt2007360]
       winner: [tt2007360]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   editing award:
     documentary:
       nominee: [tt2179053]
@@ -1377,10 +1309,6 @@
     short film special jury prize:
       nominee: [tt2659434, tt2402004]
       winner: [tt2659434, tt2402004]
-  sundance institute/mahindra global filmmaking award:
-    sundance institute/mahindra global filmmaking award:
-      nominee: []
-      winner: []
   short film grand jury prize:
     short film grand jury prize:
       nominee: [tt2659410, tt2501654, tt2166236, tt2390219, tt2249626, tt2322379, tt2428852, tt2458756, tt2763252, tt2262654, tt2555908, tt2763258, tt2333046, tt2763308, tt2499022, tt2659434, tt2426154, tt2342151, tt2586022, tt2763314, tt2690924, tt2644508, tt2445680, tt2311844, tt2231296, tt2309924, tt2532012, tt2532014, tt2369143, tt2372335, tt2726232, tt2462414, tt2402004, tt2125581, tt2461346, tt2254109, tt2242274, tt2228900, tt2620238, tt2339643, tt2594210, tt2659426, tt2465066, tt2599786, tt2594098, tt2674152, tt2386140, tt2508572, tt2616720, tt2202368, tt2173658, tt2247154, tt2537514, tt2413494, tt2634692, tt2763332, tt2608404, tt2400479, tt2215741, tt2606344, tt2150062, tt2654430, tt2763344, tt2634658]
@@ -1473,10 +1401,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt1990314, tt2088967]
       winner: [tt1990314, tt2088967]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   women in film national geographic all roads award:
     women in film national geographic all roads award:
       nominee: [tt2028578]
@@ -1511,7 +1435,7 @@
       winner: [tt2023664, tt2066982]
   short film grand jury prize:
     short film grand jury prize:
-      nominee: [tt2061682, tt2088662, tt1988535, tt1982597, tt1964446, tt2063594, tt1904845, tt2023406, tt2006697, tt2006697, tt2064760, tt2501618, tt2056570, tt2203783, tt2754014, tt2754014, tt1727288, tt1744612, tt2078648, tt2095671, tt1999908, tt1851017, tt2011101, tt2056638, tt5105594, tt2023611, tt2015451, tt1954705, tt2023664, tt2025666, tt2073084, tt1895538, tt2184293, tt1884443, tt2077875, tt2124941, tt2054819, tt2087841, tt2119553, tt2028578, tt2070886]
+      nominee: [tt2061682, tt2088662, tt1988535, tt1982597, tt1964446, tt2063594, tt1904845, tt2023406, tt2006697, tt2064760, tt2501618, tt2056570, tt2203783, tt2754014, tt1727288, tt1744612, tt2078648, tt2095671, tt1999908, tt1851017, tt2011101, tt2056638, tt5105594, tt2023611, tt2015451, tt1954705, tt2023664, tt2025666, tt2073084, tt1895538, tt2184293, tt1884443, tt2077875, tt2124941, tt2054819, tt2087841, tt2119553, tt2028578, tt2070886]
       winner: [tt2061682]
 '2011':
   grand jury prize:
@@ -1806,10 +1730,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt1185836]
       winner: [tt1185836]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   editing award:
     documentary:
       nominee: [tt1333656]
@@ -2003,18 +1923,10 @@
     alfred p. sloan feature film prize:
       nominee: [tt0416675]
       winner: [tt0416675]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   "\"delta's fly-in movies\" film contest winner":
     "\"delta's fly-in movies\" film contest winner":
       nominee: [tt0783732]
       winner: [tt0783732]
-  indie mogul award:
-    indie mogul award:
-      nominee: []
-      winner: []
   editing award:
     documentary:
       nominee: [tt0893356]
@@ -2095,10 +2007,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt0373747]
       winner: [tt0373747]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   editing award:
     documentary:
       nominee: [tt0492466]
@@ -2180,10 +2088,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt0427312]
       winner: [tt0427312]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
   short film special jury prize:
     short film special jury prize:
       nominee: [tt0442970]
@@ -2253,9 +2157,6 @@
     animation:
       nominee: [tt0423851]
       winner: [tt0423851]
-    new forms gallery:
-      nominee: []
-      winner: []
     short subject:
       nominee: [tt0398386]
       winner: [tt0398386]
@@ -2270,18 +2171,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt0390384]
       winner: [tt0390384]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
-  nhk award - honorable mention:
-    nhk award - honorable mention:
-      nominee: []
-      winner: []
-  visionary award:
-    visionary award:
-      nominee: []
-      winner: []
   short film grand jury prize:
     short film grand jury prize:
       nominee: [tt0392061]
@@ -2289,8 +2178,8 @@
 '2003':
   grand jury prize:
     documentary:
-      nominee: [tt0342172, tt0342172, tt0342180, tt0342275, tt0094416, tt0337902, tt0342150, tt0342804, tt0342939, tt0343024, tt0334416, tt0342319, tt0342956, tt0343168, tt0343107, tt0343173]
-      winner: [tt0342172, tt0342172]
+      nominee: [tt0342172, tt0342180, tt0342275, tt0094416, tt0337902, tt0342150, tt0342804, tt0342939, tt0343024, tt0334416, tt0342319, tt0342956, tt0343168, tt0343107, tt0343173]
+      winner: [tt0342172]
     dramatic:
       nominee: [tt0305206, tt0299458, tt0342167, tt0322023, tt0342300, tt0320244, tt0311648, tt0342916, tt0271234, tt0318374, tt0339419, tt0340377, tt0328515, tt0301976, tt0328538, tt0343172]
       winner: [tt0305206]
@@ -2352,18 +2241,6 @@
     alfred p. sloan feature film prize:
       nominee: [tt0342300]
       winner: [tt0342300]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
-  visionary award:
-    visionary award:
-      nominee: []
-      winner: []
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
   short film grand jury prize:
     short film grand jury prize:
       nominee: [tt0344492]
@@ -2441,10 +2318,6 @@
     nhk award:
       nominee: [tt0804529]
       winner: [tt0804529]
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '2001':
   grand jury prize:
     documentary:
@@ -2512,14 +2385,6 @@
     online film festival viewers award:
       nominee: [tt0282501]
       winner: [tt0282501]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '2000':
   grand jury prize:
     documentary:
@@ -2579,14 +2444,6 @@
     short filmmaking award - honorable mention:
       nominee: [tt0240443, tt0240517, tt0240524, tt0191181, tt0228416, tt0204881, tt0240467, tt0240978, tt0224263]
       winner: [tt0240443, tt0240517, tt0240524, tt0191181, tt0228416, tt0204881, tt0240467, tt0240978, tt0224263]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1999':
   grand jury prize:
     documentary:
@@ -2663,10 +2520,6 @@
     nhk award:
       nominee: [tt0303339, tt0240419, tt0210358, tt0188128]
       winner: [tt0303339, tt0240419, tt0210358, tt0188128]
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1998':
   grand jury prize:
     documentary:
@@ -2730,14 +2583,6 @@
     short filmmaking award - honorable mention:
       nominee: [tt0164053]
       winner: [tt0164053]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1997':
   grand jury prize:
     documentary:
@@ -2806,10 +2651,6 @@
     special jury recognition:
       nominee: [tt0120126, tt0119324]
       winner: [tt0120126, tt0119324]
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1996':
   grand jury prize:
     documentary:
@@ -2871,18 +2712,6 @@
     special jury recognition:
       nominee: [tt0116418, tt0118147]
       winner: [tt0116418, tt0118147]
-  nhk award:
-    nhk award:
-      nominee: []
-      winner: []
-  cinema 100/sundance international award:
-    cinema 100/sundance international award:
-      nominee: []
-      winner: []
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1995':
   grand jury prize:
     documentary:
@@ -2937,10 +2766,6 @@
     short filmmaking:
       nominee: [tt0110084]
       winner: [tt0110084]
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1994':
   grand jury prize:
     documentary:
@@ -2984,12 +2809,8 @@
       winner: [tt0111252]
   special jury recognition:
     special jury recognition:
-      nominee: [tt0346546, tt0109462, tt0106862, tt0109855, tt0109855]
-      winner: [tt0346546, tt0109462, tt0106862, tt0109855, tt0109855]
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
+      nominee: [tt0346546, tt0109462, tt0106862, tt0109855]
+      winner: [tt0346546, tt0109462, tt0106862, tt0109855]
 '1993':
   grand jury prize:
     documentary:
@@ -3035,10 +2856,6 @@
     special jury recognition:
       nominee: [tt0289172, tt0104575]
       winner: [tt0289172, tt0104575]
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1992':
   grand jury prize:
     documentary:
@@ -3084,10 +2901,6 @@
     special jury recognition:
       nominee: [tt0104953, tt0104448]
       winner: [tt0104953, tt0104448]
-  tribute to independent vision award:
-    tribute to independent vision award:
-      nominee: []
-      winner: []
 '1991':
   grand jury prize:
     documentary:
@@ -3132,7 +2945,7 @@
 '1990':
   grand jury prize:
     documentary:
-      nominee: [tt0123097, tt0098624, tt0364151, tt0364151, tt0099121, tt0332596, tt0163594, tt0346832, tt0099838, tt0121545, tt0197704, tt0347727, tt0348186, tt0347717, tt0098483, tt0096442]
+      nominee: [tt0123097, tt0098624, tt0364151, tt0099121, tt0332596, tt0163594, tt0346832, tt0099838, tt0121545, tt0197704, tt0347727, tt0348186, tt0347717, tt0098483, tt0096442]
       winner: [tt0123097, tt0098624]
     dramatic:
       nominee: [tt0101561, tt0100122, tt0101707, tt0099796, tt0099800, tt0347203, tt0099857, tt0100049, tt0100142, tt0100188, tt0100239, tt0097665, tt0100230, tt0064820, tt0100842, tt0100791]

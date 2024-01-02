@@ -19,6 +19,7 @@ except (ModuleNotFoundError, ImportError):
 base_url = "https://www.imdb.com"
 options = [
     {"arg": "ns", "key": "no-sleep",     "env": "NO_SLEEP",     "type": "bool", "default": False, "help": "Run without random sleep timers between requests."},
+    {"arg": "cl", "key": "clean",        "env": "CLEAN",        "type": "bool", "default": False, "help": "Run a completely clean run."},
     {"arg": "tr", "key": "trace",        "env": "TRACE",        "type": "bool", "default": False, "help": "Run with extra trace logs."},
     {"arg": "lr", "key": "log-requests", "env": "LOG_REQUESTS", "type": "bool", "default": False, "help": "Run with every request logged."}
 ]
@@ -38,7 +39,7 @@ header = {
     "Accept-Language": "en-US,en;q=0.5",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0"
 }
-valid = YAML(path=os.path.join(base_dir, "event_validation.yml"), create=True)
+valid = YAML(path=os.path.join(base_dir, "event_validation.yml"), create=True, start_empty=pmmargs["clean"])
 
 def _request(url, xpath=None, extra=None):
     sleep_time = 0 if pmmargs["no-sleep"] else random.randint(2, 6)
@@ -49,7 +50,7 @@ def _request(url, xpath=None, extra=None):
     return response.xpath(xpath) if xpath else response
 
 for i, event_id in enumerate(event_ids, 1):
-    event_yaml = YAML(path=os.path.join(base_dir, "events", f"{event_id}.yml"), create=True)
+    event_yaml = YAML(path=os.path.join(base_dir, "events", f"{event_id}.yml"), create=True, start_empty=pmmargs["clean"])
     event_years = []
     for event_year in _request(f"{base_url}/event/{event_id}", xpath="//div[@class='event-history-widget']//a/@href", extra=f"[Event {i}/{total_ids}]"):
         parts = event_year.split("/")
@@ -57,37 +58,52 @@ for i, event_id in enumerate(event_ids, 1):
     total_years = len(event_years)
     if event_id not in valid:
         valid[event_id] = {"years": event_years, "awards": [], "categories": []}
-    if "years" not in valid[event_id]:
-        valid[event_id]["years"] = event_years
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
         if first or event_year not in event_yaml:
-            first = False
-            event_yaml[event_year] = {}
+            obj = None
             event_slug = f"{event_year}/1" if "-" not in event_year else event_year.replace("-", "/")
             for text in _request(f"{base_url}/event/{event_id}/{event_slug}/?ref_=ev_eh", xpath="//div[@class='article']/script/text()", extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]")[0].split("\n"):
                 if text.strip().startswith("IMDbReactWidgets.NomineesWidget.push"):
                     jsonline = text.strip()
                     obj = json.loads(jsonline[jsonline.find('{'):-3])
-                    for award in obj["nomineesWidgetModel"]["eventEditionSummary"]["awards"]:
-                        award_name = award["awardName"].lower()
-                        if award_name not in event_yaml[event_year]:
-                            event_yaml[event_year][award_name] = {}
-                        if award_name not in valid[event_id]["awards"]:
-                            valid[event_id]["awards"].append(award_name)
-                        for cat in award["categories"]:
-                            cat_name = cat["categoryName"].lower() if cat["categoryName"] else award_name
-                            if cat_name not in valid[event_id]["categories"]:
-                                valid[event_id]["categories"].append(cat_name)
-                            if cat_name not in event_yaml[event_year][award_name]:
-                                event_yaml[event_year][award_name][cat_name] = {"nominee": YAML.inline([]), "winner": YAML.inline([])}
-                            for nom in cat["nominations"]:
-                                imdb_id = next((n["const"] for n in nom["primaryNominees"] + nom["secondaryNominees"] if n["const"].startswith("tt")), None)
-                                if imdb_id:
-                                    event_yaml[event_year][award_name][cat_name]["nominee"].append(imdb_id)
-                                    if nom["isWinner"]:
-                                        event_yaml[event_year][award_name][cat_name]["winner"].append(imdb_id)
+            if obj is None:
+                continue
+            event_data = {}
+            for award in obj["nomineesWidgetModel"]["eventEditionSummary"]["awards"]:
+                award_name = award["awardName"].lower()
+                award_data = {}
+                for cat in award["categories"]:
+                    cat_name = cat["categoryName"].lower() if cat["categoryName"] else award_name
+                    nominees = []
+                    winners = []
+                    for nom in cat["nominations"]:
+                        imdb_id = next((n["const"] for n in nom["primaryNominees"] + nom["secondaryNominees"] if n["const"].startswith("tt")), None)
+                        if imdb_id:
+                            nominees.append(imdb_id)
+                            if nom["isWinner"]:
+                                winners.append(imdb_id)
+                    if nominees or winners:
+                        if cat_name not in award_data:
+                            award_data[cat_name] = {"nominee": YAML.inline([]), "winner": YAML.inline([])}
+                        for n in nominees:
+                            if n not in award_data[cat_name]["nominee"]:
+                                award_data[cat_name]["nominee"].append(n)
+                        for w in winners:
+                            if w not in award_data[cat_name]["winner"]:
+                                award_data[cat_name]["winner"].append(w)
+                        if cat_name not in valid[event_id]["categories"]:
+                            valid[event_id]["categories"].append(cat_name)
+                if award_data:
+                    event_data[award_name] = award_data
+                    if award_name not in valid[event_id]["awards"]:
+                        valid[event_id]["awards"].append(award_name)
+            if event_data:
+                first = False
+                event_yaml[event_year] = event_data
+    valid[event_id]["awards"].sort()
+    valid[event_id]["categories"].sort()
     event_yaml.yaml.width = 4096
     event_yaml.save()
 

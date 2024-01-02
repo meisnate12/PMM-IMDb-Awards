@@ -13,7 +13,7 @@
       nominee: [tt14444726, tt1655389, tt4960748, tt13352968, tt6710474, tt8093700]
       winner: [tt14444726]
     best supporting actor:
-      nominee: [tt11813216, tt1016150, tt11813216, tt4273800, tt6710474, tt14402146]
+      nominee: [tt11813216, tt1016150, tt4273800, tt6710474, tt14402146]
       winner: [tt11813216]
     best supporting actress:
       nominee: [tt11813216, tt9114286, tt11198810, tt7322224, tt13833688, tt6710474]
@@ -80,7 +80,7 @@
       nominee: [tt12976224, tt14932528, tt4786824, tt11771270]
       winner: [tt12976224]
     current affairs:
-      nominee: [tt27204568, tt2433324, tt2433324, tt26769803]
+      nominee: [tt27204568, tt2433324, tt26769803]
       winner: [tt27204568]
     daytime:
       nominee: [tt6685272, tt19359688, tt3077336]
@@ -209,7 +209,7 @@
       nominee: [tt13994572, tt5875444, tt11899030, tt4786824, tt13045814, tt13406094]
       winner: [tt13994572]
     supporting actress:
-      nominee: [tt15469618, tt11899030, tt9253284, tt1830379, tt13994572, tt1830379]
+      nominee: [tt15469618, tt11899030, tt9253284, tt1830379, tt13994572]
       winner: [tt15469618]
     titles & graphic identity:
       nominee: [tt15469618, tt12747694, tt13872480, tt12976224]
@@ -267,18 +267,14 @@
       nominee: [tt21030326, tt21907812, tt10562854, tt13119450, tt12496904, tt18748744]
       winner: [tt21030326]
     performer in a leading role:
-      nominee: [tt13119450, tt19364930, tt20765060, tt13119450, tt21911886, tt18815410]
+      nominee: [tt13119450, tt19364930, tt20765060, tt21911886, tt18815410]
       winner: [tt13119450]
     performer in a supporting role:
-      nominee: [tt13119450, tt13119450, tt13119450, tt13119450, tt12496904, tt21911886]
+      nominee: [tt13119450, tt12496904, tt21911886]
       winner: [tt13119450]
     technical achievement:
       nominee: [tt12496904, tt10562854, tt13119450, tt21911886, tt12497220, tt20918700]
       winner: [tt12496904]
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
 '2022':
   bafta film award:
     best film:
@@ -294,7 +290,7 @@
       nominee: [tt10692788, tt11271038, tt10366460, tt11214590, tt10370710, tt8893974]
       winner: [tt10692788]
     best supporting actor:
-      nominee: [tt10366460, tt12789558, tt10293406, tt10293406, tt3581652, tt10986222]
+      nominee: [tt10366460, tt12789558, tt10293406, tt3581652, tt10986222]
       winner: [tt10366460]
     best supporting actress:
       nominee: [tt3581652, tt11389748, tt9620288, tt12789558, tt9100054, tt8893974]
@@ -353,10 +349,6 @@
     original score:
       nominee: [tt1160419, tt4995540, tt11286314, tt8847712, tt10293406]
       winner: [tt1160419]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     comedy entertainment programme:
       nominee: [tt10696368, tt16579816, tt0924651, tt10370806]
@@ -419,7 +411,7 @@
       nominee: [tt13138834, tt11471892, tt15122138, tt9140342, tt12005828, tt13649036]
       winner: [tt13138834]
     leading actress:
-      nominee: [tt13649036, tt10939214, tt10939214, tt10155688, tt9140342, tt12994306]
+      nominee: [tt13649036, tt10939214, tt10155688, tt9140342, tt12994306]
       winner: [tt13649036]
     live event:
       nominee: [tt15441486, tt16035172, tt0815420, tt14916860]
@@ -485,7 +477,7 @@
       nominee: [tt6758316, tt19268026, tt19268046, tt19268052]
       winner: [tt6758316]
     supporting actor:
-      nominee: [tt7660850, tt9140342, tt9140342, tt12809988, tt9140342, tt13138834]
+      nominee: [tt7660850, tt9140342, tt12809988, tt13138834]
       winner: [tt7660850]
     supporting actress:
       nominee: [tt13649036, tt11403434, tt10556338, tt5232622, tt0804484, tt14364876]
@@ -549,18 +541,14 @@
       nominee: [tt16273834, tt10478532, tt14870662, tt14321832, tt12497014, tt12496966]
       winner: [tt16273834]
     performer in a leading role:
-      nominee: [tt12496966, tt10478532, tt10478532, tt14278238, tt14844718, tt12497014]
+      nominee: [tt12496966, tt10478532, tt14278238, tt14844718, tt12497014]
       winner: [tt12496966]
     performer in a supporting role:
-      nominee: [tt5337160, tt15261812, tt14278238, tt14844718, tt14844718, tt12497042]
+      nominee: [tt5337160, tt15261812, tt14278238, tt14844718, tt12497042]
       winner: [tt5337160]
     technical achievement:
       nominee: [tt12497014, tt14870662, tt12497188, tt5337160, tt12497042, tt12496966]
       winner: [tt12497014]
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
 '2021':
   bafta film award:
     best film:
@@ -635,16 +623,12 @@
     original score:
       nominee: [tt2948372, tt10618286, tt10633456, tt6878306, tt9620292]
       winner: [tt2948372]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     entertainment performance:
       nominee: [tt10370806, tt3330720, tt12221578, tt0411027, tt13566856, tt0924651]
       winner: [tt10370806]
     female performance in a comedy programme:
-      nominee: [tt7767422, tt8129450, tt6583806, tt7767422, tt7440784, tt10098620]
+      nominee: [tt7767422, tt8129450, tt6583806, tt7440784, tt10098620]
       winner: [tt7767422]
     male performance in a comedy programme:
       nominee: [tt6583806, tt7639280, tt9174582, tt7767422, tt1844923, tt2674806]
@@ -674,7 +658,7 @@
       nominee: [tt11394200, tt8000674, tt6905686, tt9815454]
       winner: [tt11394200]
     leading actor:
-      nominee: [tt9059760, tt3464896, tt4786824, tt11204260, tt3464896, tt7411098]
+      nominee: [tt9059760, tt3464896, tt4786824, tt11204260, tt7411098]
       winner: [tt9059760]
     leading actress:
       nominee: [tt11204260, tt10846464, tt9059760, tt8905884, tt7016936, tt3464896]
@@ -713,7 +697,7 @@
       nominee: [tt0335749, tt14540526, tt6758316, tt3653170]
       winner: [tt0335749]
     supporting actor:
-      nominee: [tt3464896, tt9348692, tt10228230, tt3464896, tt8905884, tt4786824]
+      nominee: [tt3464896, tt9348692, tt10228230, tt8905884, tt4786824]
       winner: [tt3464896]
     supporting actress:
       nominee: [tt12745216, tt4786824, tt10846464, tt8905884, tt9348692, tt11204260]
@@ -768,18 +752,14 @@
       nominee: [tt9459718, tt10476972, tt12753708, tt7651352, tt11321196, tt6298000]
       winner: [tt9459718]
     performer in a leading role:
-      nominee: [tt6298000, tt3810192, tt6057416, tt7651352, tt12496734, tt6298000]
+      nominee: [tt6298000, tt3810192, tt6057416, tt7651352, tt12496734]
       winner: [tt6298000]
     performer in a supporting role:
-      nominee: [tt9459718, tt3810192, tt7651352, tt6298000, tt6298000, tt6298000]
+      nominee: [tt9459718, tt3810192, tt7651352, tt6298000]
       winner: [tt9459718]
     technical achievement:
       nominee: [tt5309972, tt12507852, tt8550890, tt11750162, tt12496734, tt6298000]
       winner: [tt5309972]
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
 '2020':
   bafta film award:
     best film:
@@ -795,7 +775,7 @@
       nominee: [tt7549996, tt6394270, tt5117428, tt3281548, tt7653254]
       winner: [tt7549996]
     best supporting actor:
-      nominee: [tt7131622, tt1302006, tt8404614, tt1302006, tt3224458]
+      nominee: [tt7131622, tt1302006, tt8404614, tt3224458]
       winner: [tt7131622]
     best supporting actress:
       nominee: [tt7653254, tt3281548, tt7131622, tt6394270, tt2584384]
@@ -854,13 +834,9 @@
     best director:
       nominee: [tt8579674, tt7286456, tt7131622, tt6751668, tt1302006]
       winner: [tt8579674]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     female performance in a comedy programme:
-      nominee: [tt5687612, tt7440784, tt5687612, tt9214692]
+      nominee: [tt5687612, tt7440784, tt9214692]
       winner: [tt5687612]
     leading actor:
       nominee: [tt7366338, tt8201186, tt7186126, tt8001106]
@@ -937,10 +913,6 @@
     virgin media's must-see moment:
       nominee: [tt0908454, tt0053494, tt5687612, tt0944947, tt2303687, tt4770018]
       winner: [tt0908454]
-  special award:
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
   bafta games award:
     artistic achievement:
       nominee: [tt9702308, tt7657556, tt8585800, tt5807606, tt11177022, tt7797634]
@@ -991,15 +963,11 @@
       nominee: [tt8364760, tt10417512, tt8585800, tt5807606, tt8801880, tt10603836]
       winner: [tt8364760]
     performer in a supporting role:
-      nominee: [tt8585800, tt5807606, tt5807606, tt8364760, tt8364760, tt8876446]
+      nominee: [tt8585800, tt5807606, tt8364760, tt8876446]
       winner: [tt8585800]
     technical achievement:
       nominee: [tt5807606, tt7028648, tt10417512, tt8585800, tt7447318, tt8558306]
       winner: [tt5807606]
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
 '2019':
   bafta film award:
     best film:
@@ -1018,7 +986,7 @@
       nominee: [tt6966692, tt7349662, tt4595882, tt6266538, tt1226837]
       winner: [tt6966692]
     best supporting actress:
-      nominee: [tt5083738, tt6266538, tt1213641, tt5083738, tt2328900]
+      nominee: [tt5083738, tt6266538, tt1213641, tt2328900]
       winner: [tt5083738]
     best screenplay (original):
       nominee: [tt5083738, tt6543652, tt6966692, tt6155172, tt6266538]
@@ -1072,10 +1040,6 @@
     david lean award for direction:
       nominee: [tt6155172, tt1517451, tt6543652, tt7349662, tt5083738]
       winner: [tt6155172]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     'best director: fiction':
       nominee: [tt6938856, tt7016936, tt7712606, tt7493974]
@@ -1096,7 +1060,7 @@
       nominee: [tt6586318, tt8087444, tt6938856, tt7157494]
       winner: [tt6586318]
     best leading actress:
-      nominee: [tt7016936, tt7493974, tt6859806, tt7016936]
+      nominee: [tt7016936, tt7493974, tt6859806]
       winner: [tt7016936]
     best live event:
       nominee: [tt8431678]
@@ -1108,7 +1072,7 @@
       nominee: [tt6586318, tt6938856, tt6859806, tt7157494]
       winner: [tt6586318]
     best news coverage:
-      nominee: [tt0239164, tt3644198, tt3644198, tt0163471]
+      nominee: [tt0239164, tt3644198, tt0163471]
       winner: [tt0239164]
     best reality & constructed factual series:
       nominee: [tt0338616, tt0443370]
@@ -1141,13 +1105,13 @@
       nominee: [tt2184186, tt8430272, tt3330720, tt1055238]
       winner: [tt2184186]
     outstanding current affairs feature:
-      nominee: [tt1043090, tt1043090, tt2433324]
+      nominee: [tt1043090, tt2433324]
       winner: [tt1043090]
     outstanding drama series:
       nominee: [tt7016936, tt7493974, tt7161312, tt6538034]
       winner: [tt7016936]
     outstanding entertainment performance:
-      nominee: [tt1055238, tt0324692, tt7937086, tt1055238]
+      nominee: [tt1055238, tt0324692, tt7937086]
       winner: [tt1055238]
     outstanding entertainment programme:
       nominee: [tt1034201, tt0324692, tt6276100, tt0411027]
@@ -1155,13 +1119,6 @@
     virgin media's must-see moment:
       nominee: [tt7493974, tt4635922, tt0053494, tt0436992, tt7016936, tt7259746]
       winner: [tt7493974]
-  special award:
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
-    outstanding contribution to television:
-      nominee: []
-      winner: []
   bafta children's award:
     animation:
       nominee: [tt6385540, tt4196822, tt1942683]
@@ -1213,7 +1170,7 @@
       nominee: [tt8099398, tt9616440, tt10131256, tt8849074, tt9433398, tt7728604]
       winner: [tt8099398]
     best performer:
-      nominee: [tt5838588, tt8545606, tt5838588, tt5838588, tt5838588, tt6161168]
+      nominee: [tt5838588, tt8545606, tt6161168]
       winner: [tt5838588]
     game beyond entertainment:
       nominee: [tt8571680, tt9792856, tt7903902, tt10131256, tt8364760]
@@ -1223,10 +1180,6 @@
       winner: [tt9433398]
     game innovation:
       nominee: [tt9071226, tt7903902, tt15600636, tt8849074, tt9433398]
-      winner: []
-  ee rising star award:
-    ee rising star award:
-      nominee: []
       winner: []
 '2018':
   bafta film award:
@@ -1243,7 +1196,7 @@
       nominee: [tt5027774, tt5711148, tt5580036, tt5580390, tt4925292]
       winner: [tt5027774]
     best supporting actor:
-      nominee: [tt5027774, tt5294550, tt4468740, tt5649144, tt5027774]
+      nominee: [tt5027774, tt5294550, tt4468740, tt5649144]
       winner: [tt5027774]
     best supporting actress:
       nominee: [tt5580036, tt4555426, tt4925292, tt5776858, tt5580390]
@@ -1300,10 +1253,6 @@
     david lean award for direction:
       nominee: [tt5580390, tt5013056, tt1856101, tt5726616, tt5027774]
       winner: [tt5580390]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best comedy entertainment programme:
       nominee: [tt4673856, tt4934214, tt3330720, tt1055238]
@@ -1411,9 +1360,6 @@
     international animation:
       nominee: [tt4991910]
       winner: []
-    special award:
-      nominee: []
-      winner: []
   bafta games award:
     artistic achievement:
       nominee: [tt4674622, tt4779924, tt7263140, tt4044024, tt3253986, tt6304452]
@@ -1449,7 +1395,7 @@
       nominee: [tt4044024, tt4779924, tt7263140, tt7477138, tt7204362, tt4485128]
       winner: [tt4044024]
     best performer:
-      nominee: [tt4674622, tt7025920, tt4044024, tt6304452, tt6304452, tt4485128]
+      nominee: [tt4674622, tt7025920, tt4044024, tt6304452, tt4485128]
       winner: [tt4674622]
     game beyond entertainment:
       nominee: [tt4674622, tt18141876, tt7365064, tt6905446, tt7477138, tt10251548]
@@ -1460,13 +1406,6 @@
     game innovation:
       nominee: [tt3253986, tt7263140, tt4674622, tt5238626, tt6451310, tt4485128]
       winner: [tt3253986]
-    special award:
-      nominee: []
-      winner: []
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
 '2017':
   bafta film award:
     best film:
@@ -1539,10 +1478,6 @@
     david lean award for direction:
       nominee: [tt3783958, tt2543164, tt5168192, tt4034228, tt4550098]
       winner: [tt3783958]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best comedy and comedy entertainment programme:
       nominee: [tt6375742, tt5715186, tt4934214, tt3330720]
@@ -1551,7 +1486,7 @@
       nominee: [tt4786824, tt2085059, tt5014882, tt2262456]
       winner: [tt4786824]
     best current affairs:
-      nominee: [tt0199257, tt5579656, tt1597701, tt1597701]
+      nominee: [tt0199257, tt5579656, tt1597701]
       winner: [tt0199257]
     best digital creativity:
       nominee: [tt5329344, tt4122068, tt5953328]
@@ -1569,7 +1504,7 @@
       nominee: [tt3428912, tt4786824, tt5014882, tt3910804]
       winner: [tt3428912]
     'best editing: factual':
-      nominee: [tt5698100, tt5905508, tt5491994, tt5491994]
+      nominee: [tt5698100, tt5905508, tt5491994]
       winner: [tt5698100]
     'best editing: fiction':
       nominee: [tt1399664, tt5687612, tt5571524, tt1475582]
@@ -1590,7 +1525,7 @@
       nominee: [tt0429466, tt1877368, tt4719744]
       winner: [tt0429466]
     best female performance in a comedy programme:
-      nominee: [tt5687612, tt5715186, tt5687612, tt5687446]
+      nominee: [tt5687612, tt5715186, tt5687446]
       winner: [tt5687612]
     best international:
       nominee: [tt2788432, tt4574334, tt2401256, tt3502262]
@@ -1623,7 +1558,7 @@
       nominee: [tt5568438, tt2085059, tt5571524, tt4786824]
       winner: [tt5568438]
     'best photography: factual':
-      nominee: [tt5491994, tt5491994, tt5491994, tt5491994]
+      nominee: [tt5491994]
       winner: [tt5491994]
     best production design:
       nominee: [tt3910804, tt5568438, tt4786824, tt1399664]
@@ -1638,13 +1573,13 @@
       nominee: [tt5698100, tt5449572, tt6156350]
       winner: [tt5698100]
     best single drama:
-      nominee: [tt5639464, tt6035766, tt5518906, tt5900272, tt5900272]
+      nominee: [tt5639464, tt6035766, tt5518906, tt5900272]
       winner: [tt5639464]
     best soap & continuing drama:
       nominee: [tt0068069, tt0096555, tt0088512, tt0112004]
       winner: [tt0068069]
     'best sound: factual':
-      nominee: [tt5491994, tt5907228, tt5491994, tt5942590]
+      nominee: [tt5491994, tt5907228, tt5942590]
       winner: [tt5491994]
     'best sound: fiction':
       nominee: [tt1399664, tt1475582, tt3877200]
@@ -1656,7 +1591,7 @@
       nominee: [tt5491994, tt6249406, tt5705966, tt5687624]
       winner: [tt5491994]
     best supporting actor:
-      nominee: [tt1399664, tt2303687, tt4786824, tt4786824]
+      nominee: [tt1399664, tt2303687, tt4786824]
       winner: [tt1399664]
     best supporting actress:
       nominee: [tt5639464, tt2216156, tt3428912, tt4786824]
@@ -1671,7 +1606,7 @@
       nominee: [tt3428912, tt5639464, tt4786824, tt5014882]
       winner: [tt3428912]
     breakthrough talent:
-      nominee: [tt5959320, tt5959320, tt5687612, tt5518906]
+      nominee: [tt5959320, tt5687612, tt5518906]
       winner: [tt5959320]
     virgin tv's must-see moment:
       nominee: [tt5491994, tt0944947, tt2303687, tt0411027, tt4280606, tt0429466]
@@ -1724,7 +1659,7 @@
       nominee: [tt3980364, tt4785654, tt4332152, tt1560196, tt5342992, tt4781786]
       winner: [tt3980364]
     best performer:
-      nominee: [tt4785654, tt4328414, tt4936406, tt3334704, tt3334704, tt3334704]
+      nominee: [tt4785654, tt4328414, tt4936406, tt3334704]
       winner: [tt4785654]
     game design:
       nominee: [tt3980364, tt5702630, tt5724316, tt4332152, tt5342992, tt3612274]
@@ -1732,13 +1667,6 @@
     game innovation:
       nominee: [tt5461978, tt5807562, tt4785654, tt5024026, tt5342992]
       winner: [tt5461978]
-    special award:
-      nominee: []
-      winner: []
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
   esports audience award:
     esports audience award:
       nominee: [tt6749432, tt2584348, tt2290962, tt2071507, tt4332152, tt3103432]
@@ -1796,9 +1724,6 @@
     best original screenplay:
       nominee: [tt1895587, tt3682448, tt0470752, tt2096673, tt3460252]
       winner: [tt1895587]
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
     best leading actor:
       nominee: [tt1663202, tt3203606, tt0810819, tt3659388, tt2080374]
       winner: [tt1663202]
@@ -1822,14 +1747,6 @@
     david lean award for direction:
       nominee: [tt1663202, tt3682448, tt2402927, tt1596363, tt3659388]
       winner: [tt1663202]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best leading actor:
       nominee: [tt3556920, tt4108134, tt1474684, tt2528254]
@@ -1920,9 +1837,6 @@
     best animation:
       nominee: [tt1942683, tt5095510]
       winner: [tt1942683]
-    best channel of the year:
-      nominee: []
-      winner: []
     best comedy:
       nominee: [tt6268420]
       winner: [tt6268420]
@@ -1935,9 +1849,6 @@
     best feature film:
       nominee: [tt2948356]
       winner: [tt2948356]
-    best independent production company:
-      nominee: []
-      winner: []
     best interactive - original:
       nominee: [tt5205058]
       winner: [tt5205058]
@@ -2003,7 +1914,7 @@
       nominee: [tt2742544, tt3132870, tt5438010, tt4375662, tt4550698, tt3818774]
       winner: [tt2742544]
     best performer:
-      nominee: [tt3132870, tt3554580, tt3165792, tt3132870, tt4375662, tt2993508]
+      nominee: [tt3132870, tt3554580, tt3165792, tt4375662, tt2993508]
       winner: [tt3132870]
     best persistent game:
       nominee: [tt3909188, tt4916164, tt1737166, tt4489948, tt4656392, tt2993508]
@@ -2020,9 +1931,6 @@
     game innovation:
       nominee: [tt5438010, tt3132870, tt4375662, tt2370518, tt3818774, tt2742544]
       winner: [tt5438010]
-    special award:
-      nominee: []
-      winner: []
   esports audience award:
     esports audience award:
       nominee: [tt4887384, tt4844106, tt2584348, tt2290962, tt3681558, tt2071507]
@@ -2080,9 +1988,6 @@
     best special visual effects:
       nominee: [tt0816692, tt2103281, tt2015381, tt2310332, tt1877832]
       winner: [tt0816692]
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
     best leading actor:
       nominee: [tt2980516, tt2084970, tt2872718, tt2562232, tt2278388]
       winner: [tt2980516]
@@ -2090,7 +1995,7 @@
       nominee: [tt3316960, tt1126590, tt2980516, tt2305051, tt2267998]
       winner: [tt3316960]
     best supporting actor:
-      nominee: [tt2582802, tt2562232, tt1065073, tt1100089, tt1100089]
+      nominee: [tt2582802, tt2562232, tt1065073, tt1100089]
       winner: [tt2582802]
     best supporting actress:
       nominee: [tt1065073, tt2562232, tt3169706, tt2084970, tt2872718]
@@ -2103,10 +2008,6 @@
     david lean award for direction:
       nominee: [tt1065073, tt2562232, tt2278388, tt2980516, tt2582802]
       winner: [tt1065073]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best leading actor:
       nominee: [tt3429354, tt1475582, tt3877200, tt3659786]
@@ -2166,7 +2067,7 @@
       nominee: [tt4079388]
       winner: [tt4079388]
     best single drama:
-      nominee: [tt3659786, tt2870668, tt2937752, tt2937752, tt3828904]
+      nominee: [tt3659786, tt2870668, tt2937752, tt3828904]
       winner: [tt3659786]
     best soap & continuing drama:
       nominee: [tt0053494]
@@ -2180,9 +2081,6 @@
     factual series:
       nominee: [tt3638350]
       winner: [tt3638350]
-    special award:
-      nominee: []
-      winner: []
   technical craft award (tv):
     editing (factual):
       nominee: [tt3638350]
@@ -2248,7 +2146,7 @@
       nominee: [tt3490042, tt5882688, tt4247292, tt3920872, tt4483994]
       winner: [tt3490042]
     best story:
-      nominee: [tt3468818, tt3165792, tt3165792, tt3742988, tt4624214, tt3186880]
+      nominee: [tt3468818, tt3165792, tt3742988, tt4624214, tt3186880]
       winner: [tt3468818]
     game design:
       nominee: [tt3330488, tt3391132, tt2983582, tt3742988, tt3681558, tt4279090]
@@ -2256,10 +2154,6 @@
     game innovation:
       nominee: [tt4844692, tt13992272, tt3391132, tt3330488, tt3304506]
       winner: [tt4844692]
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
 '2014':
   bafta film award:
     best film:
@@ -2296,8 +2190,8 @@
       nominee: [tt3244652, tt2819436, tt2196116]
       winner: [tt3244652]
     best british short film:
-      nominee: [tt2949338, tt2949338, tt2238774, tt3185264, tt3178550, tt2721310]
-      winner: [tt2949338, tt2949338]
+      nominee: [tt2949338, tt2238774, tt3185264, tt3178550, tt2721310]
+      winner: [tt2949338]
     best adapted screenplay:
       nominee: [tt2431286, tt2024544, tt1291580, tt1535109, tt0993846]
       winner: [tt2431286]
@@ -2307,9 +2201,6 @@
     best special visual effects:
       nominee: [tt1454468, tt1300854, tt1663662, tt1408101, tt1170358]
       winner: [tt1454468]
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
     best animated film:
       nominee: [tt2294629, tt1690953, tt1453405]
       winner: [tt2294629]
@@ -2340,10 +2231,6 @@
     anthony asquith award for film music:
       nominee: [tt1454468, tt2024544, tt1535109, tt2140373, tt0816442]
       winner: [tt1454468]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best leading actor:
       nominee: [tt2446726, tt2709784, tt2294189, tt2480514]
@@ -2355,7 +2242,7 @@
       nominee: [tt2249364, tt2183641, tt2394340, tt2446726]
       winner: [tt2249364]
     best supporting actress:
-      nominee: [tt2216156, tt2407574, tt2216156, tt2446726]
+      nominee: [tt2216156, tt2407574, tt2446726]
       winner: [tt2216156]
     best comedy and comedy entertainment programme:
       nominee: [tt2184186]
@@ -2388,7 +2275,7 @@
       nominee: [tt0324692]
       winner: [tt0324692]
     best male performance in a comedy programme:
-      nominee: [tt0487831, tt0487831, tt2603596, tt2603596]
+      nominee: [tt0487831, tt2603596]
       winner: [tt0487831]
     best mini-series:
       nominee: [tt2480514, tt2446726, tt2294189, tt2763296]
@@ -2416,9 +2303,6 @@
       winner: [tt3438608]
     best sport and live event:
       nominee: [tt2692352]
-      winner: []
-    special award:
-      nominee: []
       winner: []
   bafta children's award:
     best feature film:
@@ -2475,9 +2359,6 @@
     best writer:
       nominee: [tt3830024]
       winner: []
-    special award:
-      nominee: []
-      winner: []
   bafta games award:
     best original music:
       nominee: [tt1712064, tt2739708, tt2192570, tt2980042, tt2409476, tt2140553]
@@ -2507,7 +2388,7 @@
       nominee: [tt2103188, tt2853116, tt2290962, tt2980042, tt2140553, tt4226820]
       winner: [tt2103188]
     best performer:
-      nominee: [tt2140553, tt2192570, tt1712064, tt2103188, tt2140553, tt3252636]
+      nominee: [tt2140553, tt2192570, tt1712064, tt2103188, tt3252636]
       winner: [tt2140553]
     best sports game:
       nominee: [tt3124414, tt17785222, tt3684492, tt3359066, tt3036028, tt3395786]
@@ -2524,14 +2405,6 @@
     game innovation:
       nominee: [tt3130160, tt2103188, tt3618274, tt2409476, tt3252636, tt18257650]
       winner: [tt3130160]
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
-  breakthrough brits:
-    breakthrough brits:
-      nominee: []
-      winner: []
 '2013':
   bafta film award:
     best film:
@@ -2591,15 +2464,9 @@
     best special visual effects:
       nominee: [tt0454876, tt1446714, tt0848228, tt1345836, tt0903624]
       winner: [tt0454876]
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
     best original screenplay:
       nominee: [tt1853728, tt1602620, tt1748122, tt1560747, tt1790885]
       winner: [tt1853728]
-    special award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt1074638, tt1781769, tt1707386, tt1931533, tt1412386]
@@ -2616,10 +2483,6 @@
     flaherty documentary award:
       nominee: [tt2248152]
       winner: [tt2248152]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     audience award (tv):
       nominee: [tt1983079]
@@ -2664,7 +2527,7 @@
       nominee: [tt2002096]
       winner: [tt2002096]
     best female performance in a comedy programme:
-      nominee: [tt1861225, tt2375858, tt1533435, tt1861225]
+      nominee: [tt1861225, tt2375858, tt1533435]
       winner: [tt1861225]
     best international:
       nominee: [tt1723816, tt0944947, tt1796960, tt1733785]
@@ -2805,7 +2668,7 @@
       nominee: [tt2322244, tt2493696, tt2321297, tt1821474, tt1839558, tt2006890]
       winner: [tt2322244]
     best performer:
-      nominee: [tt2252348, tt2175563, tt2377972, tt2006890, tt2006890, tt1998407]
+      nominee: [tt2252348, tt2175563, tt2377972, tt2006890, tt1998407]
       winner: [tt2252348]
     best sports/fitness game:
       nominee: [tt2493696, tt2407100, tt3104120, tt3607392, tt4594878]
@@ -2822,10 +2685,6 @@
     game innovation:
       nominee: [tt2461590, tt2387409, tt2777584, tt1821474, tt3358032]
       winner: [tt2461590]
-  ee rising star award:
-    ee rising star award:
-      nominee: []
-      winner: []
 '2012':
   bafta film award:
     best film:
@@ -2841,7 +2700,7 @@
       nominee: [tt1532503, tt1007029, tt1210166, tt1655420, tt1124035]
       winner: [tt1532503]
     best supporting actress:
-      nominee: [tt1454029, tt0780504, tt1454029, tt1655420, tt1478338]
+      nominee: [tt1454029, tt0780504, tt1655420, tt1478338]
       winner: [tt1454029]
     best cinematography:
       nominee: [tt1655442, tt0970179, tt1568346, tt1340800, tt1568911]
@@ -2879,9 +2738,6 @@
     best special visual effects:
       nominee: [tt1201607, tt0970179, tt1318514, tt0983193, tt1568911]
       winner: [tt1201607]
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
     best animated film:
       nominee: [tt1192628, tt1430607, tt0983193]
       winner: [tt1192628]
@@ -2903,14 +2759,6 @@
     anthony asquith award for film music:
       nominee: [tt1655442, tt0970179, tt1568346, tt1340800, tt1568911]
       winner: [tt1655442]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best make up & hair design:
       nominee: [tt0384013, tt1127876, tt1949720, tt2126154]
@@ -2922,7 +2770,7 @@
       nominee: [tt1127876, tt1983079, tt1606375, tt1991897]
       winner: [tt1127876]
     best current affairs:
-      nominee: [tt0199257, tt2203745, tt2910328, tt0199257]
+      nominee: [tt0199257, tt2203745, tt2910328]
       winner: [tt0199257]
     'best director: factual':
       nominee: [tt2061562, tt1929387, tt2228269, tt2092588]
@@ -2931,7 +2779,7 @@
       nominee: [tt1701920, tt1800493, tt1831575, tt1830379]
       winner: [tt1701920]
     best drama series:
-      nominee: [tt1772379, tt0160904, tt1548850, tt1843678, tt1843678]
+      nominee: [tt1772379, tt0160904, tt1548850, tt1843678]
       winner: [tt1772379]
     'best editing: factual':
       nominee: [tt2092588, tt1853009, tt2126316, tt1929387]
@@ -2946,8 +2794,8 @@
       nominee: [tt0924651, tt1468760, tt0463827, tt0352110]
       winner: [tt0924651]
     best factual series:
-      nominee: [tt2002096, tt2002096, tt2061562, tt2228269, tt2307398]
-      winner: [tt2002096, tt2002096]
+      nominee: [tt2002096, tt2061562, tt2228269, tt2307398]
+      winner: [tt2002096]
     'best factual: current affairs':
       nominee: [tt0199257]
       winner: []
@@ -3012,7 +2860,7 @@
       nominee: [tt2316484, tt7770556, tt2092588, tt1854226]
       winner: [tt2316484]
     best supporting actor:
-      nominee: [tt1475582, tt1127876, tt1475582, tt1701920]
+      nominee: [tt1475582, tt1127876, tt1701920]
       winner: [tt1475582]
     best supporting actress:
       nominee: [tt1831575, tt1778108, tt1606375, tt1983079]
@@ -3036,10 +2884,6 @@
     audience award (tv):
       nominee: [tt1318007, tt2061562, tt2058303, tt2092588, tt1475582, tt1877368]
       winner: [tt1318007]
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best feature film:
       nominee: [tt1392170, tt1430607, tt0970179, tt1204342]
@@ -3051,7 +2895,7 @@
       nominee: [tt2170687, tt2321795]
       winner: []
     best drama:
-      nominee: [tt1319688, tt1806954, tt1535096, tt1535096]
+      nominee: [tt1319688, tt1806954, tt1535096]
       winner: [tt1319688]
     best entertainment:
       nominee: [tt2131864]
@@ -3065,9 +2909,6 @@
     best performer:
       nominee: [tt2170687]
       winner: [tt2170687]
-    best writer:
-      nominee: []
-      winner: []
     learning primary:
       nominee: [tt6326948, tt3660142]
       winner: [tt6326948]
@@ -3111,9 +2952,6 @@
     game innovation:
       nominee: [tt1663344, tt2040279, tt2091262, tt2330544, tt1764429, tt2090679]
       winner: [tt1663344]
-    special award:
-      nominee: []
-      winner: []
 '2011':
   bafta film award:
     best film:
@@ -3159,7 +2997,7 @@
       nominee: [tt1504320, tt1542344, tt1164999, tt1403865, tt1285016]
       winner: [tt1504320]
     best leading actress:
-      nominee: [tt0947798, tt0842926, tt1403865, tt0842926, tt1132620]
+      nominee: [tt0947798, tt0842926, tt1403865, tt1132620]
       winner: [tt0947798]
     best make up & hair:
       nominee: [tt1014759, tt0947798, tt0926084, tt1371155, tt1504320]
@@ -3185,24 +3023,16 @@
     anthony asquith award for film music:
       nominee: [tt1504320, tt1542344, tt1014759, tt0892769, tt1375666]
       winner: [tt1504320]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
   60 seconds of fame - best regional film:
     best actor in a leading role:
       nominee: [tt2106711]
       winner: [tt2106711]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best supporting actor:
       nominee: [tt1475582, tt1606375, tt1685471, tt1548850]
       winner: [tt1475582]
     best supporting actress:
-      nominee: [tt1548850, tt1631891, tt1685518, tt1685518]
+      nominee: [tt1548850, tt1631891, tt1685518]
       winner: [tt1548850]
     best production design:
       nominee: [tt1548850, tt2085059, tt1606375, tt1719681, tt1475582]
@@ -3229,7 +3059,7 @@
       nominee: [tt1606375, tt1685518, tt1475582, tt1685471]
       winner: [tt1606375]
     best director factual:
-      nominee: [tt1043090, tt1611787, tt1611787, tt1806234]
+      nominee: [tt1043090, tt1611787, tt1806234]
       winner: [tt1043090]
     'best director: multi-camera':
       nominee: [tt0053494, tt0423776, tt1533435, tt0411027]
@@ -3274,7 +3104,7 @@
       nominee: [tt1850984, tt1721685]
       winner: [tt1850984]
     best single drama:
-      nominee: [tt1685518, tt1719681, tt1719681, tt1596352, tt1117646]
+      nominee: [tt1685518, tt1719681, tt1596352, tt1117646]
       winner: [tt1685518]
     best situation comedy:
       nominee: [tt1588221, tt1819022, tt0387764, tt1698441]
@@ -3286,7 +3116,7 @@
       nominee: [tt1606375, tt1631891, tt1688606, tt1692202]
       winner: [tt1606375]
     best sound factual:
-      nominee: [tt1806234, tt1806234]
+      nominee: [tt1806234]
       winner: []
     best specialist factual:
       nominee: [tt1777610, tt1806234]
@@ -3439,7 +3269,7 @@
       nominee: [tt0361748, tt1230414, tt1174732, tt1175506, tt0380510]
       winner: [tt0361748]
     best supporting actress:
-      nominee: [tt0929632, tt1193138, tt1266029, tt1266029, tt1193138]
+      nominee: [tt0929632, tt1193138, tt1266029]
       winner: [tt0929632]
     outstanding debut by a british writer, director or producer:
       nominee: [tt1182345, tt1104126, tt1437235, tt1266029, tt1258197]
@@ -3456,14 +3286,6 @@
     anthony asquith award for film music:
       nominee: [tt1049413, tt0499549, tt1263670, tt0432283, tt1393020]
       winner: [tt1049413]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best supporting actor:
       nominee: [tt1188927, tt1315058, tt1591585, tt1499786]
@@ -3517,7 +3339,7 @@
       nominee: [tt1281256]
       winner: [tt1281256]
     best female performance in a comedy role:
-      nominee: [tt0459159, tt1468773, tt1468773, tt1533435]
+      nominee: [tt0459159, tt1468773, tt1533435]
       winner: [tt0459159]
     best international:
       nominee: [tt0804503, tt0182576, tt1190689, tt0844441]
@@ -3606,9 +3428,6 @@
     best pre-school animation:
       nominee: [tt1125758]
       winner: [tt1125758]
-    best presenter:
-      nominee: []
-      winner: []
     best writer:
       nominee: [tt1400819]
       winner: [tt1400819]
@@ -3702,10 +3521,6 @@
     best make up & hair:
       nominee: [tt0421715, tt0870111, tt1013753, tt0468569, tt0864761]
       winner: [tt0421715]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt1155592, tt0986233, tt0780536, tt0795421, tt1010048]
@@ -3722,14 +3537,6 @@
     carl foreman award for the most promising newcomer:
       nominee: [tt0986233, tt0795421, tt1155592, tt1232790, tt0845046]
       winner: [tt0986233]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best make up & hair design:
       nominee: [tt1076240, tt0936453, tt1178522, tt1067578]
@@ -3877,9 +3684,6 @@
     best writer:
       nominee: [tt1400819]
       winner: []
-    break-through talent:
-      nominee: []
-      winner: []
   bafta games award:
     artistic achievement:
       nominee: [tt1309457, tt0932936, tt1125798, tt1267296, tt1288501, tt0462423]
@@ -3923,7 +3727,7 @@
       nominee: [tt0783233, tt0765429, tt0477348, tt0405094, tt0469494]
       winner: [tt0783233]
     best supporting actor:
-      nominee: [tt0477348, tt0469494, tt0472062, tt0465538, tt0477348]
+      nominee: [tt0477348, tt0469494, tt0472062, tt0465538]
       winner: [tt0477348]
     best supporting actress:
       nominee: [tt0465538, tt0368794, tt0477348, tt0421082, tt0783233]
@@ -3992,10 +3796,6 @@
     carl foreman award for the most promising newcomer:
       nominee: [tt0421082, tt0940585, tt0486541, tt0977667, tt0881934]
       winner: [tt0421082]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
   60 seconds of fame - best film:
     60 seconds of fame - best film:
       nominee: [tt11912176]
@@ -4007,10 +3807,6 @@
     wales:
       nominee: [tt1382223]
       winner: [tt1382223]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best make up & hair design:
       nominee: [tt0851430, tt0974077, tt1065309, tt0384766]
@@ -4019,7 +3815,7 @@
       nominee: [tt1078188, tt1006938, tt0899028, tt0853153]
       winner: [tt1078188]
     best actress:
-      nominee: [tt0974077, tt0472984, tt0974077, tt0807054]
+      nominee: [tt0974077, tt0472984, tt0807054]
       winner: [tt0974077]
     best comedy performance:
       nominee: [tt0908454, tt0445114, tt0387764, tt0459159]
@@ -4106,8 +3902,8 @@
       nominee: [tt0840196]
       winner: [tt0840196]
     best visual effects:
-      nominee: [tt1086756, tt1086756, tt0384766]
-      winner: [tt1086756, tt1086756]
+      nominee: [tt1086756, tt0384766]
+      winner: [tt1086756]
     best writer:
       nominee: [tt0436992, tt0974077, tt0837800, tt0472984]
       winner: [tt0436992]
@@ -4139,8 +3935,8 @@
       nominee: [tt1242502]
       winner: []
     best international:
-      nominee: [tt0877512, tt0877512, tt0852863]
-      winner: [tt0877512, tt0877512]
+      nominee: [tt0877512, tt0852863]
+      winner: [tt0877512]
     best learning - secondary:
       nominee: [tt0421103, tt1385377]
       winner: [tt0421103]
@@ -4159,9 +3955,6 @@
     best writer:
       nominee: [tt1042913, tt0487813]
       winner: [tt1042913]
-    break-through talent:
-      nominee: []
-      winner: []
 '2007':
   bafta film award:
     best film:
@@ -4207,7 +4000,7 @@
       nominee: [tt0449059, tt0407887, tt0455590, tt0489327, tt0436697]
       winner: [tt0449059]
     best actress in a supporting role:
-      nominee: [tt0443489, tt0449059, tt0458352, tt0464049, tt0449059]
+      nominee: [tt0443489, tt0449059, tt0458352, tt0464049]
       winner: [tt0443489]
     best actor in a leading role:
       nominee: [tt0455590, tt0381061, tt0407887, tt0489327, tt0464049]
@@ -4218,10 +4011,6 @@
     best make up & hair:
       nominee: [tt0457430, tt0422720, tt0383574, tt0458352, tt0436697]
       winner: [tt0457430]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0455590, tt0381061, tt0465551, tt0436697, tt0475276]
@@ -4238,30 +4027,22 @@
     carl foreman award for the most promising newcomer:
       nominee: [tt0471030, tt0478101, tt0490166, tt0462477, tt0437459]
       winner: [tt0471030]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
   60 seconds of fame - best regional film:
     east:
       nominee: [tt6746400]
       winner: [tt6746400]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best make up & hair design:
       nominee: [tt0780362, tt0906016, tt0913394, tt0441051]
       winner: [tt0780362]
     best actor:
-      nominee: [tt0759612, tt0759612, tt0478942, tt0490126]
+      nominee: [tt0759612, tt0478942, tt0490126]
       winner: [tt0759612]
     best actress:
       nominee: [tt0913394, tt0481459, tt0780362, tt0759612]
       winner: [tt0913394]
     best comedy performance:
-      nominee: [tt0445114, tt0445114, tt0129711, tt0108981]
+      nominee: [tt0445114, tt0129711, tt0108981]
       winner: [tt0445114]
     best comedy programme:
       nominee: [tt0499410, tt0358856, tt0844575, tt0441051]
@@ -4362,14 +4143,6 @@
     lew grade award:
       nominee: [tt0423776, tt0499383, tt0490879, tt0829473]
       winner: [tt0423776]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best drama:
       nominee: [tt0827742, tt0163437, tt0177448, tt0420429]
@@ -4475,7 +4248,7 @@
       nominee: [tt0493390, tt0470034, tt0485915, tt0499496, tt0491791]
       winner: [tt0493390]
     best performance by an actor in a supporting role:
-      nominee: [tt0388795, tt0375679, tt0365737, tt0433383, tt0375679]
+      nominee: [tt0388795, tt0375679, tt0365737, tt0433383]
       winner: [tt0388795]
     best performance by an actress in a supporting role:
       nominee: [tt0375679, tt0414387, tt0379725, tt0395972, tt0388795]
@@ -4486,10 +4259,6 @@
     best performance by an actress in a leading role:
       nominee: [tt0358273, tt0395972, tt0413015, tt0387131, tt0397535]
       winner: [tt0358273]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0312004, tt0468736, tt0414387, tt0387131, tt0423409]
@@ -4506,29 +4275,18 @@
     carl foreman award for the most promising newcomer:
       nominee: [tt0414387, tt0430065, tt0468736, tt0420901, tt0468565]
       winner: [tt0414387]
-  rising star award:
-    rising star award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0449030, tt0473719, tt0442632, tt1062205]
       winner: [tt0449030]
     best actress:
-      nominee: [tt0442632, tt0377260, tt0442632, tt0464165]
+      nominee: [tt0442632, tt0377260, tt0464165]
       winner: [tt0442632]
-    alan clarke award:
-      nominee: []
-      winner: []
     audience award (tv):
       nominee: [tt0436992]
       winner: [tt0436992]
     best comedy performance:
-      nominee: [tt0459159, tt0445114, tt0441051, tt0459159]
+      nominee: [tt0459159, tt0445114, tt0441051]
       winner: [tt0459159]
     best comedy programme or series:
       nominee: [tt0448962, tt0324742, tt0358856, tt0441051]
@@ -4540,7 +4298,7 @@
       nominee: [tt0442632, tt0465326, tt0464165, tt0435995]
       winner: [tt0442632]
     best current affairs:
-      nominee: [tt1043090, tt1043090, tt0133302, tt0199257]
+      nominee: [tt1043090, tt0133302, tt0199257]
       winner: [tt1043090]
     best director:
       nominee: [tt1062205, tt0436992, tt0442632, tt0464165]
@@ -4622,10 +4380,6 @@
     lew grade award:
       nominee: [tt0423776, tt0299302, tt0098820, tt0411027]
       winner: [tt0423776]
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
   bafta children's award:
     best animation:
       nominee: [tt0831935, tt0455260, tt0862630]
@@ -4765,10 +4519,6 @@
     best screenplay - original:
       nominee: [tt0338013, tt0369339, tt0350258, tt0338751, tt0383694]
       winner: [tt0338013]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0382189, tt0419677, tt0304141, tt0365748, tt0383694]
@@ -4789,10 +4539,6 @@
     audience award:
       nominee: [tt0304141]
       winner: [tt0304141]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0408046, tt0395571, tt0220915, tt0411291]
@@ -4875,9 +4621,6 @@
     best sound factual:
       nominee: [tt0944317]
       winner: []
-    best sport:
-      nominee: []
-      winner: []
     best visual effects:
       nominee: [tt0421157, tt0426655, tt0408056]
       winner: [tt0421157]
@@ -4906,22 +4649,6 @@
     lew grade award:
       nominee: [tt0338616, tt0299302, tt0380136, tt0411027]
       winner: [tt0338616]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best animation:
       nominee: [tt0918542, tt0862630]
@@ -5022,9 +4749,6 @@
     ps2:
       nominee: [tt0966563, tt0428290, tt2002655, tt0457367, tt0383385, tt0764275]
       winner: [tt0966563]
-    special award:
-      nominee: []
-      winner: []
     xbox:
       nominee: [tt0357718, tt0966563, tt0388929, tt0457367, tt0405833]
       winner: [tt0357718]
@@ -5074,7 +4798,7 @@
       nominee: [tt0159365, tt0314331, tt0328538, tt0335119, tt0327056]
       winner: [tt0159365]
     best performance by an actor in a leading role:
-      nominee: [tt0335266, tt0315733, tt0325980, tt0159365, tt0327056, tt0315733]
+      nominee: [tt0335266, tt0315733, tt0325980, tt0159365, tt0327056]
       winner: [tt0335266]
     best performance by an actress in a leading role:
       nominee: [tt0335266, tt0323298, tt0315733, tt0335119, tt0266697]
@@ -5085,10 +4809,6 @@
     best sound:
       nominee: [tt0311113, tt0159365, tt0266697, tt0325980, tt0167260]
       winner: [tt0311113]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0379557, tt0159365, tt0335119, tt0310154, tt0314331]
@@ -5109,19 +4829,15 @@
     audience award:
       nominee: [tt0167260]
       winner: [tt0167260]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0362192, tt0353104, tt0362192, tt0379053]
+      nominee: [tt0362192, tt0353104, tt0379053]
       winner: [tt0362192]
     best actress:
-      nominee: [tt0353045, tt0349747, tt0365651, tt0349747]
+      nominee: [tt0353045, tt0349747, tt0365651]
       winner: [tt0353045]
     best comedy performance:
-      nominee: [tt0290978, tt0358856, tt0358856, tt0290978]
+      nominee: [tt0290978, tt0358856]
       winner: [tt0290978]
     best continuing drama:
       nominee: [tt0053494, tt0096555, tt0184122, tt0084987]
@@ -5145,7 +4861,7 @@
       nominee: [tt0362192, tt0160904, tt0365651, tt0349747]
       winner: [tt0362192]
     best entertainment performance:
-      nominee: [tt0299302, tt0098820, tt0098820, tt0380136]
+      nominee: [tt0299302, tt0098820, tt0380136]
       winner: [tt0299302]
     best features:
       nominee: [tt0392948, tt0421099, tt0804429, tt1628033]
@@ -5189,9 +4905,6 @@
     best sound (fiction/entertainment):
       nominee: [tt0362192, tt0346223, tt0365651, tt0364800]
       winner: [tt0362192]
-    best sport:
-      nominee: []
-      winner: []
     best visual effects:
       nominee: [tt0469006, tt0386913, tt0396031, tt0491559]
       winner: [tt0469006]
@@ -5199,7 +4912,7 @@
       nominee: [tt0358856, tt0374367, tt0324742, tt0862572]
       winner: [tt0358856]
     huw wheldon award for factual series or strand:
-      nominee: [tt0159876, tt0362819, tt0379142, tt0379142]
+      nominee: [tt0159876, tt0362819, tt0379142]
       winner: []
     situation comedy award:
       nominee: [tt0290978, tt0358319, tt0283760, tt0387764]
@@ -5216,22 +4929,6 @@
     lew grade award:
       nominee: [tt0299302, tt0324692, tt0098820, tt0302163]
       winner: [tt0299302]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best animated series:
       nominee: [tt8372302]
@@ -5317,9 +5014,6 @@
     ps2:
       nominee: [tt0314123, tt0379698, tt0381173, tt0384222, tt0340401]
       winner: [tt0314123]
-    special award:
-      nominee: []
-      winner: []
     technical achievement:
       nominee: [tt0381173, tt0314123, tt0373134, tt0330323, tt0325724, tt0378918]
       winner: [tt0381173]
@@ -5372,7 +5066,7 @@
       nominee: [tt0264464, tt0120679, tt0268126, tt0274558, tt0257044]
       winner: [tt0264464]
     best performance by an actress in a supporting role:
-      nominee: [tt0299658, tt0274558, tt0268126, tt0299658, tt0276751]
+      nominee: [tt0299658, tt0274558, tt0268126, tt0276751]
       winner: [tt0299658]
     best film:
       nominee: [tt0253474, tt0299658, tt0217505, tt0274558, tt0167261]
@@ -5381,12 +5075,8 @@
       nominee: [tt0217505, tt0253474, tt0257360, tt0258068, tt0268126]
       winner: [tt0217505]
     best performance by an actress in a leading role:
-      nominee: [tt0274558, tt0285742, tt0274558, tt0299658, tt0120679]
+      nominee: [tt0274558, tt0285742, tt0299658, tt0120679]
       winner: [tt0274558]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0295682, tt0286499, tt0301199, tt0274558, tt0318411]
@@ -5407,10 +5097,6 @@
     audience award:
       nominee: [tt0167261]
       winner: [tt0167261]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0314097, tt0280491, tt0272839, tt0266425]
@@ -5428,7 +5114,7 @@
       nominee: [tt0272839, tt0321897, tt0324937, tt0314097]
       winner: [tt0272839]
     best current affairs:
-      nominee: [tt1043090, tt0383551, tt0199257, tt0199257]
+      nominee: [tt1043090, tt0383551, tt0199257]
       winner: [tt1043090]
     best documentary programme:
       nominee: [tt0490208]
@@ -5446,7 +5132,7 @@
       nominee: [tt0321897, tt0280491, tt0160904, tt0272839]
       winner: [tt0321897]
     best entertainment performance:
-      nominee: [tt0098820, tt0098820, tt0300792, tt0300792]
+      nominee: [tt0098820, tt0300792]
       winner: [tt0098820]
     best entertainment programme or series:
       nominee: [tt0338616, tt0299302, tt0351831, tt0300792]
@@ -5467,11 +5153,8 @@
       nominee: [tt0340105, tt0324937, tt0354262, tt0184122]
       winner: [tt0340105]
     best new writer:
-      nominee: [tt0340105, tt0243183, tt0280330, tt0280330]
+      nominee: [tt0340105, tt0243183, tt0280330]
       winner: [tt0340105]
-    best news coverage:
-      nominee: []
-      winner: []
     best original television music:
       nominee: [tt0260615, tt0160904, tt0314097, tt0324264]
       winner: [tt0260615]
@@ -5494,11 +5177,8 @@
       nominee: [tt0329919, tt0450949]
       winner: []
     best sound (fiction/entertainment):
-      nominee: [tt0321897, tt0321897, tt0280491, tt0103469, tt0322622]
-      winner: [tt0321897, tt0321897]
-    best sport:
-      nominee: []
-      winner: []
+      nominee: [tt0321897, tt0280491, tt0103469, tt0322622]
+      winner: [tt0321897]
     best visual effects:
       nominee: [tt0470772, tt0233044, tt0327890]
       winner: [tt0470772]
@@ -5516,14 +5196,6 @@
     lew grade award:
       nominee: [tt0310455, tt0086665, tt0053494, tt0088512, tt0302163]
       winner: [tt0310455]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best feature film:
       nominee: [tt0298228, tt0295297, tt0167261, tt0282120]
@@ -5561,9 +5233,6 @@
     best writer:
       nominee: [tt0310523, tt0372063, tt0363378]
       winner: [tt0310523]
-    special award:
-      nominee: []
-      winner: []
   kids' vote:
     kids' vote:
       nominee: [tt0295297]
@@ -5610,7 +5279,7 @@
       nominee: [tt0203009, tt0243155, tt0126029, tt0280778, tt0241527]
       winner: [tt0203009]
     best performance by an actress in a supporting role:
-      nominee: [tt0268978, tt0280707, tt0120824, tt0280778, tt0280707]
+      nominee: [tt0268978, tt0280707, tt0120824, tt0280778]
       winner: [tt0268978]
     best film:
       nominee: [tt0120737, tt0268978, tt0211915, tt0203009, tt0126029]
@@ -5621,10 +5290,6 @@
     best performance by an actress in a leading role:
       nominee: [tt0280778, tt0211915, tt0230600, tt0243155, tt0247425]
       winner: [tt0280778]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0280707, tt0243155, tt0241527, tt0280778, tt0263725]
@@ -5645,10 +5310,6 @@
     audience award:
       nominee: [tt0120737]
       winner: [tt0120737]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0256019, tt0278548, tt0300879, tt0275764]
@@ -5734,9 +5395,6 @@
     best sound (fiction/entertainment):
       nominee: [tt0243183, tt0275577, tt0302739, tt0300879]
       winner: [tt0243183]
-    best sport:
-      nominee: []
-      winner: []
     best visual effects & graphic design:
       nominee: [tt0302074, tt0249418, tt0302739, tt0286285]
       winner: [tt0302074]
@@ -5757,13 +5415,6 @@
     lew grade award:
       nominee: [tt0314986, tt0108967, tt0088512, tt0257315, tt0296310]
       winner: [tt0314986]
-  special award:
-    bafta tribute:
-      nominee: []
-      winner: []
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best feature film:
       nominee: [tt0198781, tt0241527, tt0243585, tt0120737]
@@ -5790,11 +5441,11 @@
       nominee: [tt0142055, tt0313130, tt0289832]
       winner: [tt0142055]
     best presenter:
-      nominee: [tt0051257, tt0051257, tt0329927]
+      nominee: [tt0051257, tt0329927]
       winner: [tt0051257]
     best schools drama:
-      nominee: [tt1282225, tt1282225, tt0377804]
-      winner: [tt1282225, tt1282225]
+      nominee: [tt1282225, tt0377804]
+      winner: [tt1282225]
     best schools factual - primary:
       nominee: [tt0357370, tt0315070]
       winner: [tt0357370]
@@ -5804,10 +5455,6 @@
     best writer:
       nominee: [tt0295635, tt0227905, tt0273334]
       winner: [tt0295635]
-  special award (children's):
-    special award (children's):
-      nominee: []
-      winner: []
   kids' vote:
     kids' vote:
       nominee: [tt0267217]
@@ -5831,9 +5478,6 @@
     interactivity:
       nominee: [tt0296142, tt0284110, tt0277723]
       winner: [tt0296142]
-    special award:
-      nominee: []
-      winner: []
     technical innovation:
       nominee: [tt0277723]
       winner: []
@@ -5864,13 +5508,13 @@
       nominee: [tt0249462, tt0180073, tt0185014, tt0172495, tt0162222]
       winner: [tt0249462]
     best performance by an actor in a supporting role:
-      nominee: [tt0181865, tt0195685, tt0249462, tt0172495, tt0172495]
+      nominee: [tt0181865, tt0195685, tt0249462, tt0172495]
       winner: [tt0181865]
     best performance by an actress in a leading role:
       nominee: [tt0195685, tt0171804, tt0241303, tt0181875, tt0190332]
       winner: [tt0195685]
     best performance by an actress in a supporting role:
-      nominee: [tt0249462, tt0181875, tt0241303, tt0241303, tt0190332]
+      nominee: [tt0249462, tt0181875, tt0241303, tt0190332]
       winner: [tt0249462]
     best production design:
       nominee: [tt0172495, tt0241303, tt0190332, tt0190590, tt0180073]
@@ -5890,10 +5534,6 @@
     best sound:
       nominee: [tt0181875, tt0249462, tt0190332, tt0172495, tt0177971]
       winner: [tt0181875]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0249462, tt0120630, tt0258761, tt0203119, tt0200720]
@@ -5908,16 +5548,12 @@
       winner: [tt0190332]
   carl foreman award for the most promising newcomer:
     carl foreman award for the most promising newcomer:
-      nominee: [tt0258761, tt0249462, tt0249462, tt0195234, tt0218616]
+      nominee: [tt0258761, tt0249462, tt0195234, tt0218616]
       winner: [tt0258761]
   audience award:
     audience award:
       nominee: [tt0172495]
       winner: [tt0172495]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0192263, tt0182648, tt0265755, tt0263181]
@@ -5950,7 +5586,7 @@
       nominee: [tt0181255, tt0098820, tt0268862, tt0166064]
       winner: [tt0181255]
     best entertainment performance:
-      nominee: [tt0181255, tt0098820, tt0098820]
+      nominee: [tt0181255, tt0098820]
       winner: [tt0181255]
     best factual series or strand:
       nominee: [tt0300742, tt0244334, tt0318224]
@@ -5968,7 +5604,7 @@
       nominee: [tt0246812, tt0129711, tt0240273, tt0168596]
       winner: [tt0246812]
     best new writer:
-      nominee: [tt0255757, tt0168596, tt0084987, tt0255757]
+      nominee: [tt0255757, tt0168596, tt0084987]
       winner: [tt0255757]
     best news and current affairs journalism:
       nominee: [tt0283528, tt0199257]
@@ -5995,11 +5631,8 @@
       nominee: [tt0077082, tt0300742, tt0200358]
       winner: [tt0077082]
     best sound (fiction/entertainment):
-      nominee: [tt0246353, tt0108967, tt0246353, tt0243183, tt0192263]
+      nominee: [tt0246353, tt0108967, tt0243183, tt0192263]
       winner: [tt0246353]
-    best sport:
-      nominee: []
-      winner: []
     best visual effects & graphic design:
       nominee: [tt0197154, tt0243253, tt0318224, tt0192263]
       winner: [tt0197154]
@@ -6023,14 +5656,6 @@
     lew grade award:
       nominee: [tt0092379, tt0108967, tt0239173, tt0239958, tt0108981]
       winner: [tt0092379]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
   special award:
     special award:
       nominee: [tt0053494]
@@ -6057,10 +5682,6 @@
     entertainment:
       nominee: [tt1307738]
       winner: [tt1307738]
-  writers' award (children's):
-    writers' award (children's):
-      nominee: []
-      winner: []
   special award (children's):
     special award (children's):
       nominee: [tt0075512]
@@ -6135,7 +5756,7 @@
       nominee: [tt0169547, tt0145653, tt0172396, tt0166175]
       winner: [tt0169547]
     best performance by an actress in a supporting role:
-      nominee: [tt0120857, tt0120601, tt0134119, tt0169547, tt0169547]
+      nominee: [tt0120857, tt0120601, tt0134119, tt0169547]
       winner: [tt0120857]
     best production design:
       nominee: [tt0162661, tt0169547, tt0145653, tt0172396, tt0133093]
@@ -6152,10 +5773,6 @@
     best sound:
       nominee: [tt0133093, tt0169547, tt0186508, tt0120915]
       winner: [tt0133093]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0166175, tt0125439, tt0119079, tt0171685, tt0151568, tt0171865]
@@ -6176,10 +5793,6 @@
     audience award:
       nominee: [tt0125439]
       winner: [tt0125439]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0215364, tt0185102, tt0174882, tt0184157]
@@ -6191,7 +5804,7 @@
       nominee: [tt0184135, tt0214362, tt0195275, tt0224452]
       winner: [tt0184135]
     best comedy performance:
-      nominee: [tt0129711, tt0129711, tt0129711, tt0108981]
+      nominee: [tt0129711, tt0108981]
       winner: [tt0129711]
     best costume design:
       nominee: [tt0167187, tt0220969, tt0222608, tt0184135]
@@ -6256,9 +5869,6 @@
     'best sound: factual':
       nominee: [tt0320953]
       winner: []
-    best sport:
-      nominee: []
-      winner: []
     huw wheldon award for the best arts programme or series:
       nominee: [tt0421171, tt0200396, tt0339574]
       winner: [tt0421171]
@@ -6269,7 +5879,7 @@
       nominee: [tt0163471, tt0300880, tt0103363, tt0217967]
       winner: [tt0163471]
     situation comedy award:
-      nominee: [tt0129711, tt0161140, tt0187664, tt0108981]
+      nominee: [tt0129711, tt0187664, tt0108981, tt0161140]
       winner: [tt0129711]
   flaherty documentary award (tv):
     flaherty documentary award (tv):
@@ -6277,16 +5887,8 @@
       winner: [tt0166169]
   lew grade award:
     lew grade award:
-      nominee: [tt0108967, tt0161140, tt0213345, tt0108981, tt0214382]
+      nominee: [tt0108967, tt0213345, tt0108981, tt0214382, tt0161140]
       winner: [tt0108967]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
   special award:
     special award:
       nominee: [tt0054518]
@@ -6316,14 +5918,6 @@
     best schools factual - primary:
       nominee: [tt0356253]
       winner: [tt0356253]
-  writers' award (children's):
-    writers' award (children's):
-      nominee: []
-      winner: []
-  special award (children's):
-    special award (children's):
-      nominee: []
-      winner: []
   bafta interactive entertainment award:
     best game - console:
       nominee: [tt0280929, tt0272273, tt0288847]
@@ -6374,7 +5968,7 @@
       nominee: [tt0118799, tt0138097, tt0147004, tt0120815]
       winner: [tt0118799]
     best performance by an actor in a supporting role:
-      nominee: [tt0138097, tt0120382, tt0127536, tt0138097]
+      nominee: [tt0138097, tt0120382, tt0127536]
       winner: [tt0138097]
     best performance by an actress in a leading role:
       nominee: [tt0127536, tt0150915, tt0138097, tt0147004]
@@ -6400,10 +5994,6 @@
     best special effects:
       nominee: [tt0120815, tt0120587, tt0120595, tt0120382]
       winner: [tt0120815]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0127536, tt0150915, tt0147004, tt0120735, tt0151691, tt0120148]
@@ -6424,22 +6014,18 @@
     audience award:
       nominee: [tt0120735]
       winner: [tt0120735]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0164841, tt0164841, tt0137315, tt0144727]
+      nominee: [tt0164841, tt0137315, tt0144727]
       winner: [tt0164841]
     best actress:
       nominee: [tt0173599, tt0194299, tt0164841, tt0159090]
       winner: [tt0173599]
     best comedy (programme or series):
-      nominee: [tt0111958, tt0161140, tt0129711, tt0108981]
+      nominee: [tt0111958, tt0129711, tt0108981, tt0161140]
       winner: [tt0111958]
     best comedy performance:
-      nominee: [tt0111958, tt0161140, tt0111958, tt0129711]
+      nominee: [tt0111958, tt0129711, tt0161140]
       winner: [tt0111958]
     best costume design:
       nominee: [tt0154083, tt0129686, tt0144727, tt0159090]
@@ -6499,7 +6085,7 @@
       nominee: [tt0212694]
       winner: []
     best single drama:
-      nominee: [tt0164841, tt0182290, tt0173599, tt0173599]
+      nominee: [tt0164841, tt0182290, tt0173599]
       winner: [tt0164841]
     best soap:
       nominee: [tt0088512, tt0083392, tt0053494, tt0112004]
@@ -6534,22 +6120,6 @@
     lew grade award:
       nominee: [tt0175680]
       winner: [tt0175680]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best animation:
       nominee: [tt0197467]
@@ -6569,10 +6139,6 @@
     best schools factual - secondary:
       nominee: [tt0848188]
       winner: [tt0848188]
-  writers' award (children's):
-    writers' award (children's):
-      nominee: []
-      winner: []
   bafta interactive entertainment award:
     best design:
       nominee: [tt0262902]
@@ -6580,9 +6146,6 @@
     best sound:
       nominee: [tt0290637, tt0287907]
       winner: [tt0290637]
-    best uk developer:
-      nominee: []
-      winner: []
     computer programming:
       nominee: [tt0184666, tt0287907, tt1507289]
       winner: [tt0184666]
@@ -6625,13 +6188,13 @@
       nominee: [tt0119164, tt0119280, tt0119488, tt0119792]
       winner: [tt0119164]
     best performance by an actor in a supporting role:
-      nominee: [tt0119164, tt0118749, tt0119164, tt0119738]
+      nominee: [tt0119164, tt0118749, tt0119738]
       winner: [tt0119164]
     best performance by an actress in a leading role:
       nominee: [tt0119280, tt0120520, tt0119792, tt0119488]
       winner: [tt0119280]
     best performance by an actress in a supporting role:
-      nominee: [tt0119349, tt0120514, tt0119164, tt0120514]
+      nominee: [tt0119349, tt0120514, tt0119164]
       winner: [tt0119349]
     best production design:
       nominee: [tt0117509, tt0119488, tt0119280, tt0120338]
@@ -6651,10 +6214,6 @@
     best special effects:
       nominee: [tt0119116, tt0119654, tt0118755, tt0120338]
       winner: [tt0119116]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0119792, tt0120001, tt0119280, tt0118755, tt0119164, tt0120391]
@@ -6671,10 +6230,6 @@
     audience award:
       nominee: [tt0119164]
       winner: [tt0119164]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0118297, tt0115749, tt0111993, tt0134584]
@@ -6698,7 +6253,7 @@
       nominee: [tt0124241, tt0122579, tt0137279, tt0115390]
       winner: [tt0124241]
     best drama series:
-      nominee: [tt0118363, tt0108729, tt0118497, tt0118497, tt0250176]
+      nominee: [tt0118363, tt0108729, tt0118497, tt0250176]
       winner: [tt0118363]
     best editing (factual):
       nominee: [tt0207907, tt0115087, tt0129689]
@@ -6716,7 +6271,7 @@
       nominee: [tt0108771, tt0108796, tt0238786, tt0098820]
       winner: [tt0108771]
     best light entertainment performance:
-      nominee: [tt0108771, tt0108796, tt0108796, tt0098820]
+      nominee: [tt0108771, tt0108796, tt0098820]
       winner: [tt0108771]
     best make up/hair:
       nominee: [tt0123351, tt0118297, tt0295815, tt0119673]
@@ -6728,14 +6283,14 @@
       nominee: [tt0123351, tt0124241, tt0122579, tt1511543]
       winner: [tt0123351]
     best photography (factual):
-      nominee: [tt0300880, tt0300880, tt0122819, tt0296446]
+      nominee: [tt0300880, tt0122819, tt0296446]
       winner: [tt0300880]
     best photography and lighting (fiction/entertainment):
       nominee: [tt0137279, tt0124241, tt0122579, tt0118497]
       winner: [tt0137279]
     best single drama:
-      nominee: [tt0119795, tt0119795, tt0115749, tt0133678, tt0122515]
-      winner: [tt0119795, tt0119795]
+      nominee: [tt0119795, tt0115749, tt0133678, tt0122515]
+      winner: [tt0119795]
     best sound (factual):
       nominee: [tt0115087, tt0122819, tt0129689]
       winner: [tt0115087]
@@ -6757,22 +6312,6 @@
     foreign tv program award:
       nominee: [tt0108778]
       winner: [tt0108778]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best children's film:
       nominee: [tt0119095]
@@ -6792,9 +6331,6 @@
       winner: []
     best sound:
       nominee: [tt0129342]
-      winner: []
-    best uk developer:
-      nominee: []
       winner: []
     children's:
       nominee: [tt4229130]
@@ -6820,7 +6356,7 @@
       nominee: [tt0117998, tt0116629, tt0117218, tt0114709]
       winner: [tt0117998]
     best animated short film:
-      nominee: [tt0127710, tt0141005, tt0115388, tt0115388, tt0117538, tt0206359]
+      nominee: [tt0127710, tt0141005, tt0115388, tt0117538, tt0206359]
       winner: [tt0127710]
     best cinematography:
       nominee: [tt0116209, tt0116250, tt0116282, tt0117039]
@@ -6867,10 +6403,6 @@
     best sound:
       nominee: [tt0117631, tt0116250, tt0116629, tt0116209]
       winner: [tt0117631]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0117589, tt0115744, tt0115832, tt0114279]
@@ -6883,13 +6415,9 @@
     anthony asquith award for film music:
       nominee: [tt0116209, tt0115744, tt0116250, tt0117631]
       winner: [tt0116209]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0115177, tt0115230, tt0115305, tt0115305]
+      nominee: [tt0115177, tt0115230, tt0115305]
       winner: [tt0115177]
     best actress:
       nominee: [tt0115305, tt0116345, tt0115321, tt0117574]
@@ -6898,7 +6426,7 @@
       nominee: [tt0081912, tt0105929, tt0111958, tt0111976]
       winner: [tt0081912]
     best comedy performance:
-      nominee: [tt0081912, tt0105929, tt0101143, tt0081912]
+      nominee: [tt0081912, tt0105929, tt0101143]
       winner: [tt0081912]
     best costume design:
       nominee: [tt0115195, tt0115305, tt0116345, tt0115387]
@@ -6925,13 +6453,13 @@
       nominee: [tt0106131, tt0295815, tt0115340, tt0108771]
       winner: [tt0106131]
     best light entertainment performance:
-      nominee: [tt0295815, tt0098820, tt0295815]
+      nominee: [tt0295815, tt0098820]
       winner: [tt0295815]
     best make up/hair:
       nominee: [tt0115387, tt0118308, tt0092355]
       winner: [tt0115387]
     best news coverage:
-      nominee: [tt0163471, tt0163471]
+      nominee: [tt0163471]
       winner: [tt0163471]
     best original television music:
       nominee: [tt0116345, tt0115105, tt0174564, tt0115145]
@@ -6966,22 +6494,6 @@
     foreign tv program award:
       nominee: [tt0112086]
       winner: [tt0112086]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best drama:
       nominee: [tt0244335, tt0194605, tt0398547]
@@ -7031,7 +6543,7 @@
       nominee: [tt0114388, tt0113627, tt0110428, tt0114681]
       winner: [tt0114388]
     best performance by an actress in a supporting role:
-      nominee: [tt0114388, tt0114388, tt0113987, tt0113819]
+      nominee: [tt0114388, tt0113987, tt0113819]
       winner: [tt0114388]
     best production design:
       nominee: [tt0112384, tt0112573, tt0114388, tt0110428]
@@ -7048,10 +6560,6 @@
     best sound:
       nominee: [tt0112573, tt0112384, tt0113189, tt0110428]
       winner: [tt0112573]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0110428, tt0112637, tt0114671, tt0117951]
@@ -7064,13 +6572,9 @@
     anthony asquith award for film music:
       nominee: [tt0110877, tt0112573, tt0114388, tt0110428]
       winner: [tt0110877]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0105977, tt0112130, tt0112130, tt0111960, tt0112024]
+      nominee: [tt0105977, tt0112130, tt0111960, tt0112024]
       winner: [tt0105977]
     best actress:
       nominee: [tt0112130, tt0111890, tt0114182, tt0112126]
@@ -7141,9 +6645,6 @@
     best sound (fiction/entertainment):
       nominee: [tt0113710, tt0114182]
       winner: [tt0113710]
-    best sports/events coverage in real time:
-      nominee: []
-      winner: []
     best talk show:
       nominee: [tt0199257, tt0224846, tt0216470, tt0181261]
       winner: [tt0199257]
@@ -7166,22 +6667,6 @@
     foreign tv program award:
       nominee: [tt0108757]
       winner: [tt0108757]
-  alan clarke award:
-    alan clarke award:
-      nominee: []
-      winner: []
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
-  dennis potter award:
-    dennis potter award:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
   bafta children's award:
     best animation:
       nominee: [tt0286336]
@@ -7201,13 +6686,13 @@
       nominee: [tt0109831, tt0110912, tt0109045, tt0109830]
       winner: [tt0109831]
     best actor in a supporting role:
-      nominee: [tt0110912, tt0109831, tt0110932, tt0109831]
+      nominee: [tt0110912, tt0109831, tt0110932]
       winner: [tt0110912]
     best actress:
       nominee: [tt0109446, tt0111495, tt0110308, tt0110912]
       winner: [tt0109446]
     best actress in a supporting role:
-      nominee: [tt0109831, tt0107507, tt0109831, tt0109830]
+      nominee: [tt0109831, tt0107507, tt0109830]
       winner: [tt0109831]
     best cinematography:
       nominee: [tt0110148, tt0109830, tt0110912, tt0109045]
@@ -7248,10 +6733,6 @@
     best special effects:
       nominee: [tt0109830, tt0111257, tt0110475, tt0111503]
       winner: [tt0109830]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0111149, tt0106339, tt0106408, tt0110889]
@@ -7264,13 +6745,9 @@
     anthony asquith award for film music:
       nominee: [tt0106339, tt0109831, tt0109045, tt0110357]
       winner: [tt0106339]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0105977, tt0112062, tt0112062, tt0112062]
+      nominee: [tt0105977, tt0112062]
       winner: [tt0105977]
     best actress:
       nominee: [tt0108858, tt0105977, tt0103362, tt0124829]
@@ -7321,7 +6798,7 @@
       nominee: [tt0108858, tt0123355, tt0112062, tt0295815]
       winner: [tt0108858]
     best news coverage:
-      nominee: [tt0239164, tt0239164]
+      nominee: [tt0239164]
       winner: []
     best original television music:
       nominee: [tt0108858, tt0108735, tt0112062, tt0297626]
@@ -7361,13 +6838,13 @@
       nominee: [tt0107943, tt0108101, tt0107207, tt0108052]
       winner: [tt0107943]
     best actor in a supporting role:
-      nominee: [tt0108052, tt0108052, tt0107206, tt0106977]
+      nominee: [tt0108052, tt0107206, tt0106977]
       winner: [tt0108052]
     best actress:
       nominee: [tt0107822, tt0108101, tt0107943, tt0111454]
       winner: [tt0107822]
     best actress in a supporting role:
-      nominee: [tt0106226, tt0106918, tt0108071, tt0106226]
+      nominee: [tt0106226, tt0106918, tt0108071]
       winner: [tt0106226]
     best animated film:
       nominee: [tt0108598, tt0106446, tt0205785, tt0108494]
@@ -7411,10 +6888,6 @@
     best special effects:
       nominee: [tt0107290, tt0103639, tt0103874, tt0106977]
       winner: [tt0107290]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0108101, tt0107653, tt0107920, tt0111454]
@@ -7423,13 +6896,9 @@
     david lean award for direction:
       nominee: [tt0108052, tt0108101, tt0107822, tt0107943]
       winner: [tt0108052]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0105977, tt0108962, tt0108962, tt0103362]
+      nominee: [tt0105977, tt0108962, tt0103362]
       winner: [tt0105977]
     best actress:
       nominee: [tt0106104, tt0297625, tt0106148, tt0103362]
@@ -7474,7 +6943,7 @@
       nominee: [tt0295815, tt0147745, tt0092355, tt0101155]
       winner: [tt0295815]
     best light entertainment performance:
-      nominee: [tt0098882, tt0098820, tt0096657, tt0098882, tt0295815]
+      nominee: [tt0098882, tt0098820, tt0096657, tt0295815]
       winner: [tt0098882]
     best make up:
       nominee: [tt0092355, tt0107423, tt0106074]
@@ -7567,10 +7036,6 @@
     best special effects:
       nominee: [tt0104070, tt0103644, tt0103776, tt0101414]
       winner: [tt0104070]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   alexander korda award for best british film:
     alexander korda award for best british film:
       nominee: [tt0104036]
@@ -7579,10 +7044,6 @@
     best film/video editor (factual):
       nominee: [tt0986227]
       winner: [tt0986227]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0092379, tt0103171, tt0159876, tt0134178]
@@ -7600,7 +7061,7 @@
       nominee: [tt0105929, tt0096545, tt0098882, tt0098945]
       winner: [tt0105929]
     best costume design:
-      nominee: [tt0103381, tt0105929, tt0105929, tt0098833, tt0104882]
+      nominee: [tt0103381, tt0105929, tt0098833, tt0104882]
       winner: [tt0103381]
     best design:
       nominee: [tt0297626, tt0107141, tt0105957, tt0105724]
@@ -7633,7 +7094,7 @@
       nominee: [tt0101155, tt0098817, tt0098820, tt0094580]
       winner: [tt0101155]
     best light entertainment performance:
-      nominee: [tt0105929, tt0105929, tt0098837, tt0098882]
+      nominee: [tt0105929, tt0098837, tt0098882]
       winner: [tt0105929]
     best make up:
       nominee: [tt0200379, tt0096555, tt0295813, tt0102066]
@@ -7645,7 +7106,7 @@
       nominee: [tt0104294, tt0098833, tt0108840, tt0120928]
       winner: [tt0104294]
     best single drama:
-      nominee: [tt0134178, tt0101750, tt0297626, tt0297626]
+      nominee: [tt0134178, tt0101750, tt0297626]
       winner: [tt0134178]
     best sound (factual):
       nominee: [tt0986227]
@@ -7663,10 +7124,6 @@
     flaherty documentary award (tv):
       nominee: [tt0232044, tt0264972]
       winner: [tt0232044]
-  special award:
-    special award:
-      nominee: []
-      winner: []
 '1992':
   bafta film award:
     best actor:
@@ -7676,7 +7133,7 @@
       nominee: [tt0102798, tt0099726, tt0101605, tt0101669]
       winner: [tt0102798]
     best actress:
-      nominee: [tt0102926, tt0103074, tt0103129, tt0103074]
+      nominee: [tt0102926, tt0103074, tt0103129]
       winner: [tt0102926]
     best actress in a supporting role:
       nominee: [tt0101912, tt0101889, tt0099703, tt0102979]
@@ -7726,20 +7183,12 @@
     best special visual effects:
       nominee: [tt0103064, tt0101393, tt0099487, tt0102722]
       winner: [tt0103064]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0101104, tt0092379, tt0101104, tt0098898]
+      nominee: [tt0101104, tt0092379, tt0098898]
       winner: [tt0101104]
     best actress:
-      nominee: [tt0098898, tt0101104, tt0297625, tt0098898]
+      nominee: [tt0098898, tt0101104, tt0297625]
       winner: [tt0098898]
     best actuality coverage:
       nominee: [tt0163471]
@@ -7754,7 +7203,7 @@
       nominee: [tt0098882, tt0098781, tt0096657, tt0081912]
       winner: [tt0098882]
     best costume design:
-      nominee: [tt0101123, tt0101066, tt0094525, tt0094525]
+      nominee: [tt0101123, tt0101066, tt0094525]
       winner: [tt0101123]
     best design:
       nominee: [tt0098833, tt0101066, tt0098898]
@@ -7796,7 +7245,7 @@
       nominee: [tt0101104, tt0092379, tt0098898, tt0120928]
       winner: [tt0101104]
     best single drama:
-      nominee: [tt0297625, tt0297625, tt0297626, tt0147627]
+      nominee: [tt0297625, tt0297626, tt0147627]
       winner: [tt0297625]
     best sound (factual):
       nominee: [tt0077082]
@@ -7808,19 +7257,12 @@
       nominee: [tt0250766, tt0096555, tt0101123]
       winner: [tt0250766]
     huw wheldon award for the best arts programme:
-      nominee: [tt0456786, tt0077082, tt0077082, tt0077082]
+      nominee: [tt0456786, tt0077082]
       winner: [tt0456786]
   flaherty documentary award (tv):
     flaherty documentary award (tv):
       nominee: [tt0101254, tt0146983, tt0181269]
       winner: [tt0101254]
-  special award:
-    make up artist:
-      nominee: []
-      winner: []
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
 '1991':
   bafta film award:
     best actor:
@@ -7880,23 +7322,15 @@
     best special visual effects:
       nominee: [tt0097523, tt0099422, tt0099653, tt0100802]
       winner: [tt0097523]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0098825, tt0098813, tt0094525, tt0092379]
       winner: [tt0098825]
     best actress:
-      nominee: [tt0098032, tt0098032, tt0098032, tt0098825]
+      nominee: [tt0098032, tt0098825]
       winner: [tt0098032]
     best arts programme:
-      nominee: [tt0077082, tt0200358, tt0077082, tt0077082]
+      nominee: [tt0077082, tt0200358]
       winner: [tt0077082]
     best children's programme (documentary/educational):
       nominee: [tt0194597]
@@ -7923,7 +7357,7 @@
       nominee: [tt0133318, tt0098825, tt0092379, tt0098032]
       winner: [tt0133318]
     best film editor:
-      nominee: [tt0098897, tt0098813, tt0133318, tt0133318]
+      nominee: [tt0098897, tt0098813, tt0133318]
       winner: [tt0098897]
     best film sound:
       nominee: [tt0098032, tt0098825, tt0092379, tt0094525]
@@ -7932,7 +7366,7 @@
       nominee: [tt0334839]
       winner: []
     best light entertainment performance:
-      nominee: [tt0081912, tt0092355, tt0096657, tt0081912]
+      nominee: [tt0081912, tt0092355, tt0096657]
       winner: [tt0081912]
     best light entertainment programme:
       nominee: [tt0094580, tt0092355, tt0096657, tt0086807]
@@ -7947,7 +7381,7 @@
       nominee: [tt0098813, tt0098825, tt0098032, tt0133318]
       winner: [tt0098813]
     best single drama:
-      nominee: [tt0297625, tt0297625, tt0297626, tt0100603, tt0100932]
+      nominee: [tt0297625, tt0297626, tt0100603, tt0100932]
       winner: [tt0297625]
     best sound (factual):
       nominee: [tt0250766]
@@ -7964,17 +7398,6 @@
     best video lighting:
       nominee: [tt0090400, tt0098781, tt0098912]
       winner: [tt0090400]
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
-  special award:
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
-    special award:
-      nominee: []
-      winner: []
 '1990':
   bafta film award:
     best actor:
@@ -8034,14 +7457,6 @@
     best special effects:
       nominee: [tt0096874, tt0096895, tt0097576, tt0096764]
       winner: [tt0096874]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0092379, tt0297625, tt0163961, tt0097363]
@@ -8059,7 +7474,7 @@
       nominee: [tt0096548, tt0092314, tt0081912, tt0094519]
       winner: [tt0096548]
     best costume design:
-      nominee: [tt0094525, tt0094525, tt0098117, tt0096681, tt0096595]
+      nominee: [tt0094525, tt0098117, tt0096681, tt0096595]
       winner: [tt0094525]
     best design:
       nominee: [tt0096716, tt0094525, tt0096681, tt0096595, tt0098672]
@@ -8071,7 +7486,7 @@
       nominee: [tt0429290, tt0199184, tt0096536, tt0181269]
       winner: [tt0429290]
     best film cameraman:
-      nominee: [tt0096716, tt0096536, tt0096536, tt0092379]
+      nominee: [tt0096716, tt0096536, tt0092379]
       winner: [tt0096716]
     best film editor:
       nominee: [tt0096536, tt0096656, tt0163961, tt0096716]
@@ -8095,7 +7510,7 @@
       nominee: [tt0094525, tt0096536, tt0098672, tt0096716]
       winner: [tt0094525]
     best single drama:
-      nominee: [tt0297625, tt0310777, tt0097363, tt0297625]
+      nominee: [tt0297625, tt0310777, tt0097363]
       winner: [tt0297625]
     best sound supervisor:
       nominee: [tt0310777]
@@ -8112,7 +7527,7 @@
 '1989':
   bafta film award:
     best actor:
-      nominee: [tt0095159, tt0095159, tt0093010, tt0093105]
+      nominee: [tt0095159, tt0093010, tt0093105]
       winner: [tt0095159]
     best actor in a supporting role:
       nominee: [tt0095159, tt0096464, tt0094317, tt0093389]
@@ -8168,23 +7583,15 @@
     best special effects:
       nominee: [tt0096438, tt0094721, tt0093870, tt0093389]
       winner: [tt0096438]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0094576, tt0092462, tt0098533, tt0092360]
       winner: [tt0094576]
     best actress:
-      nominee: [tt0092462, tt0296309, tt0092462, tt0092462]
+      nominee: [tt0092462, tt0296309]
       winner: [tt0092462]
     best arts programme:
-      nominee: [tt0077082, tt0077082]
+      nominee: [tt0077082]
       winner: [tt0077082]
     best children's programme (documentary/educational):
       nominee: [tt0194597, tt0493329]
@@ -8235,7 +7642,7 @@
       nominee: [tt0094421, tt0094576, tt0092462, tt0098533]
       winner: [tt0094421]
     best single drama:
-      nominee: [tt0098533, tt0297626, tt0092462, tt0092462]
+      nominee: [tt0098533, tt0297626, tt0092462]
       winner: [tt0098533]
     best sound supervisor:
       nominee: [tt0304468, tt1375623]
@@ -8253,14 +7660,10 @@
     flaherty documentary award (tv):
       nominee: [tt0294205, tt0159876, tt0254033]
       winner: [tt0294205]
-  special award:
-    outstanding british contribution to cinema:
-      nominee: []
-      winner: []
 '1988':
   bafta film award:
     best actor:
-      nominee: [tt0091605, tt0093776, tt0091288, tt0091288]
+      nominee: [tt0091605, tt0093776, tt0091288]
       winner: [tt0091605]
     best actor in a supporting role:
       nominee: [tt0091288, tt0093209, tt0092804, tt0094226]
@@ -8313,14 +7716,6 @@
     best special effects:
       nominee: [tt0094332, tt0093058, tt0091419, tt0091064]
       winner: [tt0094332]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0092428, tt0092353, tt0092425, tt0092471]
@@ -8362,7 +7757,7 @@
       nominee: [tt0092471, tt0133010, tt0092428, tt0077082]
       winner: [tt0092471]
     best light entertainment performance:
-      nominee: [tt0086831, tt0092324, tt0126151, tt0086831]
+      nominee: [tt0086831, tt0092324, tt0126151]
       winner: [tt0086831]
     best light entertainment programme:
       nominee: [tt0149542, tt0088475, tt0086807, tt0126151]
@@ -8380,13 +7775,13 @@
       nominee: [tt0120005, tt0329829, tt0862624, tt0086829]
       winner: [tt0120005]
     best single drama:
-      nominee: [tt0093815, tt0297626, tt0297626, tt0297626]
+      nominee: [tt0093815, tt0297626]
       winner: [tt0093815]
     best sound supervisor:
       nominee: [tt0092471, tt0096555, tt0126151]
       winner: [tt0092471]
     best vtr editor:
-      nominee: [tt0092471, tt0269866, tt0311629, tt0092471]
+      nominee: [tt0092471, tt0269866, tt0311629]
       winner: [tt0092471]
     best video cameraman:
       nominee: [tt0092331, tt0196297, tt0092471, tt0092474]
@@ -8401,23 +7796,19 @@
     flaherty documentary award (tv):
       nominee: [tt0144781, tt0429290, tt0188626]
       winner: [tt0144781]
-  writers' award (tv):
-    writers' award (tv):
-      nominee: []
-      winner: []
 '1987':
   bafta film award:
     best actor:
-      nominee: [tt0091538, tt0091167, tt0090555, tt0091167]
+      nominee: [tt0091538, tt0091167, tt0090555]
       winner: [tt0091538]
     best actor in a supporting role:
-      nominee: [tt0091530, tt0091867, tt0089755, tt0091867]
+      nominee: [tt0091530, tt0091867, tt0089755]
       winner: [tt0091530]
     best actress:
       nominee: [tt0091867, tt0091538, tt0089755, tt0091167]
       winner: [tt0091867]
     best actress in a supporting role:
-      nominee: [tt0091867, tt0091167, tt0088680, tt0091867]
+      nominee: [tt0091867, tt0091167, tt0088680]
       winner: [tt0091867]
     best cinematography:
       nominee: [tt0089755, tt0091867, tt0089881, tt0091530]
@@ -8461,24 +7852,16 @@
     best special visual effects:
       nominee: [tt0090605, tt0089052, tt0091369, tt0091530]
       winner: [tt0090605]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   flaherty documentary award:
     flaherty documentary award:
       nominee: [tt0090015]
       winner: [tt0090015]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0090521, tt1049304, tt0090499, tt0297626, tt0090521, tt0092404]
+      nominee: [tt0090521, tt1049304, tt0090499, tt0297626, tt0092404]
       winner: [tt0090521]
     best actress:
-      nominee: [tt0297626, tt0090521, tt0170266, tt0098849, tt0297626, tt0090608]
+      nominee: [tt0297626, tt0090521, tt0170266, tt0098849, tt0090608]
       winner: [tt0297626]
     best animated film:
       nominee: [tt0085096, tt0081848, tt0343288, tt0088565, tt0086829, tt0086815]
@@ -8496,7 +7879,7 @@
       nominee: [tt0324697, tt0090476, tt0297626, tt0098849, tt0092404, tt0090521]
       winner: [tt0324697]
     best design:
-      nominee: [tt0297626, tt0090476, tt0297626, tt0092404, tt0090521]
+      nominee: [tt0297626, tt0090476, tt0092404, tt0090521]
       winner: [tt0297626]
     best drama series:
       nominee: [tt0098849, tt0090541, tt0090608, tt0090499, tt0092404, tt0090521]
@@ -8505,10 +7888,10 @@
       nominee: [tt0181269, tt0185794, tt0429290, tt0318224, tt0077082]
       winner: [tt0181269]
     best film cameraman:
-      nominee: [tt0297626, tt0090499, tt0297626, tt0092835, tt0092404, tt0090521]
+      nominee: [tt0297626, tt0090499, tt0092835, tt0092404, tt0090521]
       winner: [tt0297626]
     best film editor:
-      nominee: [tt0297626, tt0095537, tt0090499, tt0297626, tt0092404]
+      nominee: [tt0297626, tt0095537, tt0090499, tt0092404]
       winner: [tt0297626]
     best film sound:
       nominee: [tt0297626, tt0095537, tt0090476, tt0092404, tt0090521]
@@ -8517,7 +7900,7 @@
       nominee: [tt0090521, tt0090476, tt0098849]
       winner: [tt0090521]
     best light entertainment performance:
-      nominee: [tt0086831, tt0081912, tt0081912, tt0149542, tt0149542, tt0086831]
+      nominee: [tt0086831, tt0081912, tt0149542]
       winner: [tt0086831]
     best light entertainment programme:
       nominee: [tt0149542, tt0088475, tt0224848, tt0348922, tt0086807, tt0086826]
@@ -8529,10 +7912,10 @@
       nominee: [tt0239164, tt0229912]
       winner: [tt0239164]
     best original television music:
-      nominee: [tt0092404, tt0090476, tt0297626, tt0297626, tt0098849]
+      nominee: [tt0092404, tt0090476, tt0297626, tt0098849]
       winner: [tt0092404]
     best single drama:
-      nominee: [tt0297626, tt0095537, tt0089784, tt0297626, tt1049304, tt0301173]
+      nominee: [tt0297626, tt0095537, tt0089784, tt1049304, tt0301173]
       winner: [tt0297626]
     best sound (fiction/entertainment):
       nominee: [tt0090521]
@@ -8609,17 +7992,9 @@
     best special visual effects:
       nominee: [tt0088846, tt0088763, tt0089469, tt0089853]
       winner: [tt0088846]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0090424, tt0159876, tt0090019, tt0090424]
+      nominee: [tt0090424, tt0159876, tt0090019]
       winner: [tt0090424]
     best actress:
       nominee: [tt0090005, tt0363580, tt0090424, tt0088626]
@@ -8697,7 +8072,7 @@
 '1985':
   bafta film award:
     best actor:
-      nominee: [tt0087553, tt0085461, tt0087553, tt0085461]
+      nominee: [tt0087553, tt0085461]
       winner: [tt0087553]
     best actress:
       nominee: [tt0089838, tt0087019, tt0086312, tt0086425]
@@ -8751,7 +8126,7 @@
       nominee: [tt0087469, tt0087332, tt0087075, tt0087553]
       winner: [tt0087469]
     best supporting actor:
-      nominee: [tt0089838, tt0087365, tt0085615, tt0087365]
+      nominee: [tt0089838, tt0087365, tt0085615]
       winner: [tt0089838]
     best supporting actress:
       nominee: [tt0089838, tt0086312, tt0085461, tt0087843]
@@ -8759,16 +8134,12 @@
     most outstanding newcomer to film:
       nominee: [tt0087553, tt0086904, tt0087019, tt0087414]
       winner: [tt0087553]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
-      nominee: [tt0086739, tt0086739, tt0086739, tt0078657]
+      nominee: [tt0086739, tt0078657]
       winner: [tt0086739]
     best actress:
-      nominee: [tt0086739, tt0086739, tt0086739, tt0086739]
+      nominee: [tt0086739]
       winner: [tt0086739]
     best actuality coverage:
       nominee: [tt0403789, tt0199190, tt0239164]
@@ -8905,14 +8276,6 @@
     most outstanding newcomer to film:
       nominee: [tt0036606, tt0085478, tt0084058, tt0084707]
       winner: [tt0036606]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0085492, tt0078680, tt0085044, tt0142974]
@@ -9054,26 +8417,18 @@
       nominee: [tt0084516, tt0083658, tt0083866, tt0084827]
       winner: [tt0084516]
     best supporting actor:
-      nominee: [tt0082979, tt0083987, tt0084590, tt0083987]
+      nominee: [tt0082979, tt0083987, tt0084590]
       winner: [tt0082979]
     best supporting actress:
-      nominee: [tt0082979, tt0083987, tt0083987, tt0082846]
+      nominee: [tt0082979, tt0083987, tt0082846]
       winner: [tt0082979, tt0083987]
     most outstanding newcomer to leading film roles:
-      nominee: [tt0083987, tt0082089, tt0083866, tt0083866]
+      nominee: [tt0083987, tt0082089, tt0083866]
       winner: [tt0083987]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   flaherty documentary award:
     flaherty documentary award:
       nominee: [tt0083702, tt0132367, tt0083590, tt0084894]
       winner: [tt0083702]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0083480, tt0083689, tt0078657, tt0084875]
@@ -9121,7 +8476,7 @@
       nominee: [tt0083432, tt0083480, tt0084701]
       winner: [tt0083432]
     best light entertainment performance:
-      nominee: [tt0080306, tt0083416, tt0080253, tt0080306]
+      nominee: [tt0080306, tt0083416, tt0080253]
       winner: [tt0080306]
     best light entertainment programme:
       nominee: [tt0081946, tt0080253, tt0066721]
@@ -9149,10 +8504,6 @@
       winner: [tt0082660]
     best video lighting:
       nominee: [tt0083689, tt0086667, tt0082660]
-      winner: []
-  writers' award (tv):
-    writers' award (tv):
-      nominee: []
       winner: []
 '1982':
   bafta film award:
@@ -9193,15 +8544,11 @@
       nominee: [tt0082416, tt0082158, tt0080549, tt0082971]
       winner: [tt0082416]
     best supporting artist:
-      nominee: [tt0082158, tt0082031, tt0082158, tt0082971]
+      nominee: [tt0082158, tt0082031, tt0082971]
       winner: [tt0082158]
     most outstanding newcomer to leading film roles:
-      nominee: [tt0081398, tt0082736, tt0081283, tt0081398]
+      nominee: [tt0081398, tt0082736, tt0081283]
       winner: [tt0081398]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0082416, tt0082031, tt0082158, tt0082971]
@@ -9210,10 +8557,6 @@
     flaherty documentary award:
       nominee: [tt0083105, tt0078850, tt0216155, tt0081053]
       winner: [tt0083105]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'flame of knowledge'":
       nominee: [tt0493329]
@@ -9225,10 +8568,10 @@
       nominee: [tt0437425, tt0301116, tt0075512, tt0294192, tt0283701, tt0078713]
       winner: [tt0437425]
     best actor:
-      nominee: [tt0083390, tt0083390, tt0083390, tt0083390, tt0081963]
+      nominee: [tt0083390, tt0081963]
       winner: [tt0083390]
     best actress:
-      nominee: [tt0083416, tt0083390, tt0083390]
+      nominee: [tt0083416, tt0083390]
       winner: [tt0083416]
     best comedy series:
       nominee: [tt0080306, tt0083416, tt0123349, tt0078703]
@@ -9261,7 +8604,7 @@
       nominee: [tt0081874, tt0083416, tt0077082]
       winner: [tt0081874]
     best light entertainment performance:
-      nominee: [tt0080306, tt0131162, tt0080306]
+      nominee: [tt0080306, tt0131162]
       winner: [tt0080306]
     best light entertainment programme:
       nominee: [tt0077036, tt0066721, tt0289836]
@@ -9335,22 +8678,10 @@
     most outstanding newcomer to leading film roles:
       nominee: [tt0079596, tt0077452, tt0082477, tt0081696]
       winner: [tt0079596]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0080684, tt0080469, tt0080716, tt0080745]
       winner: [tt0080684]
-  flaherty documentary award:
-    flaherty documentary award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'harlequin' (documentary/factual)":
       nominee: [tt0229153, tt0051257, tt0303543, tt0367296, tt0266205]
@@ -9395,7 +8726,7 @@
       nominee: [tt0077082, tt0080230, tt0081152]
       winner: [tt0077082]
     best light entertainment performance:
-      nominee: [tt0080253, tt0078559, tt0407547, tt0080253]
+      nominee: [tt0080253, tt0078559, tt0407547]
       winner: [tt0080253]
     best light entertainment programme:
       nominee: [tt0080253, tt0407547, tt0077036, tt0066721]
@@ -9420,9 +8751,6 @@
       winner: [tt0080292]
     best vtr editor:
       nominee: [tt0080253, tt0077036]
-      winner: []
-    richard dimbleby award:
-      nominee: []
       winner: []
 '1980':
   bafta film award:
@@ -9463,15 +8791,11 @@
       nominee: [tt0078788, tt0077416, tt0079843, tt0078748]
       winner: [tt0078788]
     best supporting actress:
-      nominee: [tt0080157, tt0079123, tt0079522, tt0079522]
+      nominee: [tt0080157, tt0079123, tt0079522]
       winner: [tt0080157]
     most promising newcomer to leading film role:
       nominee: [tt0078902, tt0078748, tt0080013, tt0077280]
       winner: [tt0078902]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0077405, tt0078748, tt0078788, tt0080157]
@@ -9480,16 +8804,12 @@
     flaherty documentary award:
       nominee: [tt0077138]
       winner: [tt0077138]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'flame of knowledge'":
       nominee: [tt0493329, tt1049302]
       winner: [tt0493329]
     "'harlequin' (documentary/factual)":
-      nominee: [tt0367296, tt0051257, tt0051257, tt0275148]
+      nominee: [tt0367296, tt0051257, tt0275148]
       winner: [tt0367296]
     "'harlequin' (drama/light entertainment)":
       nominee: [tt0075512, tt0237963, tt0379113, tt0229904, tt0404196, tt0078713]
@@ -9528,7 +8848,7 @@
       nominee: [tt0075579, tt0078690, tt0077082, tt0080297]
       winner: [tt0075579]
     best light entertainment performance:
-      nominee: [tt0072500, tt0072500, tt0066721, tt0078703]
+      nominee: [tt0072500, tt0066721, tt0078703]
       winner: [tt0072500]
     best light entertainment programme/series:
       nominee: [tt0075568, tt0077036, tt0074028, tt0066721]
@@ -9596,9 +8916,6 @@
     best short factual film:
       nominee: [tt0215852, tt0076173, tt0216084, tt0216248]
       winner: [tt0215852]
-    best short fictional film:
-      nominee: []
-      winner: []
     best sound:
       nominee: [tt0076759, tt0075860, tt0076666, tt0078346]
       winner: [tt0076759]
@@ -9609,15 +8926,11 @@
       nominee: [tt0077928, tt0075860, tt0078346, tt0076245]
       winner: [tt0077928]
     best supporting actress:
-      nominee: [tt0077742, tt0077413, tt0077413, tt0078321]
+      nominee: [tt0077742, tt0077413, tt0078321]
       winner: [tt0077742]
     most promising newcomer to leading film roles:
       nominee: [tt0078346, tt0077613, tt0077742, tt0077928]
       winner: [tt0078346]
-  michael balcon award:
-    michael balcon award:
-      nominee: []
-      winner: []
   anthony asquith award for film music:
     anthony asquith award for film music:
       nominee: [tt0076759, tt0075860, tt0076245, tt0076666]
@@ -9626,10 +8939,6 @@
     flaherty documentary award:
       nominee: [tt0253705]
       winner: [tt0253705]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'flame of knowledge'":
       nominee: [tt0493329]
@@ -9644,7 +8953,7 @@
       nominee: [tt0080212, tt0077060, tt0077045, tt0163476]
       winner: [tt0080212]
     best actress:
-      nominee: [tt0077042, tt0077060, tt0080212, tt0080212]
+      nominee: [tt0077042, tt0077060, tt0080212]
       winner: [tt0077042]
     best costume design:
       nominee: [tt0080212, tt0077042, tt0077060, tt0078033]
@@ -9665,13 +8974,13 @@
       nominee: [tt0163476, tt0137941, tt0077060, tt0078033]
       winner: [tt0163476]
     best film sound:
-      nominee: [tt0179586, tt0077060, tt0077082, tt0077082]
+      nominee: [tt0179586, tt0077060, tt0077082]
       winner: [tt0179586]
     best graphics:
       nominee: [tt0077082, tt0200358, tt0072577]
       winner: [tt0077082]
     best light entertainment performance:
-      nominee: [tt0077016, tt0073990, tt0072577, tt0072577]
+      nominee: [tt0077016, tt0073990, tt0072577]
       winner: [tt0077016]
     best light entertainment programme/series:
       nominee: [tt0077036, tt0074028, tt0066721]
@@ -9680,7 +8989,7 @@
       nominee: [tt0077042, tt0080212, tt0078033]
       winner: [tt0077042]
     best single play:
-      nominee: [tt0307093, tt0762803, tt0762803, tt0137941, tt0078033]
+      nominee: [tt0307093, tt0762803, tt0137941, tt0078033]
       winner: [tt0307093]
     best situation comedy:
       nominee: [tt0077016, tt0071041, tt0073990, tt0072577]
@@ -9703,7 +9012,7 @@
 '1978':
   bafta film award:
     best actor:
-      nominee: [tt0074958, tt0075148, tt0074958, tt0075686]
+      nominee: [tt0074958, tt0075148, tt0075686]
       winner: [tt0074958]
     best actress:
       nominee: [tt0075686, tt0074958, tt0076301, tt0075612]
@@ -9745,7 +9054,7 @@
       nominee: [tt0075784, tt0075995, tt0074958, tt0074554]
       winner: [tt0075784]
     best supporting actress:
-      nominee: [tt0075995, tt0076910, tt0075995, tt0074963]
+      nominee: [tt0075995, tt0076910, tt0074963]
       winner: [tt0075995]
     most promising newcomer to leading film roles:
       nominee: [tt0075932, tt0076517, tt0073109, tt0071842]
@@ -9754,14 +9063,6 @@
     anthony asquith award for film music:
       nominee: [tt0075784, tt0075265, tt0075995, tt0076752]
       winner: [tt0075784]
-  flaherty documentary award:
-    flaherty documentary award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'flame of knowledge'":
       nominee: [tt1049302]
@@ -9776,7 +9077,7 @@
       nominee: [tt0958967, tt0076541, tt0074072, tt0075520]
       winner: [tt0958967]
     best actress:
-      nominee: [tt0078003, tt1082585, tt0075534, tt0165592, tt0165592]
+      nominee: [tt0078003, tt1082585, tt0075534, tt0165592]
       winner: [tt0078003]
     best costume design:
       nominee: [tt0077657, tt0075476, tt0958967, tt0076005, tt0164260, tt0075520, tt0077046, tt0075560, tt0075563, tt0075570, tt0077004]
@@ -9794,7 +9095,7 @@
       nominee: [tt0212512, tt0318224]
       winner: [tt0212512]
     best film cameraman:
-      nominee: [tt0240672, tt0386922, tt0076005, tt0298665, tt0075520, tt0077046, tt0200358, tt0200358, tt0165592, tt0165592, tt0075568, tt0181269]
+      nominee: [tt0240672, tt0386922, tt0076005, tt0298665, tt0075520, tt0077046, tt0200358, tt0165592, tt0075568, tt0181269]
       winner: [tt0240672]
     best film editor:
       nominee: [tt0386922, tt0076005, tt0298665, tt0075520, tt0200358, tt0076817, tt0180386, tt0155387]
@@ -9877,9 +9178,6 @@
     best short factual film:
       nominee: [tt0074482, tt0215751, tt0193520]
       winner: [tt0074482]
-    best short fictional film:
-      nominee: []
-      winner: []
     best sound track:
       nominee: [tt0074256, tt0074119, tt0073486, tt0073540]
       winner: [tt0074256]
@@ -9887,7 +9185,7 @@
       nominee: [tt0215863, tt0215773, tt0215930, tt0216121, tt0216217]
       winner: [tt0215863]
     best supporting actor:
-      nominee: [tt0073486, tt0074119, tt0074119, tt0075232]
+      nominee: [tt0073486, tt0074119, tt0075232]
       winner: [tt0073486]
     best supporting actress:
       nominee: [tt0074256, tt0075232, tt0075005, tt0070188]
@@ -9903,14 +9201,6 @@
     flaherty documentary award:
       nominee: [tt0215590, tt0076916]
       winner: [tt0215590]
-  un award:
-    un award:
-      nominee: []
-      winner: []
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'flame of knowledge'":
       nominee: [tt1049302, tt0493329, tt0125480]
@@ -9940,7 +9230,7 @@
       nominee: [tt0074462]
       winner: [tt0074462]
     best light entertainment performance:
-      nominee: [tt0075511, tt0074036, tt0073990, tt0075511]
+      nominee: [tt0075511, tt0074036, tt0073990]
       winner: [tt0075511]
     best light entertainment programme:
       nominee: [tt0074028, tt0196269, tt0063930, tt0066721]
@@ -9999,7 +9289,7 @@
       nominee: [tt0072308, tt0072848, tt0073692, tt0072251]
       winner: [tt0072308]
     best supporting actress:
-      nominee: [tt0071115, tt0073440, tt0071115, tt0073440]
+      nominee: [tt0071115, tt0073440]
       winner: [tt0071115]
     john grierson award:
       nominee: [tt0216187, tt0215925, tt0215937, tt0216397]
@@ -10019,10 +9309,6 @@
     un award:
       nominee: [tt0071358]
       winner: [tt0071358]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'harlequin' (documentary/factual)":
       nominee: [tt0229153, tt0300780, tt0238791, tt0275148, tt0266205]
@@ -10034,7 +9320,7 @@
       nominee: [tt0073438, tt0165592, tt0072925, tt0164272]
       winner: [tt0073438]
     best actress:
-      nominee: [tt0072925, tt0072539, tt0072925, tt0164285]
+      nominee: [tt0072925, tt0072539, tt0164285]
       winner: [tt0072925]
     best design:
       nominee: [tt0072925, tt0150282, tt0296865, tt0066722]
@@ -10058,7 +9344,7 @@
       nominee: [tt0066721, tt0131163, tt0065296, tt0296865]
       winner: [tt0066721]
     best single play:
-      nominee: [tt0197441, tt0165592, tt0165592, tt0164285, tt0073438]
+      nominee: [tt0197441, tt0165592, tt0164285, tt0073438]
       winner: [tt0197441]
     best situation comedy:
       nominee: [tt0072500, tt0071036, tt0069634, tt0075511]
@@ -10108,9 +9394,6 @@
     best sound track:
       nominee: [tt0071360, tt0071455, tt0071566, tt0070047]
       winner: [tt0071360]
-    best specialised film:
-      nominee: []
-      winner: []
     best supporting actor:
       nominee: [tt0071877, tt0072201, tt0071315, tt0070290]
       winner: [tt0071877]
@@ -10135,10 +9418,6 @@
     un award:
       nominee: [tt0071733, tt0071175]
       winner: [tt0071733]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'harlequin'":
       nominee: [tt0275148, tt0397828]
@@ -10150,7 +9429,7 @@
       nominee: [tt0072520, tt0159211, tt0175447, tt0072482]
       winner: [tt0072520]
     best design:
-      nominee: [tt0296864, tt0072520, tt0072520, tt0075557]
+      nominee: [tt0296864, tt0072520, tt0075557]
       winner: [tt0296864]
     best drama series/serial:
       nominee: [tt0159211, tt0072520, tt0071047, tt0066722]
@@ -10174,15 +9453,11 @@
       nominee: [tt0071036, tt0062552, tt0069634, tt0069655]
       winner: [tt0071036]
     best specialised programme:
-      nominee: [tt0318224, tt0200358, tt0200358]
+      nominee: [tt0318224, tt0200358]
       winner: [tt0318224]
     best specialised series:
       nominee: [tt0247852, tt0403761, tt0884759, tt0200358]
       winner: [tt0247852]
-  richard dimbleby award:
-    richard dimbleby award:
-      nominee: []
-      winner: []
 '1974':
   bafta film award:
     best actor:
@@ -10245,10 +9520,6 @@
     un award:
       nominee: [tt0070959, tt0070239, tt0069226, tt0069303]
       winner: [tt0070959]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'flame of knowledge'":
       nominee: [tt0284178]
@@ -10281,7 +9552,7 @@
       nominee: [tt0296863, tt0131163, tt0063930, tt0066721]
       winner: [tt0296863]
     best single play:
-      nominee: [tt0165592, tt0071116, tt0070977, tt0165592]
+      nominee: [tt0165592, tt0071116, tt0070977]
       winner: [tt0165592]
     best situation comedy series:
       nominee: [tt0069655, tt0062552, tt0069602, tt0069634]
@@ -10335,7 +9606,7 @@
       nominee: [tt0067328, tt0066858, tt0068827, tt0068646]
       winner: [tt0067328]
     best supporting actress:
-      nominee: [tt0067328, tt0067328, tt0068327, tt0069113]
+      nominee: [tt0067328, tt0068327, tt0069113]
       winner: [tt0067328]
     john grierson award:
       nominee: [tt0266762, tt0325570, tt0069379]
@@ -10347,18 +9618,10 @@
     anthony asquith award for film music:
       nominee: [tt0068646, tt0068827, tt0067372, tt0069528]
       winner: [tt0068646]
-  flaherty documentary award:
-    flaherty documentary award:
-      nominee: []
-      winner: []
   un award:
     un award:
       nominee: [tt0065777, tt0068450, tt0068569, tt0067530]
       winner: [tt0065777]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'harlequin'":
       nominee: [tt0339964]
@@ -10394,7 +9657,7 @@
       nominee: [tt0068110, tt0062552, tt0060035]
       winner: [tt0068110]
     best specialised programme:
-      nominee: [tt0200358, tt0200358]
+      nominee: [tt0200358]
       winner: [tt0200358]
     best specialised series:
       nominee: [tt0247852, tt0200358]
@@ -10415,9 +9678,6 @@
     best actress:
       nominee: [tt0067805, tt0067309, tt0067144, tt0067820, tt0067357]
       winner: [tt0067805]
-    best animated film:
-      nominee: []
-      winner: []
     best art direction:
       nominee: [tt0067445, tt0067483, tt0067144, tt0067570]
       winner: [tt0067445]
@@ -10449,7 +9709,7 @@
       nominee: [tt0216180, tt0215784, tt0215722]
       winner: [tt0216180]
     best supporting actor:
-      nominee: [tt0067144, tt0067128, tt0066730, tt0067144]
+      nominee: [tt0067144, tt0067128, tt0066730]
       winner: [tt0067144]
     best supporting actress:
       nominee: [tt0067144, tt0067357, tt0067820, tt0066122]
@@ -10469,10 +9729,6 @@
     un award:
       nominee: [tt0058946, tt0067276, tt0065988, tt0065963]
       winner: [tt0058946]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     "'harlequin'":
       nominee: [tt0163444]
@@ -10514,7 +9770,7 @@
 '1971':
   bafta film award:
     best actor:
-      nominee: [tt0064115, tt0064100, tt0066206, tt0064115]
+      nominee: [tt0064115, tt0064100, tt0066206]
       winner: [tt0064115]
     best actress:
       nominee: [tt0064115, tt0064117, tt0065088, tt0066319]
@@ -10573,25 +9829,21 @@
     un award:
       nominee: [tt0066026, tt0065528, tt0064541, tt0065439]
       winner: [tt0066026]
-  academy fellowship:
-    academy fellowship:
-      nominee: []
-      winner: []
   bafta tv award:
     best actor:
       nominee: [tt0066714, tt0165592, tt0248648, tt0159910, tt0058853]
       winner: [tt0066714]
     best actress:
-      nominee: [tt0066714, tt0066714, tt0165592, tt0165593, tt0159910]
+      nominee: [tt0066714, tt0165592, tt0165593, tt0159910]
       winner: [tt0066714]
     best design:
       nominee: [tt0066714, tt0165593, tt0358830, tt0159910]
       winner: [tt0066714]
     best drama production:
-      nominee: [tt0165592, tt0061238, tt0159910, tt0066714, tt0066714, tt0058853]
+      nominee: [tt0165592, tt0061238, tt0159910, tt0066714, tt0058853]
       winner: [tt0165592]
     best factual production:
-      nominee: [tt0318224, tt0404629, tt0404629, tt0181269]
+      nominee: [tt0318224, tt0404629, tt0181269]
       winner: []
     best light entertainment performance:
       nominee: [tt0063930, tt0062552, tt0063929, tt0165589, tt0125650]
@@ -10603,7 +9855,7 @@
       nominee: [tt0165592, tt0796582, tt0159910, tt0066714]
       winner: [tt0165592]
     best specialised production:
-      nominee: [tt0796582, tt0247852, tt0200358, tt0200358, tt0200358]
+      nominee: [tt0796582, tt0247852, tt0200358]
       winner: [tt0796582]
     general:
       nominee: [tt0066714]
@@ -10657,7 +9909,7 @@
       nominee: [tt0064754, tt0064381, tt0064276, tt0062765]
       winner: [tt0064754]
     best supporting actress:
-      nominee: [tt0064840, tt0064754, tt0064840, tt0065097]
+      nominee: [tt0064840, tt0064754, tt0065097]
       winner: [tt0064840]
     most promising newcomer to leading film roles:
       nominee: [tt0064665, tt0064381, tt0065126, tt0066579]
@@ -10709,7 +9961,7 @@
       nominee: [tt0335705, tt0061238, tt0264234, tt0063929, tt0058853]
       winner: [tt0335705]
     best specialised programme:
-      nominee: [tt0051257, tt0200358, tt0264234, tt0200358, tt0200358]
+      nominee: [tt0051257, tt0200358, tt0264234]
       winner: [tt0051257, tt0200358]
   shell international award:
     shell international award:
@@ -10721,8 +9973,8 @@
       winner: [tt0318224]
   special award:
     special award:
-      nominee: [tt0264234, tt0063929, tt0063929]
-      winner: [tt0264234, tt0063929, tt0063929]
+      nominee: [tt0264234, tt0063929]
+      winner: [tt0264234, tt0063929]
 '1969':
   bafta film award:
     best actor:
@@ -10768,7 +10020,7 @@
       nominee: [tt0063729, tt0063518, tt0061696, tt0063136]
       winner: [tt0063729]
     most promising newcomer to leading film roles:
-      nominee: [tt0061722, tt0061620, tt0063385, tt0061722]
+      nominee: [tt0061722, tt0061620, tt0063385]
       winner: [tt0061722]
   anthony asquith award for film music:
     anthony asquith award for film music:
@@ -10822,9 +10074,6 @@
     best british actress:
       nominee: [tt0061180, tt0062414, tt0061407]
       winner: [tt0061180]
-    best british art direction (b/w):
-      nominee: []
-      winner: []
     best british art direction (colour):
       nominee: [tt0060665, tt0061328, tt0060176, tt0062512]
       winner: [tt0060665]
@@ -10850,7 +10099,7 @@
       nominee: [tt0060665, tt0061138, tt0061418, tt0061811]
       winner: [tt0060665]
     best foreign actor:
-      nominee: [tt0061811, tt0059012, tt0061811, tt0061418]
+      nominee: [tt0061811, tt0059012, tt0061418]
       winner: [tt0061811]
     best foreign actress:
       nominee: [tt0061138, tt0061055, tt0061385, tt0061556]
@@ -10862,7 +10111,7 @@
       nominee: [tt0225624, tt0402267, tt0793559, tt0793569]
       winner: [tt0225624]
     most promising newcomer to leading film roles:
-      nominee: [tt0061418, tt0061418, tt0062414, tt0061209]
+      nominee: [tt0061418, tt0062414, tt0061209]
       winner: [tt0061418]
   flaherty documentary award:
     flaherty documentary award:
@@ -10902,9 +10151,6 @@
     best british cinematography (colour):
       nominee: [tt0060121, tt0060086, tt0060708, tt0060177]
       winner: [tt0060121]
-    best british costume (b/w):
-      nominee: []
-      winner: []
     best british costume (colour):
       nominee: [tt0061204, tt0060121, tt0060911, tt0060177]
       winner: [tt0061204]
@@ -10924,7 +10170,7 @@
       nominee: [tt0059575, tt0059592, tt0059749, tt0059573]
       winner: [tt0059575]
     best foreign actress:
-      nominee: [tt0059956, tt0059956, tt0060479]
+      nominee: [tt0059956, tt0060479]
       winner: [tt0059956]
     best short film:
       nominee: [tt0059894, tt0793583, tt0227391, tt0290897]
@@ -10943,13 +10189,6 @@
     un award:
       nominee: [tt0059894, tt0199257, tt0059575, tt0060921]
       winner: [tt0059894]
-  bafta tv award:
-    best actress:
-      nominee: []
-      winner: []
-    best light entertainment:
-      nominee: []
-      winner: []
 '1966':
   bafta film award:
     best animated film:
@@ -10973,9 +10212,6 @@
     best british cinematography (colour):
       nominee: [tt0059319, tt0059260, tt0059399, tt0059797]
       winner: [tt0059319]
-    best british costume (b/w):
-      nominee: []
-      winner: []
     best british costume (colour):
       nominee: [tt0059797, tt0058586, tt0059260, tt0058905, tt0059930]
       winner: [tt0059797]
@@ -11015,9 +10251,6 @@
     best dramatic series:
       nominee: [tt0059976]
       winner: [tt0059976]
-    best light entertainment:
-      nominee: []
-      winner: []
 '1965':
   bafta film award:
     best animated film:
@@ -11027,7 +10260,7 @@
       nominee: [tt0058166, tt0057877, tt0057413, tt0058263]
       winner: [tt0058166]
     best british actress:
-      nominee: [tt0056923, tt0057933, tt0057933, tt0058142]
+      nominee: [tt0056923, tt0057933, tt0058142]
       winner: [tt0056923]
     best british art direction (b/w):
       nominee: [tt0057012, tt0058166, tt0058263, tt0058500]
@@ -11089,7 +10322,7 @@
       nominee: [tt0056841, tt0056965]
       winner: [tt0056841, tt0056965]
     best british actor:
-      nominee: [tt0057490, tt0057590, tt0057590, tt0057578, tt0056868]
+      nominee: [tt0057490, tt0057590, tt0057578, tt0056868]
       winner: [tt0057490]
     best british actress:
       nominee: [tt0057578, tt0057521, tt0057590, tt0056868, tt0057490]
@@ -11113,18 +10346,14 @@
       nominee: [tt0055913, tt0056592, tt0055892, tt0055895, tt0057163]
       winner: [tt0055913]
     best foreign actress:
-      nominee: [tt0057163, tt0056687, tt0055913, tt0056687, tt0055895]
+      nominee: [tt0057163, tt0056687, tt0055913, tt0055895]
       winner: [tt0057163]
     best short film:
       nominee: [tt0056066, tt0059731, tt0056677, tt0865364]
       winner: [tt0056066]
     most promising newcomer to leading film roles:
-      nominee: [tt0057490, tt0055892, tt0055892, tt0057490]
+      nominee: [tt0057490, tt0055892]
       winner: [tt0057490]
-  flaherty documentary award:
-    flaherty documentary award:
-      nominee: []
-      winner: []
   un award:
     un award:
       nominee: [tt0056135, tt0056675]
@@ -11165,24 +10394,13 @@
     best short film:
       nominee: [tt0056300, tt0183416, tt1534484, tt0056722]
       winner: [tt0056300]
-    best specialised film:
-      nominee: []
-      winner: []
     most promising newcomer to leading film roles:
       nominee: [tt0056194, tt0055796, tt0056189, tt0056412, tt0056568]
       winner: [tt0056194]
-  flaherty documentary award:
-    flaherty documentary award:
-      nominee: []
-      winner: []
   un award:
     un award:
       nominee: [tt0056397, tt0055244]
       winner: [tt0056397]
-  bafta tv award:
-    best actor:
-      nominee: []
-      winner: []
 '1962':
   bafta film award:
     best animated film:
@@ -11204,7 +10422,7 @@
       nominee: [tt0052600, tt0054997, tt0055506, tt0055031, tt0054037, tt0054248, tt0054407, tt0055018, tt0054353, tt0052572, tt0055618]
       winner: [tt0052600, tt0054997]
     best foreign actor:
-      nominee: [tt0054997, tt0054678, tt0055031, tt0055031, tt0054407, tt0055353, tt0052600]
+      nominee: [tt0054997, tt0054678, tt0055031, tt0054407, tt0055353, tt0052600]
       winner: [tt0054997]
     best foreign actress:
       nominee: [tt0054749, tt0054248, tt0055353, tt0053472, tt0054997]
@@ -11212,11 +10430,8 @@
     best short film:
       nominee: [tt0055514, tt0059383]
       winner: [tt0055514]
-    best specialised film:
-      nominee: []
-      winner: []
     most promising newcomer to leading film roles:
-      nominee: [tt0055506, tt0055506, tt0055361]
+      nominee: [tt0055506, tt0055361]
       winner: [tt0055506]
   flaherty documentary award:
     flaherty documentary award:
@@ -11232,7 +10447,7 @@
       nominee: [tt0054429, tt0147171, tt1661909]
       winner: [tt0054429]
     best british actor:
-      nominee: [tt0054403, tt0054269, tt0054412, tt0054403, tt0054412, tt0053796, tt0053602]
+      nominee: [tt0054403, tt0054269, tt0054412, tt0053796, tt0053602]
       winner: [tt0054403]
     best british actress:
       nominee: [tt0054269, tt0054195, tt0054326]
@@ -11247,7 +10462,7 @@
       nominee: [tt0053604, tt0053146, tt0053793, tt0052893, tt0053946, tt0053619, tt0053779, tt0054022, tt0054198, tt0054269, tt0053270, tt0054331, tt0054377, tt0053198, tt0053602, tt0054403, tt0054412]
       winner: [tt0053604]
     best foreign actor:
-      nominee: [tt0053604, tt0053793, tt0053946, tt0052711, tt0053946, tt0054022]
+      nominee: [tt0053604, tt0053793, tt0053946, tt0052711, tt0054022]
       winner: [tt0053604]
     best foreign actress:
       nominee: [tt0053604, tt0052893, tt0053793, tt0054198, tt0053619, tt0053602]
@@ -11255,16 +10470,9 @@
     best short film:
       nominee: [tt0052890, tt0055420]
       winner: [tt0052890]
-    best specialised film:
-      nominee: []
-      winner: []
     most promising newcomer to leading film roles:
-      nominee: [tt0054269, tt0053900, tt0053917, tt0053270, tt0053270, tt0053198, tt0053796]
+      nominee: [tt0054269, tt0053900, tt0053917, tt0053270, tt0053198, tt0053796]
       winner: [tt0054269]
-  flaherty documentary award:
-    flaherty documentary award:
-      nominee: []
-      winner: []
   un award:
     un award:
       nominee: [tt0052893, tt0048434, tt0053270]
@@ -11275,10 +10483,10 @@
       nominee: [tt0053425, tt0051544, tt0053276]
       winner: [tt0053425]
     best british actor:
-      nominee: [tt0052911, tt0053458, tt0053806, tt0052735, tt0053131, tt0051879, tt0053458]
+      nominee: [tt0052911, tt0053458, tt0053806, tt0052735, tt0053131, tt0051879]
       winner: [tt0052911]
     best british actress:
-      nominee: [tt0053131, tt0051739, tt0053131, tt0052006, tt0053242]
+      nominee: [tt0053131, tt0051739, tt0052006, tt0053242]
       winner: [tt0053131]
     best british film:
       nominee: [tt0053242, tt0051879, tt0053126, tt0053361, tt0053458]
@@ -11290,14 +10498,11 @@
       nominee: [tt0052618, tt0052561, tt0052080, tt0052700, tt0051658, tt0050669, tt0051879, tt0053126, tt0053242, tt0053291, tt0051411, tt0051365, tt0053131, tt0053361, tt0053458]
       winner: [tt0052618]
     best foreign actor:
-      nominee: [tt0053291, tt0052561, tt0050669, tt0050669, tt0044741, tt0052080]
+      nominee: [tt0053291, tt0052561, tt0050669, tt0044741, tt0052080]
       winner: [tt0053291]
     best foreign actress:
       nominee: [tt0052583, tt0053137, tt0051065, tt0051383, tt0051758]
       winner: [tt0052583]
-    best short film:
-      nominee: []
-      winner: []
     best specialised film:
       nominee: [tt0309677, tt9457730]
       winner: []
@@ -11312,17 +10517,13 @@
     un award:
       nominee: [tt0053137, tt0053131]
       winner: [tt0053137]
-  bafta tv award:
-    best actor:
-      nominee: []
-      winner: []
 '1959':
   bafta film award:
     best animated film:
       nominee: [tt0194113, tt0051923, tt0050575]
       winner: [tt0194113]
     best british actor:
-      nominee: [tt0051816, tt0053935, tt0053226, tt0051702, tt0053226, tt0051532, tt0052427]
+      nominee: [tt0051816, tt0053935, tt0053226, tt0051702, tt0051532, tt0052427]
       winner: [tt0051816]
     best british actress:
       nominee: [tt0052033, tt0053226, tt0051454]
@@ -11340,7 +10541,7 @@
       nominee: [tt0053226, tt0048956, tt0051459, tt0051532, tt0053935, tt0051773, tt0050783, tt0050771, tt0052033, tt0050634, tt0051525, tt0052190, tt0052415, tt0050986]
       winner: [tt0053226]
     best foreign actor:
-      nominee: [tt0051525, tt0051201, tt0051776, tt0050356, tt0052190, tt0052415, tt0051459, tt0051845, tt0051525, tt0050986]
+      nominee: [tt0051525, tt0051201, tt0051776, tt0050356, tt0052190, tt0052415, tt0051459, tt0051845, tt0050986]
       winner: [tt0051525]
     best foreign actress:
       nominee: [tt0053226, tt0051193, tt0051459, tt0050783, tt0051776, tt0050771, tt0048956, tt0050634]
@@ -11352,14 +10553,6 @@
     un award:
       nominee: [tt0051525, tt0048752]
       winner: [tt0051525]
-  bafta tv award:
-    light entertainment:
-      nominee: []
-      winner: []
-  special award:
-    special award:
-      nominee: []
-      winner: []
 '1958':
   bafta film award:
     best animated film:
@@ -11390,19 +10583,12 @@
       nominee: [tt0050997, tt0051070, tt0050487, tt0051077, tt0049653, tt0048948, tt0050861]
       winner: [tt0050997]
     most promising newcomer to film:
-      nominee: [tt0050214, tt0050997, tt0051214, tt0049886, tt0049886]
+      nominee: [tt0050214, tt0050997, tt0051214, tt0049886]
       winner: [tt0050214]
   un award:
     un award:
       nominee: [tt0050483]
       winner: [tt0050483]
-  bafta tv award:
-    best actor:
-      nominee: []
-      winner: []
-    best personality:
-      nominee: []
-      winner: []
   special award:
     special award:
       nominee: [tt0050534]
@@ -11434,7 +10620,7 @@
       nominee: [tt0049259, tt0048347, tt0048641, tt0048545, tt0048973, tt0144183, tt0049523, tt0048491]
       winner: [tt0049259]
     best foreign actress:
-      nominee: [tt0048563, tt0049007, tt0048973, tt0048641, tt0048140, tt0048491, tt0049259, tt0048563, tt0048750, tt0048191]
+      nominee: [tt0048563, tt0049007, tt0048973, tt0048641, tt0048140, tt0048491, tt0049259, tt0048750, tt0048191]
       winner: [tt0048563]
     most promising newcomer to film:
       nominee: [tt0048973, tt0049038, tt0049601, tt0048491, tt0049471]
@@ -11443,13 +10629,6 @@
     un award:
       nominee: [tt0049703, tt0049588, tt0049279]
       winner: [tt0049703]
-  bafta tv award:
-    best actor:
-      nominee: []
-      winner: []
-    best writer:
-      nominee: []
-      winner: []
   special award:
     special award:
       nominee: [tt0048980, tt0048447, tt0302508, tt0046593]
@@ -11460,7 +10639,7 @@
       nominee: [tt0047887, tt0047834, tt0150663, tt0048280, tt0162458]
       winner: [tt0047887]
     best british actor:
-      nominee: [tt0049674, tt0048512, tt0049000, tt0048512, tt0047978, tt0047278]
+      nominee: [tt0049674, tt0048512, tt0049000, tt0047978, tt0047278]
       winner: [tt0049674]
     best british actress:
       nominee: [tt0048281, tt0048034, tt0048740, tt0050233]
@@ -11478,7 +10657,7 @@
       nominee: [tt0049674, tt0047849, tt0046828, tt0048028, tt0047528, tt0048356, tt0047478, tt0048620, tt0048673, tt0047945, tt0046889, tt0048281, tt0047278, tt0048512]
       winner: [tt0049674]
     best foreign actor:
-      nominee: [tt0048356, tt0048432, tt0048380, tt0048028, tt0047478, tt0047478]
+      nominee: [tt0048356, tt0048432, tt0048380, tt0048028, tt0047478]
       winner: [tt0048356]
     best foreign actress:
       nominee: [tt0048356, tt0046828, tt0047528, tt0046874, tt0047522, tt0048188, tt0048673, tt0048605]
@@ -11490,10 +10669,6 @@
     un award:
       nominee: [tt0044497, tt0047849, tt0048043, tt0048620]
       winner: [tt0044497]
-  bafta tv award:
-    best actor:
-      nominee: []
-      winner: []
   special award:
     special award:
       nominee: [tt0049000, tt0325847]
@@ -11507,7 +10682,7 @@
       nominee: [tt0046921, tt0047923, tt0048680, tt0047094, tt0047376, tt0047165]
       winner: [tt0046921]
     best british actress:
-      nominee: [tt0046915, tt0047437, tt0047094, tt0047923, tt0047923]
+      nominee: [tt0046915, tt0047437, tt0047094, tt0047923]
       winner: [tt0046915]
     best british film:
       nominee: [tt0047094, tt0046991, tt0047923, tt0046921, tt0047085, tt0047029, tt0046915, tt0047376]
@@ -11556,7 +10731,7 @@
       nominee: [tt0043686, tt0044509, tt0045793, tt0045808, tt0045943, tt0046000, tt0046085, tt0044926, tt0046250, tt0046303, tt0044391, tt0045659, tt0047066, tt0046006, tt0043918, tt0043794, tt0046384, tt0044572, tt0044977]
       winner: [tt0043686]
     best foreign actor:
-      nominee: [tt0045943, tt0042619, tt0046250, tt0046250, tt0044977, tt0045471, tt0046303]
+      nominee: [tt0045943, tt0042619, tt0046250, tt0044977, tt0045471, tt0046303]
       winner: [tt0045943]
     best foreign actress:
       nominee: [tt0046000, tt0047066, tt0043794, tt0044509]
@@ -11582,7 +10757,7 @@
 '1953':
   bafta film award:
     best british actor:
-      nominee: [tt0044446, tt0044626, tt0045654, tt0045030, tt0044486, tt0044446]
+      nominee: [tt0044446, tt0044626, tt0045654, tt0045030, tt0044486]
       winner: [tt0044446]
     best british actress:
       nominee: [tt0044081, tt0044446, tt0044734, tt0045654]
@@ -11603,7 +10778,7 @@
       nominee: [tt0043386, tt0042803, tt0044888, tt0045012, tt0042436]
       winner: [tt0043386]
     most promising newcomer to film:
-      nominee: [tt0044837, tt0045654, tt0045654, tt0044744]
+      nominee: [tt0044837, tt0045654, tt0044744]
       winner: [tt0044837]
   un award:
     un award:
@@ -11666,10 +10841,6 @@
     un award:
       nominee: [tt0040765, tt0041283, tt0223904]
       winner: [tt0040765]
-  special award:
-    special award:
-      nominee: []
-      winner: []
 '1949':
   bafta film award:
     best british film:

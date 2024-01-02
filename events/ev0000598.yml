@@ -10,10 +10,10 @@
       nominee: [tt6710474, tt1655389, tt14444726, tt4960748, tt8093700]
       winner: [tt6710474]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt6710474, tt11813216, tt11813216, tt4273800, tt14208870]
+      nominee: [tt6710474, tt11813216, tt4273800, tt14208870]
       winner: [tt6710474]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt6710474, tt9114286, tt13833688, tt11813216, tt6710474]
+      nominee: [tt6710474, tt9114286, tt13833688, tt11813216]
       winner: [tt6710474]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt14218830, tt5348176, tt11815682, tt11691774, tt14452776]
@@ -22,16 +22,16 @@
       nominee: [tt13406094, tt3032476, tt5071412, tt11280740, tt4786824]
       winner: [tt13406094]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt14452776, tt5348176, tt5348176, tt11691774, tt11691774]
+      nominee: [tt14452776, tt5348176, tt11691774]
       winner: [tt14452776]
     outstanding performance by a female actor in a comedy series:
       nominee: [tt11815682, tt8064302, tt13443470, tt14218830, tt5788792]
       winner: [tt11815682]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt5071412, tt11280740, tt3032476, tt5645432, tt3032476]
+      nominee: [tt5071412, tt11280740, tt3032476, tt5645432]
       winner: [tt5071412]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt13406094, tt4786824, tt5071412, tt5071412, tt8772296]
+      nominee: [tt13406094, tt4786824, tt5071412, tt8772296]
       winner: [tt13406094]
     outstanding action performance by a stunt ensemble in a motion picture:
       nominee: [tt1745960, tt1630029, tt9114286, tt1877830, tt8093700]
@@ -40,15 +40,11 @@
       nominee: [tt5545398, tt10166622, tt11771270, tt8740976, tt13207736]
       winner: [tt5545398]
     outstanding performance by a male actor in a television movie or limited series:
-      nominee: [tt13991232, tt13207736, tt4301160, tt15574312, tt4301160]
+      nominee: [tt13991232, tt13207736, tt4301160, tt15574312]
       winner: [tt13991232]
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt4574334, tt9253284, tt11198330, tt1190634, tt7631058]
       winner: [tt4574334]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2022':
   actor:
     outstanding action performance by a stunt ensemble in a comedy or drama series:
@@ -61,10 +57,10 @@
       nominee: [tt10366460, tt12789558, tt11286314, tt11214590, tt9620288]
       winner: [tt10366460]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt11815682, tt2235759, tt10986410, tt10986410, tt11834150]
+      nominee: [tt11815682, tt2235759, tt10986410, tt11834150]
       winner: [tt11815682]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt10919420, tt5834204, tt7203552, tt7203552, tt7660850]
+      nominee: [tt10919420, tt5834204, tt7203552, tt7660850]
       winner: [tt10919420]
     outstanding performance by a female actor in a leading role:
       nominee: [tt9115530, tt2452150, tt11214590, tt4995540, tt9100054]
@@ -73,13 +69,13 @@
       nominee: [tt3581652, tt12789558, tt7740496, tt10293406, tt8893974]
       winner: [tt3581652]
     outstanding performance by a female actor in a television movie or limited series:
-      nominee: [tt10155688, tt5673782, tt10155688, tt13406094, tt11337908]
+      nominee: [tt10155688, tt5673782, tt13406094, tt11337908]
       winner: [tt10155688]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt10986410, tt10986410, tt11691774, tt7255502, tt11691774]
+      nominee: [tt10986410, tt11691774, tt7255502]
       winner: [tt10986410]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt10919420, tt7203552, tt7660850, tt7660850, tt7660850]
+      nominee: [tt10919420, tt7203552, tt7660850]
       winner: [tt10919420]
     outstanding performance by a male actor in a leading role:
       nominee: [tt9620288, tt8721424, tt10293406, tt10095582, tt4995540]
@@ -96,10 +92,6 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt7660850, tt10919420, tt5834204, tt7203552, tt4236770]
       winner: [tt7660850]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2021':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -124,16 +116,16 @@
       nominee: [tt4786824, tt3032476, tt8740790, tt6905686, tt5071412]
       winner: [tt4786824]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt10986410, tt3526078, tt3526078, tt2235759, tt7649694]
+      nominee: [tt10986410, tt3526078, tt2235759, tt7649694]
       winner: [tt10986410]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt3526078, tt3526078, tt8064302, tt7569576, tt8064302]
+      nominee: [tt3526078, tt8064302, tt7569576]
       winner: [tt3526078]
     outstanding performance by a male actor in a drama series:
       nominee: [tt5071412, tt3032476, tt4786824, tt8740790, tt5555260]
       winner: [tt5071412]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt4786824, tt4786824, tt5071412, tt5071412, tt4786824]
+      nominee: [tt4786824, tt5071412]
       winner: [tt4786824]
     outstanding action performance by a stunt ensemble in a comedy or drama series:
       nominee: [tt8111088, tt7221388, tt6905686, tt1190634, tt0475784]
@@ -159,10 +151,10 @@
       nominee: [tt7549996, tt6394270, tt4648786, tt6857112, tt7653254]
       winner: [tt7549996]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt7131622, tt1302006, tt4916630, tt1302006, tt3224458]
+      nominee: [tt7131622, tt1302006, tt4916630, tt3224458]
       winner: [tt7131622]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt7653254, tt5503686, tt6394270, tt6394270, tt2584384]
+      nominee: [tt7653254, tt5503686, tt6394270, tt2584384]
       winner: [tt7653254]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt5788792, tt5348176, tt5687612, tt3526078, tt7255502]
@@ -171,16 +163,16 @@
       nominee: [tt4786824, tt3920596, tt0944947, tt4574334, tt5834204]
       winner: [tt4786824]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt5788792, tt7255502, tt5687612, tt5348176, tt7255502]
+      nominee: [tt5788792, tt7255502, tt5687612, tt5348176]
       winner: [tt5788792]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt5687612, tt5788792, tt3526078, tt8064302, tt5788792]
+      nominee: [tt5687612, tt5788792, tt3526078, tt8064302]
       winner: [tt5687612]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0944947, tt7203552, tt4574334, tt5555260, tt7203552]
+      nominee: [tt0944947, tt7203552, tt4574334, tt5555260]
       winner: [tt0944947]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt7203552, tt5834204, tt4786824, tt7016936, tt4786824]
+      nominee: [tt7203552, tt5834204, tt4786824, tt7016936]
       winner: [tt7203552]
     outstanding action performance by a stunt ensemble in a comedy or drama series:
       nominee: [tt0944947, tt5770786, tt4574334, tt1520211, tt7049682]
@@ -189,15 +181,11 @@
       nominee: [tt4154796, tt1950186, tt7286456, tt7131622, tt1302006]
       winner: [tt4154796]
     outstanding performance by a female actor in a television movie or limited series:
-      nominee: [tt8746478, tt7366338, tt8682948, tt8682948, tt7909970]
+      nominee: [tt8746478, tt7366338, tt8682948, tt7909970]
       winner: [tt8746478]
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt8746478, tt7366338, tt7137906, tt2356777, tt6821044]
       winner: [tt8746478]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2019':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -213,7 +201,7 @@
       nominee: [tt6966692, tt7349662, tt4595882, tt1517451, tt1226837]
       winner: [tt6966692]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt6644200, tt6266538, tt5083738, tt2328900, tt5083738]
+      nominee: [tt6644200, tt6266538, tt5083738, tt2328900]
       winner: [tt6644200]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt5788792, tt4288182, tt5348176, tt5770786, tt7255502]
@@ -222,16 +210,16 @@
       nominee: [tt5555260, tt3032476, tt5071412, tt2149175, tt5834204]
       winner: [tt5555260]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt5788792, tt7255502, tt5348176, tt5348176, tt7255502]
+      nominee: [tt5788792, tt7255502, tt5348176]
       winner: [tt5788792]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt5788792, tt5788792, tt5770786, tt3609352, tt3609352]
+      nominee: [tt5788792, tt5770786, tt3609352]
       winner: [tt5788792]
     outstanding performance by a male actor in a drama series:
       nominee: [tt5071412, tt3032476, tt5057054, tt5834204, tt5555260]
       winner: [tt5071412]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt7016936, tt5834204, tt5071412, tt5071412, tt1856010]
+      nominee: [tt7016936, tt5834204, tt5071412, tt1856010]
       winner: [tt7016936]
     outstanding action performance by a stunt ensemble in a comedy or drama series:
       nominee: [tt5770786, tt3322312, tt1520211, tt5057054, tt0475784]
@@ -240,15 +228,11 @@
       nominee: [tt1825683, tt5095030, tt4154756, tt4912910, tt6412452]
       winner: [tt1825683]
     outstanding performance by a female actor in a television movie or limited series:
-      nominee: [tt6866266, tt2649356, tt5580146, tt2649356, tt2788432]
+      nominee: [tt6866266, tt2649356, tt5580146, tt2788432]
       winner: [tt6866266]
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt2788432, tt7473890, tt5673782, tt6048596, tt6938856]
       winner: [tt2788432]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2018':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -261,7 +245,7 @@
       nominee: [tt5027774, tt5816682, tt5580036, tt5580390, tt4925292]
       winner: [tt5027774]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt5027774, tt5580390, tt4622512, tt5649144, tt5027774]
+      nominee: [tt5027774, tt5580390, tt4622512, tt5649144]
       winner: [tt5027774]
     outstanding performance by a female actor in a supporting role:
       nominee: [tt5580036, tt5462602, tt1389072, tt4925292, tt2396589]
@@ -276,7 +260,7 @@
       nominee: [tt1586680, tt3487356, tt4635276, tt0264235, tt5770786, tt0157246]
       winner: [tt1586680]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt1759761, tt5770786, tt3609352, tt3609352, tt2372162]
+      nominee: [tt1759761, tt5770786, tt3609352, tt2372162]
       winner: [tt1759761]
     outstanding performance by a male actor in a drama series:
       nominee: [tt5555260, tt3032476, tt4574334, tt5071412, tt0944947]
@@ -291,15 +275,11 @@
       nominee: [tt0451279, tt3890160, tt5013056, tt3315342, tt3450958]
       winner: [tt0451279]
     outstanding performance by a female actor in a television movie or limited series:
-      nominee: [tt3920596, tt1984119, tt3920596, tt3920596, tt1984119]
+      nominee: [tt3920596, tt1984119]
       winner: [tt3920596]
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt3920596, tt1475582, tt5673782, tt5516154, tt1933667]
       winner: [tt3920596]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2017':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -327,13 +307,13 @@
       nominee: [tt1586680, tt3487356, tt3502262, tt3339966, tt1442437]
       winner: [tt1586680]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt1759761, tt3339966, tt3609352, tt3609352, tt2372162]
+      nominee: [tt1759761, tt3339966, tt3609352, tt2372162]
       winner: [tt1759761]
     outstanding performance by a male actor in a drama series:
       nominee: [tt4786824, tt1856010, tt0944947, tt4158110, tt5555260]
       winner: [tt4786824]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt4786824, tt4574334, tt1856010, tt0475784, tt4574334]
+      nominee: [tt4786824, tt4574334, tt1856010, tt0475784]
       winner: [tt4786824]
     outstanding action performance by a stunt ensemble in a comedy or drama series:
       nominee: [tt0944947, tt3322312, tt3322314, tt1520211, tt0475784]
@@ -345,12 +325,8 @@
       nominee: [tt2788432, tt4305154, tt2085059, tt3488298, tt4608402]
       winner: [tt2788432]
     outstanding performance by a male actor in a television movie or limited series:
-      nominee: [tt3791216, tt2788432, tt2401256, tt2401256, tt2788432]
+      nominee: [tt3791216, tt2788432, tt2401256]
       winner: [tt3791216]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2016':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -398,10 +374,6 @@
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt3322312, tt1796960, tt2741602, tt1520211]
       winner: [tt0944947]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2015':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -426,13 +398,13 @@
       nominee: [tt1606375, tt0979432, tt0944947, tt1796960, tt1856010]
       winner: [tt1606375]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt1586680, tt1442437, tt0898266, tt1492966, tt1442437]
+      nominee: [tt1586680, tt1442437, tt0898266, tt1492966]
       winner: [tt1586680]
     outstanding performance by a female actor in a comedy series:
       nominee: [tt2372162, tt1266020, tt1190689, tt1759761, tt1442437]
       winner: [tt2372162]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt1856010, tt2356777, tt0944947, tt0979432, tt2356777]
+      nominee: [tt1856010, tt2356777, tt0944947, tt0979432]
       winner: [tt1856010]
     outstanding performance by a female actor in a drama series:
       nominee: [tt3205802, tt1796960, tt1442462, tt1606375, tt1856010, tt2234222]
@@ -449,10 +421,6 @@
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt1598754, tt0979432, tt1796960, tt1124373, tt1520211]
       winner: [tt0944947]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2014':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -489,10 +457,10 @@
       nominee: [tt1606375, tt0903747, tt1796960, tt1844624, tt1837576]
       winner: [tt1606375]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt1291580, tt1745862, tt2262456, tt1291580, tt2815030]
+      nominee: [tt1291580, tt1745862, tt2262456, tt2815030]
       winner: [tt1291580]
     outstanding performance by a female actor in a television movie or miniseries:
-      nominee: [tt1745862, tt2375664, tt2103085, tt2709784, tt2103085]
+      nominee: [tt1745862, tt2375664, tt2103085, tt2709784]
       winner: [tt1745862]
     outstanding action performance by a stunt ensemble in a motion picture:
       nominee: [tt1091191, tt2017038, tt1905041, tt1979320, tt1430132]
@@ -500,10 +468,6 @@
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt0979432, tt0903747, tt1796960, tt1520211]
       winner: [tt0944947]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2013':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -528,7 +492,7 @@
       nominee: [tt1606375, tt0979432, tt0903747, tt1796960, tt0804503]
       winner: [tt1606375]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0496424, tt1442437, tt0898266, tt1492966, tt1442437]
+      nominee: [tt0496424, tt1442437, tt0898266, tt1492966]
       winner: [tt0496424]
     outstanding performance by a female actor in a comedy series:
       nominee: [tt0496424, tt1266020, tt1583607, tt1190689, tt1442437]
@@ -537,10 +501,10 @@
       nominee: [tt0903747, tt1796960, tt1870479, tt0804503, tt0979432]
       winner: [tt0903747]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt1796960, tt1844624, tt1442462, tt1606375, tt1606375]
+      nominee: [tt1796960, tt1844624, tt1442462, tt1606375]
       winner: [tt1796960]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt1985443, tt1985443, tt0423455, tt1848902, tt1848902]
+      nominee: [tt1985443, tt0423455, tt1848902]
       winner: [tt1985443]
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt1848902, tt2328749, tt2241676, tt0423455, tt2239947]
@@ -553,10 +517,6 @@
       winner: [tt0944947]
     outstanding performance by a stunt ensemble in a motion picture:
       nominee: [tt1345836]
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
       winner: []
 '2012':
   actor:
@@ -573,7 +533,7 @@
       nominee: [tt1532503, tt1616195, tt1210166, tt1655420, tt1291584]
       winner: [tt1532503]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt1454029, tt1655442, tt1602098, tt1454029, tt1478338]
+      nominee: [tt1454029, tt1655442, tt1602098, tt1478338]
       winner: [tt1454029]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt1442437, tt0496424, tt1327801, tt0898266, tt0386676]
@@ -582,10 +542,10 @@
       nominee: [tt0979432, tt0903747, tt0773262, tt0944947, tt1442462]
       winner: [tt0979432]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0496424, tt1442437, tt0369179, tt0386676, tt1442437]
+      nominee: [tt0496424, tt1442437, tt0369179, tt0386676]
       winner: [tt0496424]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt1583607, tt1190689, tt1442437, tt1442437, tt0496424]
+      nominee: [tt1583607, tt1190689, tt1442437, tt0496424]
       winner: [tt1583607]
     outstanding performance by a male actor in a drama series:
       nominee: [tt0979432, tt0903747, tt0758745, tt0773262, tt1632701]
@@ -594,7 +554,7 @@
       nominee: [tt1844624, tt0914387, tt1442462, tt1582453, tt0458253]
       winner: [tt1844624]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt1742683, tt1567215, tt1492030, tt1742683, tt1844811]
+      nominee: [tt1742683, tt1567215, tt1492030, tt1844811]
       winner: [tt1742683]
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt1492030, tt1709157, tt1623742, tt1831575, tt1606375]
@@ -608,10 +568,6 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt0773262, tt1299368, tt1758429, tt0844441]
       winner: [tt0944947]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2011':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -627,7 +583,7 @@
       nominee: [tt0964517, tt1504320, tt0840361, tt1399683, tt0842926]
       winner: [tt0964517]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0964517, tt0964517, tt1403865, tt1504320, tt0947798]
+      nominee: [tt0964517, tt1403865, tt1504320, tt0947798]
       winner: [tt0964517]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt1442437, tt0496424, tt1327801, tt1583607, tt0386676]
@@ -636,7 +592,7 @@
       nominee: [tt0979432, tt0773262, tt0804503, tt0458253, tt1442462]
       winner: [tt0979432]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0496424, tt1327801, tt1442437, tt0386676, tt1442437]
+      nominee: [tt0496424, tt1327801, tt1442437, tt0386676]
       winner: [tt0496424]
     outstanding performance by a female actor in a comedy series:
       nominee: [tt1583607, tt1190689, tt1327801, tt1442437, tt0496424]
@@ -648,10 +604,10 @@
       nominee: [tt1442462, tt0804503, tt0914387, tt0458253, tt0203259]
       winner: [tt1442462]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt1132623, tt1117646, tt1321865, tt1132623, tt1570337]
+      nominee: [tt1132623, tt1117646, tt1321865, tt1570337]
       winner: [tt1132623]
     outstanding performance by a female actor in a television movie or miniseries:
-      nominee: [tt1278469, tt1278469, tt1278469, tt1132623, tt1547035]
+      nominee: [tt1278469, tt1132623, tt1547035]
       winner: [tt1278469]
     outstanding performance by a stunt ensemble in a motion picture:
       nominee: [tt1375666, tt0947810, tt0955308]
@@ -659,14 +615,6 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0844441, tt0810788, tt0395843, tt0773262, tt1299368]
       winner: [tt0844441]
-  ralph morgan award:
-    ralph morgan award:
-      nominee: []
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2010':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -682,7 +630,7 @@
       nominee: [tt0361748, tt0824758, tt1057500, tt0380510, tt0790712]
       winner: [tt0361748]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0929632, tt1193138, tt0361748, tt0875034, tt1193138]
+      nominee: [tt0929632, tt1193138, tt0361748, tt0875034]
       winner: [tt0929632]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt1327801, tt0496424, tt0264235, tt1442437, tt0386676]
@@ -706,7 +654,7 @@
       nominee: [tt1019454, tt1295085, tt1320286, tt0159876, tt1010035]
       winner: [tt1019454]
     outstanding performance by a female actor in a television movie or miniseries:
-      nominee: [tt0758751, tt0758751, tt1320286, tt1347508, tt1073510]
+      nominee: [tt0758751, tt1320286, tt1347508, tt1073510]
       winner: [tt0758751]
     outstanding performance by a stunt ensemble in a motion picture:
       nominee: [tt0796366, tt1152836, tt1055369]
@@ -714,14 +662,6 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0285331, tt0773262, tt0813715, tt0458253, tt0460690]
       winner: [tt0285331]
-  ralph morgan award:
-    ralph morgan award:
-      nominee: []
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2009':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -737,7 +677,7 @@
       nominee: [tt0468569, tt1010048, tt1013753, tt0918927, tt0942385]
       winner: [tt0468569]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0976051, tt0918927, tt0497465, tt0421715, tt0918927]
+      nominee: [tt0976051, tt0918927, tt0497465, tt0421715]
       winner: [tt0976051]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt0496424, tt0410975, tt0387199, tt0386676, tt0439100]
@@ -752,13 +692,13 @@
       nominee: [tt0496424, tt0805669, tt0898332, tt0439100, tt1014741]
       winner: [tt0496424]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0412142, tt0402711, tt0804503, tt0773262, tt0402711]
+      nominee: [tt0412142, tt0402711, tt0804503, tt0773262]
       winner: [tt0412142]
     outstanding performance by a female actor in a drama series:
       nominee: [tt0758737, tt0804503, tt0830900, tt0458253, tt0203259]
       winner: [tt0758737]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt0472027, tt1000771, tt0813980, tt0470732, tt0472027]
+      nominee: [tt0472027, tt1000771, tt0813980, tt0470732]
       winner: [tt0472027]
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt0472027, tt1000771, tt0808435, tt1094661, tt0470732]
@@ -769,14 +709,6 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0813715, tt0758745, tt0455275, tt0458253, tt0460690]
       winner: [tt0813715]
-  ralph morgan award:
-    ralph morgan award:
-      nominee: []
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2008':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -789,7 +721,7 @@
       nominee: [tt0491747, tt0829459, tt0414055, tt0467406, tt0450188]
       winner: [tt0491747]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt0477348, tt0443680, tt0758758, tt0465538, tt0477348]
+      nominee: [tt0477348, tt0443680, tt0758758, tt0465538]
       winner: [tt0477348]
     outstanding performance by a female actor in a supporting role:
       nominee: [tt0765429, tt0452623, tt0368794, tt0758758, tt0465538]
@@ -804,7 +736,7 @@
       nominee: [tt0496424, tt0387199, tt0445114, tt0386676, tt0312172]
       winner: [tt0496424]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt0496424, tt0805669, tt0898332, tt0439100, tt0805669]
+      nominee: [tt0496424, tt0805669, tt0898332, tt0439100]
       winner: [tt0496424]
     outstanding performance by a male actor in a drama series:
       nominee: [tt0141842, tt0412142, tt0402711, tt0804503, tt0773262]
@@ -813,21 +745,17 @@
       nominee: [tt0141842, tt0914387, tt0830900, tt0458253, tt0758737]
       winner: [tt0141842]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt0450972, tt0790477, tt0488352, tt0790477, tt0499558]
+      nominee: [tt0450972, tt0790477, tt0488352, tt0499558]
       winner: [tt0450972]
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt0808348, tt0821638, tt0810726, tt1023504, tt0953915, tt0368725]
       winner: [tt0808348]
     outstanding performance by a stunt ensemble in a motion picture:
-      nominee: [tt0440963, tt0416449, tt0480249, tt0480249, tt0449088, tt0431197]
+      nominee: [tt0440963, tt0416449, tt0480249, tt0449088, tt0431197]
       winner: [tt0440963]
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0285331, tt0813715, tt0411008, tt0384766, tt0460690]
       winner: [tt0285331]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2007':
   actor:
     outstanding performance by a cast in a motion picture:
@@ -843,7 +771,7 @@
       nominee: [tt0443489, tt0449059, tt0450259, tt0404203, tt0407887]
       winner: [tt0443489]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0443489, tt0449059, tt0449467, tt0465551, tt0449467]
+      nominee: [tt0443489, tt0449059, tt0449467, tt0465551]
       winner: [tt0443489]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt0386676, tt0410975, tt0387199, tt0805669, tt0439100]
@@ -864,24 +792,16 @@
       nominee: [tt0413573, tt0141842, tt0458253, tt0203259, tt0412175]
       winner: [tt0413573]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt0465326, tt0473389, tt0482857, tt0482857, tt0481452]
+      nominee: [tt0465326, tt0473389, tt0482857, tt0481452]
       winner: [tt0465326]
     outstanding performance by a female actor in a television movie or miniseries:
-      nominee: [tt0465326, tt0391353, tt0391353, tt0482857, tt0466831]
+      nominee: [tt0465326, tt0391353, tt0482857, tt0466831]
       winner: [tt0465326]
     outstanding performance by a stunt ensemble in a motion picture:
       nominee: [tt0431197]
       winner: []
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0460690]
-      winner: []
-  ralph morgan award:
-    ralph morgan award:
-      nominee: []
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
       winner: []
 '2006':
   actor:
@@ -895,7 +815,7 @@
       nominee: [tt0358273, tt0395972, tt0407265, tt0413015, tt0397535]
       winner: [tt0358273]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt0352248, tt0375679, tt0365737, tt0388795, tt0375679]
+      nominee: [tt0352248, tt0375679, tt0365737, tt0388795]
       winner: [tt0352248]
     outstanding performance by a female actor in a supporting role:
       nominee: [tt0387131, tt0418773, tt0379725, tt0395972, tt0388795]
@@ -907,7 +827,7 @@
       nominee: [tt0411008, tt0413573, tt0248654, tt0458253, tt0200276]
       winner: [tt0411008]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0157246, tt0402711, tt0460091, tt0264235, tt0402711]
+      nominee: [tt0157246, tt0402711, tt0460091, tt0264235]
       winner: [tt0157246]
     outstanding performance by a female actor in a comedy series:
       nominee: [tt0410975, tt0402711, tt0439100, tt0157246, tt0115167]
@@ -919,25 +839,21 @@
       nominee: [tt0413573, tt0429455, tt0458253, tt0203259, tt0412175]
       winner: [tt0413573]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt0376591, tt0421108, tt0376591, tt0423510, tt0471768]
+      nominee: [tt0376591, tt0421108, tt0423510, tt0471768]
       winner: [tt0376591]
     outstanding performance by a female actor in a television movie or miniseries:
-      nominee: [tt0407936, tt0423510, tt0376591, tt0376591, tt0409572]
+      nominee: [tt0407936, tt0423510, tt0376591, tt0409572]
       winner: [tt0407936]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2005':
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0375063, tt0308644, tt0395169, tt0405159, tt0350258, tt0338751]
       winner: [tt0375063]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt0410975, tt0115167, tt0157246, tt0115167, tt0159206]
+      nominee: [tt0410975, tt0115167, tt0157246, tt0159206]
       winner: [tt0410975]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt0285333, tt0200276, tt0410997, tt0141842, tt0141842]
+      nominee: [tt0285333, tt0200276, tt0410997, tt0141842]
       winner: [tt0285333]
     outstanding performance by a female actor in a leading role:
       nominee: [tt0405159, tt0340012, tt0390221, tt0383694, tt0338013]
@@ -969,20 +885,16 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0247082, tt0285331, tt0248654, tt0141842, tt0200276]
       winner: [tt0247082]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2004':
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0167260, tt0298845, tt0327056, tt0329575, tt0340377]
       winner: [tt0167260]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt0157246, tt0157246, tt0115167, tt0108778, tt0115167]
+      nominee: [tt0157246, tt0115167, tt0108778]
       winner: [tt0157246]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt0248654, tt0200276, tt0285333, tt0203259, tt0200276, tt0209069]
+      nominee: [tt0248654, tt0200276, tt0285333, tt0203259, tt0209069]
       winner: [tt0248654]
     outstanding performance by a female actor in a leading role:
       nominee: [tt0340855, tt0337741, tt0328538, tt0315733, tt0340377]
@@ -991,10 +903,10 @@
       nominee: [tt0159365, tt0328538, tt0298228, tt0318374, tt0311648]
       winner: [tt0159365]
     outstanding performance by a female actor in a television movie or miniseries:
-      nominee: [tt0318997, tt0311730, tt0318997, tt0311730, tt0318997]
+      nominee: [tt0318997, tt0311730]
       winner: [tt0318997]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0312172, tt0115167, tt0115167, tt0115167, tt0157246]
+      nominee: [tt0312172, tt0115167, tt0157246]
       winner: [tt0312172]
     outstanding performance by a male actor in a drama series:
       nominee: [tt0285331, tt0321021, tt0200276, tt0248654, tt0318883]
@@ -1006,7 +918,7 @@
       nominee: [tt0327056, tt0318374, tt0315733, tt0329575, tt0325710]
       winner: [tt0327056]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt0318997, tt0335034, tt0318997, tt0318997, tt0353849]
+      nominee: [tt0318997, tt0335034, tt0353849]
       winner: [tt0318997]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt0159206, tt0115167, tt0106004, tt0108778, tt0157246]
@@ -1014,23 +926,19 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0248654, tt0247082, tt0098844, tt0200276, tt0321021]
       winner: [tt0248654]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2003':
   actor:
     outstanding performance by a female actor in a comedy series:
       nominee: [tt0157246, tt0212671, tt0108778, tt0159206, tt0115167]
       winner: [tt0157246]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt0141842, tt0200276, tt0209069, tt0200276, tt0141842]
+      nominee: [tt0141842, tt0200276, tt0209069]
       winner: [tt0141842]
     outstanding performance by a female actor in a leading role:
       nominee: [tt0299658, tt0250797, tt0297884, tt0274558, tt0120679]
       winner: [tt0299658]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0299658, tt0274558, tt0257360, tt0283139, tt0299658]
+      nominee: [tt0299658, tt0274558, tt0257360, tt0283139]
       winner: [tt0299658]
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt0267736, tt0274468, tt0298454, tt0290664, tt0314097]
@@ -1059,10 +967,6 @@
     outstanding performance by the cast of a theatrical motion picture:
       nominee: [tt0299658, tt0268126, tt0259446, tt0274558, tt0167261]
       winner: [tt0299658]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2002':
   actor:
     outstanding performance by the cast of a theatrical motion picture:
@@ -1087,16 +991,16 @@
       nominee: [tt0200276, tt0247082, tt0098844, tt0248654, tt0141842]
       winner: [tt0200276]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0157246, tt0106004, tt0106004, tt0115167, tt0115167]
+      nominee: [tt0157246, tt0106004, tt0115167]
       winner: [tt0157246]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt0157246, tt0108778, tt0159206, tt0115167, tt0159206]
+      nominee: [tt0157246, tt0108778, tt0159206, tt0115167]
       winner: [tt0157246]
     outstanding performance by a male actor in a drama series:
       nominee: [tt0200276, tt0106079, tt0141842, tt0248654, tt0285356]
       winner: [tt0200276]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt0200276, tt0141842, tt0238784, tt0141842, tt0200276, tt0209069]
+      nominee: [tt0200276, tt0141842, tt0238784, tt0209069]
       winner: [tt0200276]
     outstanding performance by a male actor in a television movie or miniseries:
       nominee: [tt0246430, tt0257493, tt0252287, tt0240628, tt0271454]
@@ -1104,14 +1008,10 @@
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt0250581, tt0261264, tt0244353, tt0243664, tt0265320]
       winner: [tt0250581]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2001':
   actor:
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt0159206, tt0118254, tt0157246, tt0212671, tt0157246]
+      nominee: [tt0159206, tt0118254, tt0157246, tt0212671]
       winner: [tt0159206]
     outstanding performance by a female actor in a drama series:
       nominee: [tt0200276, tt0141842, tt0106179, tt0238784, tt0108757, tt0202198]
@@ -1120,13 +1020,13 @@
       nominee: [tt0195685, tt0180093, tt0208874, tt0241303, tt0203230]
       winner: [tt0195685]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0241303, tt0181875, tt0249462, tt0181875, tt0180073]
+      nominee: [tt0241303, tt0181875, tt0249462, tt0180073]
       winner: [tt0241303]
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt0206036, tt0229328, tt0220608, tt0238768, tt0256459]
       winner: [tt0206036]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0118254, tt0106004, tt0106004, tt0118254, tt0157246]
+      nominee: [tt0118254, tt0106004, tt0157246]
       winner: [tt0118254]
     outstanding performance by a male actor in a drama series:
       nominee: [tt0200276, tt0108757, tt0106079, tt0141842, tt0247097]
@@ -1135,10 +1035,10 @@
       nominee: [tt0181865, tt0180073, tt0249462, tt0172495, tt0162222]
       winner: [tt0181865]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt0195685, tt0208874, tt0208874, tt0172495, tt0189998]
+      nominee: [tt0195685, tt0208874, tt0172495, tt0189998]
       winner: [tt0195685]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt0229328, tt0208629, tt0208629, tt0213668, tt0217363, tt0181212]
+      nominee: [tt0229328, tt0208629, tt0213668, tt0217363, tt0181212]
       winner: [tt0229328]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt0157246, tt0118254, tt0106004, tt0108778, tt0159206]
@@ -1149,35 +1049,31 @@
     outstanding performance by the cast of a theatrical motion picture:
       nominee: [tt0181865, tt0181875, tt0249462, tt0241303, tt0172495]
       winner: [tt0181865]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '2000':
   actor:
     outstanding performance by a cast in a theatrical motion picture:
       nominee: [tt0169547, tt0120601, tt0175880, tt0124315, tt0120689]
       winner: [tt0169547]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt0108778, tt0118254, tt0118254, tt0159206, tt0115396]
+      nominee: [tt0108778, tt0118254, tt0159206, tt0115396]
       winner: [tt0108778]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt0141842, tt0161233, tt0106179, tt0141842, tt0141842]
+      nominee: [tt0141842, tt0161233, tt0106179]
       winner: [tt0141842]
     outstanding performance by a female actor in a leading role:
       nominee: [tt0169547, tt0171804, tt0161023, tt0172396, tt0166943]
       winner: [tt0169547]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0172493, tt0120601, tt0120601, tt0171804, tt0175880]
+      nominee: [tt0172493, tt0120601, tt0171804, tt0175880]
       winner: [tt0172493]
     outstanding performance by a female actor in a television movie or miniseries:
-      nominee: [tt0172348, tt0140447, tt0208875, tt0207972, tt0208875]
+      nominee: [tt0172348, tt0140447, tt0208875, tt0207972]
       winner: [tt0172348]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0115369, tt0106004, tt0106004, tt0118254, tt0115167]
+      nominee: [tt0115369, tt0106004, tt0118254, tt0115167]
       winner: [tt0115369]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0141842, tt0106179, tt0106079, tt0200276, tt0106079]
+      nominee: [tt0141842, tt0106179, tt0106079, tt0200276]
       winner: [tt0141842]
     outstanding performance by a male actor in a leading role:
       nominee: [tt0169547, tt0174856, tt0125664, tt0155711, tt0140352]
@@ -1186,7 +1082,7 @@
       nominee: [tt0124315, tt0169547, tt0167404, tt0120689, tt0175880]
       winner: [tt0124315]
     outstanding performance by a male actor in a television movie or miniseries:
-      nominee: [tt0207805, tt0196632, tt0207805, tt0216621, tt0140447]
+      nominee: [tt0207805, tt0196632, tt0216621, tt0140447]
       winner: [tt0207805]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt0106004, tt0118254, tt0115167, tt0108778, tt0165961]
@@ -1194,14 +1090,6 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0141842, tt0108757, tt0098844, tt0106079, tt0118437]
       winner: [tt0141842]
-  ralph morgan award:
-    ralph morgan award:
-      nominee: []
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '1999':
   actor:
     outstanding performance by a cast:
@@ -1223,10 +1111,10 @@
       nominee: [tt0123865, tt0160468, tt0140785, tt0120574, tt0126802]
       winner: [tt0123865]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0115369, tt0106004, tt0098904, tt0106004, tt0118254]
+      nominee: [tt0115369, tt0106004, tt0098904, tt0118254]
       winner: [tt0115369]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0098844, tt0108757, tt0106179, tt0106079, tt0106079]
+      nominee: [tt0098844, tt0108757, tt0106179, tt0106079]
       winner: [tt0098844]
     outstanding performance by a male actor in a leading role:
       nominee: [tt0118799, tt0120684, tt0138097, tt0118564, tt0120815]
@@ -1243,14 +1131,6 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0098844, tt0106079, tt0118437, tt0106179]
       winner: [tt0108757]
-  ralph morgan award:
-    ralph morgan award:
-      nominee: []
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '1998':
   actor:
     outstanding performance by a cast:
@@ -1272,10 +1152,10 @@
       nominee: [tt0119679, tt0120392, tt0119362, tt0119189, tt0119227]
       winner: [tt0119679]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0115082, tt0106004, tt0098904, tt0106004, tt0098904]
+      nominee: [tt0115082, tt0106004, tt0098904]
       winner: [tt0115082]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0108757, tt0106179, tt0106079, tt0106079, tt0098844]
+      nominee: [tt0108757, tt0106179, tt0106079, tt0098844]
       winner: [tt0108757]
     outstanding performance by a male actor in a leading role:
       nominee: [tt0119822, tt0120885, tt0119217, tt0120402, tt0118632]
@@ -1284,7 +1164,7 @@
       nominee: [tt0119217, tt0118607, tt0119280, tt0118749, tt0119822]
       winner: [tt0119217]
     outstanding performance by a male actor in a tv movie or miniseries:
-      nominee: [tt0119189, tt0118528, tt0118528, tt0119607, tt0119838]
+      nominee: [tt0119189, tt0118528, tt0119607, tt0119838]
       winner: [tt0119189]
     outstanding performance by an ensemble in a comedy series:
       nominee: [tt0098904, tt0115082, tt0118254, tt0106004, tt0103484]
@@ -1292,10 +1172,6 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0108724, tt0098844, tt0106079, tt0106179]
       winner: [tt0108757]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '1997':
   actor:
     outstanding performance by a cast:
@@ -1317,16 +1193,16 @@
       nominee: [tt0116835, tt0116550, tt0117492, tt0115633, tt0118038]
       winner: [tt0116835]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0115082, tt0106004, tt0098904, tt0106004, tt0098904]
+      nominee: [tt0115082, tt0106004, tt0098904]
       winner: [tt0115082]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0106079, tt0108757, tt0106179, tt0108757, tt0106079]
+      nominee: [tt0106079, tt0108757, tt0106179]
       winner: [tt0106079]
     outstanding performance by a male actor in a leading role:
       nominee: [tt0117631, tt0117666, tt0116209, tt0116695, tt0117318]
       winner: [tt0117631]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt0116695, tt0115685, tt0115685, tt0117631, tt0116282]
+      nominee: [tt0116695, tt0115685, tt0117631, tt0116282]
       winner: [tt0116695]
     outstanding performance by a male actor in a tv movie or miniseries:
       nominee: [tt0117442, tt0116441, tt0116527, tt0117476, tt0116975]
@@ -1337,10 +1213,6 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0108724, tt0098844, tt0106079, tt0106179]
       winner: [tt0108757]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '1996':
   actor:
     outstanding performance by a cast:
@@ -1362,10 +1234,10 @@
       nominee: [tt0114127, tt0111903, tt0114395, tt0112226, tt0112327]
       winner: [tt0114127]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0106004, tt0098904, tt0106004, tt0098904, tt0103484]
+      nominee: [tt0106004, tt0098904, tt0103484]
       winner: [tt0106004]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0108757, tt0106179, tt0106079, tt0108757, tt0106079]
+      nominee: [tt0108757, tt0106179, tt0106079]
       winner: [tt0108757]
     outstanding performance by a male actor in a leading role:
       nominee: [tt0113627, tt0113987, tt0112749, tt0110877, tt0112818]
@@ -1382,10 +1254,6 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0108724, tt0098844, tt0106079, tt0103512]
       winner: [tt0108757]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
 '1995':
   actor:
     outstanding performance by a female actor in a comedy series:
@@ -1398,19 +1266,19 @@
       nominee: [tt0110638, tt0109306, tt0111693, tt0110997, tt0109446]
       winner: [tt0110638]
     outstanding performance by a female actor in a supporting role:
-      nominee: [tt0109348, tt0111503, tt0109830, tt0109830, tt0110912]
+      nominee: [tt0109348, tt0111503, tt0109830, tt0110912]
       winner: [tt0109348]
     outstanding performance by a female actor in a tv movie or miniseries:
       nominee: [tt0109335, tt0110721, tt0109096, tt0110732, tt0110841]
       winner: [tt0109335]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt0098904, tt0106004, tt0094540, tt0106004, tt0103484]
+      nominee: [tt0098904, tt0106004, tt0094540, tt0103484]
       winner: [tt0098904]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt0106079, tt0108724, tt0108724, tt0092455, tt0103512]
+      nominee: [tt0106079, tt0108724, tt0092455, tt0103512]
       winner: [tt0106079]
     outstanding performance by a male actor in a leading role:
-      nominee: [tt0109830, tt0110912, tt0111161, tt0110684, tt0111161]
+      nominee: [tt0109830, tt0110912, tt0111161, tt0110684]
       winner: [tt0109830]
     outstanding performance by a male actor in a supporting role:
       nominee: [tt0109707, tt0109348, tt0109830, tt0110932, tt0110912]
@@ -1424,166 +1292,3 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0106079, tt0108724, tt0108757, tt0098844, tt0103512]
       winner: [tt0106079]
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1994':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1993':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1992':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1991':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1990':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1989':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1988':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1987':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1986':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1985':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1984':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1983':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1981':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1980':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1979':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1978':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1977':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1976':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1975':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1974':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1973':
-  ralph morgan award:
-    ralph morgan award:
-      nominee: []
-      winner: []
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1972':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1971':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1970':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1969':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1968':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1967':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1966':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1964':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'1963':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
-'2024':
-  life achievement award:
-    life achievement award:
-      nominee: []
-      winner: []
