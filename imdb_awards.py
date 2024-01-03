@@ -1,12 +1,13 @@
-import os, random, sys, time
-from datetime import datetime
+import json, os, random, sys, time
+from datetime import datetime, UTC
 
 if sys.version_info[0] != 3 or sys.version_info[1] < 11:
     print("Version Error: Version: %s.%s.%s incompatible please use Python 3.11+" % (sys.version_info[0], sys.version_info[1], sys.version_info[2]))
     sys.exit(0)
 
 try:
-    import requests, json
+    import requests
+    from git import Repo
     from lxml import html
     from pmmutils import logging, util
     from pmmutils.args import PMMArgs
@@ -57,11 +58,11 @@ for i, event_id in enumerate(event_ids, 1):
         event_years.append(f"{parts[3]}{f'-{parts[4]}' if parts[4] != '1' else ''}")
     total_years = len(event_years)
     if event_id not in valid:
-        valid[event_id] = {"years": event_years, "awards": [], "categories": []}
+        valid[event_id] = {"years": [], "awards": [], "categories": []}
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
-        if first or event_year not in event_yaml:
+        if first or pmmargs["clean"]:
             obj = None
             event_slug = f"{event_year}/1" if "-" not in event_year else event_year.replace("-", "/")
             for text in _request(f"{base_url}/event/{event_id}/{event_slug}/?ref_=ev_eh", xpath="//div[@class='article']/script/text()", extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]")[0].split("\n"):
@@ -102,20 +103,27 @@ for i, event_id in enumerate(event_ids, 1):
             if event_data:
                 first = False
                 event_yaml[event_year] = event_data
+                if event_year not in valid[event_id]["years"]:
+                    valid[event_id]["years"].append(event_year)
     valid[event_id]["awards"].sort()
     valid[event_id]["categories"].sort()
     event_yaml.yaml.width = 4096
     event_yaml.save()
 
+final_events = [e for e in valid]
+final_events.sort()
+valid.data = {e: valid[e] for e in final_events}
 valid.save()
 
-with open("README.md", "r") as f:
-    readme_data = f.readlines()
+if [item.a_path for item in Repo(path=".").index.diff(None) if item.a_path.endswith(".yml")]:
 
-readme_data[1] = f"Last generated at: {datetime.utcnow().strftime('%B %d, %Y %H:%M')} UTC\n"
+    with open("README.md", "r") as f:
+        readme_data = f.readlines()
 
-with open("README.md", "w") as f:
-    f.writelines(readme_data)
+    readme_data[1] = f"Last generated at: {datetime.now(UTC).strftime('%B %d, %Y %H:%M')} UTC\n"
+
+    with open("README.md", "w") as f:
+        f.writelines(readme_data)
 
 logger.separator(f"{script_name} Finished\nTotal Runtime: {logger.runtime()}")
 
