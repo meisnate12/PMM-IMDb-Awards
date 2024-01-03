@@ -57,7 +57,7 @@ for i, event_id in enumerate(event_ids, 1):
         event_years.append(f"{parts[3]}{f'-{parts[4]}' if parts[4] != '1' else ''}")
     total_years = len(event_years)
     if event_id not in valid:
-        valid[event_id] = {"years": [], "awards": [], "categories": []}
+        valid[event_id] = {"years": YAML.inline([]), "awards": [], "categories": []}
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
@@ -103,7 +103,7 @@ for i, event_id in enumerate(event_ids, 1):
                 first = False
                 event_yaml[event_year] = event_data
                 if event_year not in valid[event_id]["years"]:
-                    valid[event_id]["years"].append(event_year)
+                    valid[event_id]["years"].append(YAML.quote(event_year))
     valid[event_id]["awards"].sort()
     valid[event_id]["categories"].sort()
     event_yaml.yaml.width = 4096
@@ -112,6 +112,7 @@ for i, event_id in enumerate(event_ids, 1):
 final_events = [e for e in valid]
 final_events.sort()
 valid.data = {e: valid[e] for e in final_events}
+valid.yaml.width = 250
 valid.save()
 
 if [item.a_path for item in Repo(path=".").index.diff(None) if item.a_path.endswith(".yml")]:

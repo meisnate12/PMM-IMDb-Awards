@@ -1,100 +1,8 @@
 ev0000003:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
-  - '1975'
-  - '1974'
-  - '1973'
-  - '1972'
-  - '1971'
-  - '1970'
-  - '1969'
-  - '1968'
-  - '1967'
-  - '1966'
-  - '1965'
-  - '1964'
-  - '1963'
-  - '1962'
-  - '1961'
-  - '1960'
-  - '1959'
-  - '1958'
-  - '1957'
-  - '1956'
-  - '1955'
-  - '1954'
-  - '1953'
-  - '1952'
-  - '1951'
-  - '1950'
-  - '1949'
-  - '1948'
-  - '1947'
-  - '1946'
-  - '1945'
-  - '1944'
-  - '1943'
-  - '1942'
-  - '1941'
-  - '1940'
-  - '1939'
-  - '1938'
-  - '1937'
-  - '1936'
-  - '1935'
-  - '1934'
-  - '1932'
-  - '1931'
-  - 1930-2
-  - '1930'
-  - '1929'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975", "1974", "1973", "1972", "1971", "1970", "1969", "1968", "1967", "1966", "1965", "1964", "1963", "1962",
+    "1961", "1960", "1959", "1958", "1957", "1956", "1955", "1954", "1953", "1952", "1951", "1950", "1949", "1948", "1947", "1946", "1945", "1944", "1943", "1942", "1941", "1940", "1939", "1938", "1937", "1936", "1935", "1934", "1932", "1931", "1930-2",
+    "1930", "1929"]
   awards:
   - honorary award
   - juvenile award
@@ -228,10 +136,8 @@ ev0000003:
   - best writing, screenplay written directly for the screen
   - best writing, story and screenplay
   - best writing, story and screenplay - written directly for the screen
-  - best writing, story and screenplay based on factual material or material not previously
-    published or produced
-  - best writing, story and screenplay based on material not previously published
-    or produced
+  - best writing, story and screenplay based on factual material or material not previously published or produced
+  - best writing, story and screenplay based on material not previously published or produced
   - best writing, title writing
   - honorary award
   - juvenile award
@@ -240,81 +146,9 @@ ev0000003:
   - special achievement award
   - technical achievement award
 ev0000091:
-  years:
-  - '2024'
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
-  - '1975'
-  - '1974'
-  - '1973'
-  - '1972'
-  - '1971'
-  - '1970'
-  - '1969'
-  - '1968'
-  - '1967'
-  - '1966'
-  - '1965'
-  - '1964'
-  - '1963'
-  - '1962'
-  - '1961'
-  - '1960'
-  - '1959'
-  - '1958'
-  - '1957'
-  - '1956'
-  - '1955'
-  - '1954'
-  - '1953'
-  - '1952'
-  - '1951'
+  years: ["2024", "2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994",
+    "1993", "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975", "1974", "1973", "1972", "1971", "1970", "1969", "1968", "1967", "1966", "1965", "1964", "1963",
+    "1962", "1961", "1960", "1959", "1958", "1957", "1956", "1955", "1954", "1953", "1952", "1951"]
   awards:
   - ag kino gilde - cinema vision 14plus
   - alfred bauer award
@@ -773,82 +607,9 @@ ev0000091:
   - youth jury - film
   - youth jury - short film
 ev0000123:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
-  - '1975'
-  - '1974'
-  - '1973'
-  - '1972'
-  - '1971'
-  - '1970'
-  - '1969'
-  - '1968'
-  - '1967'
-  - '1966'
-  - '1965'
-  - '1964'
-  - '1963'
-  - '1962'
-  - '1961'
-  - '1960'
-  - '1959'
-  - '1958'
-  - '1957'
-  - '1956'
-  - '1955'
-  - '1954'
-  - '1953'
-  - '1952'
-  - '1951'
-  - '1950'
-  - '1949'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975", "1974", "1973", "1972", "1971", "1970", "1969", "1968", "1967", "1966", "1965", "1964", "1963", "1962",
+    "1961", "1960", "1959", "1958", "1957", "1956", "1955", "1954", "1953", "1952", "1951", "1950", "1949"]
   awards:
   - 60 seconds of fame - best film
   - 60 seconds of fame - best regional film
@@ -1268,8 +1029,7 @@ ev0000123:
   - general category
   - huw wheldon award
   - huw wheldon award for factual series or strand
-  - huw wheldon award for specialised programme or series (arts, history, religion
-    and science)
+  - huw wheldon award for specialised programme or series (arts, history, religion and science)
   - huw wheldon award for specialist factual
   - huw wheldon award for the best arts programme
   - huw wheldon award for the best arts programme or series
@@ -1364,36 +1124,7 @@ ev0000123:
   - writer, drama
   - xbox
 ev0000133:
-  years:
-  - '2024'
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - 2016-2
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
+  years: ["2024", "2023", "2022", "2021", "2020", "2019", "2018", "2016-2", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996"]
   awards:
   - alan j. pakula award
   - critics choice award
@@ -1501,83 +1232,9 @@ ev0000133:
   - favorite film franchise
   - freedom award
 ev0000147:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
-  - '1975'
-  - '1974'
-  - '1973'
-  - '1972'
-  - '1971'
-  - '1970'
-  - '1969'
-  - '1967'
-  - '1966'
-  - '1965'
-  - '1964'
-  - '1963'
-  - '1962'
-  - '1961'
-  - '1960'
-  - '1959'
-  - '1958'
-  - '1957'
-  - '1956'
-  - '1955'
-  - '1954'
-  - '1953'
-  - '1952'
-  - '1951'
-  - '1949'
-  - '1947'
-  - '1946'
-  - '1939'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975", "1974", "1973", "1972", "1971", "1970", "1969", "1967", "1966", "1965", "1964", "1963", "1962", "1961",
+    "1960", "1959", "1958", "1957", "1956", "1955", "1954", "1953", "1952", "1951", "1949", "1947", "1946", "1939"]
   awards:
   - "'la chance de cannes' award"
   - 20th anniversary prize
@@ -1965,55 +1622,8 @@ ev0000147:
   - young cinema award
   - young critics award
 ev0000157:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976"]
   awards:
   - césar
   - césar des césars
@@ -2077,82 +1687,9 @@ ev0000157:
   - most promising actress (meilleur espoir féminin)
   - most promising actress (meilleur jeune espoir féminin)
 ev0000223:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
-  - '1975'
-  - '1974'
-  - '1973'
-  - '1972'
-  - '1971'
-  - '1970'
-  - '1969'
-  - '1968'
-  - '1967'
-  - '1966'
-  - '1965'
-  - '1964'
-  - '1963'
-  - '1962'
-  - '1961'
-  - '1960'
-  - '1959'
-  - '1958'
-  - '1957'
-  - '1956'
-  - '1955'
-  - '1954'
-  - '1953'
-  - '1952'
-  - '1951'
-  - '1950'
-  - '1949'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975", "1974", "1973", "1972", "1971", "1970", "1969", "1968", "1967", "1966", "1965", "1964", "1963", "1962",
+    "1961", "1960", "1959", "1958", "1957", "1956", "1955", "1954", "1953", "1952", "1951", "1950", "1949"]
   awards:
   - atas broadcast journalism award
   - governor's award
@@ -2196,10 +1733,8 @@ ev0000223:
   - best art direction in a television film
   - best art direction of a filmed show
   - best art direction of a live show
-  - best art direction or scenic design - for a dramatic program or feature length
-    film, for a series, a single program of a series or a special program
-  - best art direction or scenic design - for a musical or variety single program
-    of a series or a special program
+  - best art direction or scenic design - for a dramatic program or feature length film, for a series, a single program of a series or a special program
+  - best art direction or scenic design - for a musical or variety single program of a series or a special program
   - best audience participation series
   - best audience participation, quiz or panel program
   - best audience, guest participation or panel program
@@ -2209,28 +1744,21 @@ ev0000223:
   - best children's show
   - best choreographer
   - best choreography for television
-  - best cinematography for entertainment programming - for a series or a single program
-    of a series
-  - best cinematography for entertainment programming - for a special or feature length
-    program made for television
+  - best cinematography for entertainment programming - for a series or a single program of a series
+  - best cinematography for entertainment programming - for a special or feature length program made for television
   - best cinematography for television
   - best comedy series
   - best comedy show
   - best comedy writing
   - best comedy writing - variety or situation comedy
-  - best continuing performance (female) in a series by a comedienne, singer, hostess,
-    dancer, m.c., announcer, narrator, panelist, or any person who essentially plays
-    herself
-  - best continuing performance (male) in a series by a comedian, singer, host, dancer,
-    m.c., announcer, narrator, panelist, or any person who essentially plays himself
+  - best continuing performance (female) in a series by a comedienne, singer, hostess, dancer, m.c., announcer, narrator, panelist, or any person who essentially plays herself
+  - best continuing performance (male) in a series by a comedian, singer, host, dancer, m.c., announcer, narrator, panelist, or any person who essentially plays himself
   - best continuing performance by a comedian in a series
   - best continuing performance by a comedienne in a series
   - best continuing performance by an actor in a dramatic series
-  - best continuing performance by an actor in a leading role in a dramatic or comedy
-    series
+  - best continuing performance by an actor in a leading role in a dramatic or comedy series
   - best continuing performance by an actress in a dramatic series
-  - best continuing performance by an actress in a leading role in a dramatic or comedy
-    series
+  - best continuing performance by an actress in a leading role in a dramatic or comedy series
   - best continuing supporting performance by an actor in a dramatic or comedy series
   - best continuing supporting performance by an actress in a dramatic or comedy series
   - best contributing to daytime programming
@@ -2241,8 +1769,7 @@ ev0000223:
   - best directing in comedy
   - best directing in comedy-variety, variety or music
   - best directing in drama - a single program - comedy or drama
-  - best directing in drama - a single program of a series with continuing characters
-    and/or theme
+  - best directing in drama - a single program of a series with continuing characters and/or theme
   - best directing in variety or music
   - best direction
   - best direction - half hour or less
@@ -2267,10 +1794,8 @@ ev0000223:
   - best educational show
   - best engineering effects
   - best female star of regular series
-  - best film editing for entertainment programming - for a series or a single program
-    of a series
-  - best film editing for entertainment programming - for a special or feature length
-    program made for television
+  - best film editing for entertainment programming - for a series or a single program of a series
+  - best film editing for entertainment programming - for a special or feature length program made for television
   - best film made for and viewed on television in 1949
   - best film made for television
   - best game and audience participation show
@@ -2308,8 +1833,7 @@ ev0000223:
   - best original teleplay writing
   - best panel, quiz or audience participation series
   - best performance by an actor (continuing character) in a musical or variety series
-  - best performance by an actress (continuing character) in a musical or variety
-    series
+  - best performance by an actress (continuing character) in a musical or variety series
   - best producer - film series
   - best producer - live series
   - best program of news or sports
@@ -2380,8 +1904,7 @@ ev0000223:
   - individual achievements in art direction and allied crafts - art direction
   - individual achievements in art direction and allied crafts - costume design
   - individual achievements in art direction and allied crafts - makeup
-  - individual achievements in art direction and allied crafts - mechanical special
-    effects
+  - individual achievements in art direction and allied crafts - mechanical special effects
   - individual achievements in art direction and allied crafts - set direction
   - individual achievements in cinematography - cinematography
   - individual achievements in cinematography - photographic special effects
@@ -2412,31 +1935,20 @@ ev0000223:
   - outstanding achievement by a supporting performer in music or variety
   - outstanding achievement by individuals in daytime drama
   - outstanding achievement by individuals in daytime programming
-  - 'outstanding achievement for enhanced or interactive programming: new delivery
-    platforms'
+  - 'outstanding achievement for enhanced or interactive programming: new delivery platforms'
   - outstanding achievement in animation
   - outstanding achievement in any area of creative technical crafts
   - outstanding achievement in art direction and scenic design
-  - outstanding achievement in art direction or scenic design - dramatic special or
-    feature length film made for tv
-  - outstanding achievement in art direction or scenic design - for a dramatic program
-    or feature length film made for television, a single program of a series or a
-    special program
-  - outstanding achievement in art direction or scenic design - for a dramatic program
-    or feature length film, a single program of a series or a special program
-  - outstanding achievement in art direction or scenic design - for a dramatic special
-    or feature length film made for television
-  - outstanding achievement in art direction or scenic design - for a musical or variety
-    single program of a series or a special program
-  - outstanding achievement in art direction or scenic design - for a variety single
-    program of a series or a special program
-  - outstanding achievement in art direction or scenic design - single episode of
-    a comedy, drama or limited series
-  - outstanding achievement in art direction or scenic design - single episode of
-    a comedy-variety or music series or a comedy-variety or music special
+  - outstanding achievement in art direction or scenic design - dramatic special or feature length film made for tv
+  - outstanding achievement in art direction or scenic design - for a dramatic program or feature length film made for television, a single program of a series or a special program
+  - outstanding achievement in art direction or scenic design - for a dramatic program or feature length film, a single program of a series or a special program
+  - outstanding achievement in art direction or scenic design - for a dramatic special or feature length film made for television
+  - outstanding achievement in art direction or scenic design - for a musical or variety single program of a series or a special program
+  - outstanding achievement in art direction or scenic design - for a variety single program of a series or a special program
+  - outstanding achievement in art direction or scenic design - single episode of a comedy, drama or limited series
+  - outstanding achievement in art direction or scenic design - single episode of a comedy-variety or music series or a comedy-variety or music special
   - 'outstanding achievement in art direction or scenic design: for a dramatic program'
-  - 'outstanding achievement in art direction or scenic design: for a variety single
-    program'
+  - 'outstanding achievement in art direction or scenic design: for a variety single program'
   - outstanding achievement in broadcast journalism
   - outstanding achievement in casting for a miniseries or a special
   - outstanding achievement in children's programming - entertainment/fictional
@@ -2445,18 +1957,12 @@ ev0000223:
   - outstanding achievement in children's programming - programs
   - outstanding achievement in choreography
   - outstanding achievement in cinematography
-  - outstanding achievement in cinematography for entertainment programming - for
-    a series or a single program of a series
-  - outstanding achievement in cinematography for entertainment programming - for
-    a special or feature length program made for television
-  - outstanding achievement in cinematography for entertainment programming - for
-    a special or feature length program of a series
-  - outstanding achievement in cinematography for entertainment programming for a
-    series
-  - outstanding achievement in cinematography for entertainment programming for a
-    special
-  - outstanding achievement in cinematography for news and documentary programming
-    - regularly scheduled news programs and coverage of special events
+  - outstanding achievement in cinematography for entertainment programming - for a series or a single program of a series
+  - outstanding achievement in cinematography for entertainment programming - for a special or feature length program made for television
+  - outstanding achievement in cinematography for entertainment programming - for a special or feature length program of a series
+  - outstanding achievement in cinematography for entertainment programming for a series
+  - outstanding achievement in cinematography for entertainment programming for a special
+  - outstanding achievement in cinematography for news and documentary programming - regularly scheduled news programs and coverage of special events
   - outstanding achievement in cinematography for television
   - outstanding achievement in composing original music
   - outstanding achievement in composing original music for television
@@ -2469,10 +1975,8 @@ ev0000223:
   - outstanding achievement in costuming for a series
   - outstanding achievement in coverage of special events - individuals
   - outstanding achievement in coverage of special events - programs
-  - outstanding achievement in cultural documentary and 'magazine-type' program or
-    series - individuals
-  - outstanding achievement in cultural documentary and 'magazine-type' program or
-    series - programs
+  - outstanding achievement in cultural documentary and 'magazine-type' program or series - individuals
+  - outstanding achievement in cultural documentary and 'magazine-type' program or series - programs
   - outstanding achievement in cultural documentary programming - programs
   - outstanding achievement in cultural programming - performance
   - outstanding achievement in daytime drama - individuals
@@ -2484,24 +1988,17 @@ ev0000223:
   - outstanding achievement in electronic photography
   - outstanding achievement in film editing
   - outstanding achievement in film editing for a series
-  - outstanding achievement in film editing for entertainment programming - for a
-    series or a single program of a series
-  - outstanding achievement in film editing for entertainment programming - for a
-    special or feature length program made for television
-  - outstanding achievement in film editing for entertainment programming - for a
-    special or feature length program of a series
-  - outstanding achievement in film editing for entertainment programming for a series
-    - for a single episode of a comedy series
-  - outstanding achievement in film editing for entertainment programming for a series
-    - for a single episode of a drama or limited series
+  - outstanding achievement in film editing for entertainment programming - for a series or a single program of a series
+  - outstanding achievement in film editing for entertainment programming - for a special or feature length program made for television
+  - outstanding achievement in film editing for entertainment programming - for a special or feature length program of a series
+  - outstanding achievement in film editing for entertainment programming for a series - for a single episode of a comedy series
+  - outstanding achievement in film editing for entertainment programming for a series - for a single episode of a drama or limited series
   - outstanding achievement in film editing for entertainment programming for a special
-  - outstanding achievement in film editing for news and documentary programming -
-    regularly scheduled news programs and coverage of special events
+  - outstanding achievement in film editing for news and documentary programming - regularly scheduled news programs and coverage of special events
   - outstanding achievement in film editing for television
   - outstanding achievement in film or tape sound mixing
   - outstanding achievement in film sound editing
-  - outstanding achievement in film sound editing - for a single episode of a regular
-    or limited series
+  - outstanding achievement in film sound editing - for a single episode of a regular or limited series
   - outstanding achievement in film sound editing - for a special program
   - outstanding achievement in film sound editing for a series
   - outstanding achievement in film sound editing for a special
@@ -2522,17 +2019,12 @@ ev0000223:
   - outstanding achievement in makeup for a miniseries or a special
   - outstanding achievement in makeup for a series
   - outstanding achievement in music and lyrics
-  - outstanding achievement in music composition - for a series or a single program
-    of a series
-  - outstanding achievement in music composition - for a series or a single program
-    of a series (first year of music's use only)
-  - outstanding achievement in music composition - for a series or a single program
-    of a series (in its first year only)
+  - outstanding achievement in music composition - for a series or a single program of a series
+  - outstanding achievement in music composition - for a series or a single program of a series (first year of music's use only)
+  - outstanding achievement in music composition - for a series or a single program of a series (in its first year only)
   - outstanding achievement in music composition - for a special program
-  - outstanding achievement in music composition for a limited series or a special
-    (dramatic underscore)
-  - outstanding achievement in music composition for a miniseries or a special (dramatic
-    underscore)
+  - outstanding achievement in music composition for a limited series or a special (dramatic underscore)
+  - outstanding achievement in music composition for a miniseries or a special (dramatic underscore)
   - outstanding achievement in music composition for a series
   - outstanding achievement in music composition for a series (dramatic underscore)
   - outstanding achievement in music composition for a special
@@ -2569,8 +2061,7 @@ ev0000223:
   - outstanding achievement in video tape editing for a series
   - outstanding achievement in video tape editing for a special
   - outstanding achievement within regularly scheduled news
-  - outstanding achievemnet in art direction or scenic design - for a single episode
-    of a comedy-variety or music series or a comedy-variety or music special
+  - outstanding achievemnet in art direction or scenic design - for a single episode of a comedy-variety or music series or a comedy-variety or music special
   - outstanding achievment in daytime programing - individuals
   - outstanding actor in a short form comedy or drama series
   - outstanding actress in a short form comedy or drama series
@@ -2605,8 +2096,7 @@ ev0000223:
   - outstanding art direction for a variety, music program, or special
   - outstanding art direction for variety or nonfiction programming
   - outstanding art direction for variety, music or nonfiction programming
-  - outstanding art direction for variety, nonfiction, reality or reality-competition
-    program
+  - outstanding art direction for variety, nonfiction, reality or reality-competition program
   - outstanding art direction or scenic design for a comedy series
   - outstanding art direction or scenic design for a comedy-variety or music series
   - outstanding art direction or scenic design for a comedy-variety or music special
@@ -2678,29 +2168,20 @@ ev0000223:
   - outstanding contemporary hairstyling for a variety, nonfiction or reality program
   - outstanding contemporary makeup (non-prosthetic)
   - outstanding contemporary makeup for a variety, nonfiction or reality program (non-prosthetic)
-  - outstanding continued performance by an actor in a leading role (drama series
-    - continuing)
-  - outstanding continued performance by an actor in a leading role (drama/comedy
-    - limited episodes)
+  - outstanding continued performance by an actor in a leading role (drama series - continuing)
+  - outstanding continued performance by an actor in a leading role (drama/comedy - limited episodes)
   - outstanding continued performance by an actor in a leading role in a comedy series
-  - outstanding continued performance by an actor in a leading role in a dramatic
-    series
+  - outstanding continued performance by an actor in a leading role in a dramatic series
   - outstanding continued performance by an actor in a series (lead)
   - outstanding continued performance by an actor in a supporting role in a series
-  - outstanding continued performance by an actress in a leading role (drama series
-    - continuing)
-  - outstanding continued performance by an actress in a leading role (drama/comedy
-    - limited episodes)
-  - outstanding continued performance by an actress in a leading role in a comedy
-    series
-  - outstanding continued performance by an actress in a leading role in a dramatic
-    series
+  - outstanding continued performance by an actress in a leading role (drama series - continuing)
+  - outstanding continued performance by an actress in a leading role (drama/comedy - limited episodes)
+  - outstanding continued performance by an actress in a leading role in a comedy series
+  - outstanding continued performance by an actress in a leading role in a dramatic series
   - outstanding continued performance by an actress in a series (lead)
   - outstanding continued performance by an actress in a supporting role in a series
-  - outstanding continuing or single performance by a supporting actor in variety
-    or music
-  - outstanding continuing or single performance by a supporting actress in variety
-    or music
+  - outstanding continuing or single performance by a supporting actor in variety or music
+  - outstanding continuing or single performance by a supporting actress in variety or music
   - outstanding continuing performance by a supporting actor in a comedy series
   - outstanding continuing performance by a supporting actor in a drama series
   - outstanding continuing performance by a supporting actress in a comedy series
@@ -2728,11 +2209,9 @@ ev0000223:
   - outstanding creative achievement in interactive media - multiplatform storytelling
   - outstanding creative achievement in interactive media - nonfiction
   - outstanding creative achievement in interactive media - original interactive program
-  - outstanding creative achievement in interactive media - original interactive television
-    programming
+  - outstanding creative achievement in interactive media - original interactive television programming
   - outstanding creative achievement in interactive media - social tv experience
-  - outstanding creative achievement in interactive media - user experience and visual
-    design
+  - outstanding creative achievement in interactive media - user experience and visual design
   - outstanding creative achievement in interactive media within a scripted program
   - outstanding creative achievement in interactive media within an unscripted program
   - outstanding cultural documentary and magazine-type program or series achievements
@@ -2778,8 +2257,7 @@ ev0000223:
   - outstanding directorial achievement in comedy, variety or music
   - outstanding directorial achievement in drama
   - outstanding directorial achievement in drama - a single program
-  - outstanding directorial achievement in drama - a single program of a series with
-    continuing characters and/or theme
+  - outstanding directorial achievement in drama - a single program of a series with continuing characters and/or theme
   - outstanding directorial achievement in music or variety
   - outstanding directorial achievement in variety or music
   - outstanding directorial achievement in variety, comedy or music
@@ -2804,10 +2282,8 @@ ev0000223:
   - outstanding film editing for a limited series or a special
   - outstanding film editing for a series
   - outstanding film editing for a special
-  - outstanding film editing for entertainment programming for a series - for a single
-    episode of a comedy series
-  - outstanding film editing for entertainment programming for a series - for a single
-    episode of a drama series
+  - outstanding film editing for entertainment programming for a series - for a single episode of a comedy series
+  - outstanding film editing for entertainment programming for a series - for a single episode of a drama series
   - outstanding film editing for entertainment programming for a special
   - outstanding film editing in a comedy series
   - outstanding film editing in a drama series
@@ -2874,8 +2350,7 @@ ev0000223:
   - outstanding individual achievement in art direction for a miniseries or a special
   - outstanding individual achievement in art direction for a series
   - outstanding individual achievement in art direction for a variety or music program
-  - outstanding individual achievement in art direction or scenic design - for a single
-    episode of a comedy, drama or limited series
+  - outstanding individual achievement in art direction or scenic design - for a single episode of a comedy, drama or limited series
   - outstanding individual achievement in casting
   - outstanding individual achievement in casting for a miniseries or a special
   - outstanding individual achievement in children's programming
@@ -2894,43 +2369,34 @@ ev0000223:
   - outstanding individual achievement in directing in a comedy series
   - outstanding individual achievement in directing in a drama series
   - outstanding individual achievement in directing in a variety or music program
-  - outstanding individual achievement in editing for a miniseries or a special -
-    multi-camera production
-  - outstanding individual achievement in editing for a miniseries or a special -
-    single camera production
+  - outstanding individual achievement in editing for a miniseries or a special - multi-camera production
+  - outstanding individual achievement in editing for a miniseries or a special - single camera production
   - outstanding individual achievement in editing for a series - multi-camera production
   - outstanding individual achievement in editing for a series - single camera production
   - outstanding individual achievement in electronic production
   - outstanding individual achievement in graphic design and title sequences
   - outstanding individual achievement in hairstyling for a miniseries or a special
   - outstanding individual achievement in hairstyling for a series
-  - outstanding individual achievement in lighting direction (electronic) for a comedy
-    series
-  - outstanding individual achievement in lighting direction (electronic) for a drama
-    series, variety program, miniseries or a special
-  - outstanding individual achievement in lighting direction (electronic) for a drama
-    series, variety series, miniseries or a special
+  - outstanding individual achievement in lighting direction (electronic) for a comedy series
+  - outstanding individual achievement in lighting direction (electronic) for a drama series, variety program, miniseries or a special
+  - outstanding individual achievement in lighting direction (electronic) for a drama series, variety series, miniseries or a special
   - outstanding individual achievement in main title theme music
   - outstanding individual achievement in makeup for a miniseries or a special
   - outstanding individual achievement in makeup for a series
   - outstanding individual achievement in music
   - outstanding individual achievement in music (other than composer)
   - outstanding individual achievement in music and lyrics
-  - outstanding individual achievement in music composition for a miniseries or a
-    special (dramatic underscore)
-  - outstanding individual achievement in music composition for a series (dramatic
-    underscore)
+  - outstanding individual achievement in music composition for a miniseries or a special (dramatic underscore)
+  - outstanding individual achievement in music composition for a series (dramatic underscore)
   - outstanding individual achievement in music direction
   - outstanding individual achievement in sound editing for a miniseries or a special
   - outstanding individual achievement in sound editing for a series
   - outstanding individual achievement in sound mixing for a comedy series or a special
   - outstanding individual achievement in sound mixing for a drama series
-  - outstanding individual achievement in sound mixing for a variety or music series
-    or a special
+  - outstanding individual achievement in sound mixing for a variety or music series or a special
   - outstanding individual achievement in special musical material
   - outstanding individual achievement in special visual effects
-  - outstanding individual achievement in technical direction/camera/video for a miniseries
-    or a special
+  - outstanding individual achievement in technical direction/camera/video for a miniseries or a special
   - outstanding individual achievement in the visual arts
   - outstanding individual achievement in writing for a comedy series
   - outstanding individual achievement in writing for a variety or music program
@@ -2956,8 +2422,7 @@ ev0000223:
   - outstanding individual achievements in entertainment - technical directors
   - outstanding individual achievements in entertainment - writers
   - outstanding individual in animation
-  - outstanding individual in editing for a miniseries or a special - multi-camera
-    production
+  - outstanding individual in editing for a miniseries or a special - multi-camera production
   - outstanding individual performance in a variety or music program
   - outstanding individual performance in classical music/dance programming
   - outstanding informational program
@@ -2995,33 +2460,26 @@ ev0000223:
   - outstanding lead actress in a miniseries or a special
   - outstanding lead actress in a miniseries or movie
   - outstanding lead actress in a special program - drama or comedy
-  - outstanding lighting design or lighting direction for a variety, music, or comedy
-    series
-  - outstanding lighting design or lighting direction for a variety, music, or comedy
-    special
+  - outstanding lighting design or lighting direction for a variety, music, or comedy series
+  - outstanding lighting design or lighting direction for a variety, music, or comedy special
   - outstanding lighting design/lighting direction for a variety series
   - outstanding lighting design/lighting direction for a variety special
   - outstanding lighting direction (electronic)
   - outstanding lighting direction (electronic) for a comedy series
-  - outstanding lighting direction (electronic) for a drama series, variety series,
-    miniseries or a special
-  - outstanding lighting direction (electronic) for a drama series, variety series,
-    miniseries, movie or a special
+  - outstanding lighting direction (electronic) for a drama series, variety series, miniseries or a special
+  - outstanding lighting direction (electronic) for a drama series, variety series, miniseries, movie or a special
   - outstanding lighting direction (electronic) for a limited series or a special
   - outstanding lighting direction (electronic) for a miniseries or a special
   - outstanding lighting direction (electronic) for a series
-  - outstanding lighting direction (electronic) for a variety/music or drama series,
-    a miniseries or a special
+  - outstanding lighting direction (electronic) for a variety/music or drama series, a miniseries or a special
   - outstanding lighting direction (electronic) for special events
   - outstanding lighting direction (electronic, multi-camera) for a vmc programming
-  - outstanding lighting direction (electronic, multi-camera) for variety, music or
-    comedy programming
+  - outstanding lighting direction (electronic, multi-camera) for variety, music or comedy programming
   - outstanding lighting direction (electronic, multi-camera) for vmc programming
   - outstanding lighting direction (electronic, multicamera) for vmc programming
   - outstanding limited or anthology series
   - outstanding limited series
-  - outstanding live and tape sound mixing and sound effects for a limited series
-    or a special
+  - outstanding live and tape sound mixing and sound effects for a limited series or a special
   - outstanding live and tape sound mixing and sound effects for a series
   - outstanding live sports series
   - outstanding made for television movie
@@ -3052,24 +2510,18 @@ ev0000223:
   - outstanding multi-camera sound mixing for a series or a special
   - outstanding multi-camera sound mixing for a series or special
   - outstanding music and lyrics
-  - outstanding music composition for a documentary series or special (original dramatic
-    score)
-  - outstanding music composition for a limited or anthology series, movie or special
-    (original dramatic score)
+  - outstanding music composition for a documentary series or special (original dramatic score)
+  - outstanding music composition for a limited or anthology series, movie or special (original dramatic score)
   - outstanding music composition for a limited series or a special
-  - outstanding music composition for a limited series, movie or a special (original
-    dramatic score)
-  - outstanding music composition for a limited series, movie or special (original
-    dramatic score)
-  - outstanding music composition for a limited series, movie, or special (original
-    dramatic score)
+  - outstanding music composition for a limited series, movie or a special (original dramatic score)
+  - outstanding music composition for a limited series, movie or special (original dramatic score)
+  - outstanding music composition for a limited series, movie, or special (original dramatic score)
   - outstanding music composition for a miniseries or a movie (dramatic underscore)
   - outstanding music composition for a miniseries or a special
   - outstanding music composition for a miniseries or a special (dramatic underscore)
   - outstanding music composition for a miniseries, movie or a special
   - outstanding music composition for a miniseries, movie or a special (dramatic underscore)
-  - outstanding music composition for a miniseries, movie or a special (original dramatic
-    score)
+  - outstanding music composition for a miniseries, movie or a special (original dramatic score)
   - outstanding music composition for a series
   - outstanding music composition for a series (dramatic underscore)
   - outstanding music composition for a series (original dramatic score)
@@ -3114,8 +2566,7 @@ ev0000223:
   - outstanding performance by an actress in a supporting role in drama
   - outstanding performance in a supporting role by an actor
   - outstanding performance in a supporting role by an actor or actress in a series
-  - outstanding performance in a supporting role by an actor or actress in a single
-    program
+  - outstanding performance in a supporting role by an actor or actress in a single program
   - outstanding performance in a supporting role by an actress
   - outstanding performance in a variety or music program
   - outstanding performance in a variety or musical program or series
@@ -3141,23 +2592,17 @@ ev0000223:
   - outstanding picture editing for non-fiction programming
   - outstanding picture editing for non-fiction programming (single or multi-camera)
   - outstanding picture editing for nonfiction programming
-  - outstanding picture editing for nonfiction programming (large team entries - primarily
-    multi-camera productions)
+  - outstanding picture editing for nonfiction programming (large team entries - primarily multi-camera productions)
   - outstanding picture editing for nonfiction programming (single or multi-camera)
-  - outstanding picture editing for nonfiction programming (small team entries - primarily
-    single-camera productions)
+  - outstanding picture editing for nonfiction programming (small team entries - primarily single-camera productions)
   - outstanding picture editing for reality programming
   - outstanding picture editing for short-form segments and variety specials
   - outstanding picture editing for variety programming
   - outstanding picture editing in non-fiction program
-  - outstanding picture editing of clip packages for talk, performance, award or a
-    reality-competition program
-  - outstanding production design for a narrative contemporary or fantasy program
-    (one hour or more)
-  - outstanding production design for a narrative contemporary program (one hour or
-    more)
-  - outstanding production design for a narrative period or fantasy program (one hour
-    or more)
+  - outstanding picture editing of clip packages for talk, performance, award or a reality-competition program
+  - outstanding production design for a narrative contemporary or fantasy program (one hour or more)
+  - outstanding production design for a narrative contemporary program (one hour or more)
+  - outstanding production design for a narrative period or fantasy program (one hour or more)
   - outstanding production design for a narrative period program (one hour or more)
   - outstanding production design for a narrative program (half-hour or less)
   - outstanding production design for a narrative program (half-hour)
@@ -3165,10 +2610,8 @@ ev0000223:
   - outstanding production design for a variety special
   - outstanding production design for a variety, reality or competition series
   - outstanding production design for variety, nonfiction, event or award special
-  - outstanding production design for variety, nonfiction, reality or reality-competition
-    programming
-  - outstanding production design for variety, nonfiction, reality or reality-competition
-    series
+  - outstanding production design for variety, nonfiction, reality or reality-competition programming
+  - outstanding production design for variety, nonfiction, reality or reality-competition series
   - outstanding program achievement - special class
   - outstanding program achievement - special events
   - outstanding program achievement in daytime
@@ -3176,8 +2619,7 @@ ev0000223:
   - outstanding program achievement in the field of children's programming
   - outstanding program achievement in the field of comedy
   - outstanding program achievement in the field of drama
-  - outstanding program achievement in the field of educational and public affairs
-    programming
+  - outstanding program achievement in the field of educational and public affairs programming
   - outstanding program achievement in the field of humor
   - outstanding program achievement in the field of music
   - outstanding program achievement in the field of news
@@ -3241,8 +2683,7 @@ ev0000223:
   - outstanding single program - variety or musical - variety and popular music
   - outstanding single-camera picture editing for a comedy series
   - outstanding single-camera picture editing for a drama series
-  - outstanding single-camera picture editing for a limited or anthology series or
-    movie
+  - outstanding single-camera picture editing for a limited or anthology series or movie
   - outstanding single-camera picture editing for a limited series or a movie
   - outstanding single-camera picture editing for a limited series or movie
   - outstanding single-camera picture editing for a miniseries or a movie
@@ -3296,8 +2737,7 @@ ev0000223:
   - outstanding special and visual effects
   - outstanding special and visual effects in a supporting role
   - outstanding special class - classical music/dance programs
-  - outstanding special class - not-exclusively-made-for-television variety, music,
-    comedy event programs
+  - outstanding special class - not-exclusively-made-for-television variety, music, comedy event programs
   - outstanding special class - short-format animated programs
   - outstanding special class - short-format live-action entertainment programs
   - outstanding special class - short-format nonfiction programs
@@ -3316,8 +2756,7 @@ ev0000223:
   - outstanding structured reality program
   - outstanding stunt coordination
   - outstanding stunt coordination for a comedy series or a variety program
-  - outstanding stunt coordination for a drama series, limited or anthology series
-    or movie
+  - outstanding stunt coordination for a drama series, limited or anthology series or movie
   - outstanding stunt coordination for a drama series, limited series or movie
   - outstanding stunt coordination for a drama series, miniseries or movie
   - outstanding stunt performance
@@ -3351,29 +2790,22 @@ ev0000223:
   - outstanding technical direction and camerawork for a series
   - outstanding technical direction and camerawork for a special
   - outstanding technical direction and electronic camerawork
-  - outstanding technical direction and electronic camerawork for a limited series
-    or a special
+  - outstanding technical direction and electronic camerawork for a limited series or a special
   - outstanding technical direction and electronic camerawork for a series
-  - outstanding technical direction, camerawork, video control for a limited series,
-    movie or a special
-  - outstanding technical direction, camerawork, video control for a limited series,
-    movie or special
-  - outstanding technical direction, camerawork, video control for a miniseries, movie
-    or a special
+  - outstanding technical direction, camerawork, video control for a limited series, movie or a special
+  - outstanding technical direction, camerawork, video control for a limited series, movie or special
+  - outstanding technical direction, camerawork, video control for a miniseries, movie or a special
   - outstanding technical direction, camerawork, video control for a series
   - outstanding technical direction, camerawork, video control for a special
-  - outstanding technical direction, camerawork, video for a miniseries, movie or
-    a special
+  - outstanding technical direction, camerawork, video for a miniseries, movie or a special
   - outstanding technical direction, camerawork, video for a series
   - outstanding technical direction/camera/video for a miniseries or a special
   - outstanding technical direction/camera/video for a series
   - outstanding technical direction/camera/video for a special
   - outstanding technical direction/camerawork/video for a limited series or a special
   - outstanding technical direction/camerawork/video for a series
-  - outstanding technical direction/electronic camera/video control for a limited
-    series or a special
-  - outstanding technical direction/electronic camera/video control for a miniseries
-    or a special
+  - outstanding technical direction/electronic camera/video control for a limited series or a special
+  - outstanding technical direction/electronic camera/video control for a miniseries or a special
   - outstanding technical direction/electronic camerawork/video control for a series
   - outstanding television movie
   - outstanding unstructured reality program
@@ -3451,13 +2883,11 @@ ev0000223:
   - special classification achievements - programs
   - special classification of individual achievements
   - special classification of outstanding individual achievement
-  - special classification of outstanding individual achievements - special photographic
-    effects
+  - special classification of outstanding individual achievements - special photographic effects
   - special classification of outstanding program achievement
   - special classification of outstanding program and individual achievement
   - special classification of outstanding program and individual achievement - docu-drama
-  - special classification of outstanding program and individual achievement - general
-    programming
+  - special classification of outstanding program and individual achievement - general programming
   - special classification of outstanding program and individual achievement - individuals
   - special classification of outstanding program and individual achievement - programs
   - special classification of outstanding program and individual achievements - programs
@@ -3469,88 +2899,9 @@ ev0000223:
   - writer of the year - series
   - writer of the year - special
 ev0000292:
-  years:
-  - '2024'
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
-  - '1975'
-  - '1974'
-  - '1973'
-  - '1972'
-  - '1971'
-  - '1970'
-  - '1969'
-  - '1968'
-  - '1967'
-  - '1966'
-  - '1965'
-  - '1964'
-  - '1963'
-  - '1962'
-  - '1961'
-  - '1960'
-  - '1959'
-  - '1958'
-  - '1957'
-  - '1956'
-  - '1955'
-  - '1954'
-  - '1953'
-  - '1952'
-  - '1951'
-  - '1950'
-  - '1949'
-  - '1948'
-  - '1947'
-  - '1946'
-  - '1945'
-  - '1944'
+  years: ["2024", "2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994",
+    "1993", "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975", "1974", "1973", "1972", "1971", "1970", "1969", "1968", "1967", "1966", "1965", "1964", "1963",
+    "1962", "1961", "1960", "1959", "1958", "1957", "1956", "1955", "1954", "1953", "1952", "1951", "1950", "1949", "1948", "1947", "1946", "1945", "1944"]
   awards:
   - golden globe
   - outstanding merit
@@ -3621,71 +2972,54 @@ ev0000292:
   - best original song - motion picture
   - best original song, motion picture
   - best outdoor drama
-  - best performance by a female actor in a limited series, anthology series or motion
-    picture made for television
+  - best performance by a female actor in a limited series, anthology series or motion picture made for television
   - best performance by a female actor in a motion picture, drama
   - best performance by a female actor in a motion picture, musical or comedy
   - best performance by a female actor in a supporting role in any motion picture
   - best performance by a female actor in a supporting role on television
   - best performance by a female actor in a television series, drama
   - best performance by a female actor in a television series, musical or comedy
-  - best performance by a male actor in a limited series, anthology series or motion
-    picture made for television
+  - best performance by a male actor in a limited series, anthology series or motion picture made for television
   - best performance by a male actor in a motion picture, drama
   - best performance by a male actor in a motion picture, musical or comedy
   - best performance by a male actor in a supporting role in any motion picture
   - best performance by a male actor in a supporting role on television
   - best performance by a male actor in a television series, drama
   - best performance by a male actor in a television series, musical or comedy
-  - best performance by an actor in a limited series or a motion picture made for
-    television
+  - best performance by an actor in a limited series or a motion picture made for television
   - best performance by an actor in a limited series or motion picture made for television
-  - best performance by an actor in a limited series, anthology series or a motion
-    picture made for television
-  - best performance by an actor in a limited series, anthology series or motion picture
-    made for television
+  - best performance by an actor in a limited series, anthology series or a motion picture made for television
+  - best performance by an actor in a limited series, anthology series or motion picture made for television
   - best performance by an actor in a miniseries or a motion picture made for television
   - best performance by an actor in a miniseries or motion picture made for television
   - best performance by an actor in a motion picture - comedy or musical
   - best performance by an actor in a motion picture - drama
   - best performance by an actor in a motion picture - musical or comedy
-  - best performance by an actor in a supporting role in a limited series, anthology
-    series or motion picture made for television
+  - best performance by an actor in a supporting role in a limited series, anthology series or motion picture made for television
   - best performance by an actor in a supporting role in a motion picture
-  - best performance by an actor in a supporting role in a musical-comedy or drama
-    television series
-  - best performance by an actor in a supporting role in a series, limited series
-    or motion picture made for television
-  - best performance by an actor in a supporting role in a series, miniseries or motion
-    picture made for television
+  - best performance by an actor in a supporting role in a musical-comedy or drama television series
+  - best performance by an actor in a supporting role in a series, limited series or motion picture made for television
+  - best performance by an actor in a supporting role in a series, miniseries or motion picture made for television
   - best performance by an actor in a supporting role in any motion picture
   - best performance by an actor in a supporting role on television
   - best performance by an actor in a television series - comedy or musical
   - best performance by an actor in a television series - drama
   - best performance by an actor in a television series - musical or comedy
   - best performance by an actor in a television supporting role
-  - best performance by an actress in a limited series or a motion picture made for
-    television
-  - best performance by an actress in a limited series or motion picture made for
-    television
-  - best performance by an actress in a limited series, anthology series or a motion
-    picture made for television
-  - best performance by an actress in a limited series, anthology series or motion
-    picture made for television
+  - best performance by an actress in a limited series or a motion picture made for television
+  - best performance by an actress in a limited series or motion picture made for television
+  - best performance by an actress in a limited series, anthology series or a motion picture made for television
+  - best performance by an actress in a limited series, anthology series or motion picture made for television
   - best performance by an actress in a miniseries or a motion picture made for television
   - best performance by an actress in a miniseries or motion picture made for television
   - best performance by an actress in a motion picture - comedy or musical
   - best performance by an actress in a motion picture - drama
   - best performance by an actress in a motion picture - musical or comedy
-  - best performance by an actress in a supporting role in a limited series, anthology
-    series or motion picture made for television
+  - best performance by an actress in a supporting role in a limited series, anthology series or motion picture made for television
   - best performance by an actress in a supporting role in a motion picture
-  - best performance by an actress in a supporting role in a musical-comedy or drama
-    television series
-  - best performance by an actress in a supporting role in a series, limited series
-    or motion picture made for television
-  - best performance by an actress in a supporting role in a series, miniseries or
-    motion picture made for television
+  - best performance by an actress in a supporting role in a musical-comedy or drama television series
+  - best performance by an actress in a supporting role in a series, limited series or motion picture made for television
+  - best performance by an actress in a supporting role in a series, miniseries or motion picture made for television
   - best performance by an actress in a supporting role in any motion picture
   - best performance by an actress in a supporting role on television
   - best performance by an actress in a television series - comedy or musical
@@ -3743,46 +3077,8 @@ ev0000292:
   - special merit award
   - television achievement
 ev0000349:
-  years:
-  - '2024'
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
+  years: ["2024", "2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994",
+    "1993", "1992", "1991", "1990", "1989", "1988", "1987", "1986"]
   awards:
   - find your audience award
   - independent spirit award
@@ -3833,97 +3129,16 @@ ev0000349:
   - special distinction award
   - truer than fiction award
 ev0000468:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989"]
   awards:
   - national film registry
   categories:
   - national film preservation board
   - national film registry
 ev0000530:
-  years:
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
-  - '1977'
-  - '1976'
-  - '1975'
+  years: ["2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993", "1992",
+    "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978", "1977", "1976", "1975"]
   awards:
   - people's choice award
   - special achievement award
@@ -4128,50 +3343,8 @@ ev0000530:
   - the sci-fi/fantasy show of 2021
   - the show of 2021
 ev0000558:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981"]
   awards:
   - barry l. bumstead award
   - governor's award
@@ -4218,36 +3391,7 @@ ev0000558:
   - worst visual effects
   - worst written film grossing over $100 million
 ev0000598:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995"]
   awards:
   - actor
   categories:
@@ -4277,49 +3421,8 @@ ev0000598:
   - outstanding performance by an ensemble in a drama series
   - outstanding performance by the cast of a theatrical motion picture
 ev0000631:
-  years:
-  - '2024'
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1982'
+  years: ["2024", "2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994",
+    "1993", "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1982"]
   awards:
   - "\"delta's fly-in movies\" film contest winner"
   - alfred p. sloan feature film prize
@@ -4469,53 +3572,8 @@ ev0000631:
   - world cinema - dramatic
   - world cinema dramatic special jury award
 ev0000659:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1978'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1978"]
   awards:
   - amplify voices award
   - barry avrich award
@@ -4637,89 +3695,9 @@ ev0000659:
   - visions award
   - visions award - special citation
 ev0000681:
-  years:
-  - '2023'
-  - '2022'
-  - '2021'
-  - '2020'
-  - '2019'
-  - '2018'
-  - '2017'
-  - '2016'
-  - '2015'
-  - '2014'
-  - '2013'
-  - '2012'
-  - '2011'
-  - '2010'
-  - '2009'
-  - '2008'
-  - '2007'
-  - '2006'
-  - '2005'
-  - '2004'
-  - '2003'
-  - '2002'
-  - '2001'
-  - '2000'
-  - '1999'
-  - '1998'
-  - '1997'
-  - '1996'
-  - '1995'
-  - '1994'
-  - '1993'
-  - '1992'
-  - '1991'
-  - '1990'
-  - '1989'
-  - '1988'
-  - '1987'
-  - '1986'
-  - '1985'
-  - '1984'
-  - '1983'
-  - '1982'
-  - '1981'
-  - '1980'
-  - '1979'
-  - '1972'
-  - '1971'
-  - '1970'
-  - '1969'
-  - '1968'
-  - '1967'
-  - '1966'
-  - '1965'
-  - '1964'
-  - '1963'
-  - '1962'
-  - '1961'
-  - '1960'
-  - '1959'
-  - '1958'
-  - '1957'
-  - '1956'
-  - '1955'
-  - '1954'
-  - '1953'
-  - '1952'
-  - '1951'
-  - '1950'
-  - '1949'
-  - '1948'
-  - '1947'
-  - '1946'
-  - '1942'
-  - '1941'
-  - '1940'
-  - '1939'
-  - '1938'
-  - '1937'
-  - '1936'
-  - '1935'
-  - '1934'
-  - '1932'
+  years: ["2023", "2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015", "2014", "2013", "2012", "2011", "2010", "2009", "2008", "2007", "2006", "2005", "2004", "2003", "2002", "2001", "2000", "1999", "1998", "1997", "1996", "1995", "1994", "1993",
+    "1992", "1991", "1990", "1989", "1988", "1987", "1986", "1985", "1984", "1983", "1982", "1981", "1980", "1979", "1972", "1971", "1970", "1969", "1968", "1967", "1966", "1965", "1964", "1963", "1962", "1961", "1960", "1959", "1958", "1957", "1956",
+    "1955", "1954", "1953", "1952", "1951", "1950", "1949", "1948", "1947", "1946", "1942", "1941", "1940", "1939", "1938", "1937", "1936", "1935", "1934", "1932"]
   awards:
   - '"lino miccichè" first feature award'
   - "'cinemavvenire' award"
@@ -4825,8 +3803,7 @@ ev0000681:
   - doc/it award
   - doc/it award - special mention
   - don quixote award
-  - edipo re award (università degli studi di padova e resint rete dell'economia sociale
-    internazionale)
+  - edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale)
   - education ministry cup
   - eiuc award
   - eiuc award - special mention
@@ -4929,8 +3906,7 @@ ev0000681:
   - luis buñuel award
   - magic lantern award
   - marcello mastroianni award
-  - mario serandrei - hotel saturnia & international award for the best technical
-    contribution
+  - mario serandrei - hotel saturnia & international award for the best technical contribution
   - max factor award
   - medal
   - migrarti prize
@@ -5253,8 +4229,7 @@ ev0000681:
   - documentary
   - documentary - contemporary life/social
   - don quixote award
-  - edipo re award (università degli studi di padova e resint rete dell'economia sociale
-    internazionale)
+  - edipo re award (università degli studi di padova e resint rete dell'economia sociale internazionale)
   - education ministry cup
   - eiuc award
   - eiuc award - special mention
@@ -5357,8 +4332,7 @@ ev0000681:
   - luis buñuel award
   - magic lantern award
   - marcello mastroianni award
-  - mario serandrei - hotel saturnia & international award for the best technical
-    contribution
+  - mario serandrei - hotel saturnia & international award for the best technical contribution
   - max factor award
   - medal
   - migrarti prize
