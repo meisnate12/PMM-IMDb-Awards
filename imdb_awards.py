@@ -9,9 +9,8 @@ try:
     import requests
     from git import Repo
     from lxml import html
-    from pmmutils import logging, util
+    from pmmutils import logging
     from pmmutils.args import PMMArgs
-    from pmmutils.exceptions import Failed
     from pmmutils.yaml import YAML
 except (ModuleNotFoundError, ImportError):
     print("Requirements Error: Requirements are not installed")
