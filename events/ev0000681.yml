@@ -1,4 +1,5 @@
-'2023':
+# Venice Film Festival
+'2023':  # https://www.imdb.com/event/ev0000681/2023/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt14230458, tt22001304, tt23573936, tt17009348, tt21113540, tt27219440, tt28490044, tt21824548, tt13866832, tt14225838, tt4707780, tt5535276, tt19864828, tt13321244, tt27704325, tt22041854, tt14407336, tt27722543, tt1136617, tt20561198, tt18453866, tt26746630]
@@ -297,7 +298,7 @@
     cinema & arts award - special mention:
       nominee: [tt28449053]
       winner: [tt28449053]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000681/2022/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt21374850, tt21374862, tt15301048, tt15445056, tt14176542, tt13920988, tt1655389, tt10168670, tt15027532, tt13051724, tt14575898, tt18235306, tt6337816, tt20205236, tt15403712, tt21372086, tt15376894, tt11813216, tt13874422, tt14458442, tt13833688, tt14444726, tt6160448]
@@ -545,7 +546,7 @@
     giornate degli autori's people choice award:
       nominee: [tt8649344]
       winner: [tt8649344]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000681/2021/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt13880104, tt13932304, tt15115102, tt13322726, tt7270808, tt13473548, tt10505316, tt8760670, tt11700260, tt3785036, tt12618926, tt14225832, tt12536294, tt15115280, tt13846544, tt11196036, tt12680684, tt11012320, tt9526392, tt9100054, tt10293406]
@@ -785,7 +786,7 @@
     premio per l'inclusione edipo re (giornate degli autori):
       nominee: [tt13919968]
       winner: [tt13919968]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000681/2020/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt9770150, tt7716120, tt10796286, tt11268864, tt12716170, tt9800670, tt11009666, tt9526784, tt12474056, tt7945450, tt10798072, tt11161474, tt8633462, tt11767722, tt11423784, tt12789110, tt9738716, tt11917942]
@@ -999,7 +1000,7 @@
     giornate degli autori award:
       nominee: [tt12077032, tt12246266, tt11258824, tt11892046, tt12768944, tt10879920, tt10577318, tt12564514, tt11568878, tt7768720, tt11187986]
       winner: [tt12077032]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000681/2019/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt7286456, tt6817944, tt2935510, tt2398149, tt8399664, tt8800266, tt9584814, tt9143636, tt7653254, tt4516162, tt10687168, tt8499638, tt8439860, tt5865326, tt10673846, tt9778888, tt1667354, tt6971114, tt8323120, tt6149154, tt6760876]
@@ -1197,7 +1198,7 @@
     virtual reality competition:
       nominee: [tt8667696]
       winner: []
-'2018':
+'2018': # https://www.imdb.com/event/ev0000681/2018/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt6155172, tt7280898, tt6938828, tt7188002, tt6527586, tt1213641, tt7117352, tt5311542, tt7250056, tt5265964, tt4614612, tt5855772, tt1034415, tt7952000, tt6412452, tt5083738, tt7950334, tt4068576, tt4971344, tt5960374, tt8747596]
@@ -1450,7 +1451,7 @@
     gda director's award:
       nominee: [tt7397338]
       winner: [tt7397338]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000681/2017/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt5580390, tt6256056, tt7205208, tt6002232, tt1389072, tt6209282, tt6053438, tt6896536, tt4432006, tt6573444, tt5340300, tt7204006, tt6121444, tt5109784, tt0491175, tt6958212, tt7219324, tt7048622, tt3741632, tt6410564, tt5027774]
@@ -1654,7 +1655,7 @@
     gda director's award:
       nominee: [tt7264116]
       winner: [tt7264116]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000681/2016/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt5843990, tt5078134, tt2543164, tt1895315, tt5247192, tt5029608, tt1619029, tt3783958, tt4550098, tt2800340, tt4551318, tt5917932, tt4334266, tt4715652, tt4778424, tt4562518, tt2547584, tt5265960, tt5784568, tt1945228]
@@ -1875,7 +1876,7 @@
     migrarti prize:
       nominee: [tt6048934]
       winner: [tt6048934]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000681/2015/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt4721400, tt3865478, tt2056771, tt4898888, tt2401878, tt1365050, tt4901304, tt2922590, tt4216908, tt3289728, tt3451720, tt4895740, tt4935446, tt3715122, tt4000936, tt4428788, tt4935282, tt3704050, tt4411504, tt0810819, tt4467154]
@@ -2134,7 +2135,7 @@
     best film:
       nominee: [tt5641696]
       winner: [tt5641696]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000681/2014/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt1883180, tt2822742, tt2891174, tt2562232, tt3894190, tt2936180, tt3893038, tt3297330, tt3344922, tt3152602, tt2893490, tt3125652, tt3890278, tt3894344, tt3526482, tt2245171, tt3227712, tt3521134, tt3591984, tt3194410]
@@ -2418,7 +2419,7 @@
     akai international film fest award - special mention:
       nominee: [tt3976280]
       winner: [tt3976280]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000681/2013/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt3172520, tt1966637, tt3092086, tt1951095, tt3074784, tt2511670, tt2382396, tt3078242, tt2043933, tt2345112, tt2431286, tt3119416, tt1734429, tt3177612, tt2390962, tt2013293, tt2333804, tt2427892, tt2167266, tt1441395]
@@ -2676,7 +2677,7 @@
     best short film:
       nominee: [tt3007006]
       winner: [tt3007006]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000681/2012/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt2299842, tt2299792, tt1937449, tt2299954, tt1724962, tt2184227, tt2219514, tt1891788, tt2298820, tt1928329, tt2371824, tt1829012, tt1846472, tt2101441, tt1849111, tt1560747, tt2395459, tt1595656]
@@ -2906,7 +2907,7 @@
     best innovative budget award:
       nominee: [tt2290934]
       winner: [tt2290934]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000681/2011/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt1437357, tt1707391, tt1740053, tt1571222, tt2008006, tt1859446, tt1692486, tt1663321, tt1690455, tt1726669, tt1371585, tt2050604, tt1723811, tt1641410, tt1389127, tt1441368, tt1124035, tt2006781, tt1900893, tt1340800, tt2007993, tt1680139, tt1181614]
@@ -3117,7 +3118,7 @@
     orizzonti award for best short film:
       nominee: [tt4370402]
       winner: []
-'2010':
+'2010': # https://www.imdb.com/event/ev0000681/2010/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt1421051, tt1436045, tt1517177, tt1691323, tt1423894, tt0947798, tt1401643, tt1123373, tt1561768, tt1528750, tt1518812, tt1366409, tt1270842, tt1714886, tt1521848, tt1712563, tt1504319, tt1693830, tt1680096, tt1723112, tt1572491, tt1523498, tt1441373, tt1365490]
@@ -3318,7 +3319,7 @@
     venice days:
       nominee: [tt1255953]
       winner: [tt1255953]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000681/2009/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt1483831, tt1315981, tt1202514, tt1239285, tt1081935, tt1095217, tt1498708, tt1232207, tt1496792, tt0808526, tt1371700, tt1405809, tt0485947, tt1233219, tt1303230, tt1498834, tt1244668, tt1134854, tt1176416, tt1194231, tt1379222, tt0898367, tt1498709, tt1135952, tt1498887]
@@ -3526,7 +3527,7 @@
     best film (venice days):
       nominee: [tt1239446, tt1201135, tt1559348, tt1242422, tt1054580, tt1514825, tt1166810, tt1383604, tt1275723, tt1556650, tt1406161, tt1486815, tt1459026]
       winner: [tt1239446]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000681/2008/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt1125849, tt1056067, tt1217243, tt1054674, tt1284577, tt1249306, tt1275799, tt0818110, tt1224153, tt1284576, tt1054119, tt0876563, tt1084950, tt1284591, tt1284592, tt1068641, tt0887912, tt1171704, tt1056437, tt1206485, tt1283971]
@@ -3696,7 +3697,7 @@
     best film (venice days):
       nominee: [tt1172522, tt0978833, tt0787519, tt1056231, tt1288482, tt1010412, tt1327908, tt1274738, tt1174047, tt1284526, tt0969307]
       winner: [tt1172522]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000681/2007/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0808357, tt0488478, tt0783233, tt1085799, tt1094267, tt1076251, tt0368794, tt1071785, tt0809425, tt0478134, tt0807054, tt0969269, tt0465538, tt0937237, tt0857265, tt0906665, tt0443680, tt0838221, tt0823240, tt0487419, tt0769507, tt1086355]
@@ -3895,7 +3896,7 @@
     special mention:
       nominee: [tt1100122]
       winner: [tt1100122]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000681/2006/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0859765, tt0389557, tt0308055, tt0206634, tt0825241, tt0847877, tt0796212, tt0832347, tt0465188, tt0427969, tt0855824, tt0862946, tt0851578, tt0498120, tt0855895, tt0815227, tt0477731, tt0387877, tt0414993, tt0448131, tt0436697, tt0810077]
@@ -4096,7 +4097,7 @@
     best short film:
       nominee: [tt0872234]
       winner: []
-'2005':
+'2005': # https://www.imdb.com/event/ev0000681/2005/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0388795, tt0475263, tt0443446, tt0435479, tt0488832, tt0433383, tt0381690, tt0474917, tt0451094, tt0472521, tt0425236, tt0472884, tt0377107, tt0443844, tt0368222, tt0478044, tt0355295, tt0387131, tt0474694, tt0472778]
@@ -4300,7 +4301,7 @@
     best film (venice days):
       nominee: [tt0431979, tt0475169, tt0424789, tt0401085, tt0826796, tt0487262, tt0477806, tt0464105, tt0453383, tt0834940, tt0318765, tt0472710]
       winner: [tt0431979]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000681/2004/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0383694, tt0423866, tt0388526, tt0337876, tt0412596, tt0431720, tt0354356, tt0347149, tt0344273, tt0382357, tt0403100, tt0362004, tt0424365, tt0423433, tt0423277, tt0422491, tt0345032, tt0369702, tt0423176, tt0423397, tt0241025, tt0422621]
@@ -4505,7 +4506,7 @@
     best film (venice days):
       nominee: [tt0424024, tt0445161, tt1270618, tt0419677, tt1019408, tt0384389, tt0435224, tt0374248, tt0410473, tt0393174, tt0435441, tt0406669]
       winner: [tt0424024]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000681/2003/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0376968, tt0315733, tt0372782, tt0364093, tt0349079, tt0345061, tt0329584, tt0377569, tt0377556, tt0314197, tt0335426, tt0357037, tt0339558, tt0298131, tt0378725, tt0363226, tt0377923, tt0377610, tt0378362, tt0315110]
@@ -4700,7 +4701,7 @@
     best short film - special mention:
       nominee: [tt0347685]
       winner: [tt0347685]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000681/2002/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0318411, tt0296145, tt0283915, tt0301199, tt0330229, tt0297884, tt0120679, tt0329106, tt0332605, tt0246719, tt0301414, tt0329731, tt0296099, tt0300237, tt0290435, tt0320193, tt0257044, tt0333902, tt0329095, tt0212132, tt0318780]
@@ -4862,7 +4863,7 @@
     best short film - special mention:
       nominee: [tt0339769]
       winner: [tt0339769]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000681/2001/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0265343, tt0284815, tt0245574, tt0291003, tt0242193, tt0290661, tt0271017, tt0258242, tt0290654, tt0256084, tt0282701, tt0290733, tt0290823, tt0290423, tt0279977, tt0230600, tt0253840, tt0243017, tt0210930, tt0290841]
@@ -5036,7 +5037,7 @@
     best short film - special mention:
       nominee: [tt0297011, tt0280538]
       winner: [tt0297011, tt0280538]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000681/2000/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0255094, tt0247196, tt0254325, tt0205271, tt0255327, tt0255177, tt0206093, tt0206200, tt0255321, tt0238891, tt0250809, tt0239381, tt0258885, tt0221115, tt0255195, tt0255589, tt0206917, tt0255665, tt0230753, tt0200257]
@@ -5189,7 +5190,7 @@
     best short film - special mention:
       nominee: [tt0228835, tt0267045]
       winner: [tt0228835, tt0267045]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000681/1999/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0209189, tt0208658, tt0204709, tt0200440, tt0142201, tt0209280, tt0144715, tt0186253, tt0209223, tt0208995, tt0119603, tt0187579, tt0209187, tt0213695, tt0124315, tt0211719, tt0209463, tt0151568, tt0209445]
@@ -5355,7 +5356,7 @@
     best short film - special mention:
       nominee: [tt0247690]
       winner: [tt0247690]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000681/1998/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0139951, tt0137439, tt0118843, tt0118798, tt0168594, tt0120643, tt0150915, tt0119336, tt0122657, tt0133363, tt0133122, tt0151479, tt0119901, tt0128442, tt0130827, tt0143093, tt0153588, tt0140073, tt0152438, tt0120364]
@@ -5497,7 +5498,7 @@
     best first film:
       nominee: [tt0177341]
       winner: [tt0177341]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000681/1997/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0119250, tt0123685, tt0118851, tt0119773, tt0122648, tt0120543, tt0123889, tt0119780, tt0119832, tt0119844, tt0123868, tt0124115, tt0119368, tt0117264, tt0124207, tt0120441, tt0120521, tt0123707]
@@ -5617,7 +5618,7 @@
     kodak award:
       nominee: [tt0120277]
       winner: [tt0120277]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000681/1996/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0116612]
@@ -5730,7 +5731,7 @@
     aiace award:
       nominee: [tt0345267]
       winner: [tt0345267]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000681/1995/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0112767, tt0113403, tt0116746, tt0112688, tt0114864, tt0129872, tt0112710, tt0109949, tt0112769, tt0113725, tt0114007, tt0111198, tt0112744, tt0114704, tt0114808, tt0114294, tt0114096]
@@ -5801,7 +5802,7 @@
     best short film:
       nominee: [tt0320375]
       winner: []
-'1994':
+'1994': # https://www.imdb.com/event/ev0000681/1994/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0109688]
@@ -5944,7 +5945,7 @@
     best film in competition:
       nominee: [tt0110882]
       winner: [tt0110882]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000681/1993/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0106489, tt0197110]
@@ -6039,7 +6040,7 @@
     special volpi cup:
       nominee: [tt0108122]
       winner: [tt0108122]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000681/1992/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0105197, tt0105682, tt0104111, tt0104918, tt0101913, tt0104348, tt0104373, tt0104445, tt0104503, tt0104545, tt0104658, tt0103943, tt0104833, tt0105182, tt0102583, tt0107756, tt0105217, tt0103615, tt0105924, tt0105127, tt0103967, tt0105723, tt0104588]
@@ -6127,7 +6128,7 @@
     special prize on occasion of the festival's jubilee:
       nominee: [tt7163910]
       winner: [tt7163910]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000681/1991/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0103176, tt0104252, tt0101739, tt0101567, tt0101798, tt0101307, tt0102137, tt0102153, tt0101337, tt0102428, tt0102456, tt0102494, tt0102566, tt0102722, tt0101640, tt0102855, tt0102678, tt0101889, tt0102487, tt0101956, tt0102987]
@@ -6216,7 +6217,7 @@
     photographers award:
       nominee: [tt0102428]
       winner: [tt0102428]
-'1990':
+'1990': # https://www.imdb.com/event/ev0000681/1990/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0099827]
@@ -6335,7 +6336,7 @@
     gingerly award:
       nominee: [tt0099040]
       winner: [tt0099040]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000681/1989/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0096908, tt0097297, tt0096854, tt0133410, tt0096942, tt0125695, tt0097574, tt0098287, tt0097325, tt0097555, tt0097597, tt0116842, tt0263677, tt0307203, tt0097964, tt0098175, tt0297625, tt0098271, tt0098280, tt0097268, tt0097347, tt0098407, tt0097051]
@@ -6448,7 +6449,7 @@
     la navicella venezia cinema award:
       nominee: [tt0297625]
       winner: [tt0297625]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000681/1988/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0095513, tt0096077, tt0094816, tt0092716, tt0094836, tt0340925, tt0159402, tt0095086, tt0179884, tt0095279, tt0095280, tt0096288, tt0095555, tt0095564, tt0095097, tt0096336, tt0096516, tt0092754, tt0095649, tt0095729, tt0096259, tt0095675]
@@ -6588,7 +6589,7 @@
     cinecritica award:
       nominee: [tt0095515]
       winner: [tt0095515]
-'1987':
+'1987': # https://www.imdb.com/event/ev0000681/1987/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0092593, tt0092694, tt0093502, tt0092774, tt0133211, tt0092901, tt0093194, tt0093223, tt0093965, tt0093205, tt0094239, tt0093454, tt0093467, tt0093512, tt0092558, tt0092875, tt0091695, tt0091769, tt0093807, tt0094094, tt0093453, tt0091953, tt0096217]
@@ -6693,7 +6694,7 @@
     award of the society for psychology:
       nominee: [tt0093454]
       winner: [tt0093454]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000681/1986/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0091830, tt0090557, tt0089794, tt0091867, tt0092017, tt0090637, tt0093930, tt0093348, tt0091253, tt0091335, tt0091801, tt0137912, tt0091676, tt0091712, tt0091837, tt0200055, tt0091035, tt0091196, tt0091506, tt0091839, tt0092200, tt0090845, tt0092244]
@@ -6774,7 +6775,7 @@
     de sica award - special mention:
       nominee: [tt0140778]
       winner: [tt0140778]
-'1985':
+'1985': # https://www.imdb.com/event/ev0000681/1985/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0088810]
@@ -6881,7 +6882,7 @@
     venezia genti - best short film:
       nominee: [tt0492331]
       winner: [tt0492331]
-'1984':
+'1984': # https://www.imdb.com/event/ev0000681/1984/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0088009, tt0122241, tt0086897, tt0086951, tt0087064, tt0210003, tt0087246, tt0087821, tt0087365, tt0093610, tt0088443, tt0086890, tt0086889, tt0087682, tt0087804, tt0087813, tt0087868, tt0138811, tt0088151, tt0123381, tt0087310, tt0084710, tt0090214, tt0356499, tt0843460]
@@ -6956,7 +6957,7 @@
     technical prize:
       nominee: [tt0087813]
       winner: [tt0087813]
-'1983':
+'1983': # https://www.imdb.com/event/ev0000681/1983/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0086153, tt0085843, tt0086968, tt0085295, tt0090996, tt0089210, tt0085642, tt0253134, tt0085444, tt0086542, tt0085901, tt0084311, tt0085759, tt0085950, tt0086377, tt0086213, tt0086242, tt0086447, tt0085882, tt0083594, tt0085597]
@@ -7007,7 +7008,7 @@
     technical prize:
       nominee: [tt0086153]
       winner: [tt0086153]
-'1982':
+'1982': # https://www.imdb.com/event/ev0000681/1982/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0084808]
@@ -7068,7 +7069,7 @@
     best artistic collaboration:
       nominee: [tt0083732]
       winner: [tt0083732]
-'1981':
+'1981': # https://www.imdb.com/event/ev0000681/1981/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0082081, tt0132762, tt0158510, tt0081363, tt0083089, tt0080985, tt0083706, tt0082834, tt0082945, tt0083082, tt0083102, tt0084505, tt0082876, tt0080957, tt0082154, tt0083367, tt0082401, tt0082317, tt0083232, tt0083145]
@@ -7137,7 +7138,7 @@
     best actress:
       nominee: [tt0082834, tt0083189]
       winner: [tt0082834, tt0083189]
-'1980':
+'1980': # https://www.imdb.com/event/ev0000681/1980/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0080388, tt0080798, tt0081148, tt0080619, tt0079219, tt0081330, tt0081150, tt0082993, tt0230686, tt0080910]
@@ -7192,7 +7193,7 @@
     agis award:
       nominee: [tt0081176, tt0081820, tt0081011, tt0081165]
       winner: [tt0081176, tt0081820, tt0081011, tt0081165]
-'1979':
+'1979': # https://www.imdb.com/event/ev0000681/1979/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0078978]
@@ -7215,7 +7216,7 @@
     best film:
       nominee: [tt0079679, tt0079843]
       winner: [tt0079679, tt0079843]
-'1972':
+'1972': # https://www.imdb.com/event/ev0000681/1972/1/?ref_=ev_eh
   silver lion:
     best first work:
       nominee: [tt0069727]
@@ -7251,7 +7252,7 @@
     best first film:
       nominee: [tt0068479]
       winner: [tt0068479]
-'1971':
+'1971': # https://www.imdb.com/event/ev0000681/1971/1/?ref_=ev_eh
   fipresci prize:
     fipresci prize:
       nominee: [tt0064356]
@@ -7279,7 +7280,7 @@
     cidalc award:
       nominee: [tt0067327]
       winner: [tt0067327]
-'1970':
+'1970': # https://www.imdb.com/event/ev0000681/1970/1/?ref_=ev_eh
   pasinetti award:
     best foreign film:
       nominee: [tt0067961]
@@ -7295,7 +7296,7 @@
     short film:
       nominee: [tt9390400]
       winner: [tt9390400]
-'1969':
+'1969': # https://www.imdb.com/event/ev0000681/1969/1/?ref_=ev_eh
   pasinetti award:
     best foreign film:
       nominee: [tt0062786]
@@ -7315,7 +7316,7 @@
     cidalc award:
       nominee: [tt0064011]
       winner: [tt0064011]
-'1968':
+'1968': # https://www.imdb.com/event/ev0000681/1968/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0062679, tt0272473, tt0064228, tt0062889, tt0062952, tt0173870, tt0062998, tt0063182, tt0128558, tt0063286, tt0064689, tt0065695, tt0063444, tt0063366, tt0063414, tt0188194, tt0061536, tt0155415, tt0063651, tt0166371, tt0063675, tt0063678, tt0063563, tt0171940, tt0061641, tt0229039, tt0063808]
@@ -7339,7 +7340,7 @@
     best film:
       nominee: [tt0062952]
       winner: [tt0062952]
-'1967':
+'1967': # https://www.imdb.com/event/ev0000681/1967/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0061395, tt0061483, tt1817125, tt0166894, tt0060358, tt0061493, tt0063406, tt0061146, tt0061613, tt0062089, tt0060653, tt0061473, tt0061854, tt0062048, tt0061084, tt0062310, tt0062293, tt0061616, tt0063535]
@@ -7386,7 +7387,7 @@
     golden rudder:
       nominee: [tt0063406]
       winner: [tt0063406]
-'1966':
+'1966': # https://www.imdb.com/event/ev0000681/1966/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0253002]
@@ -7516,7 +7517,7 @@
     cineforum 66 award:
       nominee: [tt0060138]
       winner: [tt0060138]
-'1965':
+'1965': # https://www.imdb.com/event/ev0000681/1965/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0059229]
@@ -7605,7 +7606,7 @@
     plaque lion st. marc:
       nominee: [tt0059807]
       winner: [tt0059807]
-'1964':
+'1964': # https://www.imdb.com/event/ev0000681/1964/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0058003, tt0058701, tt0058142, tt0058126, tt0058263, tt0059874, tt0058414, tt0058715, tt0058277, tt0057842, tt0057861, tt0058670]
@@ -7669,7 +7670,7 @@
     award of the city of venice:
       nominee: [tt0058414]
       winner: [tt0058414]
-'1963':
+'1963': # https://www.imdb.com/event/ev0000681/1963/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0057286, tt0056868, tt0056881, tt0176345, tt0057565, tt0057163, tt0403353, tt0057289, tt0057308, tt0057336, tt0057370, tt0191326, tt0057013, tt0056952, tt0057643, tt0057058, tt0057490, tt0057590, tt0175312]
@@ -7724,7 +7725,7 @@
     award of the city of venice:
       nominee: [tt0207784]
       winner: [tt0207784]
-'1962':
+'1962': # https://www.imdb.com/event/ev0000681/1962/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0059160, tt0057427]
@@ -7800,7 +7801,7 @@
     catholic cinema clubs award:
       nominee: [tt0056966]
       winner: [tt0056966]
-'1961':
+'1961': # https://www.imdb.com/event/ev0000681/1961/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0055181]
@@ -7864,7 +7865,7 @@
     award of the city of venice:
       nominee: [tt0055082]
       winner: [tt0055082]
-'1960':
+'1960': # https://www.imdb.com/event/ev0000681/1960/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0054161, tt0054229, tt0053628, tt0054272, tt0053570, tt0054039, tt0054004, tt0054248, tt0053756, tt0056667, tt0053604, tt0053114, tt0175743, tt0054412]
@@ -7903,7 +7904,7 @@
     parallel sections:
       nominee: [tt0053270]
       winner: [tt0053270]
-'1959':
+'1959': # https://www.imdb.com/event/ev0000681/1959/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0053856, tt0052861, tt0052561, tt0051584, tt0053130, tt0051595, tt0192734, tt0053176, tt0173511, tt0053291, tt0053294, tt0051749, tt0052645, tt0051365, tt0053473]
@@ -7952,7 +7953,7 @@
     golden plate:
       nominee: [tt0053176]
       winner: [tt0053176]
-'1958':
+'1958': # https://www.imdb.com/event/ev0000681/1958/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0051955, tt0051666, tt0051579, tt0050756, tt0052339, tt0170344, tt0051963, tt0051980, tt0052631, tt0051530, tt0052036, tt0051739, tt0052556, tt0051170]
@@ -7997,7 +7998,7 @@
     italian cinema clubs award:
       nominee: [tt0052382]
       winner: [tt0052382]
-'1957':
+'1957': # https://www.imdb.com/event/ev0000681/1957/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0050850, tt0342825]
@@ -8046,7 +8047,7 @@
     short film:
       nominee: [tt0201881]
       winner: [tt0201881]
-'1956':
+'1956': # https://www.imdb.com/event/ev0000681/1956/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0048966, tt0049010, tt0049038, tt0048200, tt0049259, tt0049043, tt0048933, tt0051029, tt0049012, tt0049293, tt0049877, tt0049001, tt0124437, tt0049042, tt0051099, tt0174320]
@@ -8096,7 +8097,7 @@
     best foreign documentary:
       nominee: [tt0050800]
       winner: [tt0050800]
-'1955':
+'1955': # https://www.imdb.com/event/ev0000681/1955/1/?ref_=ev_eh
   golden lion:
     best film:
       nominee: [tt0048452, tt0122855, tt0048585, tt0242410, tt0048361, tt0047886, tt0052642, tt0047940, tt0048001, tt0047916, tt0045802, tt0048187, tt0048210, tt0145856, tt0048231, tt0048721, tt0048746, tt0137119, tt0253307, tt0048453, tt0048820, tt0048689, tt0047880, tt0047978, tt0047572, tt0047821, tt0048504, tt0048248, tt0047913, tt0203902, tt0048411, tt0047876, tt0047822, tt0048728, tt0047281, tt0172640, tt0173471]
@@ -8129,7 +8130,7 @@
     most promising new director:
       nominee: [tt0048585, tt0048361, tt0047886, tt0048231, tt0173471]
       winner: [tt0048585, tt0048361, tt0047886, tt0048231, tt0173471]
-'1954':
+'1954': # https://www.imdb.com/event/ev0000681/1954/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0047029, tt0046690, tt0047315, tt0045593, tt0047489, tt0046963, tt0148440, tt0046451, tt0045980, tt0046769, tt0186473, tt0047397, tt0047528, tt0046051, tt0196063, tt0047296, tt0234455, tt0046218, tt0047396, tt0044386, tt0047445, tt0047469, tt0047478, tt0047496, tt0047513, tt0180721, tt0046816, tt0046970, tt0135534, tt0047435, tt0046299, tt0047580, tt0293679, tt0047427]
@@ -8162,7 +8163,7 @@
     absolute grand prize:
       nominee: [tt0346557]
       winner: [tt0346557]
-'1953':
+'1953': # https://www.imdb.com/event/ev0000681/1953/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0046712, tt0044676, tt0045510, tt0045799, tt0045843, tt0046521, tt0044769, tt0045569, tt0046004, tt0044926, tt0045010, tt0046120, tt0046187, tt0045089, tt0046250, tt0046264, tt0044811, tt0046429, tt0044391, tt0044631, tt0194385, tt0046149, tt0046396, tt0045929, tt0045294, tt0046478, tt0045301, tt0046502, tt0044911]
@@ -8190,7 +8191,7 @@
     bronze lion:
       nominee: [tt0045843, tt0046187, tt0194385, tt0046149]
       winner: [tt0045843, tt0046187, tt0194385, tt0046149]
-'1952':
+'1952': # https://www.imdb.com/event/ev0000681/1952/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0043686, tt0154106, tt0216541, tt0261538, tt0044409, tt0044486, tt0045654, tt0044335, tt0043458, tt0201561, tt0044772, tt0043511, tt0044985, tt0291939, tt0044760, tt0045029, tt0045102, tt0132464, tt0044060, tt0044450, tt0044099, tt0044443, tt0044414, tt0137508, tt0044744, tt0045112, tt0044905, tt0045061, tt0045060, tt0193835, tt0045230, tt0044000, tt0044345]
@@ -8235,7 +8236,7 @@
     pasinetti award:
       nominee: [tt0045061]
       winner: [tt0045061]
-'1951':
+'1951': # https://www.imdb.com/event/ev0000681/1951/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0042876, tt0044081, tt0043338, tt0043274, tt0042227, tt0042346, tt0042276, tt0042294, tt0042409, tt0042402, tt0042619, tt0043412, tt0043560, tt0042683, tt0202483, tt0042781, tt0043851, tt0251301, tt0043878, tt0043902, tt0045122, tt0044112, tt0179759, tt0044829, tt0044188, tt0151785, tt0043972, tt0044214, tt0044385, tt0177519]
@@ -8279,7 +8280,7 @@
     best actress:
       nominee: [tt0044081]
       winner: [tt0044081]
-'1950':
+'1950': # https://www.imdb.com/event/ev0000681/1950/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0042625, tt0041113, tt0041799, tt0039644, tt0042296, tt0042332, tt0170768, tt0205804, tt0042406, tt0043647, tt0042437, tt0042859, tt0042480, tt0041416, tt0042401, tt0042513, tt0040405, tt0042793, tt0042906, tt0039629, tt0140679, tt0042807, tt0041155, tt0042810, tt0041719, tt0151548, tt0042983, tt0042832, tt0042908, tt0331331, tt0042947, tt0042949, tt0041931, tt0043016, tt3097918, tt0042208, tt0042265, tt0040266, tt0042477, tt0042522, tt0041302, tt0043162, tt0156153]
@@ -8330,7 +8331,7 @@
     international award - short film:
       nominee: [tt3355120, tt0208040]
       winner: [tt3355120, tt0208040]
-'1949':
+'1949': # https://www.imdb.com/event/ev0000681/1949/1/?ref_=ev_eh
   golden lion:
     golden lion:
       nominee: [tt0041634, tt0042002, tt0040826, tt0041184, tt0041239, tt0042405, tt0040330, tt0041356, tt0041408, tt0041678, tt0143110, tt0041248, tt0040495, tt0040497, tt0041546, tt0041624, tt0197908, tt0041599, tt0214940, tt0133731, tt0041739, tt0040705, tt0040761, tt0180180, tt0041736, tt0040156, tt0041190, tt0050410, tt0042432, tt0040363, tt0033623, tt0040619, tt0040717, tt0041137, tt0040806, tt0038166, tt0041579]
@@ -8376,7 +8377,7 @@
     international award - short film:
       nominee: [tt1303811]
       winner: [tt1303811]
-'1948':
+'1948': # https://www.imdb.com/event/ev0000681/1948/1/?ref_=ev_eh
   international award:
     best actor:
       nominee: [tt0040714]
@@ -8442,7 +8443,7 @@
     international award - short film:
       nominee: [tt0039549]
       winner: [tt0039549]
-'1947':
+'1947': # https://www.imdb.com/event/ev0000681/1947/1/?ref_=ev_eh
   international award:
     best actor:
       nominee: [tt0039632]
@@ -8481,7 +8482,7 @@
     grand international award:
       nominee: [tt0130261, tt0039132, tt0039682, tt0197287, tt0150037, tt0038476, tt0038482, tt0038491, tt0039340, tt0038510, tt0038522, tt0039309, tt0039398, tt0039409, tt0039895, tt0038647, tt0039502, tt0039739, tt0038756, tt0038068, tt0037865, tt0039400, tt0127681, tt0033868, tt0039632, tt0038769, tt0269591, tt0039677, tt0038830, tt0036343, tt0038109, tt0039954, tt0038120, tt0039889, tt0038566, tt0039760, tt0038821, tt0037981, tt0038991, tt0124062, tt0039041, tt0036914, tt0039233, tt0132064, tt0214259]
       winner: [tt0130261]
-'1946':
+'1946': # https://www.imdb.com/event/ev0000681/1946/1/?ref_=ev_eh
   anica cup:
     anica cup:
       nominee: [tt0038823]
@@ -8507,7 +8508,7 @@
     feature films:
       nominee: [tt0037674, tt0035966, tt0036910, tt0038963, tt0038823, tt0038824, tt0037941, tt0038673]
       winner: [tt0037674, tt0035966, tt0036910, tt0038963, tt0038823, tt0038824, tt0037941, tt0038673]
-'1942':
+'1942': # https://www.imdb.com/event/ev0000681/1942/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0034814, tt0034439, tt0034457, tt0034530, tt0034614, tt0034435, tt0034815, tt0033799, tt0034805, tt0034821, tt0034910, tt0034441, tt0127638, tt0195057, tt0243450, tt0034701, tt0035241, tt0035347, tt0035410, tt0034817, tt0034800, tt0035559, tt0035579]
@@ -8545,7 +8546,7 @@
     technical:
       nominee: [tt0034444]
       winner: [tt0034444]
-'1941':
+'1941': # https://www.imdb.com/event/ev0000681/1941/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0033973, tt0247914, tt0033327, tt0033345, tt0032240, tt0178851, tt0302792, tt0032801, tt0032287, tt0033580, tt0033702, tt0030398, tt0033750, tt0033778, tt0032738, tt0032659, tt0032760, tt0033959, tt0032877, tt0033275, tt0033122, tt0033796, tt0033878, tt0170831]
@@ -8584,7 +8585,7 @@
     popular culture ministry cup:
       nominee: [tt0033702]
       winner: [tt0033702]
-'1940':
+'1940': # https://www.imdb.com/event/ev0000681/1940/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0032935, tt0135746, tt0032381, tt0031090, tt0032562, tt0032653, tt0031525, tt0031693, tt0169060, tt0031763, tt0033111, tt0033184, tt3816146]
@@ -8592,7 +8593,7 @@
     best italian film:
       nominee: [tt0032225, tt0032999, tt0032180, tt0032400, tt0032865, tt0032317, tt0032896]
       winner: [tt0032225]
-'1939':
+'1939': # https://www.imdb.com/event/ev0000681/1939/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0358915, tt0122901, tt0272450, tt0031092, tt0031114, tt0036575, tt0178380, tt0032063, tt0030118, tt0031296, tt0030927, tt0185265, tt0175757, tt0031277, tt0031309, tt0031514, tt0153329, tt0032751, tt0030349, tt0175890, tt0136474, tt0031374, tt0031868, tt0027510, tt1460650, tt0452421, tt0030830, tt0032173, tt0031334, tt0031388, tt0029957, tt0031650, tt0188884, tt0143748, tt0032089, tt0031508, tt0032154, tt0278163]
@@ -8612,7 +8613,7 @@
     agriculture ministry cup:
       nominee: [tt0031949]
       winner: [tt0031949]
-'1938':
+'1938': # https://www.imdb.com/event/ev0000681/1938/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0030522, tt0030337, tt0154111, tt0029852, tt0143749, tt0170055, tt0030511, tt0029944, tt0030292, tt0029077, tt0229086, tt0030932, tt0028815, tt0030115, tt0175613, tt0030195, tt0029722, tt0158633, tt0030210, tt0168866, tt0030287, tt0030226, tt0030418, tt0029279, tt0030464, tt0027277, tt0030643, tt0160699, tt0030637, tt0030641, tt0160734, tt0030761, tt0029583, tt0166830, tt0030848, tt0029844, tt0030100, tt0030082, tt0030194, tt0289896, tt0032785, tt0029442, tt0030652, tt0166302, tt0030944, tt0030973, tt0031004, tt0039116]
@@ -8664,7 +8665,7 @@
     popular culture ministry cup:
       nominee: [tt0030195, tt0160699]
       winner: [tt0030195, tt0160699]
-'1937':
+'1937': # https://www.imdb.com/event/ev0000681/1937/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0029706, tt0029606, tt0027304, tt0169589, tt0028995, tt0028827, tt0027730, tt0029080, tt0029081, tt0208249, tt0168955, tt0027902, tt0027333, tt0029217, tt0027942, tt0134023, tt0230663, tt0028217, tt0029539, tt0029546, tt0028818, tt0028883, tt0028950, tt0029235, tt0029394, tt0028355, tt0029662, tt0028373, tt0029819, tt0028854, tt0028419, tt0029210, tt0249235, tt0029731, tt0029734, tt0028490, tt0029785, tt0028511]
@@ -8722,7 +8723,7 @@
     best italian director:
       nominee: [tt0029562]
       winner: [tt0029562]
-'1936':
+'1936': # https://www.imdb.com/event/ev0000681/1936/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0027834, tt0268915, tt0029353, tt0027296, tt0027319, tt0026564, tt0027351, tt0887903, tt0151169, tt0028347, tt0027943, tt0027948, tt0208285, tt0027951, tt0027986, tt0029772, tt0027996, tt0028033, tt0028211, tt0134075, tt0028216, tt0028223, tt0026972, tt0028249, tt0146273, tt0029647, tt0027347, tt0144087, tt0027422, tt0028225, tt0026406, tt0027698, tt0027847, tt0029201, tt0242180, tt0028196, tt0028313, tt0028201, tt0028401, tt0028461, tt0028499, tt0028406, tt0028430, tt0237908, tt0028515, tt0027821]
@@ -8775,7 +8776,7 @@
     propaganda ministry cup:
       nominee: [tt0027435]
       winner: [tt0027435]
-'1935':
+'1935': # https://www.imdb.com/event/ev0000681/1935/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0026071, tt0026026, tt0268112, tt0026104, tt0026121, tt0024916, tt0026205, tt0132068, tt0026252, tt0026262, tt0026266, tt0027592, tt0240954, tt0026316, tt0026320, tt0026373, tt0025241, tt0025291, tt0143315, tt0025027, tt0210171, tt0145682, tt0025411, tt0025471, tt0192292, tt0025569, tt0025583, tt0025603, tt0025642, tt0025708, tt0026966, tt0030951, tt0025952, tt0027062, tt0250772, tt0026249, tt0285048, tt0026276, tt0026529, tt0162427, tt0026065, tt0025943, tt0147557, tt0027189, tt0192691, tt0025913, tt0025248]
@@ -8864,7 +8865,7 @@
     best italian documentary:
       nominee: [tt3017454]
       winner: [tt3017454]
-'1934':
+'1934': # https://www.imdb.com/event/ev0000681/1934/1/?ref_=ev_eh
   mussolini cup:
     best foreign film:
       nominee: [tt0025456, tt0024533, tt0190964, tt0024900, tt0126214, tt0023849, tt0023860, tt0150097, tt0025037, tt2328553, tt0025060, tt0022867, tt0025832, tt0026389, tt0024067, tt0025316, tt0170080, tt0025198, tt0178699, tt0024264, tt0025478, tt0025946, tt0025648, tt0024481, tt0024027, tt0158893, tt0025623, tt0157008, tt0024493, tt0024184, tt0025681, tt0024203, tt0026008, tt0025911, tt0025207, tt0025919, tt0025948, tt0025985, tt0182529, tt0026007, tt0024799]
@@ -8917,7 +8918,7 @@
     corporations ministry cup:
       nominee: [tt0025791]
       winner: [tt0025791]
-'1932':
+'1932': # https://www.imdb.com/event/ev0000681/1932/1/?ref_=ev_eh
   audience referendum:
     best technical perfection:
       nominee: [tt0022183]

@@ -1,4 +1,5 @@
-'2023':
+# BAFTA Awards
+'2023':  # https://www.imdb.com/event/ev0000123/2023/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1016150, tt3704428, tt6710474, tt11813216, tt14444726]
@@ -275,7 +276,7 @@
     technical achievement:
       nominee: [tt12496904, tt10562854, tt13119450, tt21911886, tt12497220, tt20918700]
       winner: [tt12496904]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000123/2022/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt10293406, tt12789558, tt11286314, tt1160419, tt11271038]
@@ -549,7 +550,7 @@
     technical achievement:
       nominee: [tt12497014, tt14870662, tt12497188, tt5337160, tt12497042, tt12496966]
       winner: [tt12497014]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000123/2021/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt9770150, tt9620292, tt10272386, tt4761112, tt1070874]
@@ -760,7 +761,7 @@
     technical achievement:
       nominee: [tt5309972, tt12507852, tt8550890, tt11750162, tt12496734, tt6298000]
       winner: [tt5309972]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000123/2020/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt8579674, tt7286456, tt7131622, tt6751668, tt1302006]
@@ -968,7 +969,7 @@
     technical achievement:
       nominee: [tt5807606, tt7028648, tt10417512, tt8585800, tt7447318, tt8558306]
       winner: [tt5807606]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000123/2019/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt6155172, tt1517451, tt7349662, tt6966692, tt5083738]
@@ -1181,7 +1182,7 @@
     game innovation:
       nominee: [tt9071226, tt7903902, tt15600636, tt8849074, tt9433398]
       winner: []
-'2018':
+'2018': # https://www.imdb.com/event/ev0000123/2018/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt5027774, tt5726616, tt4555426, tt5013056, tt5580390]
@@ -1406,7 +1407,7 @@
     game innovation:
       nominee: [tt3253986, tt7263140, tt4674622, tt5238626, tt6451310, tt4485128]
       winner: [tt3253986]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000123/2017/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt3783958, tt2543164, tt5168192, tt4034228, tt4975722]
@@ -1671,7 +1672,7 @@
     esports audience award:
       nominee: [tt6749432, tt2584348, tt2290962, tt2071507, tt4332152, tt3103432]
       winner: [tt6749432]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000123/2016/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1663202, tt3682448, tt2402927, tt1895587, tt1596363]
@@ -1935,7 +1936,7 @@
     esports audience award:
       nominee: [tt4887384, tt4844106, tt2584348, tt2290962, tt3681558, tt2071507]
       winner: [tt4887384]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000123/2015/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1065073, tt2562232, tt2278388, tt2084970, tt2980516]
@@ -2073,7 +2074,7 @@
       nominee: [tt0053494]
       winner: [tt0053494]
     best specialist factual:
-      nominee: [tt4158952, tt3908608]
+      nominee: [tt4158952, tt3640258, tt3908608]
       winner: [tt4158952]
     best sport and live event:
       nominee: [tt5379318]
@@ -2154,7 +2155,7 @@
     game innovation:
       nominee: [tt4844692, tt13992272, tt3391132, tt3330488, tt3304506]
       winner: [tt4844692]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000123/2014/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt2024544, tt1800241, tt1535109, tt1454468, tt2431286]
@@ -2405,7 +2406,7 @@
     game innovation:
       nominee: [tt3130160, tt2103188, tt3618274, tt2409476, tt3252636, tt18257650]
       winner: [tt3130160]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000123/2013/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1024648, tt1707386, tt0454876, tt0443272, tt1790885]
@@ -2685,7 +2686,7 @@
     game innovation:
       nominee: [tt2461590, tt2387409, tt2777584, tt1821474, tt3358032]
       winner: [tt2461590]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000123/2012/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1655442, tt0780504, tt1033575, tt1454029, tt1340800]
@@ -2952,7 +2953,7 @@
     game innovation:
       nominee: [tt1663344, tt2040279, tt2091262, tt2330544, tt1764429, tt2090679]
       winner: [tt1663344]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000123/2011/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1504320, tt0947798, tt1375666, tt1285016, tt1403865]
@@ -3215,7 +3216,7 @@
     technical innovation:
       nominee: [tt1606610, tt1699759, tt1632479, tt1723639, tt1686901, tt1698007]
       winner: [tt1606610]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000123/2010/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt0887912, tt1174732, tt0499549, tt0929632, tt1193138]
@@ -3465,7 +3466,7 @@
     best use of audio:
       nominee: [tt1349460, tt1282022, tt1450746, tt1571399, tt1852789, tt1543024]
       winner: [tt1349460]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000123/2009/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1010048, tt0870111, tt1013753, tt0421715, tt0976051]
@@ -3721,7 +3722,7 @@
     technical achievement:
       nominee: [tt3130014, tt0932936, tt1310502, tt1073664, tt0802999, tt1309457]
       winner: [tt3130014]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000123/2008/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt0783233, tt0765429, tt0477348, tt0405094, tt0469494]
@@ -3955,7 +3956,7 @@
     best writer:
       nominee: [tt1042913, tt0487813]
       winner: [tt1042913]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000123/2007/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt0436697, tt0449467, tt0449059, tt0407887, tt0455590]
@@ -4206,7 +4207,7 @@
     technical achievement:
       nominee: [tt0846694, tt0995064, tt0823463, tt0891539, tt0884870, tt1000777]
       winner: [tt0846694]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000123/2006/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt0388795, tt0379725, tt0375679, tt0433383, tt0387131]
@@ -4466,7 +4467,7 @@
     technical achievement:
       nominee: [tt0492457, tt0437850, tt0791620, tt0940856, tt0888505, tt0486673]
       winner: [tt0492457]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000123/2005/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt0338751, tt0338013, tt0308644, tt0318462, tt0383694]
@@ -4756,7 +4757,7 @@
     sunday times reader award for games:
       nominee: [tt0433373, tt1235895, tt0383385, tt0374692, tt0357718]
       winner: [tt0433373]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000123/2004/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt0167260, tt0319061, tt0159365, tt0335266, tt0311113]
@@ -5024,7 +5025,7 @@
     sunday times reader award for games:
       nominee: [tt0314123, tt0382590, tt0381105, tt0385801, tt0356070, tt0325724]
       winner: [tt0314123]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000123/2003/1/?ref_=ev_eh
   bafta film award:
     best screenplay - original:
       nominee: [tt0287467, tt0245574, tt0301199, tt0217505, tt0318411]
@@ -5237,7 +5238,7 @@
     kids' vote:
       nominee: [tt0295297]
       winner: [tt0295297]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000123/2002/1/?ref_=ev_eh
   bafta film award:
     best screenplay - original:
       nominee: [tt0211915, tt0280707, tt0203009, tt0230600, tt0265666]
@@ -5481,7 +5482,7 @@
     technical innovation:
       nominee: [tt0277723]
       winner: []
-'2001':
+'2001': # https://www.imdb.com/event/ev0000123/2001/1/?ref_=ev_eh
   bafta film award:
     best achievement in special visual effects:
       nominee: [tt0177971, tt0120630, tt0190332, tt0172495, tt0190865]
@@ -5720,7 +5721,7 @@
     technical innovation:
       nominee: [tt0280485]
       winner: []
-'2000':
+'2000': # https://www.imdb.com/event/ev0000123/2000/1/?ref_=ev_eh
   bafta film award:
     best achievement in special visual effects:
       nominee: [tt0133093, tt0120623, tt0162661, tt0120915, tt0120616]
@@ -5941,7 +5942,7 @@
     online entertainment:
       nominee: [tt0434318]
       winner: []
-'1999':
+'1999': # https://www.imdb.com/event/ev0000123/1999/1/?ref_=ev_eh
   bafta film award:
     best animated short film:
       nominee: [tt0188478, tt0193688, tt0205972, tt0192145]
@@ -6161,7 +6162,7 @@
     moving images:
       nominee: [tt0257570, tt0239023]
       winner: [tt0257570]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000123/1998/1/?ref_=ev_eh
   bafta film award:
     best animated short film:
       nominee: [tt0120193, tt0162899, tt0119133, tt0152800]
@@ -6350,7 +6351,7 @@
     moving images:
       nominee: [tt0129342]
       winner: []
-'1997':
+'1997': # https://www.imdb.com/event/ev0000123/1997/1/?ref_=ev_eh
   bafta film award:
     best achievement in special visual effects:
       nominee: [tt0117998, tt0116629, tt0117218, tt0114709]
@@ -6507,7 +6508,7 @@
     schools drama:
       nominee: [tt0174195]
       winner: [tt0174195]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000123/1996/1/?ref_=ev_eh
   bafta film award:
     best achievement in special effects:
       nominee: [tt0112384, tt0112431, tt0113189, tt0114898]
@@ -6680,7 +6681,7 @@
     best factual:
       nominee: [tt0305142, tt0217959]
       winner: [tt0305142]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000123/1995/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0109831, tt0110912, tt0109045, tt0109830]
@@ -6832,7 +6833,7 @@
     audience award (tv):
       nominee: [tt0105977]
       winner: [tt0105977]
-'1994':
+'1994': # https://www.imdb.com/event/ev0000123/1994/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0107943, tt0108101, tt0107207, tt0108052]
@@ -6977,7 +6978,7 @@
     lloyds bank people's vote for the most popular film:
       nominee: [tt0107290]
       winner: [tt0107290]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000123/1993/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0103939, tt0104691, tt0104036, tt0105151]
@@ -7124,7 +7125,7 @@
     flaherty documentary award (tv):
       nominee: [tt0232044, tt0264972]
       winner: [tt0232044]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000123/1992/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0102926, tt0103129, tt0099334, tt0099348]
@@ -7263,7 +7264,7 @@
     flaherty documentary award (tv):
       nominee: [tt0101254, tt0146983, tt0181269]
       winner: [tt0101254]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000123/1991/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0095765, tt0099685, tt0099810, tt0096969]
@@ -7398,7 +7399,7 @@
     best video lighting:
       nominee: [tt0090400, tt0098781, tt0098912]
       winner: [tt0090400]
-'1990':
+'1990': # https://www.imdb.com/event/ev0000123/1990/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0097937, tt0095953, tt0097499, tt0097165]
@@ -7524,7 +7525,7 @@
     best video lighting:
       nominee: [tt0096595, tt0310777, tt0096555, tt0096681]
       winner: [tt0096595]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000123/1989/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0095159, tt0093010, tt0093105]
@@ -7660,7 +7661,7 @@
     flaherty documentary award (tv):
       nominee: [tt0294205, tt0159876, tt0254033]
       winner: [tt0294205]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000123/1988/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0091605, tt0093776, tt0091288]
@@ -7796,7 +7797,7 @@
     flaherty documentary award (tv):
       nominee: [tt0144781, tt0429290, tt0188626]
       winner: [tt0144781]
-'1987':
+'1987': # https://www.imdb.com/event/ev0000123/1987/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0091538, tt0091167, tt0090555]
@@ -7939,7 +7940,7 @@
     flaherty documentary award (tv):
       nominee: [tt0090015, tt0264241, tt0429290]
       winner: [tt0090015]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000123/1986/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0089424, tt0086879, tt0090329, tt0087892]
@@ -8069,7 +8070,7 @@
     flaherty documentary award (tv):
       nominee: [tt0200358, tt0117556, tt0077082]
       winner: [tt0200358]
-'1985':
+'1985': # https://www.imdb.com/event/ev0000123/1985/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0087553, tt0085461]
@@ -8211,7 +8212,7 @@
     flaherty documentary award (tv):
       nominee: [tt0088650, tt0077082]
       winner: [tt0088650]
-'1984':
+'1984': # https://www.imdb.com/event/ev0000123/1984/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0084805, tt0085478, tt0085236, tt0085794]
@@ -8360,7 +8361,7 @@
     shell international award:
       nominee: [tt0229908]
       winner: [tt0229908]
-'1983':
+'1983': # https://www.imdb.com/event/ev0000123/1983/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0083987, tt0084675, tt0082846, tt0084335, tt0082979]
@@ -8505,7 +8506,7 @@
     best video lighting:
       nominee: [tt0083689, tt0086667, tt0082660]
       winner: []
-'1982':
+'1982': # https://www.imdb.com/event/ev0000123/1982/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0080388, tt0081070, tt0082416, tt0081398]
@@ -8637,7 +8638,7 @@
     shell international award:
       nominee: [tt0229908]
       winner: [tt0229908]
-'1981':
+'1981': # https://www.imdb.com/event/ev0000123/1981/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0080678, tt0079417, tt0078841, tt0078754]
@@ -8752,7 +8753,7 @@
     best vtr editor:
       nominee: [tt0080253, tt0077036]
       winner: []
-'1980':
+'1980': # https://www.imdb.com/event/ev0000123/1980/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0078966, tt0078788, tt0077416, tt0079522]
@@ -8884,7 +8885,7 @@
     shell international award:
       nominee: [tt0080288]
       winner: [tt0080288]
-'1979':
+'1979': # https://www.imdb.com/event/ev0000123/1979/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0076095, tt0077889, tt0077928, tt0077413]
@@ -9009,7 +9010,7 @@
     most original programme/series:
       nominee: [tt0077060, tt0199189, tt0077036]
       winner: [tt0077060]
-'1978':
+'1978': # https://www.imdb.com/event/ev0000123/1978/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0074958, tt0075148, tt0075686]
@@ -9146,7 +9147,7 @@
     shell international award:
       nominee: [tt0229908]
       winner: [tt0229908]
-'1977':
+'1977': # https://www.imdb.com/event/ev0000123/1977/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0073486, tt0074119, tt0075314, tt0074174]
@@ -9247,7 +9248,7 @@
     best specialised programme:
       nominee: [tt0247852, tt0334859, tt0213372]
       winner: []
-'1976':
+'1976': # https://www.imdb.com/event/ev0000123/1976/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0072890, tt0071746, tt0073018, tt0073195]
@@ -9359,7 +9360,7 @@
     shell international award:
       nominee: [tt0181269]
       winner: [tt0181269]
-'1975':
+'1975': # https://www.imdb.com/event/ev0000123/1975/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0071315, tt0070666, tt0071877, tt0071360]
@@ -9458,7 +9459,7 @@
     best specialised series:
       nominee: [tt0247852, tt0403761, tt0884759, tt0200358]
       winner: [tt0247852]
-'1974':
+'1974': # https://www.imdb.com/event/ev0000123/1974/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0069865, tt0069995, tt0069281, tt0070849]
@@ -9567,7 +9568,7 @@
     technical craft award (tv):
       nominee: [tt0071075]
       winner: [tt0071075]
-'1973':
+'1973': # https://www.imdb.com/event/ev0000123/1973/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0067116, tt0067217, tt0068646, tt0069528]
@@ -9670,7 +9671,7 @@
     richard dimbleby award:
       nominee: [tt0185051]
       winner: [tt0185051]
-'1972':
+'1972': # https://www.imdb.com/event/ev0000123/1972/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0067805, tt0068669, tt0067445, tt0065988]
@@ -9767,7 +9768,7 @@
     special award:
       nominee: [tt0063930]
       winner: [tt0063930]
-'1971':
+'1971': # https://www.imdb.com/event/ev0000123/1971/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0064115, tt0064100, tt0066206]
@@ -9867,7 +9868,7 @@
     shell international award:
       nominee: [tt0159187]
       winner: [tt0159187]
-'1970':
+'1970': # https://www.imdb.com/event/ev0000123/1970/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0064513, tt0066579, tt0063131, tt0063572]
@@ -9975,7 +9976,7 @@
     special award:
       nominee: [tt0264234, tt0063929]
       winner: [tt0264234, tt0063929]
-'1969':
+'1969': # https://www.imdb.com/event/ev0000123/1969/1/?ref_=ev_eh
   bafta film award:
     best actor:
       nominee: [tt0061735, tt0062746, tt0063385, tt0062790]
@@ -10063,7 +10064,7 @@
     mullard award:
       nominee: [tt0318224]
       winner: [tt0318224]
-'1968':
+'1968': # https://www.imdb.com/event/ev0000123/1968/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0309929, tt0793591]
@@ -10131,7 +10132,7 @@
     best special/s:
       nominee: [tt0061253]
       winner: [tt0061253]
-'1967':
+'1967': # https://www.imdb.com/event/ev0000123/1967/1/?ref_=ev_eh
   bafta film award:
     best british actor:
       nominee: [tt0061184, tt0060714, tt0060086, tt0059113]
@@ -10189,7 +10190,7 @@
     un award:
       nominee: [tt0059894, tt0199257, tt0059575, tt0060921]
       winner: [tt0059894]
-'1966':
+'1966': # https://www.imdb.com/event/ev0000123/1966/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0145743, tt0793476, tt0806930, tt0145823]
@@ -10251,7 +10252,7 @@
     best dramatic series:
       nominee: [tt0059976]
       winner: [tt0059976]
-'1965':
+'1965': # https://www.imdb.com/event/ev0000123/1965/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0807247]
@@ -10316,7 +10317,7 @@
     best director:
       nominee: [tt0148018]
       winner: [tt0148018]
-'1964':
+'1964': # https://www.imdb.com/event/ev0000123/1964/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0056841, tt0056965]
@@ -10365,7 +10366,7 @@
     best light entertainment programme:
       nominee: [tt0054573]
       winner: [tt0054573]
-'1963':
+'1963': # https://www.imdb.com/event/ev0000123/1963/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0321262]
@@ -10401,7 +10402,7 @@
     un award:
       nominee: [tt0056397, tt0055244]
       winner: [tt0056397]
-'1962':
+'1962': # https://www.imdb.com/event/ev0000123/1962/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0055254, tt0145744]
@@ -10441,7 +10442,7 @@
     un award:
       nominee: [tt0059383, tt0053331, tt0054678]
       winner: [tt0059383]
-'1961':
+'1961': # https://www.imdb.com/event/ev0000123/1961/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0054429, tt0147171, tt1661909]
@@ -10477,7 +10478,7 @@
     un award:
       nominee: [tt0052893, tt0048434, tt0053270]
       winner: [tt0052893]
-'1960':
+'1960': # https://www.imdb.com/event/ev0000123/1960/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0053425, tt0051544, tt0053276]
@@ -10517,7 +10518,7 @@
     un award:
       nominee: [tt0053137, tt0053131]
       winner: [tt0053137]
-'1959':
+'1959': # https://www.imdb.com/event/ev0000123/1959/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0194113, tt0051923, tt0050575]
@@ -10553,7 +10554,7 @@
     un award:
       nominee: [tt0051525, tt0048752]
       winner: [tt0051525]
-'1958':
+'1958': # https://www.imdb.com/event/ev0000123/1958/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0360861, tt0044414, tt0041618]
@@ -10593,7 +10594,7 @@
     special award:
       nominee: [tt0050534]
       winner: [tt0050534]
-'1957':
+'1957': # https://www.imdb.com/event/ev0000123/1957/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0049258, tt0150123, tt0049700, tt0823248, tt0355576]
@@ -10633,7 +10634,7 @@
     special award:
       nominee: [tt0048980, tt0048447, tt0302508, tt0046593]
       winner: [tt0048980]
-'1956':
+'1956': # https://www.imdb.com/event/ev0000123/1956/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0047887, tt0047834, tt0150663, tt0048280, tt0162458]
@@ -10673,7 +10674,7 @@
     special award:
       nominee: [tt0049000, tt0325847]
       winner: [tt0049000]
-'1955':
+'1955': # https://www.imdb.com/event/ev0000123/1955/1/?ref_=ev_eh
   bafta film award:
     best animated film:
       nominee: [tt0247179, tt0153448]
@@ -10713,7 +10714,7 @@
     special award:
       nominee: [tt0047587, tt0046203, tt0046008]
       winner: [tt0047587]
-'1954':
+'1954': # https://www.imdb.com/event/ev0000123/1954/1/?ref_=ev_eh
   bafta film award:
     best british actor:
       nominee: [tt0045943, tt0046006, tt0045659, tt0045808, tt0047066]
@@ -10754,7 +10755,7 @@
     special award:
       nominee: [tt0045100, tt0165837, tt0045694, tt0046194]
       winner: [tt0045100]
-'1953':
+'1953': # https://www.imdb.com/event/ev0000123/1953/1/?ref_=ev_eh
   bafta film award:
     best british actor:
       nominee: [tt0044446, tt0044626, tt0045654, tt0045030, tt0044486]
@@ -10788,7 +10789,7 @@
     special award:
       nominee: [tt0045028, tt0348216]
       winner: []
-'1952':
+'1952': # https://www.imdb.com/event/ev0000123/1952/1/?ref_=ev_eh
   bafta film award:
     best british film:
       nominee: [tt0044829, tt0044049, tt0251301, tt0043362, tt0043769, tt0045021, tt0044876, tt0044214]
@@ -10807,7 +10808,7 @@
     special award:
       nominee: [tt0043581, tt0040610]
       winner: [tt0043581]
-'1951':
+'1951': # https://www.imdb.com/event/ev0000123/1951/1/?ref_=ev_eh
   bafta film award:
     best british film:
       nominee: [tt0042265, tt0042326, tt0042810, tt0042949, tt0042522, tt0043147]
@@ -10826,7 +10827,7 @@
     special award:
       nominee: [tt0145917, tt0208040]
       winner: []
-'1950':
+'1950': # https://www.imdb.com/event/ev0000123/1950/1/?ref_=ev_eh
   bafta film award:
     best british film:
       nominee: [tt0041959, tt0041831, tt0041886, tt0041546, tt0041737, tt0041776, tt0042040]
@@ -10841,7 +10842,7 @@
     un award:
       nominee: [tt0040765, tt0041283, tt0223904]
       winner: [tt0040765]
-'1949':
+'1949': # https://www.imdb.com/event/ev0000123/1949/1/?ref_=ev_eh
   bafta film award:
     best british film:
       nominee: [tt0040338, tt0040416, tt0040666, tt0040662, tt0040761, tt0040801, tt0040725]

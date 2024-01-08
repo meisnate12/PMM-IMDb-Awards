@@ -1,4 +1,5 @@
-'2024':
+# Berlin International Film Festival
+'2024':  # https://www.imdb.com/event/ev0000091/2024/1/?ref_=ev_eh
   panorama audience award:
     feature film:
       nominee: [tt30439035, tt21186614, tt21443754, tt26749327, tt30440590, tt30441039, tt15574270, tt18246700, tt21247132, tt11687002]
@@ -7,7 +8,7 @@
     gwff best first feature award:
       nominee: [tt26749327]
       winner: []
-'2023':
+'2023': # https://www.imdb.com/event/ev0000091/2023/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt26448811, tt21113962, tt26440619, tt1872160, tt14007288, tt21867434, tt22180518, tt16103266, tt21833834, tt14813150, tt15547924, tt13238346, tt21654390, tt16428256, tt15531718, tt26441793, tt15831022, tt23283892, tt26315142]
@@ -255,7 +256,7 @@
     best film:
       nominee: [tt11396282]
       winner: [tt11396282]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000091/2022/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt11930126, tt17154094, tt14783042, tt15215918, tt13535920, tt7461272, tt15386518, tt13107800, tt14104600, tt14336174, tt13471738, tt17097088, tt8956284, tt17280362, tt16944826, tt13086492, tt17146978, tt13846402]
@@ -463,7 +464,7 @@
     ag kino gilde - cinema vision 14plus:
       nominee: [tt15047780]
       winner: [tt15047780]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000091/2021/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt14033502, tt14035242, tt11781806, tt11773484, tt13846414, tt14033416, tt14035048, tt13087796, tt14035108, tt7265490, tt11681056, tt11080676, tt13204490, tt14035154, tt14034966]
@@ -607,7 +608,7 @@
     compass-perspektive award - special mention:
       nominee: [tt12974232]
       winner: [tt12974232]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000091/2020/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt11697844, tt8845322, tt8526370, tt6470924, tt11697832, tt11697820, tt10627352, tt9231040, tt8478554, tt11697794, tt10117768, tt7772582, tt4687856, tt11417886, tt9411866, tt10132976, tt11697690, tt11617052]
@@ -814,7 +815,7 @@
     encounters award - special jury prize:
       nominee: [tt9220966]
       winner: [tt9220966]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000091/2019/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt7016254, tt9418878, tt8095860, tt9581172, tt6704898, tt9068100, tt8054608, tt7760890, tt6828390, tt8959680, tt7319496, tt8740778, tt9581076, tt8535968, tt7670212, tt7902124, tt6515910]
@@ -1024,7 +1025,7 @@
     culinary cinema:
       nominee: [tt9658780]
       winner: []
-'2018':
+'2018': # https://www.imdb.com/event/ev0000091/2018/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt4949112, tt6463494, tt5881528, tt7765120, tt6288124, tt7763020, tt6414890, tt6263618, tt5104604, tt6415416, tt4958448, tt3552348, tt7429708, tt7200370, tt7875464, tt7839456, tt6258766, tt6675244, tt7959216]
@@ -1223,7 +1224,7 @@
     compass-perspektive award:
       nominee: [tt7733426, tt6887162]
       winner: []
-'2017':
+'2017': # https://www.imdb.com/event/ev0000091/2017/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt5607714, tt5639354, tt6125690, tt6340090, tt6425734, tt5446444, tt6247936, tt5980798, tt6451304, tt4895628, tt6509862, tt6412864, tt5247776, tt5328350, tt3203620, tt5222918, tt5814592, tt5376196]
@@ -1409,7 +1410,7 @@
     compass-perspektive award:
       nominee: [tt5538118]
       winner: [tt5538118]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000091/2016/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt2249039]
@@ -1628,7 +1629,7 @@
     animation film:
       nominee: [tt13171208]
       winner: [tt13171208]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000091/2015/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt4230878, tt4433644, tt4433660, tt4132216, tt3739624, tt4433528, tt4242936, tt4190544, tt4379732, tt4433800, tt4433664, tt4433626, tt4429126, tt4433610, tt4433560, tt4433694, tt4433510, tt4433706, tt3831540, tt4433784, tt4302954, tt4433822, tt2154534, tt4396984, tt4408200, tt4433674, tt4433412, tt4221198]
@@ -1867,7 +1868,7 @@
     eurimages co-production development award - special mention:
       nominee: [tt7703070]
       winner: [tt7703070]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000091/2014/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt3492944, tt3483780, tt3334028, tt3498046, tt3491456, tt3467038, tt3492660, tt3238156, tt3498488, tt3492686, tt3492590, tt2950006, tt3509746, tt3358498, tt3484138, tt3509684, tt3509672, tt3492802, tt3203054, tt3493308, tt3467122, tt3491336, tt3493858, tt3395478, tt3289618]
@@ -2107,7 +2108,7 @@
     golden berlin bear for best short film:
       nominee: [tt3798804]
       winner: []
-'2013':
+'2013': # https://www.imdb.com/event/ev0000091/2013/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt2630808, tt2660424, tt2718742, tt2718284, tt2715004, tt2719064, tt2671614, tt2464840, tt2661386, tt2666388, tt2666318, tt2661290, tt2718360, tt2464788, tt2499072, tt2629112, tt2671600, tt2555000, tt2461346, tt2661940, tt2714884, tt2661352, tt2716708, tt2718196, tt2199705, tt2716200, tt2642662]
@@ -2348,7 +2349,7 @@
     berlinale talent campus:
       nominee: [tt1991009]
       winner: []
-'2012':
+'2012': # https://www.imdb.com/event/ev0000091/2012/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt2177511, tt1276419, tt2178941, tt1699745, tt1734428, tt2194497, tt1753813, tt2179055, tt2180587, tt1781840, tt2180335, tt2180473, tt2073058, tt2062969, tt2153963, tt2178935, tt1820488, tt1727396]
@@ -2564,7 +2565,7 @@
     best first feature award:
       nominee: [tt1776222, tt2210657, tt2215215, tt2104115]
       winner: [tt1776222]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000091/2011/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt1817229, tt1895283, tt1895497, tt1838455, tt1858727, tt1858411, tt1895322, tt1895507, tt1813289, tt1699129, tt1791520, tt1878967, tt1895502, tt1895362, tt1823744, tt1895528, tt1691340, tt1895538, tt1863390, tt1895540, tt1884454, tt1895441, tt1895306, tt1895579, tt1709180]
@@ -2783,7 +2784,7 @@
     best film:
       nominee: [tt1720213]
       winner: []
-'2010':
+'2010': # https://www.imdb.com/event/ev0000091/2010/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt1521791, tt1598753, tt1598694, tt1606159, tt1606171, tt1606222, tt1606227, tt1587672, tt1606225, tt1606245, tt1592262, tt1606280, tt1606337, tt1493062, tt1598829, tt1606316, tt1606192, tt1606235, tt1606209, tt1541927, tt1601238, tt1606355, tt1587435, tt1598868, tt1604944]
@@ -2986,7 +2987,7 @@
     thomas strittmacher drehbuchpreis:
       nominee: [tt2137720]
       winner: [tt2137720]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000091/2009/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt1375309, tt1402517, tt1352669, tt1369478, tt1369814, tt1369483, tt1356534, tt1355206, tt1264106, tt1462864, tt1402496, tt1355203, tt1369505, tt1354571]
@@ -3206,7 +3207,7 @@
     golden berlin bear for best short film:
       nominee: [tt1375309]
       winner: []
-'2008':
+'2008': # https://www.imdb.com/event/ev0000091/2008/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt1185664, tt1185637, tt1375300, tt1326146, tt1173906, tt1124108, tt1185670, tt1210099, tt1194442, tt1340136, tt1185686, tt1183950]
@@ -3419,7 +3420,7 @@
     reader jury of the "siegessäule":
       nominee: [tt1157609]
       winner: [tt1157609]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000091/2007/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0878143, tt0984004, tt0953330, tt0969254, tt0978810, tt0978816, tt0984063, tt0960075, tt0978830, tt0978831, tt0811058, tt0975674, tt0759606, tt0978836]
@@ -3619,7 +3620,7 @@
     efp shooting star:
       nominee: [tt0494231]
       winner: [tt0494231]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000091/2006/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0783661, tt0783741, tt0783674, tt0783702, tt0783729, tt0783735, tt0781448, tt0783722, tt0778677, tt0783846]
@@ -3828,7 +3829,7 @@
     generation 14plus - best short film:
       nominee: [tt0490473]
       winner: []
-'2005':
+'2005': # https://www.imdb.com/event/ev0000091/2005/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0453783, tt0453912, tt0453644, tt0453652, tt0453673, tt0453735, tt0449520, tt0453728]
@@ -4052,7 +4053,7 @@
     best short film:
       nominee: [tt0441680]
       winner: []
-'2004':
+'2004': # https://www.imdb.com/event/ev0000091/2004/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0397696, tt0397506, tt0397354, tt0375684, tt0393334, tt0397712, tt0397719, tt0397079, tt0393554, tt0397604, tt0397621, tt0397610, tt0397617, tt0397622, tt0397642, tt0397693, tt0397371]
@@ -4268,7 +4269,7 @@
     thomas strittmacher drehbuchpreis:
       nominee: [tt0461694]
       winner: [tt0461694]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000091/2003/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0350476, tt0350541, tt0350791, tt0351157, tt0342333, tt0316411, tt0351933, tt0351654, tt0351327, tt0339717, tt0338480, tt0331218, tt0351003, tt0351539, tt0351852, tt0339812, tt0351017]
@@ -4461,7 +4462,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0314039]
       winner: [tt0314039]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000091/2002/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0310673, tt0310803, tt0311212, tt0311707, tt0310204, tt0311080]
@@ -4668,7 +4669,7 @@
     special jury prize:
       nominee: [tt0321249]
       winner: []
-'2001':
+'2001': # https://www.imdb.com/event/ev0000091/2001/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0280222, tt0280106, tt0279751, tt0279816, tt0286704, tt0279894, tt0286775, tt0278534, tt0276952, tt0280156, tt0280221]
@@ -4863,7 +4864,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0263957]
       winner: [tt0263957]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000091/2000/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0237310, tt0237058, tt0208920, tt0237213, tt0237577, tt0237326, tt0234222, tt0237718, tt0237405, tt0237466, tt0237902]
@@ -5046,7 +5047,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0228242]
       winner: [tt0228242]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000091/1999/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0192012, tt0192296, tt0181473, tt0192687, tt0192156, tt0192211, tt0192219, tt0192447, tt0192633, tt0192391]
@@ -5221,7 +5222,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0162710]
       winner: [tt0162710]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000091/1998/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt0140888, tt0118683, tt0143907, tt0141570, tt0119201, tt0119217, tt0144029, tt0119347, tt0119396, tt0123923, tt0119512, tt0144589, tt0119828, tt0143245, tt0133413, tt0118715, tt0118760, tt0139898, tt0118804, tt0120640, tt0125936, tt0120837, tt0159052, tt0120885, tt0115005]
@@ -5394,7 +5395,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0144801]
       winner: [tt0144801]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000091/1997/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt0117318, tt0120311, tt0119815, tt0119242, tt0116404, tt0116621, tt0116785, tt0119510, tt0119586, tt0120101, tt0117286, tt0119920, tt0117509, tt0120036, tt0120090, tt0120152, tt0151464, tt0115988, tt0116209, tt0119389, tt0119263, tt0120372, tt0120394, tt0116857, tt0117575]
@@ -5470,7 +5471,7 @@
     best film:
       nominee: [tt0115999]
       winner: []
-'1996':
+'1996': # https://www.imdb.com/event/ev0000091/1996/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt2087918, tt0304655, tt0163634, tt0304720, tt0114593, tt0297813, tt0121510, tt0304522, tt0114750, tt0260496]
@@ -5636,7 +5637,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0114093]
       winner: [tt0114093]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000091/1995/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0113893, tt0114269, tt0112249, tt0157076, tt0109453, tt0112773, tt0113683, tt0114698, tt0109640, tt0111232]
@@ -5716,7 +5717,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0112452]
       winner: [tt0112452]
-'1994':
+'1994': # https://www.imdb.com/event/ev0000091/1994/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt0107651]
@@ -5801,7 +5802,7 @@
     reader jury of the "siegessäule":
       nominee: [tt0239454]
       winner: [tt0239454]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000091/1993/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0337889, tt0106924, tt0318576, tt0317380, tt0104768, tt0318427, tt0104814, tt0262754, tt0318721, tt0318858]
@@ -5875,7 +5876,7 @@
     wolfgang staudte award:
       nominee: [tt0104693]
       winner: [tt0104693]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000091/1992/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0317074, tt0318816, tt0318603, tt0318657, tt0318831]
@@ -5969,7 +5970,7 @@
     reader jury of the "berliner zeitung":
       nominee: [tt0105708]
       winner: [tt0105708]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000091/1991/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0121756, tt0317155, tt0317188, tt0099115, tt0317443, tt0130575, tt0317668]
@@ -6051,7 +6052,7 @@
     best short film:
       nominee: [tt0433760]
       winner: []
-'1990':
+'1990': # https://www.imdb.com/event/ev0000091/1990/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0124009, tt1431343]
@@ -6199,7 +6200,7 @@
     reader jury of the "zitty":
       nominee: [tt0098732]
       winner: [tt0098732]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000091/1989/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt0095953, tt0095310, tt0096890, tt0095632, tt0094828, tt0095115, tt0092192, tt0095127, tt0123789, tt0123920, tt0123919, tt0095406, tt0095647, tt0095856, tt0098190, tt0096121, tt0096219, tt0094608, tt0097998, tt0094709, tt0123833, tt0095433]
@@ -6329,7 +6330,7 @@
     reader jury of the "zitty":
       nominee: [tt0124103]
       winner: [tt0124103]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000091/1988/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0124033]
@@ -6466,7 +6467,7 @@
     golden berlin bear for best short film:
       nominee: [tt0207812]
       winner: []
-'1987':
+'1987': # https://www.imdb.com/event/ev0000091/1987/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0123771]
@@ -6580,7 +6581,7 @@
     reader jury of the "zitty":
       nominee: [tt0095999]
       winner: [tt0095999]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000091/1986/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0124170]
@@ -6693,7 +6694,7 @@
     reader jury of the "zitty":
       nominee: [tt0089247]
       winner: [tt0089247]
-'1985':
+'1985': # https://www.imdb.com/event/ev0000091/1985/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0124030]
@@ -6802,7 +6803,7 @@
     reader jury of the "zitty":
       nominee: [tt0087860, tt0090341]
       winner: [tt0087860, tt0090341]
-'1984':
+'1984': # https://www.imdb.com/event/ev0000091/1984/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0131346]
@@ -6898,7 +6899,7 @@
     best film:
       nominee: [tt0084401]
       winner: []
-'1983':
+'1983': # https://www.imdb.com/event/ev0000091/1983/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0084362]
@@ -7005,7 +7006,7 @@
     forum section:
       nominee: [tt0083818, tt0199166]
       winner: []
-'1982':
+'1982': # https://www.imdb.com/event/ev0000091/1982/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0133068]
@@ -7096,7 +7097,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0081974]
       winner: [tt0081974]
-'1981':
+'1981': # https://www.imdb.com/event/ev0000091/1981/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0080879]
@@ -7166,7 +7167,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0081385]
       winner: [tt0081385]
-'1980':
+'1980': # https://www.imdb.com/event/ev0000091/1980/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0138495]
@@ -7233,7 +7234,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0079924]
       winner: [tt0079924]
-'1979':
+'1979': # https://www.imdb.com/event/ev0000091/1979/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0158298]
@@ -7308,7 +7309,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0079095]
       winner: [tt0079095]
-'1978':
+'1978': # https://www.imdb.com/event/ev0000091/1978/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0169693]
@@ -7375,7 +7376,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0076513]
       winner: [tt0076513]
-'1977':
+'1977': # https://www.imdb.com/event/ev0000091/1977/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt0075404, tt0075744, tt0075798, tt0167100, tt0074393, tt0075387, tt0074422, tt0080816, tt0074848, tt0074964, tt0167344, tt0075190, tt0074623, tt0080004, tt0074142, tt0074107, tt0162950, tt0075938, tt0075467, tt0076301, tt0076155, tt0075380]
@@ -7468,7 +7469,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0075744]
       winner: [tt0075744]
-'1976':
+'1976': # https://www.imdb.com/event/ev0000091/1976/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0233887]
@@ -7547,7 +7548,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0074152]
       winner: [tt0074152]
-'1975':
+'1975': # https://www.imdb.com/event/ev0000091/1975/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0234686]
@@ -7623,7 +7624,7 @@
     reader jury of the "berliner morgenpost":
       nominee: [tt0071449]
       winner: [tt0071449]
-'1974':
+'1974': # https://www.imdb.com/event/ev0000091/1974/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0071355]
@@ -7694,7 +7695,7 @@
     best actor:
       nominee: [tt0176105]
       winner: [tt0176105]
-'1973':
+'1973': # https://www.imdb.com/event/ev0000091/1973/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0233473]
@@ -7760,7 +7761,7 @@
     iwg golden plaque:
       nominee: [tt0070921]
       winner: [tt0070921]
-'1972':
+'1972': # https://www.imdb.com/event/ev0000091/1972/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0223294]
@@ -7844,7 +7845,7 @@
     iwg golden plaque:
       nominee: [tt0068995]
       winner: [tt0068995]
-'1971':
+'1971': # https://www.imdb.com/event/ev0000091/1971/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0222663]
@@ -7920,7 +7921,7 @@
     iwg golden plaque:
       nominee: [tt0067655]
       winner: [tt0067655]
-'1970':
+'1970': # https://www.imdb.com/event/ev0000091/1970/1/?ref_=ev_eh
   golden berlin bear:
     golden berlin bear:
       nominee: [tt0065448, tt0066277, tt0065955, tt0222974, tt0222824, tt0065486, tt0065417, tt0065641, tt0067040, tt0064308, tt0064147, tt0223607, tt0066171, tt0065631, tt0063401, tt0065571, tt0147125, tt0063751, tt0223448, tt0187427, tt0138126, tt0066546]
@@ -7949,7 +7950,7 @@
     journalists' special award:
       nominee: [tt0065955, tt0065571, tt0147125]
       winner: [tt0065955, tt0065571, tt0147125]
-'1969':
+'1969': # https://www.imdb.com/event/ev0000091/1969/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0227659]
@@ -7995,7 +7996,7 @@
     unicrit award - honorable mention:
       nominee: [tt0123107]
       winner: [tt0123107]
-'1968':
+'1968': # https://www.imdb.com/event/ev0000091/1968/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0234497]
@@ -8057,7 +8058,7 @@
     iwg golden plaque:
       nominee: [tt0063080, tt0063384]
       winner: [tt0063080, tt0063384]
-'1967':
+'1967': # https://www.imdb.com/event/ev0000091/1967/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0232801]
@@ -8117,7 +8118,7 @@
     unicrit award:
       nominee: [tt0061605]
       winner: [tt0061605]
-'1966':
+'1966': # https://www.imdb.com/event/ev0000091/1966/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0172663]
@@ -8176,7 +8177,7 @@
     unicrit award:
       nominee: [tt0060742]
       winner: [tt0060742]
-'1965':
+'1965': # https://www.imdb.com/event/ev0000091/1965/1/?ref_=ev_eh
   golden berlin bear:
     short film:
       nominee: [tt0059926]
@@ -8239,7 +8240,7 @@
     unicrit award:
       nominee: [tt0059512]
       winner: [tt0059512]
-'1964':
+'1964': # https://www.imdb.com/event/ev0000091/1964/1/?ref_=ev_eh
   golden berlin bear:
     best feature-length documentary:
       nominee: [tt0056819, tt0226800]
@@ -8307,7 +8308,7 @@
     unicrit award:
       nominee: [tt0056819]
       winner: [tt0056819]
-'1963':
+'1963': # https://www.imdb.com/event/ev0000091/1963/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt0057123]
@@ -8375,7 +8376,7 @@
     unicrit award:
       nominee: [tt0056100]
       winner: [tt0056100]
-'1962':
+'1962': # https://www.imdb.com/event/ev0000091/1962/1/?ref_=ev_eh
   golden berlin bear:
     best short film:
       nominee: [tt0226623]
@@ -8424,7 +8425,7 @@
     ocic award:
       nominee: [tt0055499]
       winner: [tt0055499]
-'1961':
+'1961': # https://www.imdb.com/event/ev0000091/1961/1/?ref_=ev_eh
   golden berlin bear:
     best feature-length documentary:
       nominee: [tt0054799, tt0232255, tt0054824]
@@ -8479,7 +8480,7 @@
     c.i.d.a.l.c. award:
       nominee: [tt0054162]
       winner: [tt0054162]
-'1960':
+'1960': # https://www.imdb.com/event/ev0000091/1960/1/?ref_=ev_eh
   golden berlin bear:
     best feature-length documentary:
       nominee: [tt0053811, tt0053977, tt0232046, tt0141164, tt0232905]
@@ -8545,7 +8546,7 @@
     c.i.d.a.l.c. award:
       nominee: [tt0052995]
       winner: [tt0052995]
-'1959':
+'1959': # https://www.imdb.com/event/ev0000091/1959/1/?ref_=ev_eh
   golden berlin bear:
     best feature-length documentary:
       nominee: [tt0052389, tt0163786, tt0054200, tt0310231]
@@ -8597,7 +8598,7 @@
     ocic award:
       nominee: [tt0163786]
       winner: [tt0163786]
-'1958':
+'1958': # https://www.imdb.com/event/ev0000091/1958/1/?ref_=ev_eh
   golden berlin bear:
     best feature-length documentary/cultural film:
       nominee: [tt0050837, tt0133238, tt0051615, tt0224285]
@@ -8643,7 +8644,7 @@
     ocic award:
       nominee: [tt0050322]
       winner: [tt0050322]
-'1957':
+'1957': # https://www.imdb.com/event/ev0000091/1957/1/?ref_=ev_eh
   golden berlin bear:
     best feature-length documentary/cultural film:
       nominee: [tt0049733, tt0925275, tt0142940]
@@ -8689,7 +8690,7 @@
     ocic award - special mention:
       nominee: [tt0051204]
       winner: [tt0051204]
-'1956':
+'1956': # https://www.imdb.com/event/ev0000091/1956/1/?ref_=ev_eh
   golden berlin bear:
     audience poll:
       nominee: [tt0049928]
@@ -8774,7 +8775,7 @@
     ocic award - special mention:
       nominee: [tt0134421]
       winner: [tt0134421]
-'1955':
+'1955': # https://www.imdb.com/event/ev0000091/1955/1/?ref_=ev_eh
   golden berlin bear:
     best film:
       nominee: [tt0048435]
@@ -8814,7 +8815,7 @@
     small bronze plaque:
       nominee: [tt0142752]
       winner: [tt0142752]
-'1954':
+'1954': # https://www.imdb.com/event/ev0000091/1954/1/?ref_=ev_eh
   golden berlin bear:
     competition:
       nominee: [tt0044741]
@@ -8854,7 +8855,7 @@
     ocic award - special mention:
       nominee: [tt0046373, tt0144183]
       winner: [tt0046373, tt0144183]
-'1953':
+'1953': # https://www.imdb.com/event/ev0000091/1953/1/?ref_=ev_eh
   golden berlin bear:
     golden berlin bear:
       nominee: [tt0046268]
@@ -8871,7 +8872,7 @@
     special prize of the senate of berlin:
       nominee: [tt0046040, tt0045054, tt0045731]
       winner: [tt0046040, tt0045054, tt0045731]
-'1952':
+'1952': # https://www.imdb.com/event/ev0000091/1952/1/?ref_=ev_eh
   golden berlin bear:
     golden berlin bear:
       nominee: [tt0043652, tt0158299]
@@ -8884,7 +8885,7 @@
     bronze berlin bear:
       nominee: [tt0043436]
       winner: [tt0043436]
-'1951':
+'1951': # https://www.imdb.com/event/ev0000091/1951/1/?ref_=ev_eh
   golden berlin bear:
     best comedy:
       nominee: [tt0042923]

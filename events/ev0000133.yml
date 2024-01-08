@@ -1,4 +1,5 @@
-'2024':
+# Critics Choice Awards
+'2024':  # https://www.imdb.com/event/ev0000133/2024/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt23561236, tt1517268, tt5537002, tt5535276, tt15398776, tt13238346, tt14230458, tt17351924, tt1200263, tt14849194]
@@ -123,7 +124,7 @@
     best foreign language series:
       nominee: [tt23149640, tt2531336, tt26258200, tt24640580, tt21344706, tt14206696, tt14588522]
       winner: []
-'2023':
+'2023': # https://www.imdb.com/event/ev0000133/2023/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt6710474, tt1630029, tt10640346, tt3704428, tt11564570, tt8178634, tt11813216, tt14208870, tt1745960, tt14444726, tt13669038]
@@ -248,7 +249,7 @@
     best foreign language series:
       nominee: [tt8888462, tt9319668, tt1526318, tt21167784, tt14599306, tt15135104, tt7278862, tt10577736, tt4179452]
       winner: [tt8888462]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000133/2022/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt12789558, tt11286314, tt11271038, tt10696784, tt10293406, tt3581652]
@@ -373,7 +374,7 @@
     best young actor/actress:
       nominee: [tt12789558, tt11271038, tt10366460, tt3581652, tt9620288, tt10986222]
       winner: [tt12789558]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000133/2021/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt9770150, tt9777644, tt10514222, tt10618286, tt10633456, tt6878306, tt10612922, tt9620292, tt5363618, tt1070874]
@@ -492,7 +493,7 @@
     best movie made for television:
       nominee: [tt8503618, tt8206668, tt12890926, tt9827834, tt10098482, tt13096334]
       winner: [tt8503618]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000133/2020/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt7131622, tt8579674, tt1950186, tt2584384, tt7286456, tt3281548, tt7653254, tt6751668, tt1302006, tt5727208]
@@ -620,7 +621,7 @@
     best movie made for television:
       nominee: [tt9243946, tt8425058, tt4943998, tt8858104, tt6566768, tt10016704]
       winner: [tt9243946]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000133/2019/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt6155172, tt1517451, tt7349662, tt1825683, tt1213641, tt6966692, tt7125860, tt5028340, tt5083738, tt6266538]
@@ -748,7 +749,7 @@
     best movie made for tv:
       nominee: [tt6874964, tt6341668, tt7473890, tt1311076, tt7722000, tt4015500]
       winner: [tt6874964]
-'2018':
+'2018': # https://www.imdb.com/event/ev0000133/2018/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt5580390, tt5726616, tt4555426, tt5013056, tt5052448, tt4925292, tt5462602, tt5649144, tt6294822, tt5027774]
@@ -891,7 +892,7 @@
     best supporting actress in a movie made for television or limited series:
       nominee: [tt3920596, tt1984119, tt2802850, tt1933667, tt3488298]
       winner: [tt3920596]
-2016-2:
+2016-2: # https://www.imdb.com/event/ev0000133/2016/2/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt3783958, tt2543164, tt2671706, tt2119532, tt2582782, tt3741834, tt4669986, tt4034228, tt4975722, tt3263904]
@@ -974,7 +975,7 @@
     best sci-fi/horror movie:
       nominee: [tt2543164, tt1179933, tt1211837, tt4160708, tt2660888, tt4263482]
       winner: [tt2543164]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000133/2016/1/?ref_=ev_eh
   critics choice award:
     best actor:
       nominee: [tt1663202, tt3203606, tt0810819, tt1355683, tt3659388, tt2080374]
@@ -1060,7 +1061,7 @@
     best visual effects:
       nominee: [tt1392190, tt0470752, tt0369610, tt3659388, tt1663202, tt3488710]
       winner: [tt1392190]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000133/2015/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt1065073, tt2562232, tt2267998, tt2872718, tt1020072, tt2278388, tt2084970, tt2980516, tt1809398, tt2582802]
@@ -1150,7 +1151,7 @@
     critics' choice mvp award:
       nominee: [tt2937898]
       winner: [tt2937898]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000133/2014/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt2024544, tt1800241, tt1535109, tt0790636, tt1454468, tt1798709, tt2042568, tt1821549, tt2140373, tt0993846]
@@ -1236,7 +1237,7 @@
     best sci-fi/horror movie:
       nominee: [tt1454468, tt1408101, tt1457767, tt0816711]
       winner: [tt1454468]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000133/2013/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt1024648, tt2125435, tt1853728, tt1707386, tt0454876, tt0443272, tt1748122, tt1045658, tt1560747, tt1790885]
@@ -1325,7 +1326,7 @@
     favorite film franchise:
       nominee: [tt0120737, tt0372784, tt0241527, tt0082971, tt0114709, tt1099212]
       winner: [tt0120737]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000133/2012/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt1655442, tt0780504, tt0477302, tt0970179, tt1605783, tt1210166, tt1033575, tt1454029, tt0478304, tt1568911]
@@ -1399,7 +1400,7 @@
     best comedy movie:
       nominee: [tt1478338, tt1570728, tt1499658, tt1605783, tt1204342]
       winner: [tt1478338]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000133/2011/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt1285016, tt1542344, tt0947798, tt1375666, tt0964517, tt1504320, tt0840361, tt0435761, tt1403865, tt1399683]
@@ -1476,7 +1477,7 @@
     best score:
       nominee: [tt1285016, tt0947798, tt1375666, tt1504320, tt1403865]
       winner: [tt1285016]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000133/2010/1/?ref_=ev_eh
   critics choice award:
     best picture:
       nominee: [tt0887912, tt1019452, tt1174732, tt0499549, tt0361748, tt1057500, tt0875034, tt0929632, tt1049413, tt1193138]
@@ -1553,7 +1554,7 @@
     best score:
       nominee: [tt1049413, tt0988045, tt1130080, tt0780521, tt0386117]
       winner: [tt1049413]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000133/2009/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt1013753, tt0918927, tt1084950, tt0421715, tt0468569]
@@ -1606,7 +1607,7 @@
     best young actor/actress (under 21):
       nominee: [tt1010048, tt0455824, tt0416212, tt0976051]
       winner: [tt1010048]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000133/2008/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt0427327, tt0292963, tt0452623, tt0467406, tt0477348, tt0408236]
@@ -1662,7 +1663,7 @@
     best young actress:
       nominee: [tt0427327, tt0398808, tt0385752, tt0783233]
       winner: [tt0427327]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000133/2007/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt0449059, tt0420087, tt0449467, tt0308055, tt0443489, tt0407887]
@@ -1721,7 +1722,7 @@
     best young actress:
       nominee: [tt0449059, tt0413895, tt0457430, tt0437800, tt0468489]
       winner: [tt0449059]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000133/2006/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt0375679, tt0433383, tt0294870, tt0401792, tt0365737]
@@ -1784,7 +1785,7 @@
     freedom award:
       nominee: [tt0433383]
       winner: [tt0433383]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000133/2005/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt0375063, tt0376541, tt0349903, tt0362270]
@@ -1843,7 +1844,7 @@
     best young actress:
       nominee: [tt0293508, tt0328107, tt0339291, tt0304141, tt0377092]
       winner: [tt0293508]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000133/2004/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt0167260, tt0310281, tt0314331, tt0327056]
@@ -1893,7 +1894,7 @@
     best young actor/actress:
       nominee: [tt0298228, tt0298845, tt0328538]
       winner: [tt0298228]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000133/2003/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt0299658, tt0259446, tt0274558]
@@ -1950,7 +1951,7 @@
     freedom award:
       nominee: [tt0168786]
       winner: [tt0168786]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000133/2002/1/?ref_=ev_eh
   critics choice award:
     best acting ensemble:
       nominee: [tt0280707, tt0240772, tt0265666]
@@ -2003,7 +2004,7 @@
     best young actor/actress:
       nominee: [tt0277027, tt0241527, tt0212720]
       winner: [tt0277027]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000133/2001/1/?ref_=ev_eh
   critics choice award:
     best actor:
       nominee: [tt0172495, tt0180073]
@@ -2069,7 +2070,7 @@
     alan j. pakula award:
       nominee: [tt0208874]
       winner: [tt0208874]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000133/2000/1/?ref_=ev_eh
   critics choice award:
     best actor:
       nominee: [tt0140352]
@@ -2119,7 +2120,7 @@
     breakthrough artist:
       nominee: [tt0120601]
       winner: [tt0120601]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000133/1999/1/?ref_=ev_eh
   critics choice award:
     best actor:
       nominee: [tt0120684]
@@ -2169,7 +2170,7 @@
     breakthrough artist:
       nominee: [tt0127536]
       winner: [tt0127536]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000133/1998/1/?ref_=ev_eh
   critics choice award:
     best actor:
       nominee: [tt0119822]
@@ -2213,7 +2214,7 @@
     breakthrough artist:
       nominee: [tt0119217]
       winner: [tt0119217]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000133/1997/1/?ref_=ev_eh
   critics choice award:
     best actor:
       nominee: [tt0117631, tt0116695]
@@ -2251,7 +2252,7 @@
     breakthrough artist:
       nominee: [tt0116695]
       winner: [tt0116695]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000133/1996/1/?ref_=ev_eh
   critics choice award:
     best actor:
       nominee: [tt0113870, tt0113627]

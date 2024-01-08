@@ -17,6 +17,8 @@ except (ModuleNotFoundError, ImportError):
     sys.exit(0)
 
 base_url = "https://www.imdb.com"
+event_url = f"{base_url}/event"
+event_git_url = "https://github.com/meisnate12/PMM-IMDb-Awards/blob/master/event_validation.yml"
 options = [
     {"arg": "ns", "key": "no-sleep",     "env": "NO_SLEEP",     "type": "bool", "default": False, "help": "Run without random sleep timers between requests."},
     {"arg": "cl", "key": "clean",        "env": "CLEAN",        "type": "bool", "default": False, "help": "Run a completely clean run."},
@@ -31,15 +33,20 @@ logger.screen_width = 160
 logger.header(pmmargs, sub=True)
 logger.separator("Validating Options", space=False, border=False)
 logger.start()
-event_ids = [i for i in YAML(path=os.path.join(base_dir, "event_ids.yml"))["event_ids"]]
-total_ids = len(event_ids)
+event_ids = YAML(path=os.path.join(base_dir, "event_ids.yml"))
+original_event_ids = [ev for ev in event_ids["event_ids"]]
+original_event_ids.sort()
+total_ids = len(original_event_ids)
 os.makedirs(os.path.join(base_dir, "events"), exist_ok=True)
-logger.info(f"{total_ids} Event IDs: {event_ids}")
+logger.info(f"{total_ids} Event IDs: {original_event_ids}")
 header = {
     "Accept-Language": "en-US,en;q=0.5",
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/113.0"
 }
 valid = YAML(path=os.path.join(base_dir, "event_validation.yml"), create=True, start_empty=pmmargs["clean"])
+if pmmargs["clean"]:
+    valid.data = YAML.inline({})
+    valid.data.fa.set_block_style()
 
 def _request(url, xpath=None, extra=None):
     sleep_time = 0 if pmmargs["no-sleep"] else random.randint(2, 6)
@@ -49,22 +56,34 @@ def _request(url, xpath=None, extra=None):
         time.sleep(sleep_time)
     return response.xpath(xpath) if xpath else response
 
-for i, event_id in enumerate(event_ids, 1):
+titles = {}
+for i, event_id in enumerate(original_event_ids, 1):
     event_yaml = YAML(path=os.path.join(base_dir, "events", f"{event_id}.yml"), create=True, start_empty=pmmargs["clean"])
+    if pmmargs["clean"]:
+        event_yaml.data = YAML.inline({})
+        event_yaml.data.fa.set_block_style()
     event_years = []
-    for event_year in _request(f"{base_url}/event/{event_id}", xpath="//div[@class='event-history-widget']//a/@href", extra=f"[Event {i}/{total_ids}]"):
+    response_data = _request(f"{event_url}/{event_id}", extra=f"[Event {i}/{total_ids}]")
+    titles[event_id] = response_data.xpath("//div[@class='event-header__title']/h1/text()")[0]
+    for event_year in response_data.xpath("//div[@class='event-history-widget']//a/@href"):
         parts = event_year.split("/")
         event_years.append(f"{parts[3]}{f'-{parts[4]}' if parts[4] != '1' else ''}")
     total_years = len(event_years)
     if event_id not in valid:
-        valid[event_id] = {"years": YAML.inline([]), "awards": [], "categories": []}
+        valid[event_id] = YAML.inline({"years": YAML.inline([]), "awards": YAML.inline([]), "categories": YAML.inline([])})
+        valid[event_id].fa.set_block_style()
+        valid[event_id]["awards"].fa.set_block_style()
+        valid[event_id]["categories"].fa.set_block_style()
+        valid[event_id].yaml_add_eol_comment(f"Award Options: {titles[event_id]}", "awards")
+        valid[event_id].yaml_add_eol_comment(f"Category Options: {titles[event_id]}", "categories")
+    valid.data.yaml_add_eol_comment(f"{titles[event_id]} ({event_url}/{event_id})", event_id)
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
         if first or pmmargs["clean"]:
             obj = None
-            event_slug = f"{event_year}/1" if "-" not in event_year else event_year.replace("-", "/")
-            for text in _request(f"{base_url}/event/{event_id}/{event_slug}/?ref_=ev_eh", xpath="//div[@class='article']/script/text()", extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]")[0].split("\n"):
+            event_year_url = f"{event_url}/{event_id}/{f'{event_year}/1' if '-' not in event_year else event_year.replace('-', '/')}/?ref_=ev_eh"
+            for text in _request(event_year_url, xpath="//div[@class='article']/script/text()", extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]")[0].split("\n"):
                 if text.strip().startswith("IMDbReactWidgets.NomineesWidget.push"):
                     jsonline = text.strip()
                     obj = json.loads(jsonline[jsonline.find('{'):-3])
@@ -102,27 +121,78 @@ for i, event_id in enumerate(event_ids, 1):
             if event_data:
                 first = False
                 event_yaml[event_year] = event_data
+                event_yaml.data.yaml_add_eol_comment(event_year_url, event_year)
                 if event_year not in valid[event_id]["years"]:
                     valid[event_id]["years"].append(YAML.quote(event_year))
     valid[event_id]["awards"].sort()
     valid[event_id]["categories"].sort()
+    event_yaml.data.yaml_set_start_comment(titles[event_id])
     event_yaml.yaml.width = 4096
     event_yaml.save()
+    filter_stats = {"awards": {}, "categories": {}}
+    for ev_year, award_data in event_yaml.items():
+        for award_filter, cat_data in award_data.items():
+            if award_filter not in filter_stats["awards"]:
+                filter_stats["awards"][award_filter] = []
+            if ev_year not in filter_stats["awards"][award_filter]:
+                filter_stats["awards"][award_filter].append(ev_year)
+            for cat_filter in cat_data:
+                if cat_filter not in filter_stats["categories"]:
+                    filter_stats["categories"][cat_filter] = []
+                if ev_year not in filter_stats["categories"][cat_filter]:
+                    filter_stats["categories"][cat_filter].append(ev_year)
+    rv_years = valid[event_id]["years"][::-1]
+    for ft in ["awards", "categories"]:
+        for j, f in enumerate(valid[event_id][ft]):
+            years = []
+            start = ""
+            end = ""
+            current = 0
+            for y in reversed(filter_stats[ft][f]):
+                pos = rv_years.index(y)
+                if not start:
+                    start = y
+                elif current + 1 == pos:
+                    end = y
+                elif start and end:
+                    years.append(f"{start}-{end}")
+                    start = y
+                    end = ""
+                elif start:
+                    years.append(start)
+                    start = y
+                current = pos
+            if start and end:
+                years.append(f"{start}-{end}")
+            elif start:
+                years.append(start)
+            fs = len(filter_stats[ft][f])
+            valid[event_id][ft].yaml_add_eol_comment(f"{fs} Event{'s' if fs > 1 else ''}: {', '.join(years)}", j, 0)
 
-final_events = [e for e in valid]
-final_events.sort()
-valid.data = {e: valid[e] for e in final_events}
-valid.yaml.width = 250
+valid.yaml.width = 200
 valid.save()
+
+event_ids["event_ids"] = YAML.inline(original_event_ids)
+event_ids["event_ids"].fa.set_block_style()
+for i, ev in enumerate(event_ids["event_ids"]):
+    event_ids["event_ids"].yaml_add_eol_comment(titles[ev], i, 0)
+
+event_ids.save()
 
 if [item.a_path for item in Repo(path=".").index.diff(None) if item.a_path.endswith(".yml")]:
 
-    with open("README.md", "r") as f:
+    with open("README.md", "r", encoding="utf-8") as f:
         readme_data = f.readlines()
+    readme_data = readme_data[:readme_data.index("## Events Available\n") + 2]
 
-    readme_data[1] = f"Last generated at: {datetime.now(UTC).strftime('%B %d, %Y %H:%M')} UTC\n"
+    readme_data[2] = f"Last generated at: {datetime.now(UTC).strftime('%B %d, %Y %H:%M')} UTC\n"
 
-    with open("README.md", "w") as f:
+    for ev in original_event_ids:
+        readme_data.append(f"* [{titles[ev]}]({event_url}/{ev}) ([{ev}]({event_git_url}#L{valid.data[ev].lc.line}))\n")
+        readme_data.append(f"  * [Award Filters]({event_git_url}#L{valid.data[ev]['awards'].lc.line})\n")
+        readme_data.append(f"  * [Category Filters]({event_git_url}#L{valid.data[ev]['categories'].lc.line})\n")
+
+    with open("README.md", "w", encoding="utf-8") as f:
         f.writelines(readme_data)
 
 logger.separator(f"{script_name} Finished\nTotal Runtime: {logger.runtime()}")

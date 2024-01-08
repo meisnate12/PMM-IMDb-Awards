@@ -1,4 +1,5 @@
-'2023':
+# Academy Awards, USA
+'2023':  # https://www.imdb.com/event/ev0000003/2023/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt6710474, tt1016150, tt1630029, tt3704428, tt11813216, tt14208870, tt1745960, tt7322224, tt14444726, tt13669038]
@@ -69,7 +70,7 @@
     best international feature film:
       nominee: [tt1016150, tt15301048, tt9660502, tt19652910, tt15109082]
       winner: [tt1016150]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000003/2022/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt10366460, tt12789558, tt11286314, tt14039582, tt1160419, tt9620288, tt11271038, tt7740496, tt10293406, tt3581652]
@@ -148,7 +149,7 @@
     oscars fan favorite:
       nominee: [tt0993840, tt10155932, tt9179096, tt10872600, tt8721424]
       winner: [tt0993840]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000003/2021/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt9770150, tt9784798, tt10618286, tt10633456, tt9620292, tt5363618, tt10272386, tt1070874]
@@ -219,7 +220,7 @@
     best international feature film:
       nominee: [tt10288566, tt9586294, tt10706602, tt8633462, tt10360862]
       winner: [tt10288566]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000003/2020/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt6751668, tt8579674, tt1950186, tt2584384, tt7286456, tt3281548, tt7653254, tt7131622, tt1302006]
@@ -293,7 +294,7 @@
     best international feature film:
       nominee: [tt6751668, tt8649186, tt8991268, tt10199590, tt8291806]
       winner: [tt6751668]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000003/2019/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt6966692, tt1517451, tt7349662, tt1825683, tt1727824, tt6155172, tt5083738, tt6266538]
@@ -367,7 +368,7 @@
     best foreign language film of the year:
       nominee: [tt6155172, tt8267604, tt6543652, tt5311542, tt8075192]
       winner: [tt6155172]
-'2018':
+'2018': # https://www.imdb.com/event/ev0000003/2018/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt5580390, tt5726616, tt4555426, tt5013056, tt5052448, tt4925292, tt5776858, tt6294822, tt5027774]
@@ -445,7 +446,7 @@
     special achievement award:
       nominee: [tt6212516]
       winner: [tt6212516]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000003/2017/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt4975722, tt2543164, tt2671706, tt2119532, tt2582782, tt4846340, tt3783958, tt3741834, tt4034228]
@@ -519,7 +520,7 @@
     best animated feature film of the year:
       nominee: [tt2948356, tt4302938, tt3521164, tt2321405, tt3666024]
       winner: [tt2948356]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000003/2016/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt1895587, tt3682448, tt2381111, tt1392190, tt3170832, tt1596363, tt3659388, tt1663202]
@@ -593,7 +594,7 @@
     best animated feature film of the year:
       nominee: [tt2096673, tt2401878, tt2872750, tt3183630, tt3398268]
       winner: [tt2096673]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000003/2015/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt2562232, tt2179136, tt1065073, tt1020072, tt2278388, tt2084970, tt2980516, tt2582802]
@@ -667,7 +668,7 @@
     best animated feature film of the year:
       nominee: [tt2245084, tt1646971, tt1865505, tt0787474, tt2576852]
       winner: [tt2245084]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000003/2014/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt2024544, tt1800241, tt1535109, tt0790636, tt1454468, tt1798709, tt1821549, tt2431286, tt0993846]
@@ -741,7 +742,7 @@
     best animated feature film of the year:
       nominee: [tt2294629, tt1690953, tt1816518, tt0481499, tt2013293]
       winner: [tt2294629]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000003/2013/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt1024648, tt1602620, tt2125435, tt1853728, tt1707386, tt0454876, tt0443272, tt1045658, tt1790885]
@@ -815,7 +816,7 @@
     best animated feature:
       nominee: [tt1217209, tt1142977, tt1623288, tt1430626, tt1772341]
       winner: [tt1217209]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000003/2012/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt1655442, tt0477302, tt0970179, tt1605783, tt1210166, tt1033575, tt1454029, tt0478304, tt1568911]
@@ -889,7 +890,7 @@
     best achievement in makeup:
       nominee: [tt1007029, tt1602098, tt1201607]
       winner: [tt1007029]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000003/2011/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt1504320, tt1542344, tt0947798, tt1375666, tt0964517, tt0842926, tt1285016, tt0435761, tt1403865, tt1399683]
@@ -963,7 +964,7 @@
     best achievement in makeup:
       nominee: [tt0780653, tt1423894, tt1023114]
       winner: [tt0780653]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000003/2010/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt0887912, tt1019452, tt1174732, tt0499549, tt1136608, tt0361748, tt0929632, tt0878804, tt1049413, tt1193138]
@@ -1037,7 +1038,7 @@
     best achievement in makeup:
       nominee: [tt0796366, tt1023490, tt0962736]
       winner: [tt0796366]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000003/2009/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt1010048, tt0870111, tt1013753, tt0421715, tt0976051]
@@ -1111,7 +1112,7 @@
     best achievement in makeup:
       nominee: [tt0421715, tt0411477, tt0468569]
       winner: [tt0421715]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000003/2008/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt0477348, tt0783233, tt0467406, tt0465538, tt0469494]
@@ -1185,7 +1186,7 @@
     best achievement in makeup:
       nominee: [tt0450188, tt0477051, tt0449088]
       winner: [tt0450188]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000003/2007/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt0407887, tt0449467, tt0498380, tt0449059, tt0436697]
@@ -1259,7 +1260,7 @@
     best achievement in makeup:
       nominee: [tt0457430, tt0472043, tt0389860]
       winner: [tt0457430]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000003/2006/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt0375679, tt0388795, tt0379725, tt0433383, tt0408306]
@@ -1333,7 +1334,7 @@
     best achievement in makeup:
       nominee: [tt0363771, tt0352248, tt0121766]
       winner: [tt0363771]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000003/2005/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt0405159, tt0308644, tt0350258, tt0375063, tt0338751]
@@ -1407,7 +1408,7 @@
     best achievement in makeup:
       nominee: [tt0339291, tt0335345, tt0369702]
       winner: [tt0339291]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000003/2004/1/?ref_=ev_eh
   oscar:
     best picture:
       nominee: [tt0167260, tt0335266, tt0311113, tt0327056, tt0329575]
@@ -1481,7 +1482,7 @@
     best director:
       nominee: [tt0167260, tt0327056, tt0317248, tt0311113, tt0335266]
       winner: [tt0167260]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000003/2003/1/?ref_=ev_eh
   oscar:
     best picture:
       nominee: [tt0299658, tt0217505, tt0274558, tt0167261, tt0253474]
@@ -1555,7 +1556,7 @@
     best visual effects:
       nominee: [tt0167261, tt0145487, tt0121765]
       winner: [tt0167261]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000003/2002/1/?ref_=ev_eh
   oscar:
     best picture:
       nominee: [tt0268978, tt0280707, tt0247425, tt0203009, tt0120737]
@@ -1629,7 +1630,7 @@
     best animated feature:
       nominee: [tt0126029, tt0268397, tt0198781]
       winner: [tt0126029]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000003/2001/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0172495, tt0183659, tt0180073, tt0247196, tt0162222]
@@ -1700,7 +1701,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0181875, tt0249462, tt0195685, tt0172495, tt0203230]
       winner: [tt0181875]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000003/2000/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0169547, tt0174856, tt0166896, tt0140352, tt0158371]
@@ -1771,7 +1772,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0169547, tt0120601, tt0175880, tt0167404, tt0151568]
       winner: [tt0169547]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000003/1999/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0118799, tt0120586, tt0120684, tt0118564, tt0120815]
@@ -1845,7 +1846,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0138097, tt0118798, tt0118799, tt0120815, tt0120382]
       winner: [tt0138097]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000003/1998/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0119822, tt0120885, tt0119217, tt0120402, tt0118632]
@@ -1919,7 +1920,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0119217, tt0119822, tt0118749, tt0118954, tt0119164]
       winner: [tt0119217]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000003/1997/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0117631, tt0117666, tt0116209, tt0116695, tt0117318]
@@ -1997,7 +1998,7 @@
     honorary award:
       nominee: [tt0278558]
       winner: []
-'1996':
+'1996': # https://www.imdb.com/event/ev0000003/1996/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0113627, tt0113987, tt0110877, tt0113862, tt0112818]
@@ -2075,7 +2076,7 @@
     special achievement award:
       nominee: [tt0114709]
       winner: [tt0114709]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000003/1995/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0109830, tt0110912, tt0111161, tt0110428, tt0110684]
@@ -2146,7 +2147,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0110912, tt0109348, tt0109831, tt0110005, tt0111495]
       winner: [tt0110912]
-'1994':
+'1994': # https://www.imdb.com/event/ev0000003/1994/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0107818, tt0107943, tt0107207, tt0108551, tt0108052]
@@ -2217,7 +2218,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0107822, tt0106673, tt0107206, tt0107818, tt0108160]
       winner: [tt0107822]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000003/1993/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0105323, tt0105695, tt0104797, tt0103939, tt0104036]
@@ -2288,7 +2289,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0104036, tt0104466, tt0104756, tt0105107, tt0105695]
       winner: [tt0104036]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000003/1992/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0102926, tt0102713, tt0101540, tt0101889, tt0101516]
@@ -2359,7 +2360,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0103074, tt0101507, tt0101516, tt0101969, tt0101889]
       winner: [tt0103074]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000003/1991/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0100486, tt0099334, tt0099348, tt0099566, tt0099077]
@@ -2431,7 +2432,7 @@
     special achievement award:
       nominee: [tt0100802]
       winner: [tt0100802]
-'1990':
+'1990': # https://www.imdb.com/event/ev0000003/1990/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0097937, tt0097499, tt0097239, tt0097165, tt0096969]
@@ -2502,7 +2503,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0097165, tt0097123, tt0097216, tt0098724, tt0098635]
       winner: [tt0097165]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000003/1989/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0095953, tt0094027, tt0095647, tt0093713, tt0094737]
@@ -2577,7 +2578,7 @@
     special achievement award:
       nominee: [tt0096438]
       winner: [tt0096438]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000003/1988/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0094291, tt0093277, tt0093664, tt0093105, tt0092699]
@@ -2649,7 +2650,7 @@
     special achievement award:
       nominee: [tt0093870]
       winner: [tt0093870]
-'1987':
+'1987': # https://www.imdb.com/event/ev0000003/1987/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0090863, tt0091538, tt0090557, tt0091886, tt0090830]
@@ -2720,7 +2721,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0091167, tt0090555, tt0091578, tt0091763, tt0091886]
       winner: [tt0091167]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000003/1986/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0089424, tt0090329, tt0089841, tt0089643, tt0089941]
@@ -2791,7 +2792,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0090329, tt0088763, tt0088846, tt0089276, tt0089853]
       winner: [tt0090329]
-'1985':
+'1985': # https://www.imdb.com/event/ev0000003/1985/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0086879, tt0088322, tt0088172, tt0087553]
@@ -2866,7 +2867,7 @@
     special achievement award:
       nominee: [tt0088007]
       winner: [tt0088007]
-'1984':
+'1984': # https://www.imdb.com/event/ev0000003/1984/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0086423, tt0085461, tt0085478, tt0084591]
@@ -2938,7 +2939,7 @@
     special achievement award:
       nominee: [tt0086190]
       winner: [tt0086190]
-'1983':
+'1983': # https://www.imdb.com/event/ev0000003/1983/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0083987, tt0084805, tt0084335, tt0084855, tt0084370]
@@ -3012,7 +3013,7 @@
     best writing, screenplay written directly for the screen:
       nominee: [tt0083987, tt0084434, tt0083833, tt0083866, tt0084805]
       winner: [tt0083987]
-'1982':
+'1982': # https://www.imdb.com/event/ev0000003/1982/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0082846, tt0080388, tt0082031, tt0081974, tt0082979]
@@ -3084,7 +3085,7 @@
     special achievement award:
       nominee: [tt0082971]
       winner: [tt0082971]
-'1981':
+'1981': # https://www.imdb.com/event/ev0000003/1981/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0081398, tt0081656, tt0080678, tt0081568, tt0079239]
@@ -3150,7 +3151,7 @@
     special achievement award:
       nominee: [tt0080684]
       winner: [tt0080684]
-'1980':
+'1980': # https://www.imdb.com/event/ev0000003/1980/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0079417, tt0078718, tt0078966, tt0078841, tt0078754]
@@ -3222,7 +3223,7 @@
     special achievement award:
       nominee: [tt0078872]
       winner: [tt0078872]
-'1979':
+'1979': # https://www.imdb.com/event/ev0000003/1979/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0077362, tt0077280, tt0077269, tt0077416, tt0077663]
@@ -3291,7 +3292,7 @@
     special achievement award:
       nominee: [tt0078346]
       winner: [tt0078346]
-'1978':
+'1978': # https://www.imdb.com/event/ev0000003/1978/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0076095, tt0076666, tt0076085, tt0075995, tt0075686]
@@ -3363,7 +3364,7 @@
     special achievement award:
       nominee: [tt0075860, tt0076759]
       winner: [tt0075860, tt0076759]
-'1977':
+'1977': # https://www.imdb.com/event/ev0000003/1977/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0074958, tt0075040, tt0075314, tt0075148]
@@ -3432,7 +3433,7 @@
     special achievement award:
       nominee: [tt0074751, tt0074812]
       winner: [tt0074751, tt0074812]
-'1976':
+'1976': # https://www.imdb.com/event/ev0000003/1976/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0073486, tt0072890, tt0073053, tt0073345, tt0073766]
@@ -3501,7 +3502,7 @@
     special achievement award:
       nominee: [tt0073113]
       winner: [tt0073113]
-'1975':
+'1975': # https://www.imdb.com/event/ev0000003/1975/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0071598, tt0071562, tt0071877, tt0071746, tt0071315]
@@ -3570,7 +3571,7 @@
     special achievement award:
       nominee: [tt0071455]
       winner: [tt0071455]
-'1974':
+'1974': # https://www.imdb.com/event/ev0000003/1974/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0070640, tt0070666, tt0070290, tt0070849, tt0070735]
@@ -3635,7 +3636,7 @@
     best writing, story and screenplay based on factual material or material not previously published or produced:
       nominee: [tt0070735, tt0070819, tt0069704, tt0069467, tt0070640]
       winner: [tt0070735]
-'1973':
+'1973': # https://www.imdb.com/event/ev0000003/1973/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0068646, tt0069281, tt0069303, tt0069198]
@@ -3704,7 +3705,7 @@
     special achievement award:
       nominee: [tt0069113]
       winner: [tt0069113]
-'1972':
+'1972': # https://www.imdb.com/event/ev0000003/1972/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0067116, tt0067217, tt0067805, tt0067093, tt0067314]
@@ -3772,7 +3773,7 @@
     best writing, story and screenplay based on factual material or material not previously published or produced:
       nominee: [tt0067217, tt0065889, tt0067309, tt0067803, tt0067805]
       winner: [tt0067217]
-'1971':
+'1971': # https://www.imdb.com/event/ev0000003/1971/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0066206, tt0065724, tt0065797, tt0065872, tt0066011]
@@ -3840,7 +3841,7 @@
     best writing, story and screenplay based on factual material or material not previously published or produced:
       nominee: [tt0066206, tt0065724, tt0065916, tt0066011, tt0064612]
       winner: [tt0066206]
-'1970':
+'1970': # https://www.imdb.com/event/ev0000003/1970/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0065126, tt0064665, tt0064382, tt0064030]
@@ -3908,7 +3909,7 @@
     best writing, story and screenplay based on material not previously published or produced:
       nominee: [tt0064115, tt0064100, tt0064276, tt0064118, tt0065214]
       winner: [tt0064115]
-'1969':
+'1969': # https://www.imdb.com/event/ev0000003/1969/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0062794, tt0063050, tt0062977, tt0063227, tt0063385]
@@ -3980,7 +3981,7 @@
     honorary award:
       nominee: [tt0063385, tt0063442]
       winner: [tt0063385, tt0063442]
-'1968':
+'1968': # https://www.imdb.com/event/ev0000003/1968/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0061811, tt0061722, tt0061512, tt0061735, tt0061418]
@@ -4051,7 +4052,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0061735, tt0061418, tt0061581, tt0060481, tt0062407]
       winner: [tt0061735]
-'1967':
+'1967': # https://www.imdb.com/event/ev0000003/1967/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0060665, tt0060921, tt0060086, tt0061184, tt0060934]
@@ -4131,7 +4132,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0061138, tt0060176, tt0060588, tt0060424, tt0060736]
       winner: [tt0061138]
-'1966':
+'1966': # https://www.imdb.com/event/ev0000003/1966/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0059017, tt0059555, tt0059712, tt0059749, tt0059575]
@@ -4211,7 +4212,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0059084, tt0059015, tt0059825, tt0058450, tt0059797]
       winner: [tt0059084]
-'1965':
+'1965': # https://www.imdb.com/event/ev0000003/1965/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0058385, tt0057831, tt0057877, tt0057012]
@@ -4295,7 +4296,7 @@
     honorary award:
       nominee: [tt0057812]
       winner: [tt0057812]
-'1964':
+'1964': # https://www.imdb.com/event/ev0000003/1964/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0057251, tt0057590, tt0057163, tt0056937, tt0057578]
@@ -4375,7 +4376,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0056085, tt0056801, tt0056825, tt0057263, tt0056389]
       winner: [tt0056085]
-'1963':
+'1963': # https://www.imdb.com/event/ev0000003/1963/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0056592, tt0055798, tt0055895, tt0055913, tt0056172]
@@ -4452,7 +4453,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0055913, tt0055998, tt0054632, tt0056575, tt0055499]
       winner: [tt0055913]
-'1962':
+'1962': # https://www.imdb.com/event/ev0000003/1962/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0055031, tt0054866, tt0054997, tt0055146]
@@ -4533,7 +4534,7 @@
     honorary award:
       nominee: [tt0121293]
       winner: [tt0121293]
-'1961':
+'1961': # https://www.imdb.com/event/ev0000003/1961/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0053793, tt0053604, tt0053796, tt0053946, tt0054326]
@@ -4614,7 +4615,7 @@
     juvenile award:
       nominee: [tt0054195]
       winner: [tt0054195]
-'1960':
+'1960': # https://www.imdb.com/event/ev0000003/1960/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0052618, tt0053291, tt0052561, tt0053226, tt0052990]
@@ -4691,7 +4692,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0053172, tt0053125, tt0053143, tt0053198, tt0050986]
       winner: [tt0053172]
-'1959':
+'1959': # https://www.imdb.com/event/ev0000003/1959/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0052182, tt0051459, tt0051525, tt0052027]
@@ -4762,7 +4763,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0051525, tt0051745, tt0052278, tt0051667, tt0052190]
       winner: [tt0051525]
-'1958':
+'1958': # https://www.imdb.com/event/ev0000003/1958/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0050212, tt0050487, tt0051193, tt0051201, tt0050933]
@@ -4824,7 +4825,7 @@
     best writing, story and screenplay - written directly for the screen:
       nominee: [tt0050306, tt0050419, tt0046521, tt0050681, tt0051087]
       winner: [tt0050306]
-'1957':
+'1957': # https://www.imdb.com/event/ev0000003/1957/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0049408, tt0049261, tt0049456, tt0049674]
@@ -4907,7 +4908,7 @@
     best writing, motion picture story:
       nominee: [tt0049030, tt0048166, tt0049170, tt0046149, tt0045274]
       winner: [tt0049030]
-'1956':
+'1956': # https://www.imdb.com/event/ev0000003/1956/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0048356, tt0048347, tt0048317, tt0048028, tt0047849]
@@ -4991,7 +4992,7 @@
     honorary award:
       nominee: [tt0047444]
       winner: [tt0047444]
-'1955':
+'1955': # https://www.imdb.com/event/ev0000003/1955/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0047296, tt0046874, tt0044386, tt0046816, tt0047522]
@@ -5075,7 +5076,7 @@
     honorary award:
       nominee: [tt0045935, tt0046006]
       winner: [tt0045935, tt0046006]
-'1954':
+'1954': # https://www.imdb.com/event/ev0000003/1954/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0046359, tt0045793, tt0045943, tt0046247]
@@ -5155,7 +5156,7 @@
     best writing, story and screenplay:
       nominee: [tt0046435, tt0046398, tt0045537, tt0045679, tt0044953]
       winner: [tt0046435]
-'1953':
+'1953': # https://www.imdb.com/event/ev0000003/1953/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0044706, tt0044829, tt0044926, tt0044391, tt0045296]
@@ -5239,7 +5240,7 @@
     honorary award:
       nominee: [tt0043686]
       winner: [tt0043686]
-'1952':
+'1952': # https://www.imdb.com/event/ev0000003/1952/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0043265, tt0043361, tt0043458, tt0044081, tt0043924]
@@ -5323,7 +5324,7 @@
     honorary award:
       nominee: [tt0042876]
       winner: [tt0042876]
-'1951':
+'1951': # https://www.imdb.com/event/ev0000003/1951/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0042367, tt0042546, tt0042702, tt0042451, tt0043014]
@@ -5407,7 +5408,7 @@
     honorary award:
       nominee: [tt0040137]
       winner: [tt0040137]
-'1950':
+'1950': # https://www.imdb.com/event/ev0000003/1950/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0041113, tt0041996, tt0041841, tt0041239, tt0041445]
@@ -5491,7 +5492,7 @@
     honorary award:
       nominee: [tt0040522]
       winner: [tt0040522]
-'1949':
+'1949': # https://www.imdb.com/event/ev0000003/1949/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0040416, tt0040795, tt0040962, tt0040495, tt0040765]
@@ -5576,7 +5577,7 @@
     honorary award:
       nominee: [tt0040491, tt0039632]
       winner: [tt0040491, tt0039632]
-'1948':
+'1948': # https://www.imdb.com/event/ev0000003/1948/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0039335, tt0039416, tt0039204, tt0039636, tt0039566]
@@ -5654,7 +5655,7 @@
     honorary award:
       nominee: [tt0039188, tt0038913, tt0038969]
       winner: [tt0039188, tt0038913, tt0038969]
-'1947':
+'1947': # https://www.imdb.com/event/ev0000003/1947/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0036868, tt0039111, tt0038650, tt0038661, tt0036910]
@@ -5729,7 +5730,7 @@
     honorary award:
       nominee: [tt0036910, tt0036868]
       winner: [tt0036910, tt0036868]
-'1946':
+'1946': # https://www.imdb.com/event/ev0000003/1946/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0037884, tt0037536, tt0038104, tt0037514, tt0036983]
@@ -5807,7 +5808,7 @@
     honorary award:
       nominee: [tt0037792]
       winner: [tt0037792]
-'1945':
+'1945': # https://www.imdb.com/event/ev0000003/1945/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0036872, tt0037465, tt0037135, tt0036855]
@@ -5885,7 +5886,7 @@
     juvenile award:
       nominee: [tt0037059]
       winner: [tt0037059]
-'1944':
+'1944': # https://www.imdb.com/event/ev0000003/1944/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0036515, tt0035896, tt0034583, tt0036022, tt0036126]
@@ -5959,7 +5960,7 @@
     best writing, screenplay:
       nominee: [tt0034583, tt0036009, tt0036172, tt0036377, tt0036515]
       winner: [tt0034583]
-'1943':
+'1943': # https://www.imdb.com/event/ev0000003/1943/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0035575, tt0035211, tt0035189, tt0035238, tt0035093]
@@ -6034,7 +6035,7 @@
     honorary award:
       nominee: [tt0034891]
       winner: [tt0034891]
-'1942':
+'1942': # https://www.imdb.com/event/ev0000003/1942/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0034167, tt0034012, tt0033467, tt0033712, tt0033532]
@@ -6109,7 +6110,7 @@
     honorary award:
       nominee: [tt0121453, tt0032455, tt0121791]
       winner: [tt0121453, tt0032455, tt0121791]
-'1941':
+'1941': # https://www.imdb.com/event/ev0000003/1941/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0032904, tt0032553, tt0032551, tt0032976, tt0032181]
@@ -6177,7 +6178,7 @@
     best writing, screenplay:
       nominee: [tt0032904, tt0032671, tt0032976, tt0032551, tt0032728]
       winner: [tt0032904]
-'1940':
+'1940': # https://www.imdb.com/event/ev0000003/1940/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0031385, tt0031381, tt0031679, tt0032145, tt0031066]
@@ -6247,7 +6248,7 @@
     technical achievement award:
       nominee: [tt0031381]
       winner: [tt0031381]
-'1939':
+'1939': # https://www.imdb.com/event/ev0000003/1939/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0029942, tt0029855, tt0029870, tt0030637, tt0029995]
@@ -6307,7 +6308,7 @@
     honorary award:
       nominee: [tt0029583, tt0030775, tt0030817]
       winner: [tt0029583, tt0030775, tt0030817]
-'1938':
+'1938': # https://www.imdb.com/event/ev0000003/1938/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0028691, tt0028739, tt0029606, tt0029146, tt0029310]
@@ -6373,7 +6374,7 @@
     honorary award:
       nominee: [tt0029606]
       winner: [tt0029606]
-'1937':
+'1937': # https://www.imdb.com/event/ev0000003/1937/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0028313, tt0027996, tt0028216, tt0027532, tt0028010]
@@ -6439,7 +6440,7 @@
     honorary award:
       nominee: [tt0027657]
       winner: [tt0027657]
-'1936':
+'1936': # https://www.imdb.com/event/ev0000003/1936/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0026529, tt0026752, tt0026121]
@@ -6492,7 +6493,7 @@
     best writing, screenplay:
       nominee: [tt0026529, tt0026174, tt0026752, tt0026643]
       winner: [tt0026529]
-'1935':
+'1935': # https://www.imdb.com/event/ev0000003/1935/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0025316, tt0024816, tt0025878]
@@ -6546,7 +6547,7 @@
     technical achievement award:
       nominee: [tt0025601]
       winner: [tt0025601]
-'1934':
+'1934': # https://www.imdb.com/event/ev0000003/1934/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0024473, tt0023794, tt0023042]
@@ -6584,7 +6585,7 @@
     best writing, original story:
       nominee: [tt0023305, tt0023374, tt0024475]
       winner: [tt0023305]
-'1932':
+'1932': # https://www.imdb.com/event/ev0000003/1932/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0022835, tt0021730, tt0021931]
@@ -6619,7 +6620,7 @@
     best writing, original story:
       nominee: [tt0021730, tt0023109, tt0022430, tt0023686]
       winner: [tt0021730]
-'1931':
+'1931': # https://www.imdb.com/event/ev0000003/1931/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0021885, tt0021890, tt0021322, tt0022397, tt0021746]
@@ -6645,7 +6646,7 @@
     best writing, original story:
       nominee: [tt0020815, tt0021053, tt0022403, tt0020836, tt0022286]
       winner: [tt0020815]
-1930-2:
+1930-2: # https://www.imdb.com/event/ev0000003/1930/2/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0019823, tt0020938, tt0021307, tt0020112, tt0020690, tt0019785, tt0019735, tt0020686]
@@ -6671,7 +6672,7 @@
     best writing, achievement:
       nominee: [tt0020686, tt0020629, tt0019823, tt0021420, tt0020827]
       winner: [tt0020686]
-'1930':
+'1930': # https://www.imdb.com/event/ev0000003/1930/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0020018, tt0019630, tt0020499, tt0019257, tt0020543]
@@ -6694,7 +6695,7 @@
     best writing, achievement:
       nominee: [tt0019257, tt0019591, tt0020018, tt0019237, tt0019348, tt0019398, tt0018792, tt0020081, tt0020088, tt0020543, tt0020603]
       winner: [tt0019257]
-'1929':
+'1929': # https://www.imdb.com/event/ev0000003/1929/1/?ref_=ev_eh
   oscar:
     best actor in a leading role:
       nominee: [tt0019071, tt0018253, tt0019217]

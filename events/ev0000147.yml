@@ -1,4 +1,5 @@
-'2023':
+# Cannes Film Festival
+'2023':  # https://www.imdb.com/event/ev0000147/2023/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt17009710, tt16731908, tt13231544, tt14230388, tt26256406, tt9663896, tt18235146, tt21027780, tt15000156, tt27502426, tt22463404, tt14137416, tt14561712, tt14550346, tt13651794, tt23736044, tt27503384, tt19883634, tt19760052, tt7160372, tt8469104]
@@ -144,7 +145,7 @@
     un certain regard - freedom prize:
       nominee: [tt14330672]
       winner: [tt14330672]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000147/2022/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt7322224, tt10343028, tt13056052, tt14622802, tt15452062, tt9660502, tt14549466, tt12477480, tt19652910, tt14976386, tt18550140, tt19653180, tt17014214, tt14034614, tt13702796, tt18550182, tt13923216, tt10354106, tt17538510, tt14641542, tt18317064]
@@ -309,7 +310,7 @@
     best vr story:
       nominee: [tt15739722]
       winner: []
-'2021':
+'2021': # https://www.imdb.com/event/ev0000147/2021/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt10944760, tt11777738, tt12494638, tt6217926, tt6823148, tt6910282, tt14773800, tt10262648, tt14039582, tt12847812, tt2304637, tt9714030, tt13846546, tt8399288, tt13694628, tt12708658, tt10380900, tt13453006, tt13321730, tt8847712, tt11611486, tt8205028, tt10370710, tt9110904]
@@ -476,7 +477,7 @@
     best vr interactive experience:
       nominee: [tt15194556]
       winner: []
-'2020':
+'2020': # https://www.imdb.com/event/ev0000147/2020/1/?ref_=ev_eh
   cinefondation award:
     cinefondation award:
       nominee: [tt11320234, tt11232334]
@@ -489,7 +490,7 @@
     gan foundation award for distribution:
       nominee: [tt10692788]
       winner: [tt10692788]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000147/2019/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt6751668, tt5827916, tt10199586, tt2762506, tt8019694, tt8359842, tt10199590, tt9204204, tt8767908, tt8253606, tt8359840, tt7131622, tt8291806, tt8613070, tt9173264, tt8359816, tt8695030, tt7736478, tt7921248, tt9647768, tt8359822]
@@ -640,7 +641,7 @@
     leitz cine discovery prize:
       nominee: [tt10219160, tt10415722, tt10300628]
       winner: [tt10219160]
-'2018':
+'2018': # https://www.imdb.com/event/ev0000147/2018/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt8075192, tt8269552, tt7112154, tt7298400, tt7555774, tt8305116, tt7349662, tt7282468, tt8267604, tt6543652, tt6768578, tt4964788, tt6704880, tt6752992, tt6426028, tt7342838, tt7534054, tt5749596, tt6628102, tt5691670, tt6846432]
@@ -818,7 +819,7 @@
     best actor:
       nominee: [tt6695212]
       winner: [tt6695212]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000147/2017/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt4995790, tt6135348, tt5618752, tt6367558, tt5687334, tt4846232, tt5304464, tt5723272, tt5842890, tt6304162, tt3967856, tt6165792, tt5771710, tt5592248, tt6462506, tt5715874, tt5536736, tt5208216, tt5742374]
@@ -984,7 +985,7 @@
     palme de whiskers:
       nominee: [tt5598102]
       winner: [tt5598102]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000147/2016/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt5168192, tt3721936, tt5221584, tt3716530, tt3794028, tt4936450, tt4645368, tt4326444, tt4669986, tt5638094, tt5247022, tt4714782, tt4466490, tt4726636, tt5231812, tt4016934, tt3286560, tt1974419, tt5186714, tt4630550, tt4048272]
@@ -1180,7 +1181,7 @@
     palme de whiskers:
       nominee: [tt5327862]
       winner: [tt5327862]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000147/2015/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt4082068, tt2402927, tt3850496, tt2217859, tt2884018, tt4428800, tt3013610, tt3740778, tt3478962, tt3756788, tt3397884, tt3808342, tt3278330, tt3508840, tt3464902, tt4428814, tt3450900, tt4120210, tt3312830]
@@ -1363,7 +1364,7 @@
     palme de whiskers:
       nominee: [tt3740778]
       winner: [tt3740778]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000147/2014/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt2758880, tt2452254, tt1100089, tt2400275, tt3110960, tt2802154, tt2172584, tt3612616, tt2473794, tt2707848, tt3230162, tt2326612, tt2398231, tt2177827, tt3044244, tt3409392, tt2737050, tt3011894]
@@ -1541,7 +1542,7 @@
     palme de whiskers:
       nominee: [tt3510452]
       winner: [tt3510452]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000147/2013/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt2278871, tt2234543, tt2852400, tt2054790, tt1291580, tt1954315, tt2852394, tt2852376, tt2042568, tt2210834, tt2331143, tt1821549, tt1602613, tt1714915, tt2347144, tt2358891, tt1951181, tt2404461, tt2406252, tt2752200]
@@ -1720,7 +1721,7 @@
     cannes soundtrack award:
       nominee: [tt1714915]
       winner: [tt1714915]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000147/2012/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt1602620, tt2368599, tt2258281, tt1480656, tt2076220, tt1989712, tt2325741, tt1764234, tt1212450, tt1843287, tt1748122, tt1935179, tt0337692, tt1403214, tt1754367, tt1846487, tt2053425, tt1924394, tt2106476, tt1496422, tt2106670, tt1690389]
@@ -1895,7 +1896,7 @@
     palme de whiskers:
       nominee: [tt1748122]
       winner: [tt1748122]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000147/2011/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0478304, tt0780504, tt1445520, tt1896753, tt1728196, tt1660379, tt1508675, tt1527186, tt1906426, tt1827487, tt1906446, tt1661420, tt1588398, tt1655442, tt1827512, tt1189073, tt1686067, tt1440345, tt1456472, tt1242460]
@@ -2066,7 +2067,7 @@
     jury prize - short film:
       nominee: [tt1782395]
       winner: [tt1782395]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000147/2010/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt1588895, tt1639901, tt1431181, tt1164999, tt0403645, tt1020773, tt1646123, tt0977855, tt1509636, tt1646114, tt1588337, tt1451762, tt1462667, tt1229381, tt1287878, tt1528312, tt1527049, tt1314652, tt1599975]
@@ -2225,7 +2226,7 @@
     palme de whiskers:
       nominee: [tt1438535]
       winner: [tt1438535]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000147/2009/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt1149362, tt1235166, tt0870984, tt0810784, tt0913425, tt1423592, tt1191111, tt1262420, tt1232776, tt1198385, tt0361748, tt1242545, tt1185376, tt1422119, tt1127896, tt1037163, tt0762073, tt1329454, tt1156173, tt1156143]
@@ -2392,7 +2393,7 @@
     palm dog:
       nominee: [tt1049413]
       winner: [tt1049413]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000147/2008/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt1068646, tt1103963, tt0993789, tt1074929, tt0861689, tt0824747, tt0892255, tt0910860, tt1073535, tt0929425, tt1023490, tt1022606, tt0803029, tt1186369, tt1233329, tt1008017, tt1225296, tt0383028, tt1221141, tt1233381, tt1103275, tt1185616]
@@ -2559,7 +2560,7 @@
     un regard neuf short film prize:
       nominee: [tt3861418]
       winner: [tt3861418]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000147/2007/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt1032846, tt1034427, tt0901475, tt1028528, tt0459102, tt0996605, tt0765120, tt0477348, tt0842929, tt0808417, tt0479519, tt0817225, tt0841925, tt0816672, tt0488905, tt0401383, tt0880502, tt0437526, tt0415127, tt1016205, tt0498399, tt0443706]
@@ -2730,7 +2731,7 @@
     palm dog:
       nominee: [tt1062939, tt0808417]
       winner: [tt1062939, tt0808417]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000147/2006/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0460989, tt0449467, tt0479354, tt0498097, tt0460480, tt0444182, tt0460792, tt0450680, tt0458242, tt0422720, tt0457430, tt0471030, tt0444418, tt0405336, tt0794374, tt0429727, tt0772105, tt0454536, tt0464828, tt0441909]
@@ -2914,7 +2915,7 @@
     palm dog - special mention:
       nominee: [tt0800159]
       winner: [tt0800159]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000147/2005/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0456396, tt0399146, tt0456836, tt0387055, tt0412019, tt0387898, tt0377800, tt0434008, tt0441761, tt0459668, tt0403217, tt0415932, tt0342735, tt0418091, tt0456658, tt0401792, tt0461795, tt0419294, tt0459666, tt0431975, tt0373450]
@@ -3083,7 +3084,7 @@
     palm dog - special mention:
       nominee: [tt0435597]
       winner: [tt0435597]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000147/2004/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0361596, tt0212712, tt0388838, tt0400420, tt0347246, tt0322420, tt0374583, tt0411674, tt0408664, tt0364569, tt0298148, tt0398883, tt0408777, tt0300270, tt0335245, tt0352520, tt0318462, tt0381668, tt0403692]
@@ -3241,7 +3242,7 @@
     palm dog - special mention:
       nominee: [tt0322420]
       winner: [tt0322420]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000147/2003/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0363589, tt0363303, tt0363235, tt0293007, tt0346094, tt0276919, tt0363249, tt0319237, tt0335351, tt0293672, tt0327056, tt0363290, tt0363060, tt0329111, tt0324133, tt0343524, tt0338135, tt0330099, tt0307596, tt0362246]
@@ -3400,7 +3401,7 @@
     critics' week grand prize:
       nominee: [tt0336264, tt0364193, tt0389974, tt0285727, tt0366943, tt0370531, tt0377772]
       winner: [tt0336264]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000147/2002/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0253474, tt0274309, tt0257360, tt0286261, tt0310793, tt0284034, tt0274428, tt0290673, tt0304267, tt0293401, tt0317965, tt0317234, tt0272338, tt0318034, tt0278731, tt0313670, tt0301978, tt0273069, tt0311519, tt0291172, tt0303162, tt0318025]
@@ -3539,7 +3540,7 @@
     critics' week grand prize:
       nominee: [tt0286516, tt0293155, tt0319625, tt0322279, tt0305229, tt0333692]
       winner: [tt0286516]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000147/2001/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0208990, tt0283309, tt0278413, tt0283422, tt0181912, tt0283431, tt0253612, tt0283283, tt0203009, tt0166924, tt0283509, tt0283539, tt0234041, tt0126029, tt0283623, tt0243133, tt0273148, tt0254686, tt0237572, tt0245276, tt0289054, tt0269746, tt0242994]
@@ -3582,7 +3583,7 @@
       winner: [tt0285924]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0284848, tt0217978, tt0286887, tt0285441, tt0268211, tt0284970, tt0291310, tt0284141, tt0285166, tt0215841, tt0301481, tt0292066, tt0287471, tt0228536, tt0307971, tt0248190, tt0286751, tt0250081, tt0269217, tt0254099, tt0301587, tt0285874, tt0273544, tt2785278]
+      nominee: [tt0284848, tt0217978, tt0286887, tt0285441, tt0268211, tt0284970, tt0291310, tt0284141, tt0285166, tt0215841, tt0301481, tt2785278, tt0292066, tt0287471, tt0228536, tt0307971, tt0248190, tt0286751, tt0250081, tt0269217, tt0254099, tt0301587, tt0285874, tt0273544]
       winner: [tt0284848]
   critics week grand prize:
     critics week grand prize:
@@ -3670,7 +3671,7 @@
     palm dog - special mention:
       nominee: [tt0248953]
       winner: [tt0248953]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000147/2000/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0168629, tt0246266, tt0212826, tt0245837, tt0216625, tt0245929, tt0183056, tt0243889, tt0157122, tt0206742, tt0118694, tt0218379, tt0216689, tt0171580, tt0190590, tt0120263, tt0213682, tt0200669, tt0246119, tt0138946, tt0189509, tt0216800, tt0244316]
@@ -3796,7 +3797,7 @@
     palme d'or - best short film:
       nominee: [tt0245718, tt0245764, tt0245788, tt0245809, tt0245967, tt0245862, tt0245873, tt0246156, tt0258221, tt0203172, tt0246302]
       winner: [tt0245718]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000147/1999/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0200071, tt0154443, tt0185125, tt0150216, tt0165773, tt0165798, tt0197569, tt0189630, tt0199683, tt0164085, tt0199724, tt0189142, tt0199777, tt0132905, tt0197732, tt0152015, tt0197373, tt0162866, tt0158117, tt0139877, tt0166896, tt0171865]
@@ -3910,7 +3911,7 @@
     palme d'or - best short film:
       nominee: [tt0202598, tt0200282, tt0205912, tt0163982, tt0191948, tt0205069, tt0206034, tt0203072, tt0203081, tt0206298, tt0205842, tt0202589]
       winner: [tt0202598, tt0200282]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000147/1998/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0156794, tt0118635, tt0150143, tt0156408, tt0154378, tt0120669, tt0156587, tt0120674, tt0122529, tt0120709, tt0156701, tt0118799, tt0151691, tt0154420, tt0120449, tt0120706, tt0156610, tt0154421, tt0157154, tt0157208, tt0118834, tt0120879]
@@ -4012,7 +4013,7 @@
     palme d'or - best short film:
       nominee: [tt0157828, tt0157280, tt0157345, tt0157573, tt0157632, tt0122498, tt0263415, tt0157732, tt0157771, tt0157776, tt0263459, tt0157865, tt0157901, tt0152447, tt0158223]
       winner: [tt0157828]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000147/1997/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0120265, tt0120408, tt0118644, tt0119629, tt0119167, tt0118845, tt0119463, tt0119488, tt0119792, tt0120112, tt0119113, tt0118768, tt0119062, tt0119349, tt0119948, tt0120100, tt0120255, tt0117959, tt0120493, tt0120490, tt0120494]
@@ -4103,7 +4104,7 @@
     palme d'or - best short film:
       nominee: [tt0119387, tt0119602, tt0118726, tt0118813, tt0119119, tt0119414, tt0119516, tt0120426, tt0188119, tt0119971, tt0120040]
       winner: [tt0119387]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000147/1996/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0117589, tt0118020, tt0115751, tt0115964, tt0116752, tt0117909, tt0116282, tt0117151, tt0116745, tt0114374, tt0115928, tt0117352, tt0117477, tt0117737, tt0116295, tt0116581, tt0117422, tt0117781, tt0118064, tt0118100, tt0117968, tt0120378]
@@ -4187,7 +4188,7 @@
     un certain regard - a certain talent prize:
       nominee: [tt0116384]
       winner: []
-'1995':
+'1995': # https://www.imdb.com/event/ev0000147/1995/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0114787, tt0112365, tt0112491, tt0112495, tt0112637, tt0112817, tt0113909, tt0109707, tt0113256, tt0113463, tt0113540, tt0112352, tt0113247, tt0114671, tt0115012, tt0114413, tt0110036, tt0112682, tt0112716, tt0110428, tt0113952, tt0114387, tt0114863, tt0111651]
@@ -4274,7 +4275,7 @@
     palme d'or - best short film:
       nominee: [tt0113138, tt0231931, tt0231447, tt0231482, tt0134637, tt0231069, tt0232680, tt0143914, tt0195543, tt0232262]
       winner: [tt0113138]
-'1994':
+'1994': # https://www.imdb.com/event/ev0000147/1994/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0110912, tt0109685, tt0110917, tt0111546, tt0109221, tt0111579, tt0109942, tt0109382, tt0109759, tt0110588, tt0110963, tt0110289, tt0111332, tt0109340, tt0110074, tt0110796, tt0110961, tt0107662, tt0110210, tt0109353, tt0111495, tt0111845, tt0110081]
@@ -4349,7 +4350,7 @@
     palme d'or - best short film:
       nominee: [tt0110084, tt0196120, tt0229266, tt0110326, tt0229638, tt0211565, tt0229756, tt0111338]
       winner: [tt0110084]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000147/1993/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0106332, tt0107822, tt0106452, tt0106487, tt0106786, tt0106856, tt0107209, tt0106911, tt0106963, tt0106968, tt0107322, tt0108059, tt0107403, tt0107446, tt0107485, tt0107535, tt0107616, tt0107471, tt0107653, tt0107920, tt0108207, tt0107132, tt0107157]
@@ -4429,7 +4430,7 @@
     palme d'or - best short film:
       nominee: [tt0106584, tt0231094, tt0231065, tt0232681, tt0231671, tt0231965, tt0232042, tt0151517, tt0163812, tt0170582]
       winner: [tt0106584]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000147/1992/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0104350, tt0105483, tt0105309, tt0103732, tt0103772, tt0104033, tt0105045, tt0105438, tt0104454, tt0104467, tt0104782, tt0104776, tt0105046, tt0105411, tt0105744, tt0104753, tt0105151, tt0105243, tt0105356, tt0104663, tt0105665]
@@ -4507,7 +4508,7 @@
     palme d'or - best short film:
       nominee: [tt0105051, tt0241805, tt0242185, tt0161425, tt0205855, tt0241414, tt0241489, tt0102197, tt0241397, tt0241936, tt0241745, tt0105010]
       winner: [tt0105051]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000147/1991/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0101410, tt0102749, tt0220309, tt0103135, tt0101460, tt0101829, tt0101984, tt0102048, tt0102175, tt0101428, tt0101440, tt0102358, tt0102383, tt0102058, tt0101765, tt0101548, tt0102439, tt0102693, tt0103190]
@@ -4593,7 +4594,7 @@
     palme d'or - best short film:
       nominee: [tt0242156, tt0101511, tt0241292, tt0241589, tt0242164, tt0241701, tt0241771, tt0102730, tt0242130]
       winner: [tt0242156]
-'1990':
+'1990': # https://www.imdb.com/event/ev0000147/1990/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0100935, tt0099218, tt0099291, tt0099334, tt0099341, tt0100681, tt0099768, tt0084548, tt0099902, tt0097848, tt0100274, tt0100508, tt0100757, tt0066498, tt0100440, tt0100784, tt0131012, tt0100928]
@@ -4672,7 +4673,7 @@
     palme d'or - best short film:
       nominee: [tt0100076, tt0158077, tt0241399, tt0132256, tt0134302, tt0241818, tt0097970, tt0241826, tt0241840, tt0241890, tt0241959, tt0212560]
       winner: [tt0100076]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000147/1989/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0098724, tt0094924, tt0097694, tt0094866, tt0095765, tt0097216, tt0097383, tt0097635, tt0097689, tt0097782, tt0097904, tt0097986, tt0097940, tt0098197, tt0098224, tt0098370, tt0096160, tt0098725, tt0097695, tt0097223, tt0098520, tt0096755]
@@ -4759,7 +4760,7 @@
     palme d'or - best short film:
       nominee: [tt0242247, tt0242306, tt0242319, tt0242471, tt0097673, tt0095683, tt0242948, tt0242773, tt0242867, tt0226297, tt0243037]
       winner: [tt0242247]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000147/1988/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0093713, tt0095468, tt0096464, tt0094747, tt0094868, tt0092929, tt0095053, tt0095559, tt0095276, tt0093133, tt0095099, tt0095773, tt0095640, tt0095827, tt0095836, tt0094833, tt0095709, tt0094076, tt0095839, tt0095833, tt0095786]
@@ -4838,7 +4839,7 @@
     palme d'or - best short film:
       nominee: [tt0242336, tt0147813, tt0242919, tt0242351, tt0176603, tt0242748, tt0242761, tt0242782, tt0242863]
       winner: [tt0242336]
-'1987':
+'1987': # https://www.imdb.com/event/ev0000147/1987/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0094011, tt0094208, tt0092580, tt0092618, tt0092739, tt0092800, tt0093664, tt0091754, tt0093776, tt0093754, tt0170569, tt0093964, tt0094183, tt0092637, tt0093004, tt0093093, tt0092143, tt0093191, tt0094349, tt0094370]
@@ -4910,7 +4911,7 @@
     palme d'or - best short film:
       nominee: [tt0242752, tt0242248, tt0242539, tt0192170, tt0242800, tt0242633, tt0242965, tt0242979, tt0241040, tt0094364]
       winner: [tt0242752]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000147/1986/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0091530, tt0088680, tt0092688, tt0090967, tt0089160, tt0091105, tt0091244, tt0091385, tt0122480, tt0091498, tt0091538, tt0092068, tt0091699, tt0091771, tt0091869, tt0089941, tt0091410, tt0092020, tt0091081, tt0091670, tt0092090]
@@ -4977,7 +4978,7 @@
     palme d'or - best short film:
       nominee: [tt0083910, tt0242245, tt0242590, tt0242422, tt0242474, tt0242775, tt0242776, tt0242687, tt0242803, tt0242805, tt0242925, tt0242974]
       winner: [tt0083910]
-'1985':
+'1985': # https://www.imdb.com/event/ev0000147/1985/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0089748, tt0088383, tt0086969, tt0088821, tt0089716, tt0089832, tt0089014, tt0089066, tt0088041, tt0089343, tt0089383, tt0089424, tt0089164, tt0089560, tt0089603, tt0089767, tt0089902, tt0088931, tt0089276, tt0089057]
@@ -5049,7 +5050,7 @@
     palme d'or - best short film:
       nominee: [tt0245179, tt0244973, tt0245480, tt0245588]
       winner: [tt0245179]
-'1984':
+'1984': # https://www.imdb.com/event/ev0000147/1984/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0087884, tt0088318, tt0086904, tt0086943, tt0087019, tt0087136, tt0084388, tt0087208, tt0091816, tt0088200, tt0086993, tt0087280, tt0088040, tt0087328, tt0087918, tt0088322, tt0088355, tt0088241, tt0088412]
@@ -5113,7 +5114,7 @@
     palme d'or - best short film:
       nominee: [tt0245492, tt0245047, tt0244982, tt0245016, tt0245398, tt0202593, tt0245336, tt0245363, tt0245416, tt0245508]
       winner: [tt0245492, tt0245047]
-'1983':
+'1983': # https://www.imdb.com/event/ev0000147/1983/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0084390, tt0084873, tt0085297, tt0085380, tt0084740, tt0085501, tt0084871, tt0084058, tt0085180, tt0085933, tt0086022, tt0086655, tt0086423, tt0084198, tt0085963, tt0085794, tt0085959, tt0085878, tt0086372, tt0090982, tt0084085, tt0086617]
@@ -5173,7 +5174,7 @@
     palme d'or - best short film:
       nominee: [tt0245178, tt0194641, tt0245085, tt0245143, tt0245590, tt0198489, tt0245026, tt0245334, tt0245513, tt0244979]
       winner: [tt0245178]
-'1982':
+'1982': # https://www.imdb.com/event/ev0000147/1982/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0084335, tt0084934, tt0081971, tt0083872, tt0083694, tt0080508, tt0083160, tt0083946, tt0085640, tt0084116, tt0084149, tt0077722, tt0084354, tt0084481, tt0264147, tt0084675, tt0084698, tt0080657, tt0084423, tt0084422, tt0084590, tt0084960]
@@ -5241,7 +5242,7 @@
     palme d'or - best short film:
       nominee: [tt0243417, tt0263165, tt0263312, tt0263735, tt0263967, tt0264075, tt0224226, tt0260825]
       winner: [tt0243417]
-'1981':
+'1981': # https://www.imdb.com/event/ev0000147/1981/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0082222, tt0082330, tt0082054, tt0083260, tt0082158, tt0082348, tt0150497, tt0083237, tt0080855, tt0080373, tt0082678, tt0082736, tt0082770, tt0082888, tt0082800, tt0082883, tt0082933, tt0080576, tt0082964, tt0082893, tt0083190, tt0084813]
@@ -5310,7 +5311,7 @@
     palme d'or - best short film:
       nominee: [tt0232129, tt0231119, tt0231142, tt0231461, tt0231466, tt0232517, tt0232052, tt0232064, tt0232176, tt0281121, tt0231936, tt0232843, tt0210397]
       winner: [tt0232129]
-'1980':
+'1980': # https://www.imdb.com/event/ev0000147/1980/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0078754, tt0080979, tt0079845, tt0081686, tt0079098, tt0187781, tt0078841, tt0080310, tt0080482, tt0080604, tt0079854, tt0080718, tt0079361, tt0082600, tt0081616, tt0081076, tt0081176, tt0081291, tt0081546, tt0080437, tt0080561, tt0081821, tt0081071]
@@ -5370,7 +5371,7 @@
     palme d'or - best short film:
       nominee: [tt0216189, tt0231181, tt0225292, tt0232976, tt0231674, tt0231934, tt0232303, tt0232031, tt0232507, tt0232596, tt0232652]
       winner: [tt0216189]
-'1979':
+'1979': # https://www.imdb.com/event/ev0000147/1979/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0078788, tt0078875, tt0077405, tt0078942, tt0077492, tt0079919, tt0079596, tt0078800, tt0079638, tt0079659, tt0079980, tt0079907, tt0079920, tt0078966, tt0079123, tt0079086, tt0077734, tt0080096, tt0078857, tt0080110, tt0080149]
@@ -5434,7 +5435,7 @@
     palme d'or - best short film:
       nominee: [tt0261725, tt0244447, tt0263105, tt0263432, tt0263249, tt0263337, tt0263765, tt0263862, tt0263874, tt0264164, tt0264214]
       winner: [tt0261725]
-'1978':
+'1978': # https://www.imdb.com/event/ev0000147/1978/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0077138, tt0077473, tt0075996, tt0078444, tt0078021, tt0077273, tt0075848, tt0077362, tt0077421, tt0077482, tt0077132, tt0078156, tt0077928, tt0077941, tt0078111, tt0077318, tt0076316, tt0078146, tt0172812, tt0078259, tt0078310, tt0078467, tt0078490]
@@ -5483,7 +5484,7 @@
     palme d'or - best short film:
       nominee: [tt0177302, tt0075953, tt0263205, tt0263979, tt0263647, tt0263700, tt0078017, tt0261140, tt0264122]
       winner: [tt0177302]
-'1977':
+'1977': # https://www.imdb.com/event/ev0000147/1977/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0076517, tt0075612, tt0076085, tt0129794, tt0074741, tt0075724, tt0075760, tt0074235, tt0074253, tt0074281, tt0075983, tt0076113, tt0076208, tt0074702, tt0075079, tt0074336, tt0075675, tt0075968, tt0076286, tt0075932, tt0075799, tt0076851]
@@ -5527,7 +5528,7 @@
     palme d'or - best short film:
       nominee: [tt0240667, tt0263068, tt0075937, tt0264152, tt0202062, tt0263713, tt0263953, tt0264044]
       winner: [tt0240667]
-'1976':
+'1976': # https://www.imdb.com/event/ev0000147/1976/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0075314, tt0073839, tt0191804, tt0074256, tt0074360, tt0162911, tt0073152, tt0072601, tt0074916, tt0158595, tt0074963, tt0073458, tt0073518, tt0073869, tt0075169, tt0076789, tt0074487, tt0074870, tt0074811, tt0074252]
@@ -5567,7 +5568,7 @@
     palme d'or - best short film:
       nominee: [tt0194148, tt0263043, tt0263439, tt0206807, tt0263951, tt0264072, tt0074966, tt0263856, tt0263943, tt0263091]
       winner: [tt0194148]
-'1975':
+'1975': # https://www.imdb.com/event/ev0000147/1975/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0072782, tt0125384, tt0064451, tt0071115, tt0071125, tt0077334, tt0073146, tt0072241, tt0071746, tt0071774, tt0074849, tt0071815, tt0071949, tt0071406, tt0072037, tt0073679, tt0071137, tt0071691, tt0073580, tt0072919, tt0073488, tt0168265]
@@ -5611,7 +5612,7 @@
     palme d'or - best short film:
       nominee: [tt0206876, tt0071430, tt0260840, tt0261006, tt0260879, tt0198384, tt0261165, tt0261429]
       winner: [tt0206876]
-'1974':
+'1974': # https://www.imdb.com/event/ev0000147/1974/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0071360, tt0071141, tt0071502, tt0068891, tt0072030, tt0133334, tt0071404, tt0073034, tt0071609, tt0071649, tt0072371, tt0071797, tt0071841, tt0222337, tt0072204, tt0072239, tt0123277, tt0211287, tt0073656, tt0070290, tt0177128, tt0073451, tt0071913, tt0071177, tt0072226]
@@ -5666,7 +5667,7 @@
     palme d'or - best short film:
       nominee: [tt0218493, tt0260704, tt0260700, tt0260782, tt0071636, tt0260962, tt0260989, tt0068844, tt0261122]
       winner: [tt0218493]
-'1973':
+'1973': # https://www.imdb.com/event/ev0000147/1973/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0070643, tt0070180, tt0068207, tt0156348, tt0070022, tt0070544, tt0070053, tt0070121, tt0070238, tt0069053, tt0070061, tt0068963, tt0070464, tt0069705, tt0070527, tt0138324, tt0070130, tt0070411, tt0068528, tt0070628, tt0070224, tt0070359, tt0072039, tt0070887]
@@ -5718,7 +5719,7 @@
     palme d'or - best short film:
       nominee: [tt0229229, tt0259824, tt0260137, tt0260464, tt0260134, tt0260370, tt0260385]
       winner: [tt0229229]
-'1972':
+'1972': # https://www.imdb.com/event/ev0000147/1972/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0068346, tt0066919, tt0068571, tt0067904, tt0173821, tt0068213, tt0068732, tt0068762, tt0068806, tt0068378, tt0067572, tt0069078, tt0067467, tt0067755, tt0069280, tt0069293, tt0067386, tt0069198, tt0068950, tt0068221, tt0069477, tt0069466, tt0069385, tt0067884, tt0069027]
@@ -5762,7 +5763,7 @@
     palme d'or - best short film:
       nominee: [tt0266567, tt0266280, tt0267136, tt0266584, tt0067222, tt0266312, tt0266671, tt0266738, tt0266744, tt0266770, tt0261882, tt0266865, tt0211258, tt0226691]
       winner: [tt0266567]
-'1971':
+'1971': # https://www.imdb.com/event/ev0000147/1971/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0067144, tt0141822, tt0266255, tt0065457, tt0067565, tt0067445, tt0068509, tt0068021, tt0065792, tt0067276, tt0067277, tt0065516, tt0066002, tt0067814, tt0067436, tt0067778, tt0186448, tt0067652, tt0067698, tt0067820, tt0065454, tt0067549, tt0067397, tt0067541, tt0067959, tt0165551]
@@ -5820,7 +5821,7 @@
     palme d'or - best short film:
       nominee: [tt0266279, tt0266528, tt0266610, tt0266748, tt0266662, tt0266540, tt0266416, tt0267003, tt0266762, tt0266772, tt0266840, tt0266841, tt0067733, tt0266993, tt0267066]
       winner: []
-'1970':
+'1970': # https://www.imdb.com/event/ev0000147/1970/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0066026, tt0267065, tt0065430, tt0064246, tt0066618, tt0064781, tt0064407, tt0065838, tt0065889, tt0065948, tt0071409, tt0065974, tt0066531, tt0066044, tt0066075, tt0066445, tt0066875, tt0065663, tt0066035, tt0064038, tt0189887, tt0065662, tt0066415, tt0064165, tt0211077]
@@ -5868,7 +5869,7 @@
     palme d'or - best short film:
       nominee: [tt0216670, tt0266423, tt0266466, tt0266514, tt0266585, tt0266286, tt0266680, tt0266726, tt0266512, tt0266974, tt0064623, tt0267061]
       winner: []
-'1969':
+'1969': # https://www.imdb.com/event/ev0000147/1969/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0063850, tt0065261, tt0063791, tt0064256, tt0062773, tt0062893, tt0064248, tt0064276, tt0145777, tt0134849, tt0063141, tt0124294, tt0064390, tt0064660, tt0065895, tt0064662, tt0064612, tt0064825, tt0141591, tt0064997, tt0062941, tt0064035, tt0064316, tt0064631, tt0064840, tt0065234]
@@ -5912,7 +5913,7 @@
     palme d'or - best short film:
       nominee: [tt0140506, tt0163892, tt0158289, tt0263448, tt0263096, tt0263754, tt0263791, tt0263925, tt0140545, tt0264049, tt0263866, tt0264098, tt0264184]
       winner: [tt0140506]
-'1967':
+'1967': # https://www.imdb.com/event/ev0000147/1967/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0060176, tt0061992, tt0061328, tt0061620, tt0062352, tt0133012, tt0062277, tt0122128, tt0060538, tt0061468, tt0061996, tt0061986, tt0062108, tt0059838, tt0061808, tt0061841, tt0061228, tt0063531, tt0061815, tt0170758, tt0138100, tt0062414, tt0061320, tt0061209]
@@ -5972,7 +5973,7 @@
     palme d'or - best short film:
       nominee: [tt0062278, tt0060503, tt0282781, tt0281752, tt0281760, tt0163907, tt0282531, tt0282617, tt0282632, tt0282456, tt0283036, tt0282675, tt0282816, tt0282897, tt0206357, tt0283116]
       winner: [tt0062278]
-'1966':
+'1966': # https://www.imdb.com/event/ev0000147/1966/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0061138, tt0062271, tt0060086, tt0059943, tt0059012, tt0059052, tt0059113, tt0060125, tt0061042, tt0059153, tt0060625, tt0060648, tt0060708, tt0060714, tt0060401, tt0060829, tt0059634, tt0060955, tt0060847, tt0061132, tt0059281, tt0061227, tt0060891, tt0059776, tt0060574]
@@ -6017,7 +6018,7 @@
     palme d'or - best short film:
       nominee: [tt0059725, tt0281558, tt0281682, tt0281727, tt0317227, tt0282899, tt0282809, tt0282892, tt0059122, tt0060346, tt0281884, tt0282767, tt0282743, tt0283104, tt0283163]
       winner: [tt0059725]
-'1965':
+'1965': # https://www.imdb.com/event/ev0000147/1965/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0059362, tt0058637, tt0058786, tt0059177, tt0059040, tt0059340, tt0320366, tt0058439, tt0058279, tt0058780, tt0189814, tt0059456, tt0059593, tt0058863, tt0059043, tt0059274, tt0059319, tt0059459, tt0059527, tt0355521, tt0059589, tt0059946, tt0276986, tt0135616, tt0059934, tt0314947]
@@ -6077,7 +6078,7 @@
     palme d'or - best short film:
       nominee: [tt0059559, tt0058867, tt0468886, tt0468655, tt0468656, tt0259945, tt0205913, tt0468741, tt0468760, tt0059335, tt0468698, tt0468772, tt0305838, tt0468821, tt0402410, tt0358019, tt0468838, tt0468841, tt0468855, tt0058288]
       winner: [tt0059559]
-'1964':
+'1964': # https://www.imdb.com/event/ev0000147/1964/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0058450, tt0057553, tt0057654, tt0058006, tt0058673, tt0056917, tt0373080, tt0179429, tt0057332, tt0058429, tt0057394, tt0054159, tt0057237, tt0058564, tt0175238, tt0057006, tt0122574, tt0058411, tt0058500, tt0057229, tt0058458, tt0058724, tt0058756, tt0057694, tt0058625]
@@ -6114,7 +6115,7 @@
     palme d'or - best short film:
       nominee: [tt0126422]
       winner: []
-'1963':
+'1963': # https://www.imdb.com/event/ev0000147/1963/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0057091, tt0055742, tt0056906, tt0129831, tt0054486, tt0196817, tt0056058, tt0057196, tt0056137, tt0057261, tt0057423, tt0057388, tt0056395, tt0194730, tt0057532, tt0056823, tt0188388, tt0055981, tt0056889, tt0309967, tt0121848, tt0057578, tt0056592, tt0173374, tt0056687, tt0056844]
@@ -6162,7 +6163,7 @@
     palme d'or - best short film:
       nominee: [tt0757228, tt0317631]
       winner: [tt0757228, tt0317631]
-'1962':
+'1962': # https://www.imdb.com/event/ev0000147/1962/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0056322, tt0131571, tt0057318, tt0055506, tt0056129, tt0055728, tt0055738, tt0124452, tt0253488, tt0255054, tt0055852, tt0055913, tt0055918, tt0055950, tt0228499, tt0054965, tt0056125, tt0056569, tt0056736, tt0197227, tt0056178, tt0056196, tt0055310, tt0056471, tt0054705, tt0056732, tt0053765, tt0055018, tt0058760, tt0056265, tt0252470, tt0059616, tt0055051, tt0878722]
@@ -6202,7 +6203,7 @@
     palme d'or - best short film:
       nominee: [tt0056300]
       winner: [tt0056300]
-'1961':
+'1961': # https://www.imdb.com/event/ev0000147/1961/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0054426, tt0055601, tt0055353, tt0232416, tt0054151, tt0312560, tt0054199, tt0054786, tt0054225, tt0054936, tt0055168, tt0137009, tt0174810, tt0056184, tt0055119, tt0055153, tt0318580, tt0193048, tt0052768, tt0055326, tt0053747, tt0055138, tt0054991, tt0053707, tt0053781, tt0054025, tt0056657, tt0055146, tt0053714, tt0055364, tt0054749]
@@ -6250,7 +6251,7 @@
     palme d'or - best short film:
       nominee: [tt0318559, tt0317064, tt0317095, tt0317119, tt0222945, tt0317297, tt0318601, tt0317475, tt0130709, tt0317517, tt0317523, tt0317579, tt0317592, tt0148316, tt0317824, tt0317806, tt0317492, tt0269598, tt0318490, tt0318549, tt0318437, tt0318633, tt0318710, tt0317099, tt0312490, tt0053737, tt0145744, tt0318735, tt0318818]
       winner: [tt0318559]
-'1960':
+'1960': # https://www.imdb.com/event/ev0000147/1960/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0053779, tt0140808, tt0054495, tt0052600, tt0053158, tt0053713, tt0176006, tt0053917, tt0192741, tt0053619, tt0293526, tt0053106, tt0054042, tt0054198, tt0052957, tt0054091, tt0054326, tt0053319, tt0053339, tt0052939, tt0056034, tt0059029, tt0054407, tt0053746, tt0053764, tt0053244, tt0053976, tt0053967, tt0052958]
@@ -6279,7 +6280,7 @@
     palme d'or - best short film:
       nominee: [tt0465076]
       winner: [tt0465076]
-'1959':
+'1959': # https://www.imdb.com/event/ev0000147/1959/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0053146, tt0053261, tt0051372, tt0051712, tt0256920, tt0052700, tt0052979, tt0051695, tt0051600, tt0052893, tt0053023, tt0051842, tt0053065, tt0051641, tt0051983, tt0053151, tt0052118, tt0053226, tt0052192, tt0053306, tt0052420, tt0053198, tt0052738, tt0051504, tt0051533, tt0170774, tt0052438]
@@ -6336,7 +6337,7 @@
     ocic award:
       nominee: [tt0053198]
       winner: [tt0053198]
-'1958':
+'1958': # https://www.imdb.com/event/ev0000147/1958/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0050634, tt0124221, tt0051065, tt0052017, tt0051200, tt0051534, tt0052854, tt0052349, tt0050346, tt0242341, tt0051142, tt0050706, tt0050762, tt0052033, tt0050820, tt0121703, tt0050974, tt0051217, tt0051435, tt0050321, tt0051878, tt0052046, tt0154341, tt0051155, tt0170770, tt0050435]
@@ -6373,7 +6374,7 @@
     palme d'or - best short film:
       nominee: [tt0293296, tt0050948, tt0050788]
       winner: [tt0293296, tt0050948]
-'1957':
+'1957': # https://www.imdb.com/event/ev0000147/1957/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0049233, tt0049902, tt0051209, tt0050187, tt0050326, tt0279526, tt0050382, tt0050419, tt0317595, tt0049282, tt0050237, tt0050507, tt0050585, tt0048382, tt0274782, tt0431492, tt0050783, tt0048523, tt0186276, tt0261299, tt0049762, tt0050156, tt0049783, tt0125730, tt0050231, tt0337088, tt0050976, tt0049689, tt0050615, tt0049150, tt0251742]
@@ -6414,7 +6415,7 @@
     palme d'or - best short film:
       nominee: [tt0131581]
       winner: [tt0131581]
-'1956':
+'1956': # https://www.imdb.com/event/ev0000147/1956/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0049518, tt0049419, tt0048930, tt0048697, tt0318677, tt0049077, tt0172291, tt0048836, tt0048146, tt0048198, tt0048191, tt0203797, tt0048275, tt0048359, tt0048455, tt0048473, tt0048478, tt0222186, tt0405304, tt0048355, tt0155168, tt0048641, tt0341581, tt0242928, tt0049291, tt0049746, tt0048391, tt0049470, tt0049471, tt0049474, tt0049531, tt0049207, tt0049839, tt0255663, tt0278098, tt0048045, tt0049931, tt0048207, tt0049019]
@@ -6457,7 +6458,7 @@
     palme d'or - best short film:
       nominee: [tt0048980]
       winner: [tt0048980]
-'1955':
+'1955': # https://www.imdb.com/event/ev0000147/1955/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0048356, tt0046797, tt0048250, tt0046851, tt0047849, tt0046780, tt0048011, tt0046799, tt0046828, tt0047261, tt0169151, tt0048028, tt0047987, tt0047021, tt0048121, tt0048227, tt0342512, tt0047180, tt0046871, tt0047195, tt0330723, tt0048021, tt0048561, tt0047395, tt0778830, tt1452603, tt0048657, tt0046874, tt0048034, tt0047313, tt0047216, tt0046292, tt0046964]
@@ -6512,7 +6513,7 @@
     palme d'or - best short film:
       nominee: [tt0047887]
       winner: [tt0047887]
-'1954':
+'1954': # https://www.imdb.com/event/ev0000147/1954/1/?ref_=ev_eh
   grand prize of the festival:
     grand prize of the festival:
       nominee: [tt0045935, tt0186387, tt0046340, tt0046273, tt0045525, tt0045551, tt0046881, tt0046857, tt0045665, tt0045693, tt0268477, tt0046129, tt0047351, tt0047044, tt0045793, tt0172655, tt0047243, tt0045966, tt0045968, tt0045979, tt0046003, tt0407929, tt0046023, tt0046038, tt0140370, tt0042726, tt0341351, tt0046831, tt0241799, tt0123266, tt0046498, tt0184327, tt0046055, tt0046381, tt0045527, tt0044429, tt0046373, tt0047172, tt0046006, tt0046008, tt0318821, tt0139413, tt0047591]
@@ -6544,7 +6545,7 @@
     ocic award:
       nominee: [tt0047172]
       winner: [tt0047172]
-'1953':
+'1953': # https://www.imdb.com/event/ev0000147/1953/1/?ref_=ev_eh
   grand prize of the festival:
     best short film:
       nominee: [tt0044518]
@@ -6592,7 +6593,7 @@
     ocic award:
       nominee: [tt0097526]
       winner: [tt0097526]
-'1952':
+'1952': # https://www.imdb.com/event/ev0000147/1952/1/?ref_=ev_eh
   grand prize of the festival:
     grand prize of the festival:
       nominee: [tt0045251, tt0044572, tt0236861, tt0311416, tt0043278, tt0243120, tt0043606, tt0043436, tt0137126, tt0043737, tt0043465, tt0044980, tt0044586, tt0044602, tt0043580, tt0160028, tt0043789, tt0044084, tt0243440, tt0043635, tt0043652, tt0200948, tt0043670, tt0044092, tt0044384, tt0043903, tt0331417, tt0043794, tt0044474, tt0143956, tt0181855, tt0045274, tt0136549, tt0045296, tt0044977]
@@ -6636,7 +6637,7 @@
     ocic award - special mention:
       nominee: [tt0318808]
       winner: [tt0318808]
-'1951':
+'1951': # https://www.imdb.com/event/ev0000147/1951/1/?ref_=ev_eh
   grand prize of the festival:
     short film:
       nominee: [tt0042990]
@@ -6686,7 +6687,7 @@
     special award:
       nominee: [tt0044103]
       winner: [tt0044103]
-'1949':
+'1949': # https://www.imdb.com/event/ev0000147/1949/1/?ref_=ev_eh
   grand prize of the festival:
     feature film:
       nominee: [tt10302690]
@@ -6722,7 +6723,7 @@
     fipresci prize:
       nominee: [tt0041859]
       winner: [tt0041859]
-'1947':
+'1947': # https://www.imdb.com/event/ev0000147/1947/1/?ref_=ev_eh
   award:
     best adventure and crime film:
       nominee: [tt0039615]
@@ -6742,7 +6743,7 @@
     feature films:
       nominee: [tt0039834, tt0038150, tt0039208, tt0039309, tt0039504, tt0039278, tt0154139, tt0039512, tt0039857, tt0255353, tt0039627, tt0040683, tt0039725, tt0039381, tt0039413, tt0038409, tt0038661, tt0038988, tt0039922]
       winner: []
-'1946':
+'1946': # https://www.imdb.com/event/ev0000147/1946/1/?ref_=ev_eh
   grand prize of the festival:
     feature film:
       nominee: [tt0037558, tt0037054, tt0038760, tt0154942, tt0039004, tt0038043, tt0038890, tt0037871, tt0037884, tt0037426, tt0036914, tt0038303, tt0038348, tt0037544, tt0038390, tt0038394, tt0285527, tt0038530, tt0036855, tt0038559, tt0037589, tt0038594, tt0037916, tt0124300, tt0038718, tt0038863, tt0175955, tt0038787, tt0192444, tt0038026, tt0038327, tt0038334, tt0038396, tt0038566, tt0038297, tt0039594, tt0038924, tt0038666, tt0162020, tt0039051, tt0038560, tt0039061, tt0038260, tt0037482]
@@ -6803,7 +6804,7 @@
     short films:
       nominee: [tt0240010]
       winner: [tt0240010]
-'1939':
+'1939': # https://www.imdb.com/event/ev0000147/1939/1/?ref_=ev_eh
   palme d'or:
     palme d'or:
       nominee: [tt0032080, tt0031111, tt0031385, tt0031585, tt0031564, tt0031334, tt0032138]

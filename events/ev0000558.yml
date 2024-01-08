@@ -1,4 +1,5 @@
-'2023':
+# Razzie Awards
+'2023':  # https://www.imdb.com/event/ev0000558/2023/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt5108870, tt15331186, tt8746404, tt5500218, tt4593060]
@@ -31,7 +32,7 @@
     redeemer award:
       nominee: [tt11813216, tt14439896, tt14731254]
       winner: [tt11813216]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000558/2022/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt3554046, tt9357050, tt6654210, tt12885272, tt3876910]
@@ -67,7 +68,7 @@
     redeemer award:
       nominee: [tt9620288, tt12789558, tt11003218]
       winner: [tt9620288]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000558/2021/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt13989524, tt10682266, tt9619798, tt10886166, tt6673612]
@@ -96,7 +97,7 @@
     worst supporting actress:
       nominee: [tt7541720, tt6772802, tt7126948, tt0983946]
       winner: [tt7541720]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000558/2020/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt7869070, tt2274648, tt1881109, tt6476140, tt1206885]
@@ -132,7 +133,7 @@
     redeemer award:
       nominee: [tt8526872, tt6139732, tt5503686, tt6146586, tt5727208]
       winner: [tt8526872]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000558/2019/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt8564902, tt1137450, tt1801552, tt2296777, tt1255919]
@@ -169,7 +170,7 @@
     barry l. bumstead award:
       nominee: [tt5179598]
       winner: [tt5179598]
-'2018':
+'2018': # https://www.imdb.com/event/ev0000558/2018/1/?ref_=ev_eh
   razzie award:
     so rotten you loved it:
       nominee: [tt1469304, tt4465564, tt4877122, tt2345759, tt3371366]
@@ -205,7 +206,7 @@
     barry l. bumstead award:
       nominee: [tt0493405]
       winner: [tt0493405]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000558/2017/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt5646136, tt2975590, tt1608290, tt2404233, tt1860213]
@@ -242,7 +243,7 @@
     barry l. bumstead award:
       nominee: [tt3658772]
       winner: [tt3658772]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000558/2016/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt2322441, tt3203616, tt1617661, tt3045616, tt3450650]
@@ -275,7 +276,7 @@
     barry l. bumstead award:
       nominee: [tt2814362]
       winner: [tt2814362]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000558/2015/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt4009460, tt1086772, tt1043726, tt2467046, tt2557490]
@@ -304,7 +305,7 @@
     worst supporting actress:
       nominee: [tt1291150, tt4009460, tt1823664, tt2109248, tt2103254]
       winner: [tt1291150]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000558/2014/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt1815862, tt2191701, tt2357129, tt1210819, tt1308729]
@@ -333,7 +334,7 @@
     worst supporting actress:
       nominee: [tt2070862, tt1931435, tt2002718, tt1754811, tt2191701]
       winner: [tt2070862]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000558/2013/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt1232200, tt0763831, tt1071875, tt1673434, tt1712170]
@@ -365,7 +366,7 @@
     worst supporting actress:
       nominee: [tt1440129, tt1673434, tt1586265, tt1540128]
       winner: [tt1440129]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000558/2012/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0810913, tt1411664, tt1502404, tt1334512, tt1600195]
@@ -397,7 +398,7 @@
     worst supporting actress:
       nominee: [tt0810913, tt1464174, tt1564367, tt1399103]
       winner: [tt0810913]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000558/2011/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt1103153, tt1038919, tt1320261, tt1403981, tt1325004]
@@ -429,7 +430,7 @@
     worst supporting actress:
       nominee: [tt0954947, tt0970866, tt1126591, tt1261945, tt0938283]
       winner: [tt0954947]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000558/2010/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt1229827, tt0780567, tt0976238, tt0838232, tt0457400]
@@ -467,7 +468,7 @@
     worst supporting actress:
       nominee: [tt1046173, tt1198138, tt0901476, tt1055369, tt0976238]
       winner: [tt1046173]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000558/2009/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0811138, tt0411061, tt0765476, tt1001562, tt0949731]
@@ -496,7 +497,7 @@
     worst supporting actress:
       nominee: [tt0963194, tt1213644, tt1001562, tt0411061]
       winner: [tt0963194]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000558/2008/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0477051, tt0762107, tt0462244, tt0481369, tt0259324]
@@ -531,7 +532,7 @@
     worst supporting actress:
       nominee: [tt0477051, tt0799949, tt0762107, tt0897361, tt0462229]
       winner: [tt0477051]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000558/2007/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0430304, tt0462395, tt0450345, tt0437863, tt0452681]
@@ -566,7 +567,7 @@
     worst supporting actress:
       nominee: [tt0466342, tt0455967, tt0348150, tt0790604, tt0383222]
       winner: [tt0466342]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000558/2006/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0367652, tt0419706, tt0362165, tt0407304, tt0374536]
@@ -595,7 +596,7 @@
     worst supporting actress:
       nominee: [tt0397065, tt0434424, tt0327643, tt0377818, tt0372784]
       winner: [tt0397065]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000558/2005/1/?ref_=ev_eh
   razzie award:
     worst 'comedy' of our first 25 years:
       nominee: [tt0299930, tt0240515, tt0093405, tt0180052, tt0312528]
@@ -633,7 +634,7 @@
     worst supporting actress:
       nominee: [tt0361596, tt0335438, tt0300051, tt0327554]
       winner: [tt0361596]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000558/2004/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0287978, tt0349205, tt0285462, tt0339034, tt0312528]
@@ -669,7 +670,7 @@
     governor's award:
       nominee: [tt0339034]
       winner: [tt0339034]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000558/2003/1/?ref_=ev_eh
   razzie award:
     most flatulent teen-targeted movie:
       nominee: [tt0322802, tt0275022, tt0271263, tt0267913, tt0295701]
@@ -704,7 +705,7 @@
     worst supporting actress:
       nominee: [tt0246460, tt0295427, tt0120912, tt0121765, tt0246894]
       winner: [tt0246460]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000558/2002/1/?ref_=ev_eh
   razzie award:
     worst picture:
       nominee: [tt0240515, tt0233142, tt0132245, tt0118589, tt0213149]
@@ -733,7 +734,7 @@
     worst screen couple:
       nominee: [tt0240515, tt0213149, tt0132245, tt0233142, tt0118589]
       winner: [tt0240515]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000558/2001/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0185183, tt0185431, tt0216216, tt0163978, tt0208988]
@@ -762,7 +763,7 @@
     worst supporting actress:
       nominee: [tt0185183, tt0158622, tt0185431, tt0131704, tt0120755]
       winner: [tt0185183]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000558/2000/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0142342, tt0146675, tt0126916, tt0120891, tt0182789]
@@ -794,7 +795,7 @@
     worst supporting actress:
       nominee: [tt0143145, tt0123209, tt0120891, tt0120655, tt0120915]
       winner: [tt0143145]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000558/1999/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0120591, tt0120484, tt0118661, tt0118577, tt0120577]
@@ -829,7 +830,7 @@
     worst supporting actress:
       nominee: [tt0120685, tt0120577, tt0131857, tt0120591, tt0118836]
       winner: [tt0120685]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000558/1998/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0119925, tt0118615, tt0120207, tt0119123, tt0120053]
@@ -867,7 +868,7 @@
     worst supporting actress:
       nominee: [tt0118688, tt0115495, tt0119109, tt0119116]
       winner: [tt0118688]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000558/1997/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0115683, tt0115676, tt0115783, tt0115857, tt0116040]
@@ -902,7 +903,7 @@
     worst written film grossing over $100 million:
       nominee: [tt0117998, tt0117913, tt0116629, tt0117060, tt0116583]
       winner: [tt0117998]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000558/1996/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0113500, tt0113481, tt0114898, tt0114436, tt0112401]
@@ -937,7 +938,7 @@
     worst supporting actress:
       nominee: [tt0113101, tt0114694, tt0112715, tt0114436]
       winner: [tt0113101]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000558/1995/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0111756, tt0109456, tt0109891, tt0110725, tt0111255]
@@ -972,7 +973,7 @@
     worst supporting actress:
       nominee: [tt0109376, tt0109813, tt0110687, tt0109456, tt0106834]
       winner: [tt0109376]
-'1994':
+'1994': # https://www.imdb.com/event/ev0000558/1994/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0106613, tt0107362, tt0107211, tt0106453, tt0108162]
@@ -1001,7 +1002,7 @@
     worst supporting actress:
       nominee: [tt0108311, tt0106453, tt0108162, tt0106582, tt0106697]
       winner: [tt0108311]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000558/1993/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0105477, tt0104427, tt0103855, tt0103772, tt0104283]
@@ -1030,7 +1031,7 @@
     worst supporting actress:
       nominee: [tt0105477, tt0104990, tt0103772, tt0101625, tt0105483]
       winner: [tt0105477]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000558/1992/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0102798, tt0101726, tt0102070, tt0102603, tt0101615]
@@ -1059,7 +1060,7 @@
     worst supporting actress:
       nominee: [tt0102220, tt0102558, tt0102057, tt0102603, tt0102070]
       winner: [tt0102220]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000558/1991/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0098987, tt0099528, tt0099409, tt0099691, tt0100507]
@@ -1088,7 +1089,7 @@
     worst supporting actress:
       nominee: [tt0099674, tt0099128, tt0099656, tt0099165, tt0100050]
       winner: [tt0099674]
-'1990':
+'1990': # https://www.imdb.com/event/ev0000558/1990/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0098382, tt0097967, tt0097647, tt0097770, tt0098308]
@@ -1117,7 +1118,7 @@
     worst supporting actress:
       nominee: [tt0098369, tt0097257, tt0096911, tt0098439, tt0096953]
       winner: [tt0098369]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000558/1989/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0095956, tt0095326, tt0095977, tt0094824, tt0094889]
@@ -1146,7 +1147,7 @@
     worst supporting actress:
       nominee: [tt0096324, tt0095304, tt0093744, tt0096193, tt0095889]
       winner: [tt0096324]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000558/1988/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0093405, tt0093300, tt0093051, tt0094169, tt0093692]
@@ -1178,7 +1179,7 @@
     worst visual effects:
       nominee: [tt0093300, tt0094074, tt0093072]
       winner: [tt0093300]
-'1987':
+'1987': # https://www.imdb.com/event/ev0000558/1987/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0092133, tt0091499, tt0090753, tt0091934, tt0090859]
@@ -1210,7 +1211,7 @@
     worst visual effects:
       nominee: [tt0091225, tt0091276, tt0091344]
       winner: [tt0091225]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000558/1986/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0089880, tt0089913, tt0089523, tt0089798, tt0089420]
@@ -1242,7 +1243,7 @@
     worst supporting actress:
       nominee: [tt0089927, tt0089880, tt0089798, tt0089893]
       winner: [tt0089927]
-'1985':
+'1985': # https://www.imdb.com/event/ev0000558/1985/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0088001, tt0087032, tt0088134, tt0086985, tt0088206]
@@ -1274,7 +1275,7 @@
     worst supporting actress:
       nominee: [tt0088395, tt0087089, tt0087032, tt0086987]
       winner: [tt0088395]
-'1984':
+'1984': # https://www.imdb.com/event/ev0000558/1984/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0086011, tt0086619, tt0086361, tt0085863, tt0085672]
@@ -1306,7 +1307,7 @@
     worst supporting actress:
       nominee: [tt0085318, tt0086619, tt0085863, tt0086374, tt0086361]
       winner: [tt0085318]
-'1983':
+'1983': # https://www.imdb.com/event/ev0000558/1983/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0084132, tt0082198, tt0084504, tt0084931, tt0084469]
@@ -1338,7 +1339,7 @@
     worst supporting actress:
       nominee: [tt0083564, tt0084652, tt0083806, tt0082122, tt0083550]
       winner: [tt0083564]
-'1982':
+'1982': # https://www.imdb.com/event/ev0000558/1982/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0082648, tt0083178, tt0082849, tt0080855, tt0083170]
@@ -1370,7 +1371,7 @@
     worst supporting actress:
       nominee: [tt0082766, tt0082136, tt0082329]
       winner: [tt0082766]
-'1981':
+'1981': # https://www.imdb.com/event/ev0000558/1981/1/?ref_=ev_eh
   razzie award:
     worst actor:
       nominee: [tt0080948, tt0080515, tt0080492, tt0079285, tt0081777, tt0080661, tt0080556, tt0080550, tt0080745]

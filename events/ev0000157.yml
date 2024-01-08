@@ -1,4 +1,5 @@
-'2023':
+# César Awards, France
+'2023':  # https://www.imdb.com/event/ev0000157/2023/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt13702796, tt14336174, tt14542254, tt19841734, tt14831708]
@@ -72,7 +73,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt14976386, tt15376894, tt19719862, tt13531468, tt13328732]
       winner: [tt14976386]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000157/2022/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt11093266, tt6217926, tt11611486, tt10404944, tt10341034, tt13321730, tt11967116]
@@ -146,7 +147,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt13880104, tt10944760, tt12708658, tt9697780, tt10505316]
       winner: [tt13880104]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000157/2021/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt10749760, tt10196398, tt8076110, tt10880402, tt12443930]
@@ -214,7 +215,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt9196192, tt9894450, tt9164788, tt12443930, tt7766886]
       winner: [tt9196192]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000157/2020/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt8359840, tt10199590, tt9172422, tt2398149, tt8095860, tt8655470]
@@ -286,7 +287,7 @@
     césar du public:
       nominee: [tt10199590, tt10545470, tt8201404, tt6556670, tt8655470]
       winner: [tt10199590]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000157/2019/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt7253216, tt6002232, tt7530986, tt7543930, tt7534068, tt7773210, tt7491144]
@@ -358,7 +359,7 @@
     césar du public:
       nominee: [tt7066382]
       winner: [tt7066382]
-'2018':
+'2018': # https://www.imdb.com/event/ev0000157/2018/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt6805302, tt5258850, tt6462462, tt5351818, tt5699154, tt5687334, tt6247936]
@@ -430,7 +431,7 @@
     césar du public:
       nominee: [tt5736696]
       winner: [tt5736696]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000157/2017/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt4645368, tt4726636, tt5078326, tt4084060, tt4400038, tt4741708, tt5029608]
@@ -504,7 +505,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt4730986, tt4632440, tt5766118, tt5029608, tt4726636]
       winner: [tt4730986]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000157/2016/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt4428814, tt4216908, tt4228294, tt4120210, tt4313614, tt4082068, tt3478962]
@@ -572,7 +573,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt4466544, tt4466362, tt3791302, tt4048050, tt3854802]
       winner: [tt4466544]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000157/2015/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt2707858, tt3547740, tt2707848, tt3324494, tt3129564, tt3184934, tt2891070]
@@ -637,7 +638,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt3547740, tt3800010, tt3365778, tt3655522]
       winner: [tt3547740]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000157/2014/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt2315200, tt2853614, tt2207050, tt3062242, tt2054790, tt2406252, tt2150332]
@@ -705,7 +706,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt2278871, tt1638353, tt2018079, tt2752200, tt2215221]
       winner: [tt2278871]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000157/2013/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt1602620, tt2076220, tt1964624, tt1906347, tt2076176, tt2179121, tt1899270]
@@ -770,7 +771,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt2359668, tt2399501, tt2253939, tt2210823]
       winner: [tt2359668]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000157/2012/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt1675434, tt1711484, tt1655442, tt1781843, tt1582244, tt1710590]
@@ -835,7 +836,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt1538221, tt1661420, tt1660379, tt1821493]
       winner: [tt1538221, tt1661420]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000157/2011/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt1329457, tt1473074, tt1646974, tt1588337, tt1465487]
@@ -900,7 +901,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt1587877, tt1509797, tt1587119, tt1401643]
       winner: [tt1587877]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000157/2010/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt1235166, tt1198385, tt1245771, tt1314280, tt1430110]
@@ -962,7 +963,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt1245771, tt1194616, tt1258141, tt1486815, tt1198385]
       winner: [tt1245771]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000157/2009/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0411272, tt0996930, tt1174034, tt1132607, tt0926759]
@@ -1024,7 +1025,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt0926759, tt1087851, tt1139800, tt1263778, tt1132608]
       winner: [tt0926759]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000157/2008/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0401383, tt0825244, tt0864691, tt0487273, tt0969701]
@@ -1086,7 +1087,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt0487419, tt0869977, tt0889652, tt0996605]
       winner: [tt0487419]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000157/2007/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0362225, tt0478724, tt0464828, tt0464913, tt0450664]
@@ -1148,7 +1149,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt0485241, tt0814666, tt0487503, tt0459880, tt0498125]
       winner: [tt0485241]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000157/2006/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0364301, tt0443072, tt0422015, tt0436445, tt0411270]
@@ -1207,7 +1208,7 @@
     most promising actress (meilleur espoir féminin):
       nominee: [tt0411270, tt0456396, tt0428965, tt0431493, tt0431827]
       winner: [tt0411270]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000157/2005/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0344273, tt0354836, tt0390808, tt0372824, tt0388562]
@@ -1266,7 +1267,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0338977, tt0387892, tt0344273, tt0374583]
       winner: [tt0338977]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000157/2004/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0329388, tt0351770, tt0344604, tt0328955, tt0329584]
@@ -1325,7 +1326,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0335351, tt0336264, tt0361474, tt0338135, tt0326036]
       winner: [tt0335351]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000157/2003/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0253474, tt0259440, tt0273069, tt0309872, tt0280653]
@@ -1384,7 +1385,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0283900, tt0283832, tt0293155, tt0287448, tt0291538]
       winner: [tt0283900]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000157/2002/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0268219, tt0274155, tt0260198, tt0274117, tt0273148]
@@ -1440,7 +1441,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0265116, tt0269771, tt0242994, tt0234041, tt0263496]
       winner: [tt0265116]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000157/2001/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0216800, tt0217119, tt0216689, tt0216787, tt0230098]
@@ -1496,7 +1497,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0216578, tt0216911, tt0217019, tt0216800]
       winner: [tt0216578]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000157/2000/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0144201, tt0210167, tt0202433, tt0186730, tt0210163]
@@ -1552,7 +1553,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0174330, tt0205011, tt0187200, tt0187457, tt0200071]
       winner: [tt0174330]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000157/1999/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0119038, tt0119307, tt0168740, tt0162555, tt0118834]
@@ -1608,7 +1609,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0120449, tt0120799, tt0152930, tt0122082, tt0168740]
       winner: [tt0120449]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000157/1998/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0119828, tt0118976, tt0119773, tt0118756, tt0118895]
@@ -1664,7 +1665,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0120405, tt0120471, tt0119113, tt0119391, tt0119620]
       winner: [tt0120405]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000157/1997/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0115822, tt0117477, tt0116581, tt0115638, tt0117412]
@@ -1673,7 +1674,7 @@
       nominee: [tt0117412, tt0117073, tt0118100, tt0116932, tt0115973]
       winner: [tt0117412]
     best cinematography (meilleure photographie):
-      nominee: [tt0117040, tt0117477, tt0115823]
+      nominee: [tt0117040, tt0115823, tt0117477]
       winner: [tt0117040]
     best costume design (meilleurs costumes):
       nominee: [tt0117477, tt0115638, tt0115822]
@@ -1694,7 +1695,7 @@
       nominee: [tt0115751, tt0116282, tt0117589, tt0117398]
       winner: [tt0115751]
     best music (meilleure musique):
-      nominee: [tt0117040, tt0118020, tt0117477, tt0115823]
+      nominee: [tt0117040, tt0118020, tt0115823, tt0117477]
       winner: [tt0117040]
     best producer (meilleur producteur):
       nominee: [tt0117040]
@@ -1723,7 +1724,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0118100, tt0115928, tt0115856, tt0115561]
       winner: [tt0118100]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000157/1996/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0113947, tt0113149, tt0112386, tt0113054, tt0113247]
@@ -1782,7 +1783,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0112951, tt0112945, tt0113362, tt0112387, tt0113057]
       winner: [tt0112951]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000157/1995/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0109800, tt0111342, tt0109454, tt0110413, tt0111495]
@@ -1845,7 +1846,7 @@
     césar des césars:
       nominee: [tt0099334]
       winner: [tt0099334]
-'1994':
+'1994': # https://www.imdb.com/event/ev0000157/1994/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0108167, tt0108500, tt0107471, tt0107700]
@@ -1901,7 +1902,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0106999, tt0107471, tt0108394, tt0107651, tt0107520]
       winner: [tt0106999]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000157/1993/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0105448, tt0105682, tt0105131, tt0104025]
@@ -1957,7 +1958,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0105032, tt0104658, tt0103782, tt0104507]
       winner: [tt0105032]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000157/1992/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0103190, tt0103168, tt0102058, tt0103110, tt0101428]
@@ -2013,7 +2014,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0102520, tt0103190, tt0102465, tt0101700]
       winner: [tt0102520]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000157/1991/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0099334, tt0099965, tt0099436, tt0100112, tt0097884, tt0099446]
@@ -2072,7 +2073,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0099436, tt0100357, tt0100851, tt0100747, tt0099406]
       winner: [tt0099436]
-'1990':
+'1990': # https://www.imdb.com/event/ev0000157/1990/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0098596, tt0098520, tt0098552, tt0098000, tt0097515, tt0097904]
@@ -2137,7 +2138,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0097995, tt0097614, tt0098409, tt0098552, tt0094711]
       winner: [tt0097995]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000157/1989/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0095386, tt0095943, tt0094828, tt0095250]
@@ -2205,7 +2206,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0096386, tt0095099, tt0095567, tt0092931]
       winner: [tt0096386]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000157/1988/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0093111, tt0092837, tt0094011, tt0094105, tt0091529]
@@ -2270,7 +2271,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0092797, tt0093505, tt0093709, tt0092550]
       winner: [tt0092797]
-'1987':
+'1987': # https://www.imdb.com/event/ev0000157/1987/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0091288, tt0091507, tt0091038, tt0090563, tt0092068]
@@ -2329,7 +2330,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0092090, tt0091038, tt0091497, tt0089935]
       winner: [tt0092090]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000157/1986/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0090095, tt0089821, tt0089902, tt0089726, tt0089103]
@@ -2401,7 +2402,7 @@
     honorary césar:
       nominee: [tt0090015]
       winner: [tt0090015]
-'1985':
+'1985': # https://www.imdb.com/event/ev0000157/1985/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0087818, tt0087284, tt0088318, tt0087144, tt0088002]
@@ -2472,7 +2473,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0087918, tt0088182, tt0087917, tt0087681]
       winner: [tt0087918]
-'1984':
+'1984': # https://www.imdb.com/event/ev0000157/1984/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0086420, tt0086655, tt0085354, tt0084358, tt0085576]
@@ -2537,7 +2538,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0086650, tt0086420, tt0086550, tt0085432]
       winner: [tt0086650]
-'1983':
+'1983': # https://www.imdb.com/event/ev0000157/1983/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0083611, tt0083789, tt0084797, tt0084340]
@@ -2599,7 +2600,7 @@
     most promising actress (meilleur jeune espoir féminin):
       nominee: [tt0083686, tt0084843, tt0084962, tt0084019]
       winner: [tt0083686]
-'1982':
+'1982': # https://www.imdb.com/event/ev0000157/1982/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0082436, tt0083257, tt0082054, tt0082206]
@@ -2652,7 +2653,7 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0083257, tt0082539, tt0082206, tt0082370]
       winner: [tt0083257]
-'1981':
+'1981': # https://www.imdb.com/event/ev0000157/1981/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0080610, tt0080489, tt0081678, tt0081339]
@@ -2702,7 +2703,7 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0079854, tt0080610, tt0081678, tt0082182]
       winner: [tt0079854]
-'1980':
+'1980': # https://www.imdb.com/event/ev0000157/1980/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0079250, tt0079003, tt0079980, tt0079322]
@@ -2752,7 +2753,7 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0077308, tt0079003, tt0079091, tt0079980]
       winner: [tt0077308]
-'1979':
+'1979': # https://www.imdb.com/event/ev0000157/1979/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0077288, tt0075975, tt0078338]
@@ -2802,7 +2803,7 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0078467, tt0075975, tt0078338]
       winner: [tt0078467]
-'1978':
+'1978': # https://www.imdb.com/event/ev0000157/1978/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0075885, tt0076410, tt0076155, tt0075946, tt0076242]
@@ -2852,7 +2853,7 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0076384, tt0075932, tt0076155, tt0076617]
       winner: [tt0076384]
-'1977':
+'1977': # https://www.imdb.com/event/ev0000157/1977/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0073219, tt0074916, tt0075364, tt0074888]
@@ -2902,7 +2903,7 @@
     best supporting actress (meilleure actrice dans un second rôle):
       nominee: [tt0074184, tt0076852, tt0074231, tt0074826]
       winner: [tt0074184]
-'1976':
+'1976': # https://www.imdb.com/event/ev0000157/1976/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt0073864, tt0073685, tt0187044, tt0072826]

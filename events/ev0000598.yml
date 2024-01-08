@@ -1,4 +1,5 @@
-'2023':
+# Screen Actors Guild Awards
+'2023':  # https://www.imdb.com/event/ev0000598/2023/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt6710474, tt10640346, tt11813216, tt14208870, tt13669038]
@@ -45,7 +46,7 @@
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt4574334, tt9253284, tt11198330, tt1190634, tt7631058]
       winner: [tt4574334]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000598/2022/1/?ref_=ev_eh
   actor:
     outstanding action performance by a stunt ensemble in a comedy or drama series:
       nominee: [tt10919420, tt7221388, tt9140554, tt10155688, tt9208876]
@@ -92,7 +93,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt7660850, tt10919420, tt5834204, tt7203552, tt4236770]
       winner: [tt7660850]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000598/2021/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1070874, tt9777644, tt10514222, tt10633456, tt10612922]
@@ -139,7 +140,7 @@
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt0425118, tt10048342, tt8503618, tt3673480, tt8134470]
       winner: [tt0425118]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000598/2020/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt6751668, tt6394270, tt2584384, tt7131622, tt1302006]
@@ -186,7 +187,7 @@
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt8746478, tt7366338, tt7137906, tt2356777, tt6821044]
       winner: [tt8746478]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000598/2019/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1825683, tt1517451, tt7349662, tt1727824, tt3104988]
@@ -233,7 +234,7 @@
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt2788432, tt7473890, tt5673782, tt6048596, tt6938856]
       winner: [tt2788432]
-'2018':
+'2018': # https://www.imdb.com/event/ev0000598/2018/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt5027774, tt5052448, tt4925292, tt2396589, tt5462602]
@@ -280,7 +281,7 @@
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt3920596, tt1475582, tt5673782, tt5516154, tt1933667]
       winner: [tt3920596]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000598/2017/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt4846340, tt3553976, tt2671706, tt4034228, tt4975722]
@@ -327,7 +328,7 @@
     outstanding performance by a male actor in a television movie or limited series:
       nominee: [tt3791216, tt2788432, tt2401256]
       winner: [tt3791216]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000598/2016/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1895587, tt1365050, tt1398426, tt1596363, tt3203606]
@@ -374,7 +375,7 @@
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt3322312, tt1796960, tt2741602, tt1520211]
       winner: [tt0944947]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000598/2015/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt2562232, tt1065073, tt2278388, tt2084970, tt2980516]
@@ -421,7 +422,7 @@
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt1598754, tt0979432, tt1796960, tt1124373, tt1520211]
       winner: [tt0944947]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000598/2014/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1800241, tt2024544, tt1322269, tt0790636, tt1327773]
@@ -468,7 +469,7 @@
     outstanding action performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt0979432, tt0903747, tt1796960, tt1520211]
       winner: [tt0944947]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000598/2013/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1024648, tt1707386, tt0443272, tt1045658, tt1412386]
@@ -518,7 +519,7 @@
     outstanding performance by a stunt ensemble in a motion picture:
       nominee: [tt1345836]
       winner: []
-'2012':
+'2012': # https://www.imdb.com/event/ev0000598/2012/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1454029, tt1478338, tt1605783, tt1655442, tt1033575]
@@ -568,7 +569,7 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0944947, tt0773262, tt1299368, tt1758429, tt0844441]
       winner: [tt0944947]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000598/2011/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1504320, tt0947798, tt0964517, tt0842926, tt1285016]
@@ -615,7 +616,7 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0844441, tt0810788, tt0395843, tt0773262, tt1299368]
       winner: [tt0844441]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000598/2010/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0361748, tt1174732, tt0875034, tt0929632, tt0887912]
@@ -662,7 +663,7 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0285331, tt0773262, tt0813715, tt0458253, tt0460690]
       winner: [tt0285331]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000598/2009/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt1010048, tt0918927, tt0870111, tt1013753, tt0421715]
@@ -709,7 +710,7 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0813715, tt0758745, tt0455275, tt0458253, tt0460690]
       winner: [tt0813715]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000598/2008/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0477348, tt0381849, tt0765429, tt0427327, tt0758758]
@@ -756,7 +757,7 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0285331, tt0813715, tt0411008, tt0384766, tt0460690]
       winner: [tt0285331]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000598/2007/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0449059, tt0449467, tt0308055, tt0443489, tt0407887]
@@ -803,7 +804,7 @@
     outstanding performance by a stunt ensemble in a television series:
       nominee: [tt0460690]
       winner: []
-'2006':
+'2006': # https://www.imdb.com/event/ev0000598/2006/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0375679, tt0388795, tt0379725, tt0433383, tt0410097]
@@ -844,7 +845,7 @@
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt0407936, tt0423510, tt0376591, tt0409572]
       winner: [tt0407936]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000598/2005/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0375063, tt0308644, tt0395169, tt0405159, tt0350258, tt0338751]
@@ -885,7 +886,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0247082, tt0285331, tt0248654, tt0141842, tt0200276]
       winner: [tt0247082]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000598/2004/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt0167260, tt0298845, tt0327056, tt0329575, tt0340377]
@@ -926,7 +927,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0248654, tt0247082, tt0098844, tt0200276, tt0321021]
       winner: [tt0248654]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000598/2003/1/?ref_=ev_eh
   actor:
     outstanding performance by a female actor in a comedy series:
       nominee: [tt0157246, tt0212671, tt0108778, tt0159206, tt0115167]
@@ -967,7 +968,7 @@
     outstanding performance by the cast of a theatrical motion picture:
       nominee: [tt0299658, tt0268126, tt0259446, tt0274558, tt0167261]
       winner: [tt0299658]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000598/2002/1/?ref_=ev_eh
   actor:
     outstanding performance by the cast of a theatrical motion picture:
       nominee: [tt0280707, tt0268978, tt0247425, tt0203009, tt0120737]
@@ -1008,7 +1009,7 @@
     outstanding performance by a female actor in a television movie or miniseries:
       nominee: [tt0250581, tt0261264, tt0244353, tt0243664, tt0265320]
       winner: [tt0250581]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000598/2001/1/?ref_=ev_eh
   actor:
     outstanding performance by a female actor in a comedy series:
       nominee: [tt0159206, tt0118254, tt0157246, tt0212671]
@@ -1049,7 +1050,7 @@
     outstanding performance by the cast of a theatrical motion picture:
       nominee: [tt0181865, tt0181875, tt0249462, tt0241303, tt0172495]
       winner: [tt0181865]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000598/2000/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a theatrical motion picture:
       nominee: [tt0169547, tt0120601, tt0175880, tt0124315, tt0120689]
@@ -1090,7 +1091,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0141842, tt0108757, tt0098844, tt0106079, tt0118437]
       winner: [tt0141842]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000598/1999/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast:
       nominee: [tt0138097, tt0118799, tt0147004, tt0120815, tt0166396]
@@ -1131,7 +1132,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0098844, tt0106079, tt0118437, tt0106179]
       winner: [tt0108757]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000598/1998/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast:
       nominee: [tt0119164, tt0118749, tt0119217, tt0119488, tt0120338]
@@ -1172,7 +1173,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0108724, tt0098844, tt0106079, tt0106179]
       winner: [tt0108757]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000598/1997/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast:
       nominee: [tt0115685, tt0116999, tt0117631, tt0117666, tt0116209]
@@ -1213,7 +1214,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0108724, tt0098844, tt0106079, tt0106179]
       winner: [tt0108757]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000598/1996/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast:
       nominee: [tt0112384, tt0113161, tt0113347, tt0113987, tt0114388]
@@ -1254,7 +1255,7 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0108757, tt0108724, tt0098844, tt0106079, tt0103512]
       winner: [tt0108757]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000598/1995/1/?ref_=ev_eh
   actor:
     outstanding performance by a female actor in a comedy series:
       nominee: [tt0103484, tt0094514, tt0108761, tt0098904, tt0094540]

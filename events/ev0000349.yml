@@ -1,4 +1,5 @@
-'2024':
+# Film Independent Spirit Awards
+'2024':  # https://www.imdb.com/event/ev0000349/2024/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt21192142, tt23561236, tt13651794, tt16252698, tt13238346, tt28639049]
@@ -70,7 +71,7 @@
     someone to watch award:
       nominee: [tt27722061, tt9048804, tt22170270]
       winner: []
-'2023':
+'2023': # https://www.imdb.com/event/ev0000349/2023/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt6710474, tt10168670, tt13892558, tt14444726, tt13669038]
@@ -139,7 +140,7 @@
     someone to watch award:
       nominee: [tt10931784, tt12655436, tt7172590]
       winner: [tt10931784]
-'2022':
+'2022': # https://www.imdb.com/event/ev0000349/2022/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt8893974, tt14324296, tt11121664, tt10023286, tt5439812]
@@ -211,7 +212,7 @@
     someone to watch award:
       nominee: [tt11379584, tt11469196, tt11003218]
       winner: [tt11379584]
-'2021':
+'2021': # https://www.imdb.com/event/ev0000349/2021/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt9770150, tt9231040, tt10514222, tt10633456, tt7772582]
@@ -283,7 +284,7 @@
     someone to watch award:
       nominee: [tt11380884, tt10008784, tt8906722]
       winner: [tt11380884]
-'2020':
+'2020': # https://www.imdb.com/event/ev0000349/2020/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt8637428, tt5827916, tt5577494, tt7653254, tt5727208]
@@ -340,7 +341,7 @@
     someone to watch award:
       nominee: [tt9133378, tt7692966, tt4353250]
       winner: [tt9133378]
-'2019':
+'2019': # https://www.imdb.com/event/ev0000349/2019/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt7125860, tt7014006, tt6053438, tt3892172, tt5742374]
@@ -397,7 +398,7 @@
     someone to watch award:
       nominee: [tt8026554, tt6506276, tt7681824]
       winner: [tt8026554]
-'2018':
+'2018': # https://www.imdb.com/event/ev0000349/2018/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt5052448, tt5726616, tt4925292, tt5649144, tt6217608]
@@ -454,7 +455,7 @@
     someone to watch award:
       nominee: [tt6057032, tt6266218, tt5112578]
       winner: [tt6057032]
-'2017':
+'2017': # https://www.imdb.com/event/ev0000349/2017/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt4975722, tt3721936, tt3850496, tt1619029, tt4034228]
@@ -511,7 +512,7 @@
     someone to watch award:
       nominee: [tt4238858, tt3503460, tt5254640, tt3973012]
       winner: [tt4238858]
-'2016':
+'2016': # https://www.imdb.com/event/ev0000349/2016/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt1895587, tt2401878, tt1365050, tt2402927, tt3824458]
@@ -568,7 +569,7 @@
     someone to watch award:
       nominee: [tt3863484, tt2946762, tt3566788]
       winner: [tt3863484]
-'2015':
+'2015': # https://www.imdb.com/event/ev0000349/2015/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt2562232, tt1065073, tt2639344, tt1020072, tt2582802]
@@ -629,7 +630,7 @@
     someone to watch award:
       nominee: [tt3666210, tt2326554, tt2635006]
       winner: [tt3666210]
-'2014':
+'2014': # https://www.imdb.com/event/ev0000349/2014/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt2024544, tt2017038, tt2347569, tt2042568, tt1821549]
@@ -686,7 +687,7 @@
     someone to watch award:
       nominee: [tt2217936, tt2430040, tt2971990]
       winner: [tt2217936]
-'2013':
+'2013': # https://www.imdb.com/event/ev0000349/2013/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt1045658, tt2125435, tt1704573, tt2011953, tt1748122]
@@ -744,7 +745,7 @@
     find your audience award:
       nominee: [tt2062497, tt2245195]
       winner: [tt2062497]
-'2012':
+'2012': # https://www.imdb.com/event/ev0000349/2012/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt1655442, tt1306980, tt1532503, tt0780504, tt1675192, tt1033575]
@@ -806,7 +807,7 @@
     find your audience award:
       nominee: [tt1444337]
       winner: [tt1444337]
-'2011':
+'2011': # https://www.imdb.com/event/ev0000349/2011/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0947798, tt1542344, tt1234654, tt0842926, tt1399683]
@@ -868,7 +869,7 @@
     find your audience award:
       nominee: [tt1391092]
       winner: [tt1391092]
-'2010':
+'2010': # https://www.imdb.com/event/ev0000349/2010/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0929632, tt1022603, tt1190858, tt1127715, tt0824758]
@@ -926,7 +927,7 @@
     someone to watch award:
       nominee: [tt1217426, tt0963328, tt1270494]
       winner: [tt1217426]
-'2009':
+'2009': # https://www.imdb.com/event/ev0000349/2009/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt1125849, tt1153690, tt0978759, tt1084950, tt1152850]
@@ -984,7 +985,7 @@
     someone to watch award:
       nominee: [tt1183684, tt1133989, tt1172203]
       winner: [tt1183684]
-'2008':
+'2008': # https://www.imdb.com/event/ev0000349/2008/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0467406, tt0829459, tt0368794, tt0842929, tt0401383]
@@ -1042,7 +1043,7 @@
     someone to watch award:
       nominee: [tt0990404, tt0970935, tt1031947]
       winner: [tt0990404]
-'2007':
+'2007': # https://www.imdb.com/event/ev0000349/2007/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0449059, tt0416471, tt0468489, tt0457430, tt0783238]
@@ -1100,7 +1101,7 @@
     someone to watch award:
       nominee: [tt0499455, tt0784977, tt0492463]
       winner: [tt0499455]
-'2006':
+'2006': # https://www.imdb.com/event/ev0000349/2006/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0388795, tt0379725, tt0433383, tt0367089, tt0419294]
@@ -1154,7 +1155,7 @@
     someone to watch award:
       nominee: [tt0428303, tt0383965, tt0436689]
       winner: [tt0428303]
-'2005':
+'2005': # https://www.imdb.com/event/ev0000349/2005/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0375063, tt0367790, tt0362269, tt0390221, tt0390384]
@@ -1215,7 +1216,7 @@
     someone to watch award:
       nominee: [tt0421960, tt0389908, tt0401831]
       winner: [tt0421960]
-'2004':
+'2004': # https://www.imdb.com/event/ev0000349/2004/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0335266, tt0305206, tt0298845, tt0316188, tt0323944]
@@ -1276,7 +1277,7 @@
     someone to watch award:
       nominee: [tt0327753, tt0378289, tt0365960]
       winner: [tt0327753]
-'2003':
+'2003': # https://www.imdb.com/event/ev0000349/2003/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0297884, tt0302674, tt0308411, tt0272207, tt0295238]
@@ -1333,7 +1334,7 @@
     someone to watch award:
       nominee: [tt0303374, tt0298050, tt0283387]
       winner: [tt0303374]
-'2002':
+'2002': # https://www.imdb.com/event/ev0000349/2002/1/?ref_=ev_eh
   independent spirit award:
     best feature:
       nominee: [tt0209144, tt0243017, tt0248845, tt0245501, tt0242587]
@@ -1390,7 +1391,7 @@
     someone to watch award:
       nominee: [tt0276050, tt0212292, tt0246037, tt0120352]
       winner: [tt0276050]
-'2001':
+'2001': # https://www.imdb.com/event/ev0000349/2001/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0180093, tt0247196, tt0262432, tt0171359, tt0189998]
@@ -1446,7 +1447,7 @@
     someone to watch award:
       nominee: [tt0228277, tt0242337, tt0160616]
       winner: [tt0228277]
-'2000':
+'2000': # https://www.imdb.com/event/ev0000349/2000/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0138874, tt0181618, tt0192194, tt0168589, tt0162830]
@@ -1499,7 +1500,7 @@
     someone to watch award:
       nominee: [tt0181517, tt0171340, tt0181602, tt0169333]
       winner: [tt0181517]
-'1999':
+'1999': # https://www.imdb.com/event/ev0000349/1999/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0120879, tt0118564, tt0158493, tt0139362, tt0138704]
@@ -1549,7 +1550,7 @@
     someone to watch award:
       nominee: [tt0125551, tt0118882, tt0142735, tt0117675]
       winner: [tt0125551]
-'1998':
+'1998': # https://www.imdb.com/event/ev0000349/1998/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0116743, tt0113241, tt0119256, tt0120244, tt0122994]
@@ -1599,7 +1600,7 @@
     someone to watch award:
       nominee: [tt0119264, tt0116261, tt0119581]
       winner: [tt0119264]
-'1997':
+'1997': # https://www.imdb.com/event/ev0000349/1997/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0116282, tt0115736, tt0115925, tt0112817, tt0116378]
@@ -1645,7 +1646,7 @@
     someone to watch award:
       nominee: [tt0113241, tt0112345, tt0113535]
       winner: [tt0113241]
-'1996':
+'1996': # https://www.imdb.com/event/ev0000349/1996/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0113627, tt0110365, tt0110620, tt0114788, tt0114814]
@@ -1687,7 +1688,7 @@
     someone to watch award:
       nominee: [tt0115925, tt0112393, tt0116085, tt0109855, tt0110998]
       winner: [tt0115925]
-'1995':
+'1995': # https://www.imdb.com/event/ev0000349/1995/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0109219, tt0111797, tt0110091, tt0108260, tt0109226]
@@ -1733,7 +1734,7 @@
     someone to watch award:
       nominee: [tt0106579]
       winner: [tt0106579]
-'1994':
+'1994': # https://www.imdb.com/event/ev0000349/1994/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0107554, tt0103670, tt0103936, tt0104201, tt0108000]
@@ -1765,7 +1766,7 @@
     best supporting male:
       nominee: [tt0108410, tt0103670, tt0107220, tt0108000, tt0106350]
       winner: [tt0108410]
-'1993':
+'1993': # https://www.imdb.com/event/ev0000349/1993/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0102536, tt0099014, tt0104693, tt0102307, tt0105508]
@@ -1804,7 +1805,7 @@
     special distinction:
       nominee: [tt0104448]
       winner: [tt0104448]
-'1992':
+'1992': # https://www.imdb.com/event/ev0000349/1992/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0102181, tt0102048, tt0102494, tt0105109, tt0102753]
@@ -1839,7 +1840,7 @@
     best supporting male:
       nominee: [tt0101588, tt0102048, tt0105109, tt0102741, tt0102989]
       winner: [tt0101588]
-'1991':
+'1991': # https://www.imdb.com/event/ev0000349/1991/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0100935, tt0099800, tt0099939, tt0100023, tt0064820]
@@ -1875,7 +1876,7 @@
     special distinction award:
       nominee: [tt0099348]
       winner: [tt0099348]
-'1990':
+'1990': # https://www.imdb.com/event/ev0000349/1990/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0097240, tt0097257, tt0097940, tt0098112, tt0096220]
@@ -1907,7 +1908,7 @@
     best supporting male:
       nominee: [tt0097240, tt0097940, tt0098112, tt0098300]
       winner: [tt0097240]
-'1989':
+'1989': # https://www.imdb.com/event/ev0000349/1989/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0096332, tt0095835, tt0094027, tt0096219, tt0095649]
@@ -1939,7 +1940,7 @@
     best supporting male:
       nominee: [tt0094027, tt0093029, tt0095270, tt0096156, tt0095649]
       winner: [tt0094027]
-'1988':
+'1988': # https://www.imdb.com/event/ev0000349/1988/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0093509, tt0092618, tt0093986, tt0092843, tt0094169]
@@ -1971,7 +1972,7 @@
     best supporting male:
       nominee: [tt0094056, tt0093509, tt0094315, tt0094169]
       winner: [tt0094056]
-'1987':
+'1987': # https://www.imdb.com/event/ev0000349/1987/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0091763, tt0090756, tt0090967, tt0091886, tt0092117]
@@ -1998,7 +1999,7 @@
     special distinction award:
       nominee: [tt0091867, tt0088650, tt0089656, tt0091538, tt0091578]
       winner: [tt0091867]
-'1986':
+'1986': # https://www.imdb.com/event/ev0000349/1986/1/?ref_=ev_eh
   independent spirit award:
     best cinematography:
       nominee: [tt0090209, tt0088680, tt0086979, tt0087150]
