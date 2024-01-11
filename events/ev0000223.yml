@@ -7,6 +7,9 @@
     outstanding comedy series:
       nominee: [tt14218830, tt5348176, tt22074164, tt11691774, tt10986410, tt14452776, tt5788792, tt13443470]
       winner: []
+    outstanding limited or anthology series:
+      nominee: [tt14403178, tt13207736, tt8749198, tt11527058, tt8466564]
+      winner: []
     outstanding lead actor in a drama series:
       nominee: [tt3032476, tt7660850, tt5645432, tt3581920]
       winner: []
@@ -37,6 +40,12 @@
     outstanding supporting actress in a comedy series:
       nominee: [tt5788792, tt14452776, tt10986410, tt14218830, tt15677150]
       winner: []
+    outstanding supporting actor in a limited or anthology series or movie:
+      nominee: [tt14586350, tt14403178, tt14675860, tt4301160, tt13207736]
+      winner: []
+    outstanding supporting actress in a limited or anthology series or movie:
+      nominee: [tt14675860, tt8749198, tt11527058, tt14403178, tt20869432, tt13207736]
+      winner: []
     outstanding directing for a drama series:
       nominee: [tt9253284, tt15469618, tt7660850, tt3581920, tt13406094]
       winner: []
@@ -58,15 +67,6 @@
     outstanding writing for a variety special:
       nominee: [tt27141610, tt26458217, tt23571908, tt26931915, tt19266900]
       winner: [tt27141610]
-    outstanding limited or anthology series:
-      nominee: [tt14403178, tt13207736, tt8749198, tt11527058, tt8466564]
-      winner: []
-    outstanding supporting actor in a limited or anthology series or movie:
-      nominee: [tt14586350, tt14403178, tt14675860, tt4301160, tt13207736]
-      winner: []
-    outstanding supporting actress in a limited or anthology series or movie:
-      nominee: [tt14675860, tt8749198, tt11527058, tt14403178, tt20869432, tt13207736]
-      winner: []
     exceptional merit in documentary filmmaking:
       nominee: [tt16378164, tt16376478, tt16377430, tt11781778]
       winner: [tt16378164]
@@ -209,8 +209,8 @@
       nominee: [tt17076046, tt17921714, tt11909878, tt10857164, tt11866324]
       winner: [tt17076046]
     outstanding music composition for a series (original dramatic score):
-      nominee: [tt13443470, tt9253284, tt7660850, tt3581920, tt13406094]
-      winner: [tt13443470]
+      nominee: [tt13406094, tt9253284, tt7660850, tt3581920, tt13443470]
+      winner: [tt13406094]
     outstanding music direction:
       nominee: [tt27409911, tt0072562, tt23916308, tt22295778, tt20231352]
       winner: [tt27409911]
