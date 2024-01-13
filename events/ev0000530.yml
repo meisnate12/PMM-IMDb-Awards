@@ -1857,3 +1857,35 @@
     favorite tv variety program:
       nominee: [tt0061240]
       winner: [tt0061240]
+'2024': # https://www.imdb.com/event/ev0000530/2024/1/?ref_=ev_eh
+  people's choice award:
+    the action movie star of the year:
+      nominee: [tt9663764, tt6791350, tt13603966, tt10366206, tt9603212, tt10545296, tt10676048]
+      winner: []
+    the action movie of the year:
+      nominee: [tt10954600, tt5433140, tt6791350, tt10366206, tt9603212, tt10545296, tt10676048, tt5090568]
+      winner: []
+    the comedy movie star of the year:
+      nominee: [tt26047818, tt14230388, tt1517268, tt15671028, tt6166392, tt21276878]
+      winner: []
+    the comedy movie of the year:
+      nominee: [tt18079362, tt26047818, tt9185206, tt14230388, tt1517268, tt14209916, tt15671028, tt6166392]
+      winner: []
+    the drama movie star of the year:
+      nominee: [tt11145118, tt5537002, tt12747748, tt15398776, tt22041854, tt17663992, tt1200263]
+      winner: []
+    the drama movie of the year:
+      nominee: [tt11145118, tt4589218, tt5537002, tt12747748, tt8760708, tt15398776, tt17663992, tt1200263]
+      winner: []
+    the female movie star of the year:
+      nominee: [tt1517268, tt12747748, tt15671028, tt15398776, tt17663992, tt10545296, tt5971474]
+      winner: []
+    the male movie star of the year:
+      nominee: [tt1517268, tt11145118, tt6791350, tt10366206, tt5537002, tt9603212, tt15398776, tt6166392]
+      winner: []
+    the movie performance of the year:
+      nominee: [tt16419074, tt1517268, tt13651794, tt17351924, tt1200263, tt5971474]
+      winner: []
+    the movie of the year:
+      nominee: [tt1517268, tt5433140, tt6791350, tt15398776, tt9362722, tt28814949, tt5971474, tt6718170]
+      winner: []
