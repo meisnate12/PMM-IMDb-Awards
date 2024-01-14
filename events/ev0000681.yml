@@ -8947,3 +8947,8 @@
     most touching film:
       nominee: [tt0022386]
       winner: [tt0022386]
+'2024': # https://www.imdb.com/event/ev0000681/2024/1/?ref_=ev_eh
+  golden lion:
+    best actor:
+      nominee: [tt27637117]
+      winner: []
