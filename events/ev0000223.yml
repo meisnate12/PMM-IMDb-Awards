@@ -2,68 +2,68 @@
 '2023':  # https://www.imdb.com/event/ev0000223/2023/1/?ref_=ev_eh
   primetime emmy:
     outstanding drama series:
-      nominee: [tt9253284, tt3032476, tt11198330, tt7660850, tt4786824, tt3581920, tt13406094, tt11041332]
-      winner: []
+      nominee: [tt7660850, tt9253284, tt3032476, tt11198330, tt4786824, tt3581920, tt13406094, tt11041332]
+      winner: [tt7660850]
     outstanding comedy series:
-      nominee: [tt14218830, tt5348176, tt22074164, tt11691774, tt10986410, tt14452776, tt5788792, tt13443470]
-      winner: []
+      nominee: [tt14452776, tt14218830, tt5348176, tt22074164, tt11691774, tt10986410, tt5788792, tt13443470]
+      winner: [tt14452776]
     outstanding limited or anthology series:
-      nominee: [tt14403178, tt13207736, tt8749198, tt11527058, tt8466564]
-      winner: []
+      nominee: [tt14403178, tt8749198, tt11527058, tt13207736, tt8466564]
+      winner: [tt14403178]
     outstanding lead actor in a drama series:
-      nominee: [tt3032476, tt7660850, tt5645432, tt3581920]
-      winner: []
+      nominee: [tt7660850, tt3032476, tt5645432, tt3581920]
+      winner: [tt7660850]
     outstanding lead actress in a drama series:
-      nominee: [tt3581920, tt5834204, tt17491088, tt11041332, tt7660850, tt15469618]
-      winner: []
+      nominee: [tt7660850, tt3581920, tt5834204, tt17491088, tt11041332, tt15469618]
+      winner: [tt7660850]
     outstanding lead actor in a comedy series:
-      nominee: [tt5348176, tt15677150, tt10986410, tt14452776, tt11691774]
-      winner: []
+      nominee: [tt14452776, tt5348176, tt15677150, tt10986410, tt11691774]
+      winner: [tt14452776]
     outstanding lead actress in a comedy series:
-      nominee: [tt8064302, tt13443470, tt14269590, tt14218830, tt5788792]
-      winner: []
+      nominee: [tt14218830, tt8064302, tt13443470, tt14269590, tt5788792]
+      winner: [tt14218830]
     outstanding lead actor in a limited or anthology series or movie:
-      nominee: [tt17076046, tt13207736, tt14675860, tt5545398, tt14403178, tt4301160]
-      winner: []
+      nominee: [tt14403178, tt17076046, tt13207736, tt14675860, tt5545398, tt4301160]
+      winner: [tt14403178]
     outstanding lead actress in a limited or anthology series or movie:
       nominee: [tt14403178, tt14961048, tt5545398, tt20869432, tt11527058, tt8749198]
-      winner: []
+      winner: [tt14403178]
     outstanding supporting actor in a drama series:
       nominee: [tt7660850, tt13406094]
-      winner: []
+      winner: [tt7660850]
     outstanding supporting actress in a drama series:
       nominee: [tt13406094, tt4786824, tt7660850, tt3032476]
-      winner: []
+      winner: [tt13406094]
     outstanding supporting actor in a comedy series:
-      nominee: [tt5348176, tt10986410, tt14452776, tt22074164, tt14218830]
-      winner: []
+      nominee: [tt14452776, tt5348176, tt10986410, tt22074164, tt14218830]
+      winner: [tt14452776]
     outstanding supporting actress in a comedy series:
-      nominee: [tt5788792, tt14452776, tt10986410, tt14218830, tt15677150]
-      winner: []
+      nominee: [tt14452776, tt5788792, tt10986410, tt14218830, tt15677150]
+      winner: [tt14452776]
     outstanding supporting actor in a limited or anthology series or movie:
-      nominee: [tt14586350, tt14403178, tt14675860, tt4301160, tt13207736]
-      winner: []
+      nominee: [tt4301160, tt14586350, tt14403178, tt14675860, tt13207736]
+      winner: [tt4301160]
     outstanding supporting actress in a limited or anthology series or movie:
-      nominee: [tt14675860, tt8749198, tt11527058, tt14403178, tt20869432, tt13207736]
-      winner: []
+      nominee: [tt13207736, tt14675860, tt8749198, tt11527058, tt14403178, tt20869432]
+      winner: [tt13207736]
     outstanding directing for a drama series:
-      nominee: [tt9253284, tt15469618, tt7660850, tt3581920, tt13406094]
-      winner: []
+      nominee: [tt7660850, tt9253284, tt15469618, tt3581920, tt13406094]
+      winner: [tt7660850]
     outstanding directing for a comedy series:
-      nominee: [tt5348176, tt10986410, tt14452776, tt5788792, tt5960322, tt13443470]
-      winner: []
+      nominee: [tt14452776, tt5348176, tt10986410, tt5788792, tt5960322, tt13443470]
+      winner: [tt14452776]
     outstanding directing for a limited or anthology series or movie:
-      nominee: [tt14403178, tt13207736, tt11527058, tt11866324]
-      winner: []
+      nominee: [tt14403178, tt11527058, tt13207736, tt11866324]
+      winner: [tt14403178]
     outstanding writing for a drama series:
-      nominee: [tt9253284, tt15469618, tt3032476, tt7660850, tt3581920, tt13406094]
-      winner: []
+      nominee: [tt7660850, tt9253284, tt15469618, tt3032476, tt3581920, tt13406094]
+      winner: [tt7660850]
     outstanding writing for a comedy series:
-      nominee: [tt5348176, tt22074164, tt11691774, tt10986410, tt14452776, tt8310612]
-      winner: []
+      nominee: [tt14452776, tt5348176, tt22074164, tt11691774, tt10986410, tt8310612]
+      winner: [tt14452776]
     outstanding writing for a limited or anthology series or movie:
       nominee: [tt14403178, tt15218000, tt11527058, tt11866324, tt14961048, tt17076046]
-      winner: []
+      winner: [tt14403178]
     outstanding writing for a variety special:
       nominee: [tt27141610, tt26458217, tt23571908, tt26931915, tt19266900]
       winner: [tt27141610]
@@ -86,7 +86,7 @@
       nominee: [tt13406094, tt15469618, tt7660850, tt4786824, tt3581920, tt11041332]
       winner: [tt13406094]
     outstanding casting for a limited or anthology series or movie:
-      nominee: [tt14403178, tt13207736, tt8749198, tt11527058, tt17076046]
+      nominee: [tt14403178, tt8749198, tt11527058, tt13207736, tt17076046]
       winner: [tt14403178]
     outstanding casting for a reality program:
       nominee: [tt15557874, tt11704040, tt7259746, tt1353056, tt0765425]
@@ -227,7 +227,7 @@
       nominee: [tt10986410, tt10813940, tt7661384, tt5788792, tt17076046]
       winner: [tt10986410]
     outstanding period costumes for a limited or anthology series or movie:
-      nominee: [tt8749198, tt13207736, tt5545398, tt8415836, tt14675860]
+      nominee: [tt8749198, tt5545398, tt8415836, tt13207736, tt14675860]
       winner: [tt8749198]
     outstanding period costumes for a series:
       nominee: [tt2235759, tt2077823, tt14661396, tt4786824, tt5788792]
@@ -236,7 +236,7 @@
       nominee: [tt14661396, tt13207736, tt4786824, tt8111088, tt5788792]
       winner: [tt14661396]
     outstanding period and/or character makeup (non-prosthetic):
-      nominee: [tt5788792, tt13207736, tt8749198, tt11198330, tt4574334, tt8111088]
+      nominee: [tt5788792, tt8749198, tt11198330, tt13207736, tt4574334, tt8111088]
       winner: [tt5788792]
     outstanding picture editing for variety programming:
       nominee: [tt9698520, tt26458217, tt15715052, tt0072562, tt0115147]
@@ -282,16 +282,13 @@
       winner: [tt3581920]
     outstanding reality competition program:
       nominee: [tt1353056, tt0239195, tt0285335, tt1839337, tt0765425]
-      winner: []
+      winner: [tt1353056]
     outstanding scripted variety series:
-      nominee: [tt9698520, tt3530232, tt0072562]
-      winner: []
+      nominee: [tt3530232, tt9698520, tt0072562]
+      winner: [tt3530232]
     outstanding short form comedy, drama or variety series:
       nominee: [tt10050772, tt28353110, tt21279126, tt6396082, tt26217118]
       winner: [tt10050772]
-    outstanding short form nonfiction or reality series:
-      nominee: [tt7660850, tt11198330, tt0072562, tt3581920, tt13406094]
-      winner: [tt7660850]
     outstanding sound editing for a comedy or drama series (half-hour) and animation:
       nominee: [tt14452776, tt5348176, tt13623580, tt8111088, tt7908628]
       winner: [tt14452776]
@@ -299,7 +296,7 @@
       nominee: [tt3581920, tt9253284, tt11198330, tt4574334, tt1190634, tt7631058]
       winner: [tt3581920]
     outstanding sound editing for a limited or anthology series, movie or special:
-      nominee: [tt11866324, tt13207736, tt8415836, tt14759574, tt8466564]
+      nominee: [tt11866324, tt8415836, tt13207736, tt14759574, tt8466564]
       winner: [tt11866324]
     outstanding sound editing for a nonfiction or reality program (single or multi-camera):
       nominee: [tt9883832, tt14126234, tt13622290, tt19853258, tt14674086]
@@ -341,8 +338,8 @@
       nominee: [tt8111088, tt9742936, tt4574334]
       winner: [tt8111088]
     outstanding talk series:
-      nominee: [tt0320037, tt3513388, tt0115147, tt3697842, tt15084142]
-      winner: []
+      nominee: [tt0115147, tt0320037, tt3513388, tt3697842, tt15084142]
+      winner: [tt0115147]
     outstanding technical direction and camerawork for a series:
       nominee: [tt0463398, tt0319931, tt7670568, tt15084142, tt1839337]
       winner: [tt0463398]
@@ -356,8 +353,8 @@
       nominee: [tt14674086, tt12580168, tt1353056, tt9817298, tt2343157]
       winner: [tt14674086]
     outstanding variety special (live):
-      nominee: [tt23571908, tt22029066, tt18559718, tt22295778, tt20231352]
-      winner: []
+      nominee: [tt22029066, tt23571908, tt18559718, tt22295778, tt20231352]
+      winner: [tt22029066]
     outstanding variety special (pre-recorded):
       nominee: [tt26458217, tt27141610, tt21383712, tt22890438, tt26931915]
       winner: [tt26458217]
@@ -366,7 +363,7 @@
       winner: [tt20863280]
     outstanding writing for a variety series:
       nominee: [tt3530232, tt3513388, tt0072562, tt0115147, tt3697842]
-      winner: []
+      winner: [tt3530232]
 '2022': # https://www.imdb.com/event/ev0000223/2022/1/?ref_=ev_eh
   primetime emmy:
     outstanding drama series:
@@ -1822,10 +1819,6 @@
       nominee: [tt2845786, tt7843600, tt8390274, tt9253866, tt8425310, tt9376934]
       winner: [tt2845786]
 '2018': # https://www.imdb.com/event/ev0000223/2018/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0060028]
-      winner: [tt0060028]
   primetime emmy:
     outstanding drama series:
       nominee: [tt0944947, tt4574334, tt2149175, tt4786824, tt5834204, tt5555260, tt0475784]
@@ -2193,6 +2186,10 @@
     outstanding writing for a nonfiction program:
       nominee: [tt2845786, tt6333060, tt7207238, tt8200998, tt6958022, tt1877514]
       winner: [tt2845786]
+  governor's award:
+    governor's award:
+      nominee: [tt0060028]
+      winner: [tt0060028]
 '2017': # https://www.imdb.com/event/ev0000223/2017/1/?ref_=ev_eh
   primetime emmy:
     outstanding drama series:
@@ -4153,10 +4150,6 @@
       nominee: [tt2112999, tt2115291, tt1961536, tt2089826, tt2187127]
       winner: [tt2112999]
 '2011': # https://www.imdb.com/event/ev0000223/2011/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0094415]
-      winner: [tt0094415]
   primetime emmy:
     outstanding drama series:
       nominee: [tt0804503, tt0979432, tt0773262, tt0758745, tt0944947, tt1442462]
@@ -4461,6 +4454,10 @@
     special classification of outstanding program and individual achievement:
       nominee: [tt1867880]
       winner: [tt1867880]
+  governor's award:
+    governor's award:
+      nominee: [tt0094415]
+      winner: [tt0094415]
 '2010': # https://www.imdb.com/event/ev0000223/2010/1/?ref_=ev_eh
   primetime emmy:
     outstanding drama series:
@@ -5374,10 +5371,6 @@
       nominee: [tt0472027, tt0470732, tt0974077, tt0445114, tt1000771]
       winner: [tt0472027]
 '2007': # https://www.imdb.com/event/ev0000223/2007/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0319931, tt1012906]
-      winner: [tt0319931, tt1012906]
   primetime emmy:
     outstanding drama series:
       nominee: [tt0141842, tt0402711, tt0413573, tt0813715, tt0412142]
@@ -5652,6 +5645,10 @@
     outstanding writing for a miniseries, movie or a dramatic special:
       nominee: [tt0811026, tt0482857, tt0821638, tt0780362, tt0810726]
       winner: [tt0811026]
+  governor's award:
+    governor's award:
+      nominee: [tt0319931, tt1012906]
+      winner: [tt0319931, tt1012906]
 '2006': # https://www.imdb.com/event/ev0000223/2006/1/?ref_=ev_eh
   primetime emmy:
     outstanding drama series:
@@ -6206,10 +6203,6 @@
       nominee: [tt0352520, tt0376591, tt0389564, tt0290978, tt0423510]
       winner: [tt0352520]
 '2004': # https://www.imdb.com/event/ev0000223/2004/1/?ref_=ev_eh
-  special award:
-    outstanding achievement in interactive television:
-      nominee: [tt0270792]
-      winner: [tt0270792]
   primetime emmy:
     outstanding drama series:
       nominee: [tt0141842, tt0285331, tt0247082, tt0367345, tt0200276]
@@ -6478,6 +6471,10 @@
     outstanding writing for a variety, music or comedy program:
       nominee: [tt0115147, tt0353049, tt0405832, tt0106052, tt0106053]
       winner: [tt0115147]
+  special award:
+    outstanding achievement in interactive television:
+      nominee: [tt0270792]
+      winner: [tt0270792]
 '2003': # https://www.imdb.com/event/ev0000223/2003/1/?ref_=ev_eh
   primetime emmy:
     outstanding drama series:
@@ -6754,10 +6751,6 @@
       nominee: [tt0115147, tt0106052, tt0106053, tt0330829, tt0072562]
       winner: [tt0115147]
 '2002': # https://www.imdb.com/event/ev0000223/2002/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0296503]
-      winner: [tt0296503]
   primetime emmy:
     outstanding animated program (for programming less than one hour):
       nominee: [tt0149460, tt0235911, tt0118375, tt0121955, tt0096697]
@@ -7020,6 +7013,10 @@
     outstanding writing for a variety, music or comedy program:
       nominee: [tt0072562, tt0296503, tt0106052, tt0106053, tt0115147]
       winner: [tt0072562]
+  governor's award:
+    governor's award:
+      nominee: [tt0296503]
+      winner: [tt0296503]
 '2001': # https://www.imdb.com/event/ev0000223/2001/1/?ref_=ev_eh
   primetime emmy:
     outstanding animated program (for programming less than one hour):
@@ -7278,10 +7275,6 @@
       nominee: [tt0115147, tt0106052, tt0106053, tt0072562, tt0118285]
       winner: [tt0115147]
 '2000': # https://www.imdb.com/event/ev0000223/2000/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0258377]
-      winner: [tt0258377]
   primetime emmy:
     outstanding achievement in non-fiction programming - sound mixing:
       nominee: [tt0239867, tt0214382]
@@ -7529,6 +7522,10 @@
     outstanding writing for a variety, music or comedy program:
       nominee: [tt0184424, tt0206636, tt0106052, tt0106053, tt0118285]
       winner: [tt0184424]
+  governor's award:
+    governor's award:
+      nominee: [tt0258377]
+      winner: [tt0258377]
 '1999': # https://www.imdb.com/event/ev0000223/1999/1/?ref_=ev_eh
   primetime emmy:
     outstanding achievement in non-fiction programming - cinematography:
@@ -7775,10 +7772,6 @@
       nominee: [tt0118285, tt0108742, tt0106052, tt0106053, tt0112084]
       winner: [tt0118285]
 '1998': # https://www.imdb.com/event/ev0000223/1998/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0200341]
-      winner: [tt0200341]
   primetime emmy:
     outstanding animated program (for programming one hour or less):
       nominee: [tt0096697, tt0118289, tt0115157, tt0118375, tt0121955]
@@ -8023,11 +8016,11 @@
     outstanding writing for a variety or music program:
       nominee: [tt0108742, tt0106052, tt0106053, tt0112084, tt0118285]
       winner: [tt0108742]
+  governor's award:
+    governor's award:
+      nominee: [tt0200341]
+      winner: [tt0200341]
 '1997': # https://www.imdb.com/event/ev0000223/1997/1/?ref_=ev_eh
-  president's award:
-    president's award:
-      nominee: [tt0119679, tt0092322, tt0108757, tt0116607, tt0108968]
-      winner: [tt0119679]
   primetime emmy:
     outstanding achievement in animation:
       nominee: [tt0163558, tt0115388, tt0286309]
@@ -8266,11 +8259,11 @@
     outstanding writing for a variety or music program:
       nominee: [tt0200529, tt0108742, tt0106052, tt0106053, tt0108897, tt0115396]
       winner: [tt0200529]
-'1996': # https://www.imdb.com/event/ev0000223/1996/1/?ref_=ev_eh
   president's award:
     president's award:
-      nominee: [tt0123511, tt0092322, tt0108757, tt0117792, tt0112651]
-      winner: [tt0123511]
+      nominee: [tt0119679, tt0092322, tt0108757, tt0116607, tt0108968]
+      winner: [tt0119679]
+'1996': # https://www.imdb.com/event/ev0000223/1996/1/?ref_=ev_eh
   primetime emmy:
     outstanding animated program (for programming one hour or less):
       nominee: [tt0112123, tt0118289, tt0115157, tt0108755, tt0096697]
@@ -8500,6 +8493,10 @@
     outstanding writing for a variety or music program:
       nominee: [tt0108742, tt0106052, tt0285670, tt0108897, tt0115396]
       winner: [tt0108742]
+  president's award:
+    president's award:
+      nominee: [tt0123511, tt0092322, tt0108757, tt0117792, tt0112651]
+      winner: [tt0123511]
 '1995': # https://www.imdb.com/event/ev0000223/1995/1/?ref_=ev_eh
   primetime emmy:
     outstanding animated program (for programming one hour or less):
@@ -9430,10 +9427,6 @@
       nominee: [tt0096697]
       winner: [tt0096697]
 '1991': # https://www.imdb.com/event/ev0000223/1991/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0066684]
-      winner: [tt0066684]
   primetime emmy:
     outstanding achievement in casting for a miniseries or a special:
       nominee: [tt0102879]
@@ -9669,6 +9662,10 @@
     outstanding writing in a variety or music program:
       nominee: [tt0266218, tt0098830, tt0083441, tt0072562, tt0251874]
       winner: [tt0266218]
+  governor's award:
+    governor's award:
+      nominee: [tt0066684]
+      winner: [tt0066684]
 '1990': # https://www.imdb.com/event/ev0000223/1990/1/?ref_=ev_eh
   primetime emmy:
     outstanding animated program (for programming one hour or less):
@@ -11414,10 +11411,6 @@
       nominee: [tt0081925]
       winner: [tt0081925]
 '1982': # https://www.imdb.com/event/ev0000223/1982/1/?ref_=ev_eh
-  governor's award:
-    governor's award:
-      nominee: [tt0044266]
-      winner: [tt0044266]
   primetime emmy:
     outstanding achievement in choreography:
       nominee: [tt0083412, tt0227999, tt0355246, tt0348005, tt0353134]
@@ -11596,6 +11589,10 @@
     outstanding writing in a variety or music program:
       nominee: [tt0081925, tt0304178]
       winner: [tt0081925]
+  governor's award:
+    governor's award:
+      nominee: [tt0044266]
+      winner: [tt0044266]
 '1981': # https://www.imdb.com/event/ev0000223/1981/1/?ref_=ev_eh
   primetime emmy:
     outstanding achievement in choreography:
@@ -12128,10 +12125,6 @@
       nominee: [tt0079366, tt0078565, tt0079177, tt0078678, tt0078341]
       winner: [tt0079366]
 '1978': # https://www.imdb.com/event/ev0000223/1978/1/?ref_=ev_eh
-  atas broadcast journalism award:
-    atas broadcast journalism award:
-      nominee: [tt0124932, tt0193671, tt0319967]
-      winner: [tt0124932, tt0193671, tt0319967]
   primetime emmy:
     outstanding achievement in choreography:
       nominee: [tt0327143, tt0165042, tt0327047, tt0061240, tt0078526]
@@ -12358,11 +12351,11 @@
     special classification of outstanding program achievement:
       nominee: [tt0055708, tt0268599, tt0268604, tt10353950, tt0072490]
       winner: [tt0055708]
-'1977': # https://www.imdb.com/event/ev0000223/1977/1/?ref_=ev_eh
   atas broadcast journalism award:
-    outstanding achievement in broadcast journalism:
-      nominee: [tt0123338, tt0247880]
-      winner: [tt0123338, tt0247880]
+    atas broadcast journalism award:
+      nominee: [tt0124932, tt0193671, tt0319967]
+      winner: [tt0124932, tt0193671, tt0319967]
+'1977': # https://www.imdb.com/event/ev0000223/1977/1/?ref_=ev_eh
   primetime emmy:
     outstanding achievement in choreography:
       nominee: [tt0331418, tt0165042, tt0076393, tt0061240, tt0330884]
@@ -12583,6 +12576,10 @@
     special classification of outstanding program achievement:
       nominee: [tt0055708, tt0224835, tt0206090, tt0327058, tt0046593]
       winner: [tt0055708]
+  atas broadcast journalism award:
+    outstanding achievement in broadcast journalism:
+      nominee: [tt0123338, tt0247880]
+      winner: [tt0123338, tt0247880]
 '1976': # https://www.imdb.com/event/ev0000223/1976/1/?ref_=ev_eh
   primetime emmy:
     outstanding achievement in art direction or scenic design - dramatic special or feature length film made for tv:
@@ -14604,10 +14601,6 @@
       nominee: [tt2221494, tt0054513, tt0439528, tt0054531]
       winner: [tt2221494]
 '1962': # https://www.imdb.com/event/ev0000223/1962/1/?ref_=ev_eh
-  trustees award:
-    trustees award:
-      nominee: [tt0207800]
-      winner: [tt0207800]
   primetime emmy:
     outstanding achievement in art direction and scenic design:
       nominee: [tt0040048, tt0051276, tt0054561, tt0052520, tt2199914]
@@ -14687,6 +14680,10 @@
     the program of the year:
       nominee: [tt0055598, tt0925316, tt0319967, tt0307039, tt2190082]
       winner: [tt0055598]
+  trustees award:
+    trustees award:
+      nominee: [tt0207800]
+      winner: [tt0207800]
 '1961': # https://www.imdb.com/event/ev0000223/1961/1/?ref_=ev_eh
   primetime emmy:
     outstanding achievement in art direction and scenic design:

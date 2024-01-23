@@ -1,5 +1,52 @@
 # Screen Actors Guild Awards
-'2023':  # https://www.imdb.com/event/ev0000598/2023/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0000598/2024/1/?ref_=ev_eh
+  actor:
+    outstanding performance by a cast in a motion picture:
+      nominee: [tt23561236, tt1517268, tt5537002, tt15398776, tt1200263]
+      winner: []
+    outstanding performance by a male actor in a leading role:
+      nominee: [tt5535276, tt15398776, tt14160834, tt23561236, tt14849194]
+      winner: []
+    outstanding performance by a female actor in a leading role:
+      nominee: [tt5302918, tt5535276, tt14230458, tt5537002, tt1517268]
+      winner: []
+    outstanding performance by a male actor in a supporting role:
+      nominee: [tt5537002, tt15398776, tt1517268, tt23561236, tt14230458]
+      winner: []
+    outstanding performance by a female actor in a supporting role:
+      nominee: [tt14849194, tt1200263, tt15398776, tt5302918, tt3758542]
+      winner: []
+    outstanding performance by an ensemble in a comedy series:
+      nominee: [tt14218830, tt5348176, tt11691774, tt10986410, tt14452776]
+      winner: []
+    outstanding performance by an ensemble in a drama series:
+      nominee: [tt7660850, tt4786824, tt4406178, tt3581920, tt7203552]
+      winner: []
+    outstanding performance by a male actor in a comedy series:
+      nominee: [tt5348176, tt10986410, tt14452776]
+      winner: []
+    outstanding performance by a female actor in a comedy series:
+      nominee: [tt5788792, tt14452776, tt10986410, tt14218830]
+      winner: []
+    outstanding performance by a male actor in a drama series:
+      nominee: [tt7203552, tt7660850, tt3581920]
+      winner: []
+    outstanding performance by a female actor in a drama series:
+      nominee: [tt3581920, tt4786824, tt7203552, tt17491088, tt7660850]
+      winner: []
+    outstanding action performance by a stunt ensemble in a motion picture:
+      nominee: [tt1517268, tt6791350, tt1462764, tt10366206, tt9603212]
+      winner: []
+    outstanding performance by a female actor in a television movie or limited series:
+      nominee: [tt14403178, tt17921714, tt13911628, tt20869432, tt11816814]
+      winner: []
+    outstanding performance by a male actor in a television movie or limited series:
+      nominee: [tt15399640, tt2802850, tt15384586, tt14403178, tt27145269]
+      winner: []
+    outstanding action performance by a stunt ensemble in a television series:
+      nominee: [tt13622776, tt5348176, tt14403178, tt3581920, tt8111088]
+      winner: []
+'2023': # https://www.imdb.com/event/ev0000598/2023/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
       nominee: [tt6710474, tt10640346, tt11813216, tt14208870, tt13669038]
@@ -1293,50 +1340,33 @@
     outstanding performance by an ensemble in a drama series:
       nominee: [tt0106079, tt0108724, tt0108757, tt0098844, tt0103512]
       winner: [tt0106079]
-'2024': # https://www.imdb.com/event/ev0000598/2024/1/?ref_=ev_eh
-  actor:
-    outstanding performance by a cast in a motion picture:
-      nominee: [tt23561236, tt1517268, tt5537002, tt15398776, tt1200263]
-      winner: []
-    outstanding performance by a male actor in a leading role:
-      nominee: [tt5535276, tt15398776, tt14160834, tt23561236, tt14849194]
-      winner: []
-    outstanding performance by a female actor in a leading role:
-      nominee: [tt5302918, tt5535276, tt14230458, tt5537002, tt1517268]
-      winner: []
-    outstanding performance by a male actor in a supporting role:
-      nominee: [tt5537002, tt15398776, tt1517268, tt23561236, tt14230458]
-      winner: []
-    outstanding performance by a female actor in a supporting role:
-      nominee: [tt14849194, tt1200263, tt15398776, tt5302918, tt3758542]
-      winner: []
-    outstanding performance by an ensemble in a comedy series:
-      nominee: [tt14218830, tt5348176, tt11691774, tt10986410, tt14452776]
-      winner: []
-    outstanding performance by an ensemble in a drama series:
-      nominee: [tt7660850, tt4786824, tt4406178, tt3581920, tt7203552]
-      winner: []
-    outstanding performance by a male actor in a comedy series:
-      nominee: [tt5348176, tt10986410, tt14452776]
-      winner: []
-    outstanding performance by a female actor in a comedy series:
-      nominee: [tt5788792, tt14452776, tt10986410, tt14218830]
-      winner: []
-    outstanding performance by a male actor in a drama series:
-      nominee: [tt7203552, tt7660850, tt3581920]
-      winner: []
-    outstanding performance by a female actor in a drama series:
-      nominee: [tt3581920, tt4786824, tt7203552, tt17491088, tt7660850]
-      winner: []
-    outstanding action performance by a stunt ensemble in a motion picture:
-      nominee: [tt1517268, tt6791350, tt1462764, tt10366206, tt9603212]
-      winner: []
-    outstanding performance by a female actor in a television movie or limited series:
-      nominee: [tt14403178, tt17921714, tt13911628, tt20869432, tt11816814]
-      winner: []
-    outstanding performance by a male actor in a television movie or limited series:
-      nominee: [tt15399640, tt2802850, tt15384586, tt14403178, tt27145269]
-      winner: []
-    outstanding action performance by a stunt ensemble in a television series:
-      nominee: [tt13622776, tt5348176, tt14403178, tt3581920, tt8111088]
-      winner: []
+'1994': {} # https://www.imdb.com/event/ev0000598/1994/1/?ref_=ev_eh
+'1993': {} # https://www.imdb.com/event/ev0000598/1993/1/?ref_=ev_eh
+'1992': {} # https://www.imdb.com/event/ev0000598/1992/1/?ref_=ev_eh
+'1991': {} # https://www.imdb.com/event/ev0000598/1991/1/?ref_=ev_eh
+'1990': {} # https://www.imdb.com/event/ev0000598/1990/1/?ref_=ev_eh
+'1989': {} # https://www.imdb.com/event/ev0000598/1989/1/?ref_=ev_eh
+'1988': {} # https://www.imdb.com/event/ev0000598/1988/1/?ref_=ev_eh
+'1987': {} # https://www.imdb.com/event/ev0000598/1987/1/?ref_=ev_eh
+'1986': {} # https://www.imdb.com/event/ev0000598/1986/1/?ref_=ev_eh
+'1985': {} # https://www.imdb.com/event/ev0000598/1985/1/?ref_=ev_eh
+'1984': {} # https://www.imdb.com/event/ev0000598/1984/1/?ref_=ev_eh
+'1983': {} # https://www.imdb.com/event/ev0000598/1983/1/?ref_=ev_eh
+'1981': {} # https://www.imdb.com/event/ev0000598/1981/1/?ref_=ev_eh
+'1980': {} # https://www.imdb.com/event/ev0000598/1980/1/?ref_=ev_eh
+'1979': {} # https://www.imdb.com/event/ev0000598/1979/1/?ref_=ev_eh
+'1978': {} # https://www.imdb.com/event/ev0000598/1978/1/?ref_=ev_eh
+'1977': {} # https://www.imdb.com/event/ev0000598/1977/1/?ref_=ev_eh
+'1976': {} # https://www.imdb.com/event/ev0000598/1976/1/?ref_=ev_eh
+'1975': {} # https://www.imdb.com/event/ev0000598/1975/1/?ref_=ev_eh
+'1974': {} # https://www.imdb.com/event/ev0000598/1974/1/?ref_=ev_eh
+'1973': {} # https://www.imdb.com/event/ev0000598/1973/1/?ref_=ev_eh
+'1972': {} # https://www.imdb.com/event/ev0000598/1972/1/?ref_=ev_eh
+'1971': {} # https://www.imdb.com/event/ev0000598/1971/1/?ref_=ev_eh
+'1970': {} # https://www.imdb.com/event/ev0000598/1970/1/?ref_=ev_eh
+'1969': {} # https://www.imdb.com/event/ev0000598/1969/1/?ref_=ev_eh
+'1968': {} # https://www.imdb.com/event/ev0000598/1968/1/?ref_=ev_eh
+'1967': {} # https://www.imdb.com/event/ev0000598/1967/1/?ref_=ev_eh
+'1966': {} # https://www.imdb.com/event/ev0000598/1966/1/?ref_=ev_eh
+'1964': {} # https://www.imdb.com/event/ev0000598/1964/1/?ref_=ev_eh
+'1963': {} # https://www.imdb.com/event/ev0000598/1963/1/?ref_=ev_eh

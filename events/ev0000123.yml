@@ -1,5 +1,79 @@
 # BAFTA Awards
-'2023':  # https://www.imdb.com/event/ev0000123/2023/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0000123/2024/1/?ref_=ev_eh
+  bafta film award:
+    best film:
+      nominee: [tt17009710, tt5537002, tt15398776, tt14230458, tt14849194]
+      winner: []
+    outstanding british film of the year:
+      nominee: [tt21192142, tt22890246, tt13287846, tt14230458, tt15893750, tt17351924, tt8649252, tt19883634, tt7160372, tt6166392]
+      winner: []
+    best leading actress:
+      nominee: [tt5535276, tt14230458, tt1200263, tt1517268, tt17009710, tt15893750]
+      winner: []
+    best leading actor:
+      nominee: [tt17351924, tt5535276, tt15398776, tt14160834, tt14849194, tt13238346]
+      winner: []
+    best supporting actress:
+      nominee: [tt21192142, tt14849194, tt1200263, tt15398776, tt17351924, tt7160372]
+      winner: []
+    best supporting actor:
+      nominee: [tt14849194, tt17351924, tt21192142, tt5537002, tt15398776, tt1517268]
+      winner: []
+    best director:
+      nominee: [tt14849194, tt21192142, tt5535276, tt15398776, tt7160372, tt17009710]
+      winner: []
+    outstanding debut by a british writer, director, or producer:
+      nominee: [tt22052280, tt21376900, tt18382328, tt22890246, tt14065578]
+      winner: []
+    best screenplay (original):
+      nominee: [tt17009710, tt1517268, tt5535276, tt13238346, tt14849194]
+      winner: []
+    best screenplay (adapted):
+      nominee: [tt21192142, tt23561236, tt15398776, tt14230458, tt7160372]
+      winner: []
+    best film not in the english language:
+      nominee: [tt24082438, tt17009710, tt13238346, tt16277242, tt7160372]
+      winner: []
+    best animated feature film:
+      nominee: [tt8337264, tt15789038, tt9362722, tt6587046]
+      winner: []
+    best documentary:
+      nominee: [tt24082438, tt28865980, tt25470468, tt19853258, tt27726927]
+      winner: []
+    original score:
+      nominee: [tt5537002, tt15398776, tt14230458, tt17351924, tt9362722]
+      winner: []
+    best casting:
+      nominee: [tt21192142, tt17009710, tt22890246, tt5537002, tt14849194]
+      winner: []
+    best cinematography:
+      nominee: [tt5537002, tt5535276, tt15398776, tt14230458, tt7160372]
+      winner: []
+    best editing:
+      nominee: [tt17009710, tt5537002, tt15398776, tt14230458, tt7160372]
+      winner: []
+    best production design:
+      nominee: [tt1517268, tt5537002, tt15398776, tt14230458, tt7160372]
+      winner: []
+    best costume design:
+      nominee: [tt1517268, tt5537002, tt13287846, tt15398776, tt14230458]
+      winner: []
+    best make up & hair:
+      nominee: [tt5537002, tt5535276, tt13287846, tt15398776, tt14230458]
+      winner: []
+    best sound:
+      nominee: [tt3758542, tt5535276, tt9603212, tt15398776, tt7160372]
+      winner: []
+    best achievement in special visual effects:
+      nominee: [tt6791350, tt9603212, tt13287846, tt14230458, tt11858890]
+      winner: []
+    best british short animation:
+      nominee: [tt26899410, tt30023166, tt27658326]
+      winner: []
+    best british short film:
+      nominee: [tt29228169, tt27727876, tt26769826, tt20779716, tt23836912]
+      winner: []
+'2023': # https://www.imdb.com/event/ev0000123/2023/1/?ref_=ev_eh
   bafta film award:
     best film:
       nominee: [tt1016150, tt3704428, tt6710474, tt11813216, tt14444726]
@@ -2082,6 +2156,9 @@
     factual series:
       nominee: [tt3638350]
       winner: [tt3638350]
+    special, visual and graphic effects:
+      nominee: [tt2183641]
+      winner: []
   technical craft award (tv):
     editing (factual):
       nominee: [tt3638350]
@@ -4240,7 +4317,7 @@
       nominee: [tt0360717, tt0372784, tt0367594, tt0330373, tt0363771]
       winner: [tt0360717]
     best film not in the english language:
-      nominee: [tt0411270, tt0424205, tt0373074, tt0361670, tt0468565]
+      nominee: [tt0411270, tt0373074, tt0424205, tt0361670, tt0468565]
       winner: [tt0411270]
     best short animation:
       nominee: [tt0440846, tt0499475, tt0499509, tt0498121, tt0469146]
@@ -8385,7 +8462,7 @@
       nominee: [tt0084335, tt0083658, tt0083866, tt0083987]
       winner: [tt0084335]
     best foreign language film:
-      nominee: [tt0079010, tt0082096, tt0082269, tt0083946]
+      nominee: [tt0079010, tt0082269, tt0083946, tt0082096]
       winner: [tt0079010]
     best make up artist:
       nominee: [tt0082484, tt0083658, tt0083866, tt0083987]

@@ -1,41 +1,41 @@
 ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
-    '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976', '1975',
-    '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951', '1950',
-    '1949', '1948', '1947', '1946', '1945', '1944', '1943', '1942', '1941', '1940', '1939', '1938', '1937', '1936', '1935', '1934', '1932', '1931', 1930-2, '1930', '1929']
+  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
+    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976',
+    '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951',
+    '1950', '1949', '1948', '1947', '1946', '1945', '1944', '1943', '1942', '1941', '1940', '1939', '1938', '1937', '1936', '1935', '1934', '1932', '1931', 1930-2, '1930', '1929']
   awards:  # Award Options: Academy Awards, USA
   - honorary award # 21 Events: 1929, 1937-1940, 1942-1943, 1946-1953, 1955-1956, 1962, 1965, 1969, 1997
   - juvenile award # 3 Events: 1945, 1949, 1961
-  - oscar # 95 Events: 1929-2023
+  - oscar # 96 Events: 1929-2024
   - oscars cheer moment # 1 Event: 2022
   - oscars fan favorite # 1 Event: 2022
   - special achievement award # 16 Events: 1973, 1975-1982, 1984-1985, 1988-1989, 1991, 1996, 2018
   - technical achievement award # 2 Events: 1935, 1940
   categories: # Category Options: Academy Awards, USA
   - best achievement in art direction # 8 Events: 2005-2012
-  - best achievement in cinematography # 19 Events: 2005-2023
-  - best achievement in costume design # 19 Events: 2005-2023
-  - best achievement in directing # 19 Events: 2005-2023
-  - best achievement in film editing # 19 Events: 2005-2023
+  - best achievement in cinematography # 20 Events: 2005-2024
+  - best achievement in costume design # 20 Events: 2005-2024
+  - best achievement in directing # 20 Events: 2005-2024
+  - best achievement in film editing # 20 Events: 2005-2024
   - best achievement in makeup # 8 Events: 2005-2012
-  - best achievement in makeup and hairstyling # 11 Events: 2013-2023
-  - best achievement in music written for motion pictures (original score) # 7 Events: 2017-2023
-  - best achievement in music written for motion pictures (original song) # 7 Events: 2017-2023
+  - best achievement in makeup and hairstyling # 12 Events: 2013-2024
+  - best achievement in music written for motion pictures (original score) # 8 Events: 2017-2024
+  - best achievement in music written for motion pictures (original song) # 8 Events: 2017-2024
   - best achievement in music written for motion pictures, original score # 12 Events: 2005-2016
   - best achievement in music written for motion pictures, original song # 12 Events: 2005-2016
-  - best achievement in production design # 11 Events: 2013-2023
+  - best achievement in production design # 12 Events: 2013-2024
   - best achievement in sound editing # 16 Events: 2005-2020
   - best achievement in sound mixing # 16 Events: 2005-2020
-  - best achievement in visual effects # 19 Events: 2005-2023
+  - best achievement in visual effects # 20 Events: 2005-2024
   - best actor in a leading role # 76 Events: 1929-2004
   - best actor in a supporting role # 68 Events: 1937-2004
   - best actress in a leading role # 76 Events: 1929-2004
   - best actress in a supporting role # 68 Events: 1937-2004
-  - best adapted screenplay # 7 Events: 2017-2023
+  - best adapted screenplay # 8 Events: 2017-2024
   - best animated feature # 4 Events: 2002-2004, 2013
-  - best animated feature film # 6 Events: 2018-2023
+  - best animated feature film # 7 Events: 2018-2024
   - best animated feature film of the year # 12 Events: 2005-2012, 2014-2017
-  - best animated short film # 7 Events: 2017-2023
+  - best animated short film # 8 Events: 2017-2024
   - best art direction # 12 Events: 1929-1940
   - best art direction, black-and-white # 1 Event: 1941
   - best art direction, color # 1 Event: 1941
@@ -58,8 +58,8 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best director, comedy picture # 1 Event: 1929
   - best director, dramatic picture # 1 Event: 1929
   - best documentary # 2 Events: 1942-1943
-  - best documentary feature # 7 Events: 2017-2023
-  - best documentary short film # 1 Event: 2023
+  - best documentary feature # 8 Events: 2017-2024
+  - best documentary short film # 2 Events: 2023-2024
   - best documentary short subject # 6 Events: 2017-2022
   - best documentary, feature # 2 Events: 2015-2016
   - best documentary, features # 70 Events: 1944-1946, 1948-2014
@@ -74,10 +74,10 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best film editing # 70 Events: 1935-2004
   - best foreign language film # 48 Events: 1957-2004
   - best foreign language film of the year # 15 Events: 2005-2019
-  - best international feature film # 4 Events: 2020-2023
-  - best live action short film # 7 Events: 2017-2023
+  - best international feature film # 5 Events: 2020-2024
+  - best live action short film # 8 Events: 2017-2024
   - best makeup # 22 Events: 1982-1983, 1985-2004
-  - best motion picture of the year # 19 Events: 2005-2023
+  - best motion picture of the year # 20 Events: 2005-2024
   - best music, original dramatic score # 9 Events: 1972-1976, 1996-1999
   - best music, original music score # 2 Events: 1967-1968
   - best music, original musical or comedy score # 4 Events: 1996-1999
@@ -97,11 +97,11 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best music, scoring of music, adaptation or treatment # 6 Events: 1963-1968
   - best music, scoring original song score and/or adaptation # 4 Events: 1973-1976
   - best music, substantially original score # 1 Event: 1965
-  - best original screenplay # 7 Events: 2017-2023
-  - best performance by an actor in a leading role # 19 Events: 2005-2023
-  - best performance by an actor in a supporting role # 19 Events: 2005-2023
-  - best performance by an actress in a leading role # 19 Events: 2005-2023
-  - best performance by an actress in a supporting role # 19 Events: 2005-2023
+  - best original screenplay # 8 Events: 2017-2024
+  - best performance by an actor in a leading role # 20 Events: 2005-2024
+  - best performance by an actor in a supporting role # 20 Events: 2005-2024
+  - best performance by an actress in a leading role # 20 Events: 2005-2024
+  - best performance by an actress in a supporting role # 20 Events: 2005-2024
   - best picture # 75 Events: 1930-2004
   - best picture, production # 1 Event: 1929
   - best picture, unique and artistic production # 1 Event: 1929
@@ -116,7 +116,7 @@ ev0000003:  # Academy Awards, USA (https://www.imdb.com/event/ev0000003)
   - best short subject, novelty # 4 Events: 1932-1936
   - best short subject, one-reel # 21 Events: 1937-1957
   - best short subject, two-reel # 21 Events: 1937-1957
-  - best sound # 48 Events: 1959-2003, 2021-2023
+  - best sound # 49 Events: 1959-2003, 2021-2024
   - best sound editing # 4 Events: 2001-2004
   - best sound mixing # 1 Event: 2004
   - best sound, recording # 26 Events: 1930-2, 1934-1958
@@ -235,7 +235,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - generation prize # 5 Events: 2009, 2011, 2018-2020
   - giuseppe becce award # 1 Event: 2023
   - glasshütte original documentary award # 3 Events: 2017-2019
-  - golden berlin bear # 73 Events: 1951-2023
+  - golden berlin bear # 74 Events: 1951-2024
   - golden berlin bear for best short film # 4 Events: 1988, 2009, 2014, 2016
   - golden plaque # 1 Event: 1951
   - grand bronze plaque # 3 Events: 1954-1956
@@ -393,7 +393,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best feature film suitable for young people # 11 Events: 1959-1969
   - best feature-length documentary # 6 Events: 1956, 1959-1961, 1963-1964
   - best feature-length documentary/cultural film # 2 Events: 1957-1958
-  - best film # 26 Events: 1955, 1963, 1977, 1981, 1984, 1989, 1994-1995, 1997-1998, 2003, 2007, 2009-2012, 2014-2023
+  - best film # 27 Events: 1955, 1963, 1977, 1981, 1984, 1989, 1994-1995, 1997-1998, 2003, 2007, 2009-2012, 2014-2024
   - best film music # 6 Events: 2002-2007
   - best first feature # 4 Events: 2014, 2019-2021
   - best first feature award # 9 Events: 2012-2019, 2021
@@ -407,7 +407,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best script # 3 Events: 2014-2016
   - best short # 3 Events: 2005, 2009, 2015
   - best short documentary/cultural film # 3 Events: 1956-1958
-  - best short film # 54 Events: 1959-1964, 1971, 1977-2023
+  - best short film # 55 Events: 1959-1964, 1971, 1977-2024
   - best short film suitable for young people # 9 Events: 1959-1966, 2011
   - best supporting performance # 3 Events: 2021-2023
   - blue angel # 13 Events: 1993-2005
@@ -448,7 +448,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - dialogue en perspective - actor's award # 2 Events: 2009, 2014
   - dialogue en perspective - special mention # 10 Events: 2004-2010, 2013-2015
   - documentary # 2 Events: 1971-1972
-  - documentary film # 12 Events: 2011-2020, 2022-2023
+  - documentary film # 13 Events: 2011-2020, 2022-2024
   - don quixote award # 8 Events: 1998-2005
   - don quixote award - special mention # 7 Events: 1998-2002, 2004-2005
   - efa award # 1 Event: 2017
@@ -607,10 +607,10 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - youth jury - film # 1 Event: 2022
   - youth jury - short film # 1 Event: 2022
 ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
-    '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976', '1975',
-    '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951', '1950',
-    '1949']
+  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
+    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976',
+    '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951',
+    '1950', '1949']
   awards:  # Award Options: BAFTA Awards
   - 60 seconds of fame - best film # 1 Event: 2008
   - 60 seconds of fame - best regional film # 3 Events: 2007-2008, 2011
@@ -620,7 +620,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - audience award # 8 Events: 1998-2005
   - audience award (tv) # 13 Events: 1995-1996, 2004-2005, 2007-2013, 2015-2016
   - bafta children's award # 24 Events: 1996-2019
-  - bafta film award # 75 Events: 1949-2023
+  - bafta film award # 76 Events: 1949-2024
   - bafta games award # 19 Events: 2004-2007, 2009-2023
   - bafta interactive award # 3 Events: 2000, 2004-2005
   - bafta interactive entertainment award # 5 Events: 1998-2002
@@ -662,7 +662,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - bafta kids' vote - game # 2 Events: 2014, 2016
   - bafta kids' vote - television # 4 Events: 2012-2014, 2016
   - best achievement in special effects # 1 Event: 1996
-  - best achievement in special visual effects # 17 Events: 1997, 2000-2007, 2016-2023
+  - best achievement in special visual effects # 18 Events: 1997, 2000-2007, 2016-2024
   - best action and adventure game # 5 Events: 2005-2007, 2009, 2014
   - best action game # 5 Events: 2004, 2010-2013
   - best actor # 44 Events: 1968-2011
@@ -674,7 +674,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best actuality coverage # 4 Events: 1983-1985, 1992
   - best adapted screenplay # 5 Events: 2012-2016
   - best adventure game # 1 Event: 2004
-  - best animated feature film # 7 Events: 2007, 2015, 2017-2018, 2021-2023
+  - best animated feature film # 8 Events: 2007, 2015, 2017-2018, 2021-2024
   - best animated featured film # 2 Events: 2019-2020
   - best animated film # 36 Events: 1955-1966, 1968-1969, 1971, 1974-1976, 1981-1982, 1984-1985, 1987, 1989-1992, 1994, 2008-2014, 2016
   - best animated series # 1 Event: 2004
@@ -697,9 +697,9 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best british film editing # 1 Event: 1967
   - best british game # 11 Events: 2013-2023
   - best british screenplay # 14 Events: 1955-1968
-  - best british short animation # 7 Events: 2014-2016, 2020-2023
-  - best british short film # 7 Events: 2014-2016, 2020-2023
-  - best casting # 4 Events: 2020-2023
+  - best british short animation # 8 Events: 2014-2016, 2020-2024
+  - best british short film # 8 Events: 2014-2016, 2020-2024
+  - best casting # 5 Events: 2020-2024
   - best casual and social game # 1 Event: 2006
   - best casual game # 2 Events: 2007, 2009
   - best character # 1 Event: 2006
@@ -711,7 +711,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best children's programme (factual) # 6 Events: 1987, 1992-1996
   - best children's programme (fiction) # 2 Events: 1992-1993
   - best children's programme (fiction/entertainment) # 3 Events: 1994-1996
-  - best cinematography # 55 Events: 1969-2023
+  - best cinematography # 56 Events: 1969-2024
   - best comedy # 9 Events: 2010-2016, 2018-2019
   - best comedy (programme or series) # 12 Events: 1992-2001, 2010, 2012
   - best comedy and comedy entertainment programme # 3 Events: 2014-2015, 2017
@@ -722,14 +722,14 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best comedy series # 11 Events: 1981-1991
   - best content for change # 1 Event: 2018
   - best continuing drama # 6 Events: 2004-2009
-  - best costume design # 55 Events: 1969-2023
+  - best costume design # 56 Events: 1969-2024
   - best current affairs # 16 Events: 2002-2006, 2008-2018
   - best debut game # 12 Events: 2012-2023
   - best design # 34 Events: 1969-2000, 2004, 2012
   - best digital # 1 Event: 2018
   - best digital creativity # 1 Event: 2017
   - best direction # 24 Events: 1969-1985, 1987-1993
-  - best director # 14 Events: 1965, 2006-2013, 2018, 2020-2023
+  - best director # 15 Events: 1965, 2006-2013, 2018, 2020-2024
   - best director - factual # 1 Event: 2008
   - best director - fiction/entertainment # 2 Events: 2008, 2011
   - best director factual # 3 Events: 2009-2011
@@ -737,7 +737,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - 'best director: factual' # 4 Events: 2012-2014, 2017
   - 'best director: fiction' # 6 Events: 2012-2014, 2016-2017, 2019
   - 'best director: multi-camera' # 3 Events: 2011, 2013, 2017
-  - best documentary # 10 Events: 2014-2023
+  - best documentary # 11 Events: 2014-2024
   - best documentary film # 13 Events: 1949-1959, 2012-2013
   - best documentary film 1947 # 1 Event: 1949
   - best documentary programme # 6 Events: 1978, 1980-1983, 2003
@@ -748,7 +748,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best drama series # 31 Events: 1970, 1987-1989, 1992-2018
   - best drama series/serial # 16 Events: 1973-1986, 1990-1991
   - best dramatic series # 1 Event: 1966
-  - best editing # 44 Events: 1978, 1980-1982, 1984-2023
+  - best editing # 45 Events: 1978, 1980-1982, 1984-2024
   - best editing (factual) # 11 Events: 1995-2005
   - best editing (fiction/entertainment) # 13 Events: 1995-2005, 2015, 2018
   - best editing - factual # 1 Event: 2008
@@ -781,13 +781,13 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best features (programme or series) # 2 Events: 1999, 2016
   - best female performance in a comedy programme # 7 Events: 2012-2013, 2015-2019
   - best female performance in a comedy role # 3 Events: 2010-2011, 2014
-  - best film # 55 Events: 1969-2023
+  - best film # 56 Events: 1969-2024
   - best film cameraman # 14 Events: 1978-1991
   - best film editing # 11 Events: 1969-1977, 1979, 1983
   - best film editor # 14 Events: 1978-1991
   - best film from any source # 20 Events: 1949-1968
   - best film from any source 1947 # 1 Event: 1949
-  - best film not in the english language # 35 Events: 1989-2023
+  - best film not in the english language # 36 Events: 1989-2024
   - best film or video editor (factual) # 2 Events: 1992, 1994
   - best film or video editor (fiction) # 1 Event: 1992
   - best film or video editor (fiction/entertainment) # 1 Event: 1994
@@ -823,8 +823,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best international # 19 Events: 1998-1999, 2001-2003, 2005-2018
   - best international (programme or series) # 1 Event: 1999
   - best international series # 1 Event: 2019
-  - best leading actor # 16 Events: 2008-2023
-  - best leading actress # 16 Events: 2008-2023
+  - best leading actor # 17 Events: 2008-2024
+  - best leading actress # 17 Events: 2008-2024
   - best learning - primary # 3 Events: 2009, 2011, 2014
   - best learning - secondary # 7 Events: 2006, 2008-2009, 2013-2016
   - best learning secondary # 4 Events: 2006, 2011-2012, 2015
@@ -839,7 +839,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best live event # 3 Events: 2017-2019
   - best live outside broadcast coverage # 1 Event: 1999
   - best make up # 18 Events: 1978-1995
-  - best make up & hair # 10 Events: 2007-2012, 2015, 2021-2023
+  - best make up & hair # 11 Events: 2007-2012, 2015, 2021-2024
   - best make up & hair design # 13 Events: 2001-2012, 2017
   - best make up artist # 12 Events: 1983-1994
   - best make up/hair # 18 Events: 1995-2006, 2013-2014, 2017-2020
@@ -889,7 +889,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best pre-school animation # 10 Events: 2002-2003, 2005-2010, 2013-2014
   - best pre-school live action # 9 Events: 2000, 2002-2003, 2007-2009, 2011, 2014, 2016
   - best presenter # 11 Events: 2000-2005, 2007-2009, 2014, 2016
-  - best production design # 39 Events: 1980, 1986-2023
+  - best production design # 40 Events: 1980, 1986-2024
   - best production design/art direction # 9 Events: 1977-1979, 1981-1985, 2008
   - best programme/series without category # 6 Events: 1980-1985
   - best racing game # 2 Events: 2004-2005
@@ -902,8 +902,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best schools factual - secondary # 4 Events: 1999, 2002, 2004-2005
   - best score # 8 Events: 1983-1989, 1994
   - best screenplay # 16 Events: 1969-1983, 2006
-  - best screenplay (adapted) # 8 Events: 2011, 2017-2023
-  - best screenplay (original) # 8 Events: 2011, 2017-2023
+  - best screenplay (adapted) # 9 Events: 2011, 2017-2024
+  - best screenplay (original) # 9 Events: 2011, 2017-2024
   - best screenplay - adapted # 27 Events: 1984-2010
   - best screenplay - original # 27 Events: 1984-2010
   - best script # 3 Events: 1970-1972
@@ -927,7 +927,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best soap # 5 Events: 1999-2003
   - best soap & continuing drama # 6 Events: 2012-2015, 2017-2018
   - best soap & continuing drama series # 1 Event: 2019
-  - best sound # 44 Events: 1979, 1981-2023
+  - best sound # 45 Events: 1979, 1981-2024
   - best sound (factual) # 17 Events: 1991-1996, 1998-2005, 2008-2009, 2011
   - best sound (fiction) # 2 Events: 1992-1993
   - best sound (fiction/entertainment) # 17 Events: 1987, 1994-2006, 2010-2012
@@ -957,8 +957,8 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - best story and character # 2 Events: 2007, 2009
   - best strategy and simulation game # 2 Events: 2007, 2014
   - best strategy game # 7 Events: 2004, 2006, 2009-2013
-  - best supporting actor # 31 Events: 1969-1980, 1983-1985, 2008-2023
-  - best supporting actress # 31 Events: 1969-1980, 1983-1985, 2008-2023
+  - best supporting actor # 32 Events: 1969-1980, 1983-1985, 2008-2024
+  - best supporting actress # 32 Events: 1969-1980, 1983-1985, 2008-2024
   - best supporting artist # 1 Event: 1982
   - best talk show # 2 Events: 1996-1997
   - best technical direction # 1 Event: 2005
@@ -1069,13 +1069,13 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - original music # 5 Events: 2017-2020, 2022
   - original music, factual # 1 Event: 2023
   - original music, fiction # 1 Event: 2023
-  - original score # 3 Events: 2021-2023
+  - original score # 4 Events: 2021-2024
   - originality # 2 Events: 1999, 2005
-  - outstanding british film of the year # 7 Events: 2017-2023
+  - outstanding british film of the year # 8 Events: 2017-2024
   - outstanding comedy entertainment programme # 1 Event: 2019
   - outstanding current affairs feature # 1 Event: 2019
   - outstanding debut by a british writer, director or producer # 9 Events: 2010-2018
-  - outstanding debut by a british writer, director, or producer # 5 Events: 2019-2023
+  - outstanding debut by a british writer, director, or producer # 6 Events: 2019-2024
   - outstanding drama series # 1 Event: 2019
   - outstanding entertainment performance # 1 Event: 2019
   - outstanding entertainment programme # 1 Event: 2019
@@ -1107,6 +1107,7 @@ ev0000123: # BAFTA Awards (https://www.imdb.com/event/ev0000123)
   - special award # 14 Events: 1949, 1951-1958, 1970-1972, 2000-2001
   - special award (children's) # 1 Event: 2001
   - special, visual & graphic effects # 2 Events: 2022-2023
+  - special, visual and graphic effects # 1 Event: 2015
   - specialist factual # 4 Events: 2020-2023
   - sport # 4 Events: 2020-2023
   - sports # 1 Event: 2001
@@ -2651,7 +2652,7 @@ ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   - outstanding short form animated program # 7 Events: 2016-2022
   - outstanding short form comedy or drama series # 5 Events: 2016-2020
   - outstanding short form comedy, drama or variety series # 3 Events: 2021-2023
-  - outstanding short form nonfiction or reality series # 8 Events: 2016-2023
+  - outstanding short form nonfiction or reality series # 7 Events: 2016-2022
   - outstanding short form picture editing # 1 Event: 2009
   - outstanding short form variety series # 5 Events: 2016-2020
   - outstanding short-form picture editing # 2 Events: 2010-2011
@@ -3142,14 +3143,15 @@ ev0000468: # National Film Preservation Board, USA (https://www.imdb.com/event/e
   - national film preservation board # 16 Events: 1992, 2000, 2005, 2010, 2012-2023
   - national film registry # 25 Events: 1989-2013
 ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
-  years: ['2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000', '1999',
-    '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976', '1975', '2024']
+  years: ['2024', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
+    '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976', '1975']
   awards:  # Award Options: People's Choice Awards, USA
-  - people's choice award # 49 Events: 2024-2022
+  - people's choice award # 49 Events: 1975-2024
   - special achievement award # 1 Event: 2021
   categories: # Category Options: People's Choice Awards, USA
   - all-time favorite tv program # 1 Event: 1989
-  - drama movie star # 2 Events: 2018, 2022
+  - comedy act of the year # 1 Event: 2024
+  - drama movie star # 1 Event: 2018
   - favorite action movie # 11 Events: 2008-2009, 2011-2015, 2017-2020
   - favorite action movie star # 4 Events: 2018-2021
   - favorite actor in a new tv series # 1 Event: 2016
@@ -3213,7 +3215,7 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - favorite male movie star # 4 Events: 2018-2021
   - favorite male performer in a new television series # 3 Events: 2000-2002
   - favorite male performer in a new tv program # 1 Event: 1981
-  - favorite male tv star # 5 Events: 2018-2022
+  - favorite male tv star # 4 Events: 2018-2021
   - favorite motion picture # 26 Events: 1975-1978, 1980-1987, 1990, 1992-1996, 1999-2005, 2020
   - favorite motion picture actress # 1 Event: 2001
   - favorite move fan following # 1 Event: 2013
@@ -3258,13 +3260,13 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - favorite reality show - competition # 2 Events: 2005-2006
   - favorite reality show - makeover # 1 Event: 2005
   - favorite reality show - other # 2 Events: 2005-2006
-  - favorite reality tv star # 4 Events: 2018-2020, 2022
+  - favorite reality tv star # 3 Events: 2018-2020
   - favorite revival show # 1 Event: 2018
   - favorite scene stealing guest star # 1 Event: 2009
   - favorite scene stealing star # 1 Event: 2008
   - favorite sci fi/fantasy show # 1 Event: 2009
   - favorite sci-fi show # 1 Event: 2008
-  - favorite sci-fi/fantasy show # 7 Events: 2010-2012, 2018-2020, 2022
+  - favorite sci-fi/fantasy show # 6 Events: 2010-2012, 2018-2020
   - favorite sci-fi/fantasy tv actor # 3 Events: 2014-2016
   - favorite sci-fi/fantasy tv show # 2 Events: 2013-2014
   - favorite sequel # 1 Event: 2005
@@ -3323,6 +3325,7 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - music video of 2018 # 1 Event: 2018
   - people's choice awards honoree # 1 Event: 2021
   - people's icon # 1 Event: 2021
+  - the action movie of 2022 # 1 Event: 2022
   - the action movie of the year # 1 Event: 2024
   - the action movie star of 2022 # 1 Event: 2022
   - the action movie star of the year # 1 Event: 2024
@@ -3330,7 +3333,9 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - the bingeworthy show of 2021 # 1 Event: 2021
   - the bingeworthy show of 2022 # 1 Event: 2022
   - the bingeworthy show of the year # 1 Event: 2024
+  - the comedy movie of 2022 # 1 Event: 2022
   - the comedy movie of the year # 1 Event: 2024
+  - the comedy movie star of 2022 # 1 Event: 2022
   - the comedy movie star of the year # 1 Event: 2024
   - the comedy show of 2021 # 1 Event: 2021
   - the comedy show of 2022 # 1 Event: 2022
@@ -3338,13 +3343,19 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - the comedy tv star of 2021 # 1 Event: 2021
   - the comedy tv star of 2022 # 1 Event: 2022
   - the comedy tv star of the year # 1 Event: 2024
+  - the competition contestant of 2022 # 1 Event: 2022
+  - the competition contestant of the year # 1 Event: 2024
+  - the competition show of 2022 # 1 Event: 2022
   - the competition show of the year # 1 Event: 2024
   - the daytime talk show of 2022 # 1 Event: 2022
+  - the daytime talk show of the year # 1 Event: 2024
   - the drama movie of 2021 # 1 Event: 2021
   - the drama movie of 2022 # 1 Event: 2022
   - the drama movie of the year # 1 Event: 2024
+  - the drama movie star of 2022 # 1 Event: 2022
   - the drama movie star of the year # 1 Event: 2024
   - the drama show of 2021 # 1 Event: 2021
+  - the drama show of 2022 # 1 Event: 2022
   - the drama show of the year # 1 Event: 2024
   - the drama tv star of 2021 # 1 Event: 2021
   - the drama tv star of 2022 # 1 Event: 2022
@@ -3355,21 +3366,30 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - the female tv star of 2021 # 1 Event: 2021
   - the female tv star of 2022 # 1 Event: 2022
   - the female tv star of the year # 1 Event: 2024
+  - the host of the year # 1 Event: 2024
+  - the male movie star of 2022 # 1 Event: 2022
   - the male movie star of the year # 1 Event: 2024
   - the male tv star of 2021 # 1 Event: 2021
+  - the male tv star of 2022 # 1 Event: 2022
   - the male tv star of the year # 1 Event: 2024
   - the movie of 2022 # 1 Event: 2022
   - the movie of the year # 1 Event: 2024
   - the movie performance of the year # 1 Event: 2024
   - the music video of 2020 # 1 Event: 2020
   - the music video of 2022 # 1 Event: 2022
+  - the nighttime talk show of 2022 # 1 Event: 2022
+  - the nighttime talk show of the year # 1 Event: 2024
+  - the reality show of 2022 # 1 Event: 2022
   - the reality show of the year # 1 Event: 2024
+  - the reality tv star of 2022 # 1 Event: 2022
+  - the reality tv star of the year # 1 Event: 2024
   - the sci-fi/fantasy show of 2021 # 1 Event: 2021
+  - the sci-fi/fantasy show of 2022 # 1 Event: 2022
   - the sci-fi/fantasy show of the year # 1 Event: 2024
   - the show of 2021 # 1 Event: 2021
+  - the show of 2022 # 1 Event: 2022
   - the show of the year # 1 Event: 2024
   - the tv performance of the year # 1 Event: 2024
-  - world-favorite motion picture actress # 1 Event: 2024
 ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
     '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981']
@@ -3419,35 +3439,35 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst visual effects # 2 Events: 1987-1988
   - worst written film grossing over $100 million # 1 Event: 1997
 ev0000598: # Screen Actors Guild Awards (https://www.imdb.com/event/ev0000598)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
-    '1999', '1998', '1997', '1996', '1995', '2024']
+  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
+    '2000', '1999', '1998', '1997', '1996', '1995']
   awards:  # Award Options: Screen Actors Guild Awards
-  - actor # 30 Events: 2024-2023
+  - actor # 30 Events: 1995-2024
   categories: # Category Options: Screen Actors Guild Awards
   - outstanding action performance by a stunt ensemble in a comedy or drama series # 6 Events: 2017-2022
-  - outstanding action performance by a stunt ensemble in a motion picture # 12 Events: 2024, 2013-2023
-  - outstanding action performance by a stunt ensemble in a television series # 7 Events: 2024, 2012-2016, 2023
+  - outstanding action performance by a stunt ensemble in a motion picture # 12 Events: 2013-2024
+  - outstanding action performance by a stunt ensemble in a television series # 7 Events: 2012-2016, 2023-2024
   - outstanding performance by a cast # 4 Events: 1996-1999
-  - outstanding performance by a cast in a motion picture # 21 Events: 2024, 2004-2023
+  - outstanding performance by a cast in a motion picture # 21 Events: 2004-2024
   - outstanding performance by a cast in a theatrical motion picture # 1 Event: 2000
-  - outstanding performance by a female actor in a comedy series # 30 Events: 2024-2023
-  - outstanding performance by a female actor in a drama series # 30 Events: 2024-2023
-  - outstanding performance by a female actor in a leading role # 30 Events: 2024-2023
-  - outstanding performance by a female actor in a supporting role # 30 Events: 2024-2023
-  - outstanding performance by a female actor in a television movie or limited series # 8 Events: 2024, 2017-2023
+  - outstanding performance by a female actor in a comedy series # 30 Events: 1995-2024
+  - outstanding performance by a female actor in a drama series # 30 Events: 1995-2024
+  - outstanding performance by a female actor in a leading role # 30 Events: 1995-2024
+  - outstanding performance by a female actor in a supporting role # 30 Events: 1995-2024
+  - outstanding performance by a female actor in a television movie or limited series # 8 Events: 2017-2024
   - outstanding performance by a female actor in a television movie or miniseries # 17 Events: 2000-2016
   - outstanding performance by a female actor in a tv movie or miniseries # 5 Events: 1995-1999
-  - outstanding performance by a male actor in a comedy series # 30 Events: 2024-2023
-  - outstanding performance by a male actor in a drama series # 30 Events: 2024-2023
-  - outstanding performance by a male actor in a leading role # 30 Events: 2024-2023
-  - outstanding performance by a male actor in a supporting role # 30 Events: 2024-2023
-  - outstanding performance by a male actor in a television movie or limited series # 8 Events: 2024, 2017-2023
+  - outstanding performance by a male actor in a comedy series # 30 Events: 1995-2024
+  - outstanding performance by a male actor in a drama series # 30 Events: 1995-2024
+  - outstanding performance by a male actor in a leading role # 30 Events: 1995-2024
+  - outstanding performance by a male actor in a supporting role # 30 Events: 1995-2024
+  - outstanding performance by a male actor in a television movie or limited series # 8 Events: 2017-2024
   - outstanding performance by a male actor in a television movie or miniseries # 17 Events: 2000-2016
   - outstanding performance by a male actor in a tv movie or miniseries # 5 Events: 1995-1999
   - outstanding performance by a stunt ensemble in a motion picture # 7 Events: 2007-2013
   - outstanding performance by a stunt ensemble in a television series # 6 Events: 2007-2012
-  - outstanding performance by an ensemble in a comedy series # 30 Events: 2024-2023
-  - outstanding performance by an ensemble in a drama series # 30 Events: 2024-2023
+  - outstanding performance by an ensemble in a comedy series # 30 Events: 1995-2024
+  - outstanding performance by an ensemble in a drama series # 30 Events: 1995-2024
   - outstanding performance by the cast of a theatrical motion picture # 3 Events: 2001-2003
 ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
@@ -3613,7 +3633,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - best canadian first feature film - honorable mention # 1 Event: 2017
   - best canadian first feature film - special jury citation # 5 Events: 1999-2000, 2008, 2011, 2013
   - best canadian first feature film - special jury congratulation # 1 Event: 1999
-  - best canadian short film # 18 Events: 1989-2003, 2016-2017, 2019
+  - best canadian short film # 19 Events: 1989-2003, 2014, 2016-2017, 2019
   - best canadian short film - special jury citation # 6 Events: 1992-1996, 1999
   - best canadian short film - special mention # 3 Events: 1997, 2000, 2022
   - changemaker award # 4 Events: 2020-2023
@@ -3668,7 +3688,7 @@ ev0000659: # Toronto International Film Festival (https://www.imdb.com/event/ev0
   - best canadian first feature film - honorable mention # 1 Event: 2017
   - best canadian first feature film - special jury citation # 5 Events: 1999-2000, 2008, 2011, 2013
   - best canadian first feature film - special jury congratulation # 1 Event: 1999
-  - best canadian short film # 20 Events: 1989-2003, 2015-2019
+  - best canadian short film # 21 Events: 1989-2003, 2014-2019
   - best canadian short film - special jury citation # 6 Events: 1992-1996, 1999
   - best canadian short film - special mention # 3 Events: 1997, 2000, 2022
   - best director # 1 Event: 1993
@@ -3727,7 +3747,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
     '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1972', '1971', '1970', '1969',
     '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951', '1950', '1949', '1948', '1947', '1946', '1942', '1941',
-    '1940', '1939', '1938', '1937', '1936', '1935', '1934', '1932', '2024']
+    '1940', '1939', '1938', '1937', '1936', '1935', '1934', '1932']
   awards:  # Award Options: Venice Film Festival
   - '"lino miccichè" first feature award' # 3 Events: 1970, 2004-2005
   - "'cinemavvenire' award" # 15 Events: 1994, 1996-2001, 2003-2007, 2010-2012
@@ -3760,7 +3780,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - award of the city of rome - special mention # 1 Event: 2003
   - award of the city of venice # 6 Events: 1961-1964, 1966, 2010
   - award of the society for psychology # 1 Event: 1987
-  - best actor # 6 Events: 1983-1987, 2023
+  - best actor # 5 Events: 1983-1987
   - best actress # 4 Events: 1983-1984, 1986-1987
   - best animation # 1 Event: 1935
   - best artistic collaboration # 1 Event: 1982
@@ -3873,7 +3893,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - giornate degli autori award # 3 Events: 2020-2021, 2023
   - giornate degli autori's people choice award # 1 Event: 2022
   - golden ciak # 11 Events: 1985-1995
-  - golden lion # 66 Events: 2024, 1949-1968, 1979-2023
+  - golden lion # 65 Events: 1949-1968, 1979-2023
   - golden medal # 2 Events: 1934, 1941
   - golden mouse # 5 Events: 2011-2015
   - golden mouse - special mention # 1 Event: 2013
@@ -4094,7 +4114,7 @@ ev0000681: # Venice Film Festival (https://www.imdb.com/event/ev0000681)
   - award of the city of rome - special mention # 1 Event: 2003
   - award of the city of venice # 6 Events: 1961-1964, 1966, 2010
   - award of the society for psychology # 1 Event: 1987
-  - best actor # 77 Events: 2024, 1934-1938, 1941-1942, 1947-1968, 1971-2023
+  - best actor # 76 Events: 1934-1938, 1941-1942, 1947-1968, 1971-2023
   - best actor or actress # 1 Event: 2014
   - best actress # 73 Events: 1934-1938, 1941-1942, 1947-1953, 1956-1968, 1972-2023
   - best actress - special mention # 1 Event: 2016

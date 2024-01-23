@@ -1,11 +1,8 @@
 # Venice Film Festival
 '2023':  # https://www.imdb.com/event/ev0000681/2023/1/?ref_=ev_eh
   golden lion:
-    best actor:
-      nominee: [tt27637117]
-      winner: [tt27637117]
     best film:
-      nominee: [tt14230458, tt22001304, tt23573936, tt17009348, tt21113540, tt27219440, tt28490044, tt21824548, tt13866832, tt14225838, tt4707780, tt5535276, tt19864828, tt13321244, tt27704325, tt22041854, tt14407336, tt27722543, tt1136617, tt20561198, tt18453866, tt26746630]
+      nominee: [tt14230458, tt22001304, tt23573936, tt17009348, tt21113540, tt27219440, tt28490044, tt21824548, tt27722543, tt13866832, tt14225838, tt4707780, tt5535276, tt19864828, tt13321244, tt27704325, tt22041854, tt14407336, tt1136617, tt20561198, tt18453866, tt26746630]
       winner: [tt14230458]
   silver lion:
     best director:
@@ -29,10 +26,6 @@
     best actress:
       nominee: [tt22041854]
       winner: [tt22041854]
-  best actor:
-    best actor:
-      nominee: [tt20236042]
-      winner: []
   marcello mastroianni award:
     best young actor:
       nominee: [tt14225838]
@@ -119,8 +112,8 @@
       winner: []
   green drop award:
     green drop award:
-      nominee: [tt14225838, tt27722543]
-      winner: [tt14225838, tt27722543]
+      nominee: [tt27722543, tt14225838]
+      winner: [tt27722543, tt14225838]
   venezia classici award:
     best documentary on cinema:
       nominee: [tt28634368, tt28639095, tt27728888, tt23185166, tt28639101, tt28642246, tt27470766, tt26768067, tt24657304]
@@ -2913,7 +2906,7 @@
 '2011': # https://www.imdb.com/event/ev0000681/2011/1/?ref_=ev_eh
   golden lion:
     golden lion:
-      nominee: [tt1437357, tt1707391, tt1740053, tt1571222, tt2008006, tt1859446, tt1692486, tt1663321, tt1690455, tt1726669, tt1371585, tt2050604, tt1723811, tt1641410, tt1389127, tt1441368, tt1124035, tt2006781, tt1900893, tt1340800, tt2007993, tt1680139, tt1181614]
+      nominee: [tt1437357, tt1707391, tt1740053, tt1571222, tt2008006, tt1859446, tt1692486, tt1663321, tt1690455, tt1900893, tt1726669, tt1371585, tt2050604, tt1723811, tt1641410, tt1389127, tt1441368, tt1124035, tt2006781, tt1340800, tt2007993, tt1680139, tt1181614]
       winner: [tt1437357]
   silver lion:
     best director:
@@ -4103,7 +4096,7 @@
 '2005': # https://www.imdb.com/event/ev0000681/2005/1/?ref_=ev_eh
   golden lion:
     best film:
-      nominee: [tt0388795, tt0475263, tt0443446, tt0435479, tt0488832, tt0433383, tt0381690, tt0474917, tt0451094, tt0472521, tt0425236, tt0472884, tt0377107, tt0443844, tt0368222, tt0478044, tt0355295, tt0387131, tt0474694, tt0472778]
+      nominee: [tt0388795, tt0443446, tt0475263, tt0435479, tt0488832, tt0433383, tt0381690, tt0474917, tt0451094, tt0472521, tt0425236, tt0472884, tt0377107, tt0443844, tt0368222, tt0478044, tt0355295, tt0387131, tt0474694, tt0472778]
       winner: [tt0388795]
   grand special jury prize:
     grand special jury prize:
@@ -8947,8 +8940,3 @@
     most touching film:
       nominee: [tt0022386]
       winner: [tt0022386]
-'2024': # https://www.imdb.com/event/ev0000681/2024/1/?ref_=ev_eh
-  golden lion:
-    best actor:
-      nominee: [tt27637117]
-      winner: []

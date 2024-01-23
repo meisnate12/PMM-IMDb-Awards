@@ -1,8 +1,18 @@
 # Berlin International Film Festival
 '2024':  # https://www.imdb.com/event/ev0000091/2024/1/?ref_=ev_eh
+  golden berlin bear:
+    best film:
+      nominee: [tt21097228, tt26749648, tt18346498, tt21994228, tt31015216, tt29141112, tt20420646, tt26757264, tt17375596, tt19864832, tt31015291, tt31015278, tt10781034, tt30804400, tt27196021, tt27165281, tt31015247, tt27496775, tt14680834, tt31015344]
+      winner: []
+    best short film:
+      nominee: [tt30877925, tt30877917, tt30877936, tt30877931]
+      winner: []
   panorama audience award:
+    documentary film:
+      nominee: [tt30887113, tt29045832, tt30953638, tt30953695, tt28090065, tt30953779, tt30953759, tt27907968, tt30953834, tt30953576]
+      winner: []
     feature film:
-      nominee: [tt30439035, tt21186614, tt21443754, tt26749327, tt30440590, tt30441039, tt15574270, tt18246700, tt21247132, tt11687002]
+      nominee: [tt30439035, tt21186614, tt27722375, tt21443754, tt26749327, tt27417166, tt30953660, tt29102244, tt30440590, tt30441039, tt15574270, tt28366692, tt18246700, tt21247132, tt15716284, tt26760867, tt30953867, tt30810768, tt11687002, tt30414712]
       winner: []
   gwff best first feature award:
     gwff best first feature award:
@@ -145,7 +155,7 @@
       winner: [tt16611924]
   heiner carow prize:
     heiner carow prize:
-      nominee: [tt23656768, tt20867012]
+      nominee: [tt25846662, tt23656768, tt20867012]
       winner: [tt20867012]
   special mention of the generation 14plus international jury:
     best film:
@@ -8124,7 +8134,7 @@
       nominee: [tt0172663]
       winner: [tt0172663]
     golden berlin bear:
-      nominee: [tt0060268, tt0182379, tt0061174, tt0060453, tt0060636, tt0060675, tt0060247, tt0060742, tt0060946, tt0188207, tt0059326, tt0144935, tt0060479, tt0060223, tt0059560]
+      nominee: [tt0060268, tt0182379, tt0061174, tt0060453, tt0060636, tt0060675, tt0060247, tt0060946, tt0188207, tt0059326, tt0144935, tt0060479, tt0060742, tt0060223, tt0059560]
       winner: [tt0060268]
   silver berlin bear:
     best actor:

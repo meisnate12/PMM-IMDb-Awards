@@ -1,36 +1,131 @@
 # People's Choice Awards, USA
-'2022':  # https://www.imdb.com/event/ev0000530/2022/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0000530/2024/1/?ref_=ev_eh
   people's choice award:
-    drama movie star:
-      nominee: [tt3704428, tt7657566, tt10731256, tt10665342, tt4595186, tt10954984]
-      winner: [tt3704428]
-    favorite male tv star:
-      nominee: [tt4574334, tt0203259, tt10234724, tt8466564, tt5071412, tt1520211, tt5555260, tt11639952]
-      winner: [tt4574334]
-    favorite reality tv star:
-      nominee: [tt9817298]
+    comedy act of the year:
+      nominee: [tt27791865, tt23571908, tt27141610, tt28227488, tt26753138, tt27443713, tt30895036, tt26931915]
       winner: []
-    favorite sci-fi/fantasy show:
-      nominee: [tt4574334, tt11198330, tt11640018, tt10234724, tt8466564, tt10857160, tt7631058, tt1312171]
-      winner: [tt4574334]
+    the action movie star of the year:
+      nominee: [tt9663764, tt6791350, tt13603966, tt10366206, tt9603212, tt10545296, tt10676048]
+      winner: []
+    the action movie of the year:
+      nominee: [tt10954600, tt5433140, tt6791350, tt10366206, tt9603212, tt10545296, tt10676048, tt5090568]
+      winner: []
+    the bingeworthy show of the year:
+      nominee: [tt14403178, tt9794044, tt22074164, tt11704040, tt14661396, tt4786824, tt13918776, tt14016500]
+      winner: []
+    the comedy movie star of the year:
+      nominee: [tt26047818, tt14230388, tt1517268, tt15671028, tt6166392, tt21276878]
+      winner: []
+    the comedy movie of the year:
+      nominee: [tt18079362, tt26047818, tt9185206, tt14230388, tt1517268, tt14209916, tt15671028, tt6166392]
+      winner: []
+    the comedy show of the year:
+      nominee: [tt14218830, tt13819960, tt10062292, tt11691774, tt0072562, tt10986410, tt14452776, tt6226232]
+      winner: []
+    the comedy tv star of the year:
+      nominee: [tt14218830, tt14403178, tt11691774, tt0072562, tt10986410, tt14452776]
+      winner: []
+    the competition contestant of the year:
+      nominee: [tt0319931, tt0463398, tt1353056, tt10023294, tt0348894, tt27789140]
+      winner: []
+    the competition show of the year:
+      nominee: [tt0759364, tt0319931, tt0251497, tt0463398, tt1353056, tt28104766, tt0239195, tt1839337]
+      winner: []
+    the daytime talk show of the year:
+      nominee: [tt0072506, tt0096636, tt18300006, tt10827252, tt15847104, tt9022950, tt0123366, tt0044298]
+      winner: []
+    the drama movie star of the year:
+      nominee: [tt11145118, tt5537002, tt12747748, tt15398776, tt22041854, tt17663992, tt1200263]
+      winner: []
+    the drama movie of the year:
+      nominee: [tt11145118, tt4589218, tt5537002, tt12747748, tt8760708, tt15398776, tt17663992, tt1200263]
+      winner: []
+    the drama show of the year:
+      nominee: [tt2261391, tt10813940, tt0413573, tt0203259, tt10293938, tt7660850, tt3581920, tt7203552]
+      winner: []
+    the drama tv star of the year:
+      nominee: [tt0203259, tt10293938, tt7660850, tt3581920, tt7203552]
+      winner: []
+    the female movie star of the year:
+      nominee: [tt1517268, tt12747748, tt15671028, tt15398776, tt17663992, tt10545296, tt5971474]
+      winner: []
+    the female tv star of the year:
+      nominee: [tt14218830, tt13622776, tt14403178, tt0203259, tt11691774, tt10986410, tt7203552]
+      winner: []
+    the host of the year:
+      nominee: [tt0437005, tt10023294, tt7670568, tt0765425, tt1353056, tt0319931, tt1249208, tt0759364]
+      winner: []
+    the male movie star of the year:
+      nominee: [tt1517268, tt11145118, tt6791350, tt10366206, tt5537002, tt9603212, tt15398776, tt6166392]
+      winner: []
+    the male tv star of the year:
+      nominee: [tt9140554, tt11691774, tt10293938, tt13157618, tt7660850, tt10986410, tt14452776, tt3581920]
+      winner: []
+    the movie performance of the year:
+      nominee: [tt16419074, tt1517268, tt13651794, tt17351924, tt1200263, tt5971474]
+      winner: []
+    the movie of the year:
+      nominee: [tt1517268, tt5433140, tt6791350, tt15398776, tt9362722, tt28814949, tt5971474, tt6718170]
+      winner: []
+    the nighttime talk show of the year:
+      nominee: [tt14809614, tt0320037, tt3530232, tt3513388, tt0115147, tt3697842, tt3444938, tt2057880]
+      winner: []
+    the reality show of the year:
+      nominee: [tt6142940, tt2342499, tt7686456, tt9817298, tt15791630, tt1720601, tt1411598, tt2343157]
+      winner: []
+    the reality tv star of the year:
+      nominee: [tt7686456, tt9817298, tt15791630, tt1252370, tt1720601, tt2343157]
+      winner: []
+    the sci-fi/fantasy show of the year:
+      nominee: [tt13622776, tt1844624, tt2085059, tt11379026, tt9140554, tt13157618, tt8111088, tt5180504]
+      winner: []
+    the show of the year:
+      nominee: [tt0413573, tt0203259, tt11691774, tt0072562, tt10986410, tt14452776, tt3581920, tt2343157]
+      winner: []
+    the tv performance of the year:
+      nominee: [tt14403178, tt15384586, tt11691774, tt14661396, tt14961048, tt14452776, tt3581920, tt7203552]
+      winner: []
+'2022': # https://www.imdb.com/event/ev0000530/2022/1/?ref_=ev_eh
+  people's choice award:
     the action movie star of 2022:
-      nominee: [tt9419884]
+      nominee: [tt9419884, tt6443346, tt12593682, tt8041270, tt1877830, tt8093700, tt10648342, tt1745960]
       winner: [tt9419884]
+    the action movie of 2022:
+      nominee: [tt1745960, tt6443346, tt12593682, tt9419884, tt8041270, tt1877830, tt8093700, tt10648342]
+      winner: [tt1745960]
     the bingeworthy show of 2022:
-      nominee: [tt13207736]
+      nominee: [tt13207736, tt12878838, tt8740790, tt8740976, tt11280740, tt14452776, tt1190634, tt13984270]
       winner: [tt13207736]
+    the comedy movie star of 2022:
+      nominee: [tt8009428, tt10223460, tt2463208, tt13320622, tt14109724]
+      winner: [tt8009428]
+    the comedy movie of 2022:
+      nominee: [tt2463208, tt15218000, tt11909878, tt8009428, tt10223460, tt5315212, tt13320622, tt14109724]
+      winner: [tt2463208]
     the comedy show of 2022:
       nominee: [tt10062292, tt14218830, tt3487356, tt11691774, tt0072562, tt13315324, tt11639952, tt6226232]
       winner: [tt10062292]
     the comedy tv star of 2022:
       nominee: [tt11691774, tt14218830, tt3487356, tt10062292, tt0072562, tt13315324, tt11639952]
       winner: [tt11691774]
+    the competition contestant of 2022:
+      nominee: [tt0463398, tt0759364, tt0319931, tt1353056, tt0348894, tt7670568]
+      winner: [tt0463398]
+    the competition show of 2022:
+      nominee: [tt1839337, tt0759364, tt0319931, tt0463398, tt16232892, tt1353056, tt0348894, tt7670568]
+      winner: [tt1839337]
     the daytime talk show of 2022:
       nominee: [tt9022950, tt0072506, tt0096636, tt10827252, tt0379623, tt15847104, tt0123366, tt18884302]
       winner: [tt9022950]
+    the drama movie star of 2022:
+      nominee: [tt3704428, tt7657566, tt10731256, tt10665342, tt4595186, tt10954984]
+      winner: [tt3704428]
     the drama movie of 2022:
       nominee: [tt10731256, tt7657566, tt3704428, tt10665342, tt4595186, tt10954984, tt11245972, tt9411972]
       winner: [tt10731256]
+    the drama show of 2022:
+      nominee: [tt0413573, tt3032476, tt7221388, tt8772296, tt0203259, tt5071412, tt1520211, tt5555260]
+      winner: [tt0413573]
     the drama tv star of 2022:
       nominee: [tt0203259, tt8772296, tt0413573, tt5071412, tt1520211, tt5555260]
       winner: [tt0203259]
@@ -40,12 +135,33 @@
     the female tv star of 2022:
       nominee: [tt0413573, tt14218830, tt0203259, tt10062292, tt11691774, tt4574334, tt13315324, tt5555260]
       winner: [tt0413573]
+    the male movie star of 2022:
+      nominee: [tt10648342, tt6443346, tt12593682, tt8041270, tt10954984, tt2463208, tt1745960]
+      winner: [tt10648342]
+    the male tv star of 2022:
+      nominee: [tt4574334, tt0203259, tt10234724, tt8466564, tt5071412, tt1520211, tt5555260, tt11639952]
+      winner: [tt4574334]
     the movie of 2022:
       nominee: [tt9419884, tt12593682, tt3704428, tt8041270, tt10954984, tt1877830, tt10648342, tt1745960]
       winner: [tt9419884]
     the music video of 2022:
       nominee: [tt22890016, tt16964776, tt21001342, tt21835204, tt21111956, tt18075692, tt19336582, tt19800004]
       winner: [tt22890016]
+    the nighttime talk show of 2022:
+      nominee: [tt3444938, tt0320037, tt3530232, tt3513388, tt0115147, tt4280606, tt3697842, tt2057880]
+      winner: [tt3444938]
+    the reality show of 2022:
+      nominee: [tt15791630, tt7252812, tt10087444, tt7686456, tt2224452, tt9817298, tt1252370, tt1720601]
+      winner: [tt15791630]
+    the reality tv star of 2022:
+      nominee: [tt15791630, tt7686456, tt9817298, tt1252370, tt1720601]
+      winner: [tt15791630]
+    the sci-fi/fantasy show of 2022:
+      nominee: [tt4574334, tt11198330, tt11640018, tt10234724, tt8466564, tt10857160, tt7631058, tt1312171]
+      winner: [tt4574334]
+    the show of 2022:
+      nominee: [tt4574334, tt14218830, tt3032476, tt0413573, tt11198330, tt8466564, tt0072562, tt5555260]
+      winner: [tt4574334]
 '2021': # https://www.imdb.com/event/ev0000530/2021/1/?ref_=ev_eh
   people's choice award:
     favorite action movie star:
@@ -1857,74 +1973,3 @@
     favorite tv variety program:
       nominee: [tt0061240]
       winner: [tt0061240]
-'2024': # https://www.imdb.com/event/ev0000530/2024/1/?ref_=ev_eh
-  people's choice award:
-    the action movie star of the year:
-      nominee: [tt9663764, tt6791350, tt13603966, tt10366206, tt9603212, tt10545296, tt10676048]
-      winner: []
-    the action movie of the year:
-      nominee: [tt10954600, tt5433140, tt6791350, tt10366206, tt9603212, tt10545296, tt10676048, tt5090568]
-      winner: []
-    the bingeworthy show of the year:
-      nominee: [tt14403178, tt9794044, tt22074164, tt11704040, tt14661396, tt4786824, tt13918776, tt14016500]
-      winner: []
-    the comedy movie star of the year:
-      nominee: [tt26047818, tt14230388, tt1517268, tt15671028, tt6166392, tt21276878]
-      winner: []
-    the comedy movie of the year:
-      nominee: [tt26047818, tt9185206, tt14230388, tt1517268, tt14209916, tt15671028, tt6166392]
-      winner: []
-    the comedy show of the year:
-      nominee: [tt14218830, tt13819960, tt10062292, tt11691774, tt0072562, tt10986410, tt14452776, tt6226232]
-      winner: []
-    the comedy tv star of the year:
-      nominee: [tt14218830, tt14403178, tt11691774, tt0072562, tt10986410, tt14452776]
-      winner: []
-    the competition show of the year:
-      nominee: [tt0759364, tt0319931, tt0251497, tt0463398, tt1353056, tt28104766, tt0239195, tt1839337]
-      winner: []
-    the drama movie star of the year:
-      nominee: [tt11145118, tt5537002, tt12747748, tt15398776, tt22041854, tt17663992, tt1200263]
-      winner: []
-    the drama movie of the year:
-      nominee: [tt11145118, tt4589218, tt5537002, tt12747748, tt8760708, tt15398776, tt17663992, tt1200263]
-      winner: []
-    the drama show of the year:
-      nominee: [tt2261391, tt10813940, tt0413573, tt0203259, tt10293938, tt7660850, tt3581920, tt7203552]
-      winner: []
-    the drama tv star of the year:
-      nominee: [tt0203259, tt10293938, tt7660850, tt3581920, tt7203552]
-      winner: []
-    the female movie star of the year:
-      nominee: [tt1517268, tt12747748, tt15671028, tt15398776, tt17663992, tt10545296, tt5971474]
-      winner: []
-    the female tv star of the year:
-      nominee: [tt14218830, tt13622776, tt14403178, tt0203259, tt11691774, tt10986410, tt7203552]
-      winner: []
-    the male movie star of the year:
-      nominee: [tt1517268, tt11145118, tt6791350, tt10366206, tt5537002, tt9603212, tt15398776, tt6166392]
-      winner: []
-    the male tv star of the year:
-      nominee: [tt9140554, tt11691774, tt10293938, tt13157618, tt7660850, tt10986410, tt14452776, tt3581920]
-      winner: []
-    the movie performance of the year:
-      nominee: [tt16419074, tt1517268, tt13651794, tt17351924, tt1200263, tt5971474]
-      winner: []
-    the movie of the year:
-      nominee: [tt1517268, tt5433140, tt6791350, tt15398776, tt9362722, tt28814949, tt5971474, tt6718170]
-      winner: []
-    the reality show of the year:
-      nominee: [tt6142940, tt2342499, tt7686456, tt9817298, tt15791630, tt1720601, tt1411598, tt2343157]
-      winner: []
-    the sci-fi/fantasy show of the year:
-      nominee: [tt13622776, tt1844624, tt2085059, tt11379026, tt9140554, tt13157618, tt8111088, tt5180504]
-      winner: []
-    the show of the year:
-      nominee: [tt0413573, tt0203259, tt11691774, tt0072562, tt10986410, tt14452776, tt3581920, tt2343157]
-      winner: []
-    the tv performance of the year:
-      nominee: [tt14403178, tt15384586, tt11691774, tt14661396, tt14961048, tt14452776, tt3581920, tt7203552]
-      winner: []
-    world-favorite motion picture actress:
-      nominee: [tt14661396]
-      winner: []

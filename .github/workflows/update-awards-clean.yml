@@ -1,0 +1,60 @@
+name: Update-IMDb-Awards-Clean
+
+on:
+  schedule:
+    - cron: '0 12 1 * *'
+  workflow_dispatch:
+
+jobs:
+  Update-IMDb-Awards-Clean:
+    runs-on: ubuntu-latest
+    steps:
+
+      - name: Get current date
+        id: date
+        run: echo "date=$(date +'%B %d, %Y %I:%M %p')" >> $GITHUB_OUTPUT
+
+      - name: Check Out Repo
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Requirements
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Update IMDb Awards
+        run: python imdb_awards.py --clean --no-sleep
+
+      - name: Check Diff
+        id: verify_diff
+        run: |
+          git diff --quiet . || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit & Push Changes
+        if: steps.verify_diff.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update at ${{ steps.date.outputs.date }} UTC" -a
+          git push origin master
+
+      - name: Discord Failure Notification
+        uses: meisnate12/discord-notifications@master
+        if: failure()
+        with:
+          webhook_id: ${{ secrets.BUILD_WEBHOOK_ID }}
+          webhook_token: ${{ secrets.BUILD_WEBHOOK_TOKEN }}
+          message: <@&1079153184007790652>
+          title: "IMDb Awards Clean: **Failure**"
+          color: 16106776
+          url: https://github.com/meisnate12/PMM-IMDb-Awards/actions/runs/${{ github.run_id }}
+          username: Metabot
+          avatar_url: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager/nightly/.github/pmm.png
+          author: IMDb Awards Clean
+          author_icon_url: https://raw.githubusercontent.com/meisnate12/Plex-Meta-Manager/nightly/.github/git.png

@@ -1,5 +1,76 @@
 # Academy Awards, USA
-'2023':  # https://www.imdb.com/event/ev0000003/2023/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0000003/2024/1/?ref_=ev_eh
+  oscar:
+    best motion picture of the year:
+      nominee: [tt23561236, tt17009710, tt1517268, tt5537002, tt5535276, tt15398776, tt13238346, tt14230458, tt14849194, tt7160372]
+      winner: []
+    best performance by an actor in a leading role:
+      nominee: [tt5535276, tt15398776, tt14160834, tt23561236, tt14849194]
+      winner: []
+    best performance by an actress in a leading role:
+      nominee: [tt5302918, tt5535276, tt14230458, tt5537002, tt17009710]
+      winner: []
+    best performance by an actor in a supporting role:
+      nominee: [tt14230458, tt5537002, tt15398776, tt1517268, tt23561236]
+      winner: []
+    best performance by an actress in a supporting role:
+      nominee: [tt1517268, tt14849194, tt1200263, tt15398776, tt5302918]
+      winner: []
+    best achievement in directing:
+      nominee: [tt15398776, tt7160372, tt17009710, tt5537002, tt14230458]
+      winner: []
+    best original screenplay:
+      nominee: [tt17009710, tt5535276, tt13651794, tt13238346, tt14849194]
+      winner: []
+    best adapted screenplay:
+      nominee: [tt23561236, tt1517268, tt15398776, tt14230458, tt7160372]
+      winner: []
+    best achievement in cinematography:
+      nominee: [tt21113540, tt5537002, tt5535276, tt15398776, tt14230458]
+      winner: []
+    best achievement in film editing:
+      nominee: [tt17009710, tt5537002, tt15398776, tt14230458, tt14849194]
+      winner: []
+    best achievement in production design:
+      nominee: [tt1517268, tt5537002, tt13287846, tt15398776, tt14230458]
+      winner: []
+    best achievement in costume design:
+      nominee: [tt1517268, tt5537002, tt13287846, tt15398776, tt14230458]
+      winner: []
+    best sound:
+      nominee: [tt5535276, tt9603212, tt15398776, tt11858890, tt7160372]
+      winner: []
+    best achievement in makeup and hairstyling:
+      nominee: [tt14454876, tt5535276, tt15398776, tt14230458, tt16277242]
+      winner: []
+    best achievement in music written for motion pictures (original score):
+      nominee: [tt23561236, tt1462764, tt5537002, tt15398776, tt14230458]
+      winner: []
+    best achievement in music written for motion pictures (original song):
+      nominee: [tt28865980, tt1517268, tt8105234, tt5537002]
+      winner: []
+    best achievement in visual effects:
+      nominee: [tt23289160, tt6791350, tt9603212, tt13287846, tt11858890]
+      winner: []
+    best documentary feature:
+      nominee: [tt24082438, tt21376900, tt27502426, tt24082488, tt21688772]
+      winner: []
+    best animated feature film:
+      nominee: [tt15789038, tt19500164, tt13429870, tt9362722, tt6587046]
+      winner: []
+    best animated short film:
+      nominee: [tt10346066, tt11020596, tt28058015, tt20862526, tt29795707]
+      winner: []
+    best live action short film:
+      nominee: [tt22749100, tt26600054, tt27759823, tt28532006, tt16968450]
+      winner: []
+    best documentary short film:
+      nominee: [tt30523942, tt26218316, tt29361805, tt28627868, tt29118186]
+      winner: []
+    best international feature film:
+      nominee: [tt14225838, tt27503384, tt16277242, tt26612950, tt7160372]
+      winner: []
+'2023': # https://www.imdb.com/event/ev0000003/2023/1/?ref_=ev_eh
   oscar:
     best motion picture of the year:
       nominee: [tt6710474, tt1016150, tt1630029, tt3704428, tt11813216, tt14208870, tt1745960, tt7322224, tt14444726, tt13669038]
@@ -2233,7 +2304,7 @@
       nominee: [tt0104952, tt0101811, tt0104466, tt0104237, tt0104454]
       winner: [tt0104952]
     best art direction-set decoration:
-      nominee: [tt0104454, tt0103874, tt0103939, tt0105629, tt0105695]
+      nominee: [tt0104454, tt0103939, tt0103874, tt0105629, tt0105695]
       winner: [tt0104454]
     best cinematography:
       nominee: [tt0105265, tt0104427, tt0104454, tt0101316, tt0105695]
@@ -2957,7 +3028,7 @@
       nominee: [tt0083987, tt0083564, tt0083658, tt0084821, tt0084865]
       winner: [tt0083987]
     best cinematography:
-      nominee: [tt0083987, tt0082096, tt0083866, tt0084707, tt0084805]
+      nominee: [tt0083987, tt0083866, tt0084707, tt0082096, tt0084805]
       winner: [tt0083987]
     best costume design:
       nominee: [tt0083987, tt0084821, tt0084707, tt0084827, tt0084865]
@@ -2972,13 +3043,13 @@
       nominee: [tt0084118, tt0084009, tt0084213, tt0084798, tt0084820]
       winner: [tt0084118]
     best effects, sound effects editing:
-      nominee: [tt0083866, tt0082096, tt0084516]
+      nominee: [tt0083866, tt0084516, tt0082096]
       winner: [tt0083866]
     best effects, visual effects:
       nominee: [tt0083866, tt0083658, tt0084516]
       winner: [tt0083866]
     best film editing:
-      nominee: [tt0083987, tt0084434, tt0082096, tt0083866, tt0084805]
+      nominee: [tt0083987, tt0084434, tt0083866, tt0082096, tt0084805]
       winner: [tt0083987]
     best foreign language film:
       nominee: [tt0084874, tt0083543, tt0082206, tt0083732, tt0084136]
@@ -3005,10 +3076,10 @@
       nominee: [tt0084672, tt0083615, tt0084713, tt0084722, tt0084683]
       winner: [tt0084672]
     best sound:
-      nominee: [tt0083866, tt0082096, tt0083987, tt0084805, tt0084827]
+      nominee: [tt0083866, tt0083987, tt0082096, tt0084805, tt0084827]
       winner: [tt0083866]
     best writing, screenplay based on material from another medium:
-      nominee: [tt0084335, tt0082096, tt0084707, tt0084855, tt0084865]
+      nominee: [tt0084335, tt0084707, tt0082096, tt0084855, tt0084865]
       winner: [tt0084335]
     best writing, screenplay written directly for the screen:
       nominee: [tt0083987, tt0084434, tt0083833, tt0083866, tt0084805]

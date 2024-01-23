@@ -59,9 +59,9 @@ def _request(url, xpath=None, extra=None):
 titles = {}
 for i, event_id in enumerate(original_event_ids, 1):
     event_yaml = YAML(path=os.path.join(base_dir, "events", f"{event_id}.yml"), create=True, start_empty=pmmargs["clean"])
-    if pmmargs["clean"]:
-        event_yaml.data = YAML.inline({})
-        event_yaml.data.fa.set_block_style()
+    old_data = event_yaml.data
+    event_yaml.data = YAML.inline({})
+    event_yaml.data.fa.set_block_style()
     event_years = []
     response_data = _request(f"{event_url}/{event_id}", extra=f"[Event {i}/{total_ids}]")
     titles[event_id] = response_data.xpath("//div[@class='event-header__title']/h1/text()")[0]
@@ -80,9 +80,9 @@ for i, event_id in enumerate(original_event_ids, 1):
     first = True
     for j, event_year in enumerate(event_years, 1):
         event_year = str(event_year)
-        if first or pmmargs["clean"]:
+        event_year_url = f"{event_url}/{event_id}/{f'{event_year}/1' if '-' not in event_year else event_year.replace('-', '/')}/?ref_=ev_eh"
+        if first or pmmargs["clean"] or event_year not in old_data:
             obj = None
-            event_year_url = f"{event_url}/{event_id}/{f'{event_year}/1' if '-' not in event_year else event_year.replace('-', '/')}/?ref_=ev_eh"
             for text in _request(event_year_url, xpath="//div[@class='article']/script/text()", extra=f"[Event {i}/{total_ids}] [Year {j}/{total_years}]")[0].split("\n"):
                 if text.strip().startswith("IMDbReactWidgets.NomineesWidget.push"):
                     jsonline = text.strip()
@@ -118,12 +118,17 @@ for i, event_id in enumerate(original_event_ids, 1):
                     event_data[award_name] = award_data
                     if award_name not in valid[event_id]["awards"]:
                         valid[event_id]["awards"].append(award_name)
-            if event_data:
-                first = False
-                event_yaml[event_year] = event_data
-                event_yaml.data.yaml_add_eol_comment(event_year_url, event_year)
-                if event_year not in valid[event_id]["years"]:
-                    valid[event_id]["years"].append(YAML.quote(event_year))
+            first = False
+            event_yaml[event_year] = event_data
+            event_yaml.data.yaml_add_eol_comment(event_year_url, event_year)
+            if event_data and event_year not in valid[event_id]["years"]:
+                if pmmargs["clean"]:
+                    valid[event_id]["years"].append(event_year)
+                else:
+                    valid[event_id]["years"].insert(0, event_year)
+        else:
+            event_yaml[event_year] = old_data[event_year]
+            event_yaml.data.yaml_add_eol_comment(event_year_url, event_year)
     valid[event_id]["awards"].sort()
     valid[event_id]["categories"].sort()
     event_yaml.data.yaml_set_start_comment(titles[event_id])
@@ -148,29 +153,33 @@ for i, event_id in enumerate(original_event_ids, 1):
             start = ""
             end = ""
             current = 0
-            for y in reversed(filter_stats[ft][f]):
-                pos = rv_years.index(y)
-                if not start:
-                    start = y
-                elif current + 1 == pos:
-                    end = y
-                elif start and end:
+            comment = "No Events Found"
+            if f in filter_stats[ft]:
+                for y in reversed(filter_stats[ft][f]):
+                    pos = rv_years.index(y)
+                    if not start:
+                        start = y
+                    elif current + 1 == pos:
+                        end = y
+                    elif start and end:
+                        years.append(f"{start}-{end}")
+                        start = y
+                        end = ""
+                    else:
+                        years.append(start)
+                        start = y
+                    current = pos
+                if start and end:
                     years.append(f"{start}-{end}")
-                    start = y
-                    end = ""
                 elif start:
                     years.append(start)
-                    start = y
-                current = pos
-            if start and end:
-                years.append(f"{start}-{end}")
-            elif start:
-                years.append(start)
-            fs = len(filter_stats[ft][f])
-            valid[event_id][ft].yaml_add_eol_comment(f"{fs} Event{'s' if fs > 1 else ''}: {', '.join(years)}", j, 0)
+                fs = len(filter_stats[ft][f])
+                comment = f"{fs} Event{'s' if fs > 1 else ''}: {', '.join(years)}"
+            valid[event_id][ft].yaml_add_eol_comment(comment, j, 0)
 
 valid.yaml.width = 200
 valid.save()
+valid = YAML(path=os.path.join(base_dir, "event_validation.yml"))
 
 event_ids["event_ids"] = YAML.inline(original_event_ids)
 event_ids["event_ids"].fa.set_block_style()
