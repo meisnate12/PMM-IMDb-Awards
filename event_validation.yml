@@ -1626,69 +1626,69 @@ ev0000147: # Cannes Film Festival (https://www.imdb.com/event/ev0000147)
   - young cinema award # 2 Events: 1979, 1981
   - young critics award # 5 Events: 2007-2011
 ev0000157: # César Awards, France (https://www.imdb.com/event/ev0000157)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
-    '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976']
+  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
+    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976']
   awards:  # Award Options: César Awards, France
-  - césar # 48 Events: 1976-2023
+  - césar # 49 Events: 1976-2024
   - césar des césars # 1 Event: 1995
   - césar du public # 3 Events: 2018-2020
   - honorary césar # 1 Event: 1986
   categories: # Category Options: César Awards, France
-  - best actor (meilleur acteur) # 48 Events: 1976-2023
-  - best actress (meilleure actrice) # 48 Events: 1976-2023
+  - best actor (meilleur acteur) # 49 Events: 1976-2024
+  - best actress (meilleure actrice) # 49 Events: 1976-2024
   - best adapted screenplay (meilleure adaptation et dialogues) # 1 Event: 1983
-  - best adapted screenplay (meilleure adaptation) # 20 Events: 1984-1985, 2006-2023
-  - best animated film (meilleur film d'animation) # 13 Events: 2011-2023
-  - best animated short film (meilleur court métrage d'animation) # 5 Events: 2014, 2016-2017, 2021, 2023
+  - best adapted screenplay (meilleure adaptation) # 21 Events: 1984-1985, 2006-2024
+  - best animated film (meilleur film d'animation) # 14 Events: 2011-2024
+  - best animated short film (meilleur court métrage d'animation) # 6 Events: 2014, 2016-2017, 2021, 2023-2024
   - best animated short film (meilleur film de court métrage d'animation) # 1 Event: 2022
   - best cinematography (meilleure photo) # 4 Events: 2014-2017
-  - best cinematography (meilleure photographie) # 44 Events: 1976-2013, 2018-2023
-  - best costume design (meilleurs costumes) # 39 Events: 1985-2023
+  - best cinematography (meilleure photographie) # 45 Events: 1976-2013, 2018-2024
+  - best costume design (meilleurs costumes) # 40 Events: 1985-2024
   - best director (meilleur réalisateur) # 46 Events: 1976-2021
   - best director (meilleur réalisation) # 1 Event: 2023
-  - best director (meilleure réalisation) # 1 Event: 2022
-  - best documentary film (meilleur film documentaire) # 17 Events: 2007-2023
+  - best director (meilleure réalisation) # 2 Events: 2022, 2024
+  - best documentary film (meilleur film documentaire) # 18 Events: 2007-2024
   - best documentary film (meilleur film à caractère documentaire) # 1 Event: 1995
-  - best documentary short film (meilleur film de court métrage documentaire) # 2 Events: 2022-2023
-  - best editing (meilleur montage) # 48 Events: 1976-2023
+  - best documentary short film (meilleur film de court métrage documentaire) # 3 Events: 2022-2024
+  - best editing (meilleur montage) # 49 Events: 1976-2024
   - best european union film (meilleur film de l'union européenne) # 3 Events: 2003-2005
   - best fiction short film (meilleur film de court métrage de fiction) # 1 Event: 2022
-  - best film (meilleur film) # 48 Events: 1976-2023
+  - best film (meilleur film) # 49 Events: 1976-2024
   - best film of the european community (meilleur film de l'europe communautaire) # 1 Event: 1989
-  - best first film (meilleur premier film) # 19 Events: 2005-2023
+  - best first film (meilleur premier film) # 20 Events: 2005-2024
   - best first work (meilleure première oeuvre) # 20 Events: 1982-2001
   - best first work of fiction (meilleure première oeuvre de fiction) # 3 Events: 2002-2004
-  - best foreign film (meilleur film étranger) # 48 Events: 1976-2023
+  - best foreign film (meilleur film étranger) # 49 Events: 1976-2024
   - best french language film (meilleur film francophone) # 3 Events: 1984-1986
   - best music (meilleure musique) # 27 Events: 1976-2001, 2020
   - best music written for a film (meilleure musique écrite pour un film) # 10 Events: 2002-2011
-  - best original music (meilleure musique originale) # 11 Events: 2012-2019, 2021-2023
+  - best original music (meilleure musique originale) # 12 Events: 2012-2019, 2021-2024
   - best original screenplay (meilleur scénario original et dialogues) # 3 Events: 1983-1985
-  - best original screenplay (meilleur scénario original) # 18 Events: 2006-2023
+  - best original screenplay (meilleur scénario original) # 19 Events: 2006-2024
   - best poster (meilleure affiche) # 5 Events: 1986-1990
   - best producer (meilleur producteur) # 2 Events: 1996-1997
-  - best production design (meilleurs décors) # 48 Events: 1976-2023
+  - best production design (meilleurs décors) # 49 Events: 1976-2024
   - best screenplay, original or adaptation (meilleur scénario, dialogue ou adaptation) # 6 Events: 1976-1977, 1979-1982
   - best screenplay, original or adaptation (meilleur scénario, original ou adaptation) # 20 Events: 1986-2005
   - best short film (meilleur court métrage) # 2 Events: 2010, 2017
   - best short film (meilleur court-métrage) # 23 Events: 1985, 1992-2009, 2017-2020
-  - best short film (meilleur film de court métrage de fiction) # 1 Event: 2023
+  - best short film (meilleur film de court métrage de fiction) # 2 Events: 2023-2024
   - best short film (meilleur film de court métrage) # 7 Events: 2011-2014, 2016-2017, 2021
   - best short film (meilleur film de court-métrage) # 1 Event: 2015
   - best short film - animation (meilleur court-métrage d'animation) # 16 Events: 1977-1986, 1988-1990, 2018-2020
   - best short film - documentary (meilleur court-métrage documentaire) # 14 Events: 1977-1986, 1988-1991
   - best short film - fiction (meilleur court-métrage de fiction) # 15 Events: 1977-1991
-  - best sound (meilleur son) # 48 Events: 1976-2023
+  - best sound (meilleur son) # 49 Events: 1976-2024
   - best sreenplay, original or adaptation (meilleur scénario, dialogue ou adaptation) # 1 Event: 1978
-  - best supporting actor (meilleur acteur dans un second rôle) # 48 Events: 1976-2023
-  - best supporting actress (meilleure actrice dans un second rôle) # 48 Events: 1976-2023
-  - best visual effects (meilleurs effets visuels) # 2 Events: 2022-2023
+  - best supporting actor (meilleur acteur dans un second rôle) # 49 Events: 1976-2024
+  - best supporting actress (meilleure actrice dans un second rôle) # 49 Events: 1976-2024
+  - best visual effects (meilleurs effets visuels) # 3 Events: 2022-2024
   - césar des césars # 1 Event: 1995
   - césar du public # 3 Events: 2018-2020
   - honorary césar # 1 Event: 1986
-  - most promising actor (meilleur espoir masculin) # 16 Events: 2006-2017, 2019, 2021-2023
+  - most promising actor (meilleur espoir masculin) # 17 Events: 2006-2017, 2019, 2021-2024
   - most promising actor (meilleur jeune espoir masculin) # 25 Events: 1983-2005, 2018, 2020
-  - most promising actress (meilleur espoir féminin) # 16 Events: 2006-2017, 2019, 2021-2023
+  - most promising actress (meilleur espoir féminin) # 17 Events: 2006-2017, 2019, 2021-2024
   - most promising actress (meilleur jeune espoir féminin) # 25 Events: 1983-2005, 2018, 2020
 ev0000223: # Primetime Emmy Awards (https://www.imdb.com/event/ev0000223)
   years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
@@ -3391,12 +3391,12 @@ ev0000530: # People's Choice Awards, USA (https://www.imdb.com/event/ev0000530)
   - the show of the year # 1 Event: 2024
   - the tv performance of the year # 1 Event: 2024
 ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
-  years: ['2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001', '2000',
-    '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981']
+  years: ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005', '2004', '2003', '2002', '2001',
+    '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981']
   awards:  # Award Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
   - governor's award # 1 Event: 2004
-  - razzie award # 43 Events: 1981-2023
+  - razzie award # 44 Events: 1981-2024
   - redeemer award # 5 Events: 2017, 2019-2020, 2022-2023
   categories: # Category Options: Razzie Awards
   - barry l. bumstead award # 4 Events: 2016-2019
@@ -3407,11 +3407,11 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst 'comedy' of our first 25 years # 1 Event: 2005
   - worst 'drama' of our first 25 years # 1 Event: 2005
   - worst 'musical' of our first 25 years # 1 Event: 2005
-  - worst actor # 43 Events: 1981-2023
+  - worst actor # 44 Events: 1981-2024
   - worst actor of the decade # 1 Event: 2010
-  - worst actress # 43 Events: 1981-2023
+  - worst actress # 44 Events: 1981-2024
   - worst actress of the decade # 1 Event: 2010
-  - worst director # 43 Events: 1981-2023
+  - worst director # 44 Events: 1981-2024
   - worst ensemble # 1 Event: 2012
   - worst excuse for a horror movie # 1 Event: 2008
   - worst excuse for an actual movie (all concept/no content!) # 1 Event: 2004
@@ -3421,21 +3421,21 @@ ev0000558: # Razzie Awards (https://www.imdb.com/event/ev0000558)
   - worst new star # 17 Events: 1982-1989, 1991-1999
   - worst original song # 21 Events: 1981-2000, 2003
   - worst performance by bruce willis in a 2021 movie # 1 Event: 2022
-  - worst picture # 43 Events: 1981-2023
+  - worst picture # 44 Events: 1981-2024
   - worst picture of the decade # 3 Events: 1990, 2000, 2010
   - worst prequel or sequel # 2 Events: 2007-2008
-  - worst prequel, remake, rip-off or sequel # 6 Events: 2009, 2011-2013, 2017, 2020
+  - worst prequel, remake, rip-off or sequel # 7 Events: 2009, 2011-2013, 2017, 2020, 2024
   - worst reckless disregard for human life and public property # 2 Events: 1998, 2020
   - worst remake or rip-off # 2 Events: 2007-2008
   - worst remake or sequel # 10 Events: 1995-1996, 1998-1999, 2001-2006
   - worst remake, rip-off or sequel # 9 Events: 2010, 2014-2016, 2018-2019, 2021-2023
   - worst screen combo # 9 Events: 2014-2021, 2023
-  - worst screen couple # 19 Events: 1995-2010, 2012-2013, 2022
+  - worst screen couple # 20 Events: 1995-2010, 2012-2013, 2022, 2024
   - worst screen couple/worst screen ensemble # 1 Event: 2011
   - worst screen ensemble # 1 Event: 2013
-  - worst screenplay # 43 Events: 1981-2023
-  - worst supporting actor # 43 Events: 1981-2023
-  - worst supporting actress # 43 Events: 1981-2023
+  - worst screenplay # 44 Events: 1981-2024
+  - worst supporting actor # 44 Events: 1981-2024
+  - worst supporting actress # 44 Events: 1981-2024
   - worst visual effects # 2 Events: 1987-1988
   - worst written film grossing over $100 million # 1 Event: 1997
 ev0000598: # Screen Actors Guild Awards (https://www.imdb.com/event/ev0000598)
@@ -3499,9 +3499,9 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - red crown producer's award # 1 Event: 2014
   - screenwriting award # 9 Events: 2008-2014, 2016-2017
   - short film grand jury prize # 17 Events: 2003-2004, 2008-2009, 2012-2024
-  - short film jury award # 7 Events: 2016-2019, 2021-2023
+  - short film jury award # 8 Events: 2016-2019, 2021-2024
   - short film jury prize # 6 Events: 2012-2016, 2020
-  - short film special jury award # 5 Events: 2017, 2020-2023
+  - short film special jury award # 6 Events: 2017, 2020-2024
   - short film special jury prize # 7 Events: 2005, 2012-2016, 2019
   - short filmmaking award # 20 Events: 1996-2012, 2016, 2018, 2021
   - short filmmaking award - honorable mention # 16 Events: 1996-2011
@@ -3524,7 +3524,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - achievement in acting # 1 Event: 2019
   - acting # 5 Events: 2019-2023
   - alfred p. sloan feature film prize # 22 Events: 2003-2024
-  - animation # 15 Events: 2002-2004, 2012-2023
+  - animation # 16 Events: 2002-2004, 2012-2024
   - auteur filmmaking # 1 Event: 2020
   - best actress in a short film # 1 Event: 2020
   - best ensemble # 1 Event: 2021
@@ -3542,8 +3542,8 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - creative storytelling # 1 Event: 2020
   - creative vision # 3 Events: 2021-2023
   - directing # 1 Event: 2020
-  - directing, international # 1 Event: 2023
-  - directing, u.s. # 1 Event: 2023
+  - directing, international # 2 Events: 2023-2024
+  - directing, u.s. # 2 Events: 2023-2024
   - documentary # 42 Events: 1982-2024
   - documentary craft # 1 Event: 2022
   - documentary editing # 1 Event: 2017
@@ -3567,7 +3567,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - innovation in nonfiction storytelling # 1 Event: 2020
   - innovative spirit # 1 Event: 2022
   - international # 13 Events: 1998, 2004-2012, 2016, 2018, 2021
-  - international fiction # 11 Events: 2012-2017, 2019-2023
+  - international fiction # 12 Events: 2012-2017, 2019-2024
   - latin america cinema # 1 Event: 1999
   - latin america cinema award # 7 Events: 1996-2002
   - latin america cinema award - honorable mention # 3 Events: 1996-1997, 2001
@@ -3584,7 +3584,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - next presented by adobe # 1 Event: 2021
   - nhk award # 8 Events: 1999, 2002, 2008, 2010, 2014-2016, 2018
   - no borders # 1 Event: 2019
-  - non-fiction # 10 Events: 2012-2016, 2019-2023
+  - non-fiction # 11 Events: 2012-2016, 2019-2024
   - nonfiction experimentation # 1 Event: 2021
   - online film festival viewers award # 1 Event: 2001
   - originality # 1 Event: 2019
@@ -3607,7 +3607,7 @@ ev0000631: # Sundance Film Festival (https://www.imdb.com/event/ev0000631)
   - sundance institute/mahindra global filmmaking award # 3 Events: 2011, 2014, 2016
   - u.s. documentary # 2 Events: 2022-2023
   - u.s. dramatic # 2 Events: 2022-2023
-  - u.s. fiction # 7 Events: 2017-2023
+  - u.s. fiction # 8 Events: 2017-2024
   - uncompromising artistic vision # 1 Event: 2022
   - us fiction # 2 Events: 2011, 2018
   - verite filmmaking # 1 Event: 2021

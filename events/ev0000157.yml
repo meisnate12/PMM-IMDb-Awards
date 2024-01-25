@@ -1,5 +1,79 @@
 # César Awards, France
-'2023':  # https://www.imdb.com/event/ev0000157/2023/1/?ref_=ev_eh
+'2024':  # https://www.imdb.com/event/ev0000157/2024/1/?ref_=ev_eh
+  césar:
+    best film (meilleur film):
+      nominee: [tt24070754, tt17009710, tt18550220, tt16606592, tt16160622]
+      winner: []
+    best actor (meilleur acteur):
+      nominee: [tt16160622, tt15789074, tt23049206, tt28236368, tt16606592]
+      winner: []
+    most promising actor (meilleur espoir masculin):
+      nominee: [tt26699529, tt17009710, tt16606592, tt18550220, tt14550346]
+      winner: []
+    best actress (meilleure actrice):
+      nominee: [tt27531109, tt14550346, tt26714897, tt17009710, tt23049206]
+      winner: []
+    most promising actress (meilleur espoir féminin):
+      nominee: [tt26256216, tt26699529, tt26255020, tt23647880, tt27372066]
+      winner: []
+    best supporting actor (meilleur acteur dans un second rôle):
+      nominee: [tt18550220, tt17009710, tt16160622, tt28236368]
+      winner: []
+    best supporting actress (meilleure actrice dans un second rôle):
+      nominee: [tt24070754, tt18550220]
+      winner: []
+    best director (meilleure réalisation):
+      nominee: [tt14550346, tt16160622, tt24070754, tt17009710, tt16606592]
+      winner: []
+    best original screenplay (meilleur scénario original):
+      nominee: [tt24070754, tt17009710, tt18550220, tt16606592, tt16160622]
+      winner: []
+    best adapted screenplay (meilleure adaptation):
+      nominee: [tt26255020, tt23049206, tt14550346]
+      winner: []
+    best cinematography (meilleure photographie):
+      nominee: [tt17009710, tt16606592, tt16160622, tt19760052, tt12672536]
+      winner: []
+    best costume design (meilleurs costumes):
+      nominee: [tt17277414, tt16606592, tt20330434, tt19760052, tt12672536]
+      winner: []
+    best sound (meilleur son):
+      nominee: [tt24070754, tt17009710, tt16606592, tt16160622, tt12672536]
+      winner: []
+    best editing (meilleur montage):
+      nominee: [tt24070754, tt17009710, tt26714897, tt16606592, tt16160622]
+      winner: []
+    best visual effects (meilleurs effets visuels):
+      nominee: [tt17569526, tt16606592, tt16909478, tt12672536, tt26744289]
+      winner: []
+    best original music (meilleure musique originale):
+      nominee: [tt22180518, tt18550220, tt23049206, tt16606592, tt12672536]
+      winner: []
+    best animated short film (meilleur court métrage d'animation):
+      nominee: [tt31033834, tt27688625, tt28106821]
+      winner: []
+    best short film (meilleur film de court métrage de fiction):
+      nominee: [tt27549515, tt22023962, tt19783692, tt22054360]
+      winner: []
+    best documentary short film (meilleur film de court métrage documentaire):
+      nominee: [tt30807319, tt30971581, tt29432865]
+      winner: []
+    best documentary film (meilleur film documentaire):
+      nominee: [tt20226766, tt27502426, tt26714897, tt26448811, tt26347358]
+      winner: []
+    best foreign film (meilleur film étranger):
+      nominee: [tt21027780, tt14137416, tt15398776, tt27503384, tt22487338]
+      winner: []
+    best animated film (meilleur film d'animation):
+      nominee: [tt21042126, tt26915336, tt12826598]
+      winner: []
+    best first film (meilleur premier film):
+      nominee: [tt19858184, tt18550220, tt27531109, tt26744289, tt23790924]
+      winner: []
+    best production design (meilleurs décors):
+      nominee: [tt17009710, tt17277414, tt16606592, tt19760052, tt12672536]
+      winner: []
+'2023': # https://www.imdb.com/event/ev0000157/2023/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
       nominee: [tt13702796, tt14336174, tt14542254, tt19841734, tt14831708]
