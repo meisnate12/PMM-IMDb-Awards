@@ -2,17 +2,46 @@
 '2024':  # https://www.imdb.com/event/ev0000631/2024/1/?ref_=ev_eh
   grand jury prize:
     documentary:
-      nominee: [tt30291991, tt12336480, tt30134880, tt30319555, tt30319823, tt30319825, tt30294282, tt30319830, tt30319854, tt30319916]
-      winner: []
+      nominee: [tt30294282, tt30291991, tt12336480, tt30134880, tt30319555, tt30319823, tt30319825, tt30319830, tt30319854, tt30319916]
+      winner: [tt30294282]
     dramatic:
-      nominee: [tt21823606, tt27722375, tt30319503, tt28523838, tt30319516, tt24805832, tt21375602, tt23939106, tt30319533, tt13650742]
-      winner: []
+      nominee: [tt24805832, tt21823606, tt27722375, tt30319503, tt28523838, tt30319516, tt21375602, tt23939106, tt30319533, tt13650742]
+      winner: [tt24805832]
     world cinema - documentary:
       nominee: [tt30320576, tt21224854, tt30227076, tt30320493, tt19811010, tt30320521, tt16732698, tt30320605, tt14452174, tt30320463]
-      winner: []
+      winner: [tt30320576]
     world cinema - dramatic:
-      nominee: [tt26749327, tt18277182, tt2118648, tt30141676, tt23888758, tt28500076, tt11220024, tt30317033, tt30320410, tt26006472]
-      winner: []
+      nominee: [tt30320410, tt26749327, tt18277182, tt2118648, tt30141676, tt23888758, tt28500076, tt11220024, tt30317033, tt26006472]
+      winner: [tt30320410]
+  directing award:
+    u.s. documentary:
+      nominee: [tt30319854]
+      winner: [tt30319854]
+    u.s. dramatic:
+      nominee: [tt24805832]
+      winner: [tt24805832]
+    world cinema, documentary:
+      nominee: [tt19811010]
+      winner: [tt19811010]
+    world cinema, dramatic:
+      nominee: [tt30141676]
+      winner: [tt30141676]
+  audience award:
+    next:
+      nominee: [tt27367464]
+      winner: [tt27367464]
+    u.s. documentary:
+      nominee: [tt12336480]
+      winner: [tt12336480]
+    u.s. dramatic:
+      nominee: [tt30319503]
+      winner: [tt30319503]
+    world cinema - documentary:
+      nominee: [tt19811010]
+      winner: [tt19811010]
+    world cinema - dramatic:
+      nominee: [tt18277182]
+      winner: [tt18277182]
   alfred p. sloan feature film prize:
     alfred p. sloan feature film prize:
       nominee: [tt21375602]
@@ -34,6 +63,13 @@
     u.s. fiction:
       nominee: [tt30420986]
       winner: [tt30420986]
+  world cinema dramatic special jury award:
+    acting:
+      nominee: [tt18277182]
+      winner: [tt18277182]
+    original music:
+      nominee: [tt2118648]
+      winner: [tt2118648]
   short film special jury award:
     directing, international:
       nominee: [tt30421207]
@@ -43,8 +79,49 @@
       winner: [tt29579095]
   next innovator award:
     next innovator award:
-      nominee: [tt28510594, tt27367464, tt21740488, tt12309944, tt18325446, tt30320639]
+      nominee: [tt21740488, tt28510594, tt27367464, tt12309944, tt18325446, tt30320639]
+      winner: [tt21740488]
+  u.s. dramatic special jury award:
+    breakthrough performance:
+      nominee: [tt13650742]
+      winner: [tt13650742]
+    ensemble:
+      nominee: [tt30319503]
+      winner: [tt30319503]
+  world cinema documentary special jury award:
+    cinematic innovation:
+      nominee: [tt14452174]
       winner: []
+    craft:
+      nominee: [tt30320605]
+      winner: []
+  u.s. documentary special jury award:
+    art of change:
+      nominee: [tt30319916]
+      winner: [tt30319916]
+    sound:
+      nominee: [tt30319823]
+      winner: [tt30319823]
+  festival favorite award:
+    festival favorite award:
+      nominee: [tt12336480]
+      winner: [tt12336480]
+  jonathan oppenheim editing award:
+    u.s. documentary:
+      nominee: [tt30319555]
+      winner: [tt30319555]
+  amazon studios nonfiction producers award:
+    amazon studios nonfiction producers award:
+      nominee: [tt30320463]
+      winner: [tt30320463]
+  amazon studios fiction producers award:
+    amazon studios fiction producers award:
+      nominee: [tt30319533]
+      winner: [tt30319533]
+  next special jury award presented by adobe:
+    next special jury award presented by adobe:
+      nominee: [tt28510594]
+      winner: [tt28510594]
 '2023': # https://www.imdb.com/event/ev0000631/2023/1/?ref_=ev_eh
   grand jury prize:
     documentary:
