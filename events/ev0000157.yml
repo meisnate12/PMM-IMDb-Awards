@@ -1247,7 +1247,7 @@
       nominee: [tt0411270, tt0428803, tt0409184]
       winner: [tt0411270]
     best film (meilleur film):
-      nominee: [tt0411270, tt0388505, tt0424205, tt0456396, tt0431979]
+      nominee: [tt0411270, tt0424205, tt0388505, tt0456396, tt0431979]
       winner: [tt0411270]
     best first film (meilleur premier film):
       nominee: [tt0424024, tt0411118, tt0422133, tt0428965, tt0428803]
@@ -1256,7 +1256,7 @@
       nominee: [tt0405159, tt0399146, tt0416320, tt0369702, tt0352994]
       winner: [tt0405159]
     best music written for a film (meilleure musique écrite pour un film):
-      nominee: [tt0411270, tt0388505, tt0428803, tt0424205]
+      nominee: [tt0411270, tt0424205, tt0388505, tt0428803]
       winner: [tt0411270]
     best original screenplay (meilleur scénario original):
       nominee: [tt0388505, tt0387898, tt0424205, tt0456396, tt0431979]
@@ -1997,7 +1997,7 @@
       nominee: [tt0105032, tt0104507, tt0101316]
       winner: [tt0105032]
     best film (meilleur film):
-      nominee: [tt0105032, tt0105682, tt0105131, tt0104507, tt0104658, tt0104025]
+      nominee: [tt0105032, tt0105682, tt0104507, tt0104658, tt0104025, tt0105131]
       winner: [tt0105032]
     best first work (meilleure première oeuvre):
       nominee: [tt0105032, tt0105911, tt0105260, tt0102552, tt0105356]

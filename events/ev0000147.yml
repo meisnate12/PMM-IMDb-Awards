@@ -183,8 +183,11 @@
       nominee: [tt19719904]
       winner: [tt19719904]
   cinefondation award:
+    light on women award:
+      nominee: [tt19512794]
+      winner: [tt19512794]
     cinefondation award:
-      nominee: [tt19815650, tt19844794, tt16262788, tt19844752, tt19844738, tt19814970, tt19844808, tt19844764, tt19811286, tt19844842, tt16350184, tt19844770, tt19512794, tt15434988, tt19396182, tt19844786]
+      nominee: [tt19815650, tt19844794, tt16262788, tt19844752, tt19844738, tt19814970, tt19844808, tt19844764, tt19811286, tt19844842, tt16350184, tt19844770, tt15434988, tt19396182, tt19844786]
       winner: [tt19815650]
   un certain regard award:
     un certain regard award:
@@ -2962,7 +2965,7 @@
       winner: [tt0462215]
   un certain regard award:
     un certain regard award:
-      nominee: [tt0456149, tt0445694, tt0373760, tt0408318, tt0398027, tt0461769, tt0441297, tt0444627, tt0439646, tt0472832, tt0463991, tt0456899, tt0415147, tt0398664, tt0470612, tt0420886, tt0456470, tt0413358, tt0396688, tt0417189, tt0423914]
+      nominee: [tt0456149, tt0445694, tt0373760, tt0408318, tt0398027, tt0441297, tt0444627, tt0439646, tt0472832, tt0463991, tt0456899, tt0415147, tt0461769, tt0398664, tt0470612, tt0420886, tt0456470, tt0413358, tt0396688, tt0417189, tt0423914]
       winner: [tt0456149]
   regard intimity award:
     regard intimity award:

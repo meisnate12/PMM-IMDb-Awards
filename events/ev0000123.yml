@@ -4317,7 +4317,7 @@
       nominee: [tt0360717, tt0372784, tt0367594, tt0330373, tt0363771]
       winner: [tt0360717]
     best film not in the english language:
-      nominee: [tt0411270, tt0373074, tt0424205, tt0361670, tt0468565]
+      nominee: [tt0411270, tt0424205, tt0373074, tt0361670, tt0468565]
       winner: [tt0411270]
     best short animation:
       nominee: [tt0440846, tt0499475, tt0499509, tt0498121, tt0469146]
@@ -6573,6 +6573,9 @@
       nominee: [tt0112086]
       winner: [tt0112086]
   bafta children's award:
+    animation:
+      nominee: [tt0141005, tt0796568, tt0274064, tt0862631]
+      winner: [tt0141005]
     best drama:
       nominee: [tt0244335, tt0194605, tt0398547]
       winner: [tt0244335]
