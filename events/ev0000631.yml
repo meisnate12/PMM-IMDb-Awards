@@ -26,6 +26,10 @@
     world cinema, dramatic:
       nominee: [tt30141676]
       winner: [tt30141676]
+  waldo salt screenwriting award:
+    u.s. dramatic:
+      nominee: [tt21823606]
+      winner: [tt21823606]
   audience award:
     next:
       nominee: [tt27367464]
@@ -91,10 +95,10 @@
   world cinema documentary special jury award:
     cinematic innovation:
       nominee: [tt14452174]
-      winner: []
+      winner: [tt14452174]
     craft:
       nominee: [tt30320605]
-      winner: []
+      winner: [tt30320605]
   u.s. documentary special jury award:
     art of change:
       nominee: [tt30319916]
