@@ -2,31 +2,56 @@
 '2024':  # https://www.imdb.com/event/ev0000091/2024/1/?ref_=ev_eh
   golden berlin bear:
     best film:
-      nominee: [tt21097228, tt31015344, tt26749648, tt18346498, tt21994228, tt31015216, tt20420646, tt26757264, tt19864832, tt31015291, tt31015278, tt10781034, tt30804400, tt27196021, tt27496775, tt27165281, tt31015247, tt29141112, tt17375596, tt14680834]
-      winner: []
+      nominee: [tt31015216, tt21097228, tt31015344, tt26749648, tt18346498, tt21994228, tt20420646, tt26757264, tt19864832, tt31015291, tt31015278, tt10781034, tt30804400, tt27196021, tt27496775, tt27165281, tt31015247, tt29141112, tt17375596, tt14680834]
+      winner: [tt31015216]
     best short film:
       nominee: [tt30887276, tt30887239, tt30887199, tt30887219, tt30888005, tt30887228, tt30877925, tt30887248, tt30887212, tt30887298, tt30887305, tt30877917, tt30877936, tt30888004, tt30877931, tt30887209, tt30888000, tt30887287, tt30887999]
-      winner: []
+      winner: [tt30887276]
+  silver berlin bear:
+    best director:
+      nominee: [tt10781034]
+      winner: [tt10781034]
+    best leading performance:
+      nominee: [tt21097228]
+      winner: [tt21097228]
+    best screenplay:
+      nominee: [tt27165281]
+      winner: [tt27165281]
+    best supporting performance:
+      nominee: [tt27196021]
+      winner: [tt27196021]
+    grand jury prize:
+      nominee: [tt31015344]
+      winner: [tt31015344]
+    jury prize:
+      nominee: [tt17375596]
+      winner: [tt17375596]
+    jury prize - short film:
+      nominee: [tt30877917]
+      winner: [tt30877917]
+    outstanding artistic contribution:
+      nominee: [tt29141112]
+      winner: [tt29141112]
   panorama audience award:
     documentary film:
-      nominee: [tt30887113, tt29045832, tt30953638, tt30953695, tt28090065, tt30953779, tt30953759, tt27907968, tt30953834, tt30953576]
-      winner: []
+      nominee: [tt30953759, tt30953779, tt30953834, tt30887113, tt29045832, tt30953638, tt30953695, tt28090065, tt27907968, tt30953576]
+      winner: [tt30953759]
     feature film:
-      nominee: [tt30439035, tt21186614, tt27722375, tt21443754, tt26749327, tt27417166, tt30953660, tt29102244, tt30440590, tt30441039, tt15574270, tt28366692, tt18246700, tt21247132, tt15716284, tt26760867, tt30953867, tt26270862, tt11687002, tt30414712]
-      winner: []
+      nominee: [tt15716284, tt27417166, tt30439035, tt21186614, tt27722375, tt21443754, tt26749327, tt30953660, tt29102244, tt30440590, tt30441039, tt15574270, tt28366692, tt18246700, tt21247132, tt26760867, tt30953867, tt26270862, tt11687002, tt30414712]
+      winner: [tt15716284]
   crystal bear:
     generation 14plus - best film:
-      nominee: [tt27503706, tt28590981, tt31116678, tt30959077, tt30521164]
-      winner: []
+      nominee: [tt30918821, tt27503706, tt28590981, tt31116678, tt30959077, tt30521164]
+      winner: [tt30918821]
     generation 14plus - best short film:
-      nominee: [tt30970585, tt28313741, tt30968660, tt30521212, tt30968510]
-      winner: []
+      nominee: [tt28313741, tt30970585, tt30968660, tt30521212, tt30968510]
+      winner: [tt28313741]
     generation kplus - best film:
-      nominee: [tt17347524, tt23451240, tt29579010, tt29427529, tt30970632, tt28228462, tt15245268]
-      winner: []
+      nominee: [tt29579010, tt17347524, tt23451240, tt29427529, tt30970632, tt28228462, tt15245268]
+      winner: [tt29579010]
     generation kplus - best short film:
-      nominee: [tt30970846, tt29622455, tt30521429, tt30970587, tt30521391, tt30968551, tt30831880, tt30970908, tt28356173]
-      winner: []
+      nominee: [tt30970587, tt30970846, tt29622455, tt30521429, tt30521391, tt30968551, tt30831880, tt30970908, tt28356173]
+      winner: [tt30970587]
   teddy:
     best documentary/essay film:
       nominee: [tt30953638, tt28090065, tt29102354, tt30953834]
@@ -37,18 +62,143 @@
     best short film:
       nominee: [tt30887276, tt28313741, tt31122601, tt30877925, tt28883139, tt30968660, tt30887209, tt30970908, tt28356173]
       winner: []
+  fipresci prize:
+    competition:
+      nominee: [tt31015278]
+      winner: [tt31015278]
+    encounters:
+      nominee: [tt31015461]
+      winner: [tt31015461]
+    forum:
+      nominee: [tt30956144]
+      winner: [tt30956144]
+    panorama:
+      nominee: [tt30440590]
+      winner: [tt30440590]
+  prize of the ecumenical jury:
+    competition:
+      nominee: [tt31015278]
+      winner: [tt31015278]
+    forum:
+      nominee: [tt30308333]
+      winner: [tt30308333]
+    panorama:
+      nominee: [tt26270862]
+      winner: [tt26270862]
+  prize of the ecumenical jury - special mention:
+    prize of the ecumenical jury - special mention:
+      nominee: [tt30956212]
+      winner: [tt30956212]
+  c.i.c.a.e. award:
+    forum:
+      nominee: [tt30808146]
+      winner: [tt30808146]
+    panorama:
+      nominee: [tt26270862]
+      winner: [tt26270862]
+  label europa cinemas:
+    label europa cinemas:
+      nominee: [tt26270862]
+      winner: [tt26270862]
+  caligari film award:
+    caligari film award:
+      nominee: [tt30808146]
+      winner: [tt30808146]
+  peace film award:
+    peace film award:
+      nominee: [tt31015543]
+      winner: [tt31015543]
+  amnesty international film prize:
+    amnesty international film prize:
+      nominee: [tt21272942]
+      winner: [tt21272942]
+  heiner carow prize:
+    heiner carow prize:
+      nominee: [tt31016613]
+      winner: [tt31016613]
+  special mention of the generation 14plus international jury:
+    special mention of the generation 14plus international jury:
+      nominee: [tt30969960]
+      winner: [tt30969960]
+  special mention of the generation kplus international jury:
+    best film:
+      nominee: [tt30970632]
+      winner: [tt30970632]
+    best short film:
+      nominee: [tt30970908]
+      winner: [tt30970908]
+  grand prix of the generation 14plus international jury:
+    best film:
+      nominee: [tt30521164]
+      winner: [tt30521164]
+  grand prix of the generation kplus international jury:
+    best film:
+      nominee: [tt11220024]
+      winner: [tt11220024]
+  special prize of the generation 14plus international jury:
+    best short film:
+      nominee: [tt30970585]
+      winner: [tt30970585]
+  special prize of the generation kplus international jury:
+    best short film:
+      nominee: [tt30970846]
+      winner: [tt30970846]
+  eurimages co-production development award:
+    eurimages co-production development award:
+      nominee: [tt31462544]
+      winner: [tt31462544]
+  guild film prize:
+    guild film prize:
+      nominee: [tt27165281]
+      winner: [tt27165281]
   berlinale documentary award:
     berlinale documentary award:
-      nominee: [tt31015517, tt29045832, tt18346498, tt30886786, tt31015216, tt31015444, tt31015543, tt30955770, tt30955793, tt30956212, tt30956113, tt30969960, tt30953779, tt30953759, tt30957123, tt27907968, tt30517450, tt30886849, tt30961441, tt30953576]
-      winner: []
+      nominee: [tt30953759, tt31015517, tt29045832, tt18346498, tt30886786, tt31015216, tt31015444, tt31015543, tt30955770, tt30955793, tt30956212, tt30956113, tt30969960, tt30953779, tt30957123, tt27907968, tt30517450, tt30886849, tt30961441, tt30953576]
+      winner: [tt30953759]
   encounters award:
-    encounters award:
-      nominee: [tt31015517, tt31015391, tt30858110, tt31015413, tt31015444, tt31015543, tt31018048, tt31016613, tt13109862, tt31015461, tt26655205, tt31015496, tt31016912, tt31018975, tt31018983]
-      winner: []
+    best film:
+      nominee: [tt31015444]
+      winner: [tt31015444]
+  berlinale documentary award - special mention:
+    berlinale documentary award - special mention:
+      nominee: [tt31015444]
+      winner: [tt31015444]
+  encounters award - best director:
+    encounters award - best director:
+      nominee: [tt30858110]
+      winner: [tt30858110]
+  encounters award - special jury prize:
+    encounters award - special jury prize:
+      nominee: [tt26655205, tt31016912]
+      winner: [tt26655205, tt31016912]
   gwff best first feature award:
     gwff best first feature award:
-      nominee: [tt21443754, tt30953660, tt30521172, tt26757264, tt30441039, tt30958042, tt30918821, tt30808146, tt31116678, tt26655205, tt30959077, tt31016912, tt30956144, tt30517184, tt14680834, tt15245268]
-      winner: []
+      nominee: [tt30953660, tt21443754, tt30521172, tt26757264, tt30441039, tt30958042, tt30918821, tt30808146, tt31116678, tt26655205, tt30959077, tt31016912, tt30956144, tt30517184, tt14680834, tt15245268]
+      winner: [tt30953660]
+  berliner morgenpost readers' jury award:
+    berliner morgenpost readers' jury award:
+      nominee: [tt27165281]
+      winner: [tt27165281]
+  tagesspiegel readers' jury award:
+    tagesspiegel readers' jury award:
+      nominee: [tt31015517]
+      winner: [tt31015517]
+  kompagnon-fellowship:
+    kompagnon-fellowship:
+      nominee: [tt31462582, tt31462590]
+      winner: [tt31462582, tt31462590]
+  artekino international award:
+    artekino international award:
+      nominee: [tt31462845]
+      winner: [tt31462845]
+  ag kino gilde - cinema vision 14plus:
+    ag kino gilde - cinema vision 14plus:
+      nominee: [tt30918821]
+      winner: [tt30918821]
+  vff talent highlight award:
+    vff talent highlight award:
+      nominee: [tt30831789]
+      winner: [tt30831789]
   berlinale - efm:
     berlinale efm (screening):
       nominee: [tt14319730]

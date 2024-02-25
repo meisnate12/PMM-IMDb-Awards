@@ -150,12 +150,13 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
     '2000', '1999', '1998', '1997', '1996', '1995', '1994', '1993', '1992', '1991', '1990', '1989', '1988', '1987', '1986', '1985', '1984', '1983', '1982', '1981', '1980', '1979', '1978', '1977', '1976',
     '1975', '1974', '1973', '1972', '1971', '1970', '1969', '1968', '1967', '1966', '1965', '1964', '1963', '1962', '1961', '1960', '1959', '1958', '1957', '1956', '1955', '1954', '1953', '1952', '1951']
   awards:  # Award Options: Berlin International Film Festival
-  - ag kino gilde - cinema vision 14plus # 2 Events: 2022-2023
+  - ag kino gilde - cinema vision 14plus # 3 Events: 2022-2024
   - alfred bauer award # 26 Events: 1987, 1989-1990, 1992, 1994, 1996-2016
   - alfred bauer award - honorable mention # 1 Event: 1996
-  - amnesty international film prize # 18 Events: 2005-2020, 2022-2023
+  - amnesty international film prize # 19 Events: 2005-2020, 2022-2024
   - amnesty international film prize - special mention # 2 Events: 2008, 2018
   - arte international prize # 6 Events: 1984, 2015-2016, 2021-2023
+  - artekino international award # 1 Event: 2024
   - audi short film award # 8 Events: 1991, 2015-2021
   - audi short film award - special mention # 1 Event: 2019
   - 'audience poll: grand bronze plate' # 1 Event: 1951
@@ -165,11 +166,11 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - berlin today award - honorable mention # 2 Events: 2009, 2012
   - berlinale - efm # 1 Event: 2024
   - berlinale documentary award # 5 Events: 2020-2024
-  - berlinale documentary award - special mention # 1 Event: 2020
+  - berlinale documentary award - special mention # 2 Events: 2020, 2024
   - berlinale series award # 1 Event: 2023
   - berlinale talent campus # 1 Event: 2013
   - berlinale talents doc station development grant # 1 Event: 2015
-  - berliner morgenpost readers' jury award # 1 Event: 2023
+  - berliner morgenpost readers' jury award # 2 Events: 2023-2024
   - best debut film # 8 Events: 1996, 2006-2011, 2013
   - best debut film - honorable mention # 3 Events: 2009, 2011, 2013
   - best european short film # 4 Events: 2008, 2010-2011, 2018
@@ -178,7 +179,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - blue angel # 13 Events: 1993-2005
   - bronze berlin bear # 6 Events: 1951-1956
   - bronze plaque # 1 Event: 1951
-  - c.i.c.a.e. award # 36 Events: 1967, 1982-1990, 1996, 1998-2020, 2022-2023
+  - c.i.c.a.e. award # 37 Events: 1967, 1982-1990, 1996, 1998-2020, 2022-2024
   - c.i.c.a.e. award - honorable mention # 6 Events: 1983, 1987, 1996, 1998-1999, 2005
   - c.i.c.a.e. award - recommendation # 1 Event: 1999
   - c.i.c.a.e. award - special mention # 2 Events: 2002-2003
@@ -191,7 +192,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - c.i.d.a.l.c. unesco award # 1 Event: 1979
   - c.i.f.e.j. award # 8 Events: 1983-1990
   - c.i.f.e.j. award - honorable mention # 3 Events: 1983, 1985, 1988
-  - caligari film award # 36 Events: 1986-2017, 2020-2023
+  - caligari film award # 37 Events: 1986-2017, 2020-2024
   - caligari film award - special mention # 2 Events: 2007, 2012
   - "children's film festival: award of the maria schell foundation" # 2 Events: 1989-1990
   - "children's film festival: award of the senator for women, youth and family" # 7 Events: 1986-1990, 1995-1996
@@ -218,15 +219,15 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - efa award # 1 Event: 2017
   - efp shooting star # 2 Events: 2007, 2023
   - encounters award # 5 Events: 2020-2024
-  - encounters award - best director # 4 Events: 2020-2023
-  - encounters award - special jury prize # 4 Events: 2020-2023
+  - encounters award - best director # 5 Events: 2020-2024
+  - encounters award - special jury prize # 5 Events: 2020-2024
   - encounters award - special mention # 1 Event: 2020
-  - eurimages co-production development award # 1 Event: 2015
+  - eurimages co-production development award # 2 Events: 2015, 2024
   - eurimages co-production development award - special mention # 2 Events: 2015-2016
   - femina-film-prize # 7 Events: 2005-2011
   - femina-film-prize - special mention # 1 Event: 2008
   - film prize of the robert bosch stiftung for international cooperation # 1 Event: 2016
-  - fipresci prize # 60 Events: 1957-1960, 1962-1969, 1972-1992, 1996, 1998-2023
+  - fipresci prize # 61 Events: 1957-1960, 1962-1969, 1972-1992, 1996, 1998-2024
   - fipresci prize - honorable mention # 11 Events: 1957, 1963-1965, 1981, 1988-1990, 1992, 1998, 2020
   - fipresci prize - recommendation # 1 Event: 1975
   - fipresci prize - special mention # 3 Events: 1958, 1971, 1974
@@ -241,12 +242,12 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - golden plaque # 1 Event: 1951
   - grand bronze plaque # 3 Events: 1954-1956
   - grand golden plaque # 3 Events: 1954-1956
-  - grand prix of the generation 14plus international jury # 11 Events: 2006, 2013-2016, 2018-2023
-  - grand prix of the generation kplus international jury # 10 Events: 2013-2018, 2020-2023
+  - grand prix of the generation 14plus international jury # 12 Events: 2006, 2013-2016, 2018-2024
+  - grand prix of the generation kplus international jury # 11 Events: 2013-2018, 2020-2024
   - grand silver plaque # 3 Events: 1954-1956
-  - guild film prize # 6 Events: 2017-2020, 2022-2023
+  - guild film prize # 7 Events: 2017-2020, 2022-2024
   - gwff best first feature award # 3 Events: 2022-2024
-  - heiner carow prize # 10 Events: 2013-2020, 2022-2023
+  - heiner carow prize # 11 Events: 2013-2020, 2022-2024
   - honorable mention # 15 Events: 1956, 1960, 1965, 1980-1984, 1986, 1989-1990, 1998-1999, 2006, 2011
   - interfilm award # 13 Events: 1963-1964, 1966-1967, 1969, 1971-1975, 1977, 1989-1990
   - interfilm award - honorable mention # 7 Events: 1966-1967, 1985-1986, 1988-1990
@@ -259,8 +260,8 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - iwg golden plaque # 5 Events: 1968, 1970-1973
   - journalists' special award # 1 Event: 1970
   - jury award # 1 Event: 1974
-  - kompagnon-fellowship # 1 Event: 2023
-  - label europa cinemas # 17 Events: 2005-2018, 2020, 2022-2023
+  - kompagnon-fellowship # 2 Events: 2023-2024
+  - label europa cinemas # 18 Events: 2005-2018, 2020, 2022-2024
   - label europa cinemas - special mention # 1 Event: 2016
   - made in germany - perspektive fellowship award # 2 Events: 2012, 2015
   - manfred salzgeber award # 10 Events: 2000-2009
@@ -285,15 +286,15 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - panorama short film award # 4 Events: 2003-2006
   - panorama short film award - special mention # 5 Events: 1988, 2003-2006
   - panorama special jury short film award # 1 Event: 2005
-  - peace film award # 37 Events: 1986-2020, 2022-2023
+  - peace film award # 38 Events: 1986-2020, 2022-2024
   - peace film award - honorable mention # 6 Events: 1988-1990, 2001, 2015, 2022
   - perspektive award # 2 Events: 2002, 2017
   - pierrot award for best european first work # 1 Event: 1998
   - planet documentary film award # 1 Event: 2004
   - prix berlin (efa european short film) # 1 Event: 2016
   - prix uip berlin (european short film) # 13 Events: 2001-2009, 2012-2015
-  - prize of the ecumenical jury # 30 Events: 1992-1996, 1998-2020, 2022-2023
-  - prize of the ecumenical jury - special mention # 13 Events: 1992-1993, 1996, 2004, 2008-2009, 2011-2014, 2017, 2019-2020
+  - prize of the ecumenical jury # 31 Events: 1992-1996, 1998-2020, 2022-2024
+  - prize of the ecumenical jury - special mention # 14 Events: 1992-1993, 1996, 2004, 2008-2009, 2011-2014, 2017, 2019-2020, 2024
   - prize of the guild of german art house cinemas # 21 Events: 1992, 1996, 1998-2016
   - prize of the senator for people's education # 1 Event: 1958
   - reader jury of the "berliner morgenpost" # 40 Events: 1974-1990, 1992, 1996, 1998-2017, 2019
@@ -303,24 +304,24 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - reader jury of the "tagesspiegel" # 10 Events: 2008-2016, 2019
   - reader jury of the "zitty" # 8 Events: 1983-1990
   - score competition # 1 Event: 2014
-  - silver berlin bear # 72 Events: 1951-1969, 1971-2023
+  - silver berlin bear # 73 Events: 1951-1969, 1971-2024
   - silver berlin bear - honorable mention # 5 Events: 1985-1986, 2004-2005, 2012
   - silver plaque # 1 Event: 1951
   - small bronze plaque # 2 Events: 1955-1956
   - small golden plaque # 2 Events: 1955-1956
   - small silver plaque # 2 Events: 1955-1956
   - special mention # 17 Events: 1965-1966, 1977, 1991, 1993-1995, 1997-1998, 2003, 2008-2009, 2012-2013, 2018, 2022-2023
-  - special mention of the generation 14plus international jury # 11 Events: 2005, 2013-2021, 2023
-  - special mention of the generation kplus international jury # 8 Events: 2013-2016, 2018, 2021-2023
+  - special mention of the generation 14plus international jury # 12 Events: 2005, 2013-2021, 2023-2024
+  - special mention of the generation kplus international jury # 9 Events: 2013-2016, 2018, 2021-2024
   - special prize of the city of berlin # 1 Event: 1951
   - special prize of the city of berlin - honorary diploma # 1 Event: 1951
   - special prize of the ecumenical jury # 3 Events: 1999-2001
-  - special prize of the generation 14plus international jury # 10 Events: 2011, 2013-2020, 2022
-  - special prize of the generation kplus international jury # 8 Events: 2013-2019, 2022
+  - special prize of the generation 14plus international jury # 11 Events: 2011, 2013-2020, 2022, 2024
+  - special prize of the generation kplus international jury # 9 Events: 2013-2019, 2022, 2024
   - special prize of the senate of berlin # 2 Events: 1953-1954
   - special recognition # 4 Events: 1959, 1971-1972, 2001
   - special teddy # 1 Event: 2009
-  - tagesspiegel readers' jury award # 1 Event: 2023
+  - tagesspiegel readers' jury award # 2 Events: 2023-2024
   - talent movie of the week # 4 Events: 2003-2006
   - teddy # 38 Events: 1987-2024
   - teddy - special mention # 4 Events: 2001, 2007, 2019-2020
@@ -333,7 +334,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - unicef award - honorable mention # 10 Events: 1982-1986, 1988-1990, 1996, 1998
   - unicrit award # 13 Events: 1963-1973, 1975-1976
   - unicrit award - honorable mention # 2 Events: 1969, 1976
-  - vff talent highlight award # 1 Event: 2023
+  - vff talent highlight award # 2 Events: 2023-2024
   - vff talent highlight pitch award # 1 Event: 2013
   - wolfgang staudte award # 17 Events: 1990-2006
   - wolfgang staudte award - special mention # 1 Event: 2000
@@ -345,15 +346,16 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - activist award # 1 Event: 2020
   - actor # 1 Event: 2002
   - actress # 2 Events: 2001-2002
-  - ag kino gilde - cinema vision 14plus # 2 Events: 2022-2023
+  - ag kino gilde - cinema vision 14plus # 3 Events: 2022-2024
   - alfred bauer award # 26 Events: 1987, 1989-1990, 1992, 1994, 1996-2016
   - alfred bauer award - honorable mention # 1 Event: 1996
   - alfred bauer prize # 3 Events: 2017-2019
-  - amnesty international film prize # 18 Events: 2005-2020, 2022-2023
+  - amnesty international film prize # 19 Events: 2005-2020, 2022-2024
   - amnesty international film prize - special mention # 2 Events: 2008, 2018
   - amnesty international jury # 1 Event: 2022
   - animation film # 2 Events: 1971, 2016
   - arte international prize # 4 Events: 2015-2016, 2022-2023
+  - artekino international award # 1 Event: 2024
   - audi short film award # 6 Events: 2015-2020
   - audi short film award - special mention # 1 Event: 2019
   - audience poll # 1 Event: 1956
@@ -363,14 +365,14 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - berlin today award # 9 Events: 2004-2012
   - berlin today award - honorable mention # 2 Events: 2009, 2012
   - berlinale documentary award # 5 Events: 2020-2024
-  - berlinale documentary award - special mention # 1 Event: 2020
+  - berlinale documentary award - special mention # 2 Events: 2020, 2024
   - berlinale documentary award jury # 1 Event: 2023
   - berlinale efm (screening) # 1 Event: 2024
   - berlinale series # 1 Event: 2023
   - berlinale series award # 1 Event: 2023
   - berlinale talent campus # 1 Event: 2013
   - berlinale talents doc station development grant # 1 Event: 2015
-  - berliner morgenpost readers' jury award # 1 Event: 2023
+  - berliner morgenpost readers' jury award # 2 Events: 2023-2024
   - best acting performance # 2 Events: 1990, 2021
   - best acting team # 1 Event: 1990
   - best actor # 61 Events: 1956-1968, 1971-1972, 1974-1989, 1991-2020
@@ -383,7 +385,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best debut film # 9 Events: 1996, 2006-2011, 2013, 2019
   - best debut film - honorable mention # 3 Events: 2009, 2011, 2013
   - best directing of a short film # 2 Events: 1980-1981
-  - best director # 62 Events: 1956-1968, 1972, 1975-1980, 1982-2023
+  - best director # 63 Events: 1956-1968, 1972, 1975-1980, 1982-2024
   - best documentary # 6 Events: 1951, 1988, 2007, 2009, 2018-2019
   - best documentary film # 29 Events: 1988-1996, 1998-2006, 2008, 2010-2012, 2014-2020
   - best documentary film suitable for young people # 5 Events: 1959-1962, 1964
@@ -401,17 +403,17 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - best first feature award # 9 Events: 2012-2019, 2021
   - best first feature award - special mention # 1 Event: 2020
   - best first film # 2 Events: 2003-2004
-  - best leading performance # 2 Events: 2022-2023
+  - best leading performance # 3 Events: 2022-2024
   - best musical # 1 Event: 1951
   - best producer # 1 Event: 2021
-  - best screenplay # 15 Events: 1971, 2008-2014, 2017-2023
+  - best screenplay # 16 Events: 1971, 2008-2014, 2017-2024
   - best screenplay of a short film # 1 Event: 1982
   - best script # 3 Events: 2014-2016
   - best short # 3 Events: 2005, 2009, 2015
   - best short documentary/cultural film # 3 Events: 1956-1958
   - best short film # 55 Events: 1959-1964, 1971, 1977-2024
   - best short film suitable for young people # 9 Events: 1959-1966, 2011
-  - best supporting performance # 3 Events: 2021-2023
+  - best supporting performance # 4 Events: 2021-2024
   - blue angel # 13 Events: 1993-2005
   - bronze berlin bear # 4 Events: 1952-1955
   - c.i.c.a.e. award # 7 Events: 1967, 1982-1987
@@ -425,7 +427,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - c.i.d.a.l.c. unesco award # 1 Event: 1979
   - c.i.f.e.j. award # 8 Events: 1983-1990
   - c.i.f.e.j. award - honorable mention # 3 Events: 1983, 1985, 1988
-  - caligari film award # 36 Events: 1986-2017, 2020-2023
+  - caligari film award # 37 Events: 1986-2017, 2020-2024
   - caligari film award - special mention # 2 Events: 2007, 2012
   - chidren's jury - short film # 1 Event: 2022
   - "children's film festival: award of the maria schell foundation" # 2 Events: 1989-1990
@@ -438,7 +440,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - compass-perspektive award # 2 Events: 2017-2018
   - compass-perspektive award - special mention # 1 Event: 2021
   - compass-perspektive-award # 1 Event: 2023
-  - competition # 53 Events: 1954, 1971-1996, 1998-2023
+  - competition # 54 Events: 1954, 1971-1996, 1998-2024
   - competition audience award # 1 Event: 2021
   - creative documentary # 1 Event: 2019
   - culinary cinema # 1 Event: 2019
@@ -455,12 +457,12 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - don quixote award - special mention # 7 Events: 1998-2002, 2004-2005
   - efa award # 1 Event: 2017
   - efp shooting star # 2 Events: 2007, 2023
-  - encounters # 4 Events: 2020-2023
-  - encounters award # 5 Events: 2020-2024
-  - encounters award - best director # 4 Events: 2020-2023
-  - encounters award - special jury prize # 4 Events: 2020-2023
+  - encounters # 5 Events: 2020-2024
+  - encounters award # 4 Events: 2020-2023
+  - encounters award - best director # 5 Events: 2020-2024
+  - encounters award - special jury prize # 5 Events: 2020-2024
   - encounters award - special mention # 1 Event: 2020
-  - eurimages co-production development award # 1 Event: 2015
+  - eurimages co-production development award # 2 Events: 2015, 2024
   - eurimages co-production development award - special mention # 2 Events: 2015-2016
   - feature film # 7 Events: 1987, 1991, 2016, 2018, 2022-2024
   - femina-film-prize # 7 Events: 2005-2011
@@ -471,7 +473,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - fipresci prize - special mention # 3 Events: 1958, 1971, 1974
   - first movie award # 1 Event: 2002
   - first movie award - special mention # 1 Event: 2002
-  - forum # 17 Events: 2007-2023
+  - forum # 18 Events: 2007-2024
   - forum of new cinema # 37 Events: 1969, 1971-1996, 1998-2006, 2011
   - forum of new film # 1 Event: 1972
   - forum of young cinema # 1 Event: 2008
@@ -495,12 +497,12 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - golden berlin bear for best short film # 4 Events: 1988, 2009, 2014, 2016
   - grand bronze plaque # 3 Events: 1954-1956
   - grand golden plaque # 3 Events: 1954-1956
-  - grand jury prize # 7 Events: 2014-2017, 2019, 2022-2023
+  - grand jury prize # 8 Events: 2014-2017, 2019, 2022-2024
   - grand silver plaque # 3 Events: 1954-1956
-  - guild film prize # 6 Events: 2017-2020, 2022-2023
+  - guild film prize # 7 Events: 2017-2020, 2022-2024
   - gwff best first feature award # 3 Events: 2022-2024
   - gwff best first feature award jury # 2 Events: 2012, 2023
-  - heiner carow prize # 8 Events: 2013-2016, 2018, 2020, 2022-2023
+  - heiner carow prize # 9 Events: 2013-2016, 2018, 2020, 2022-2024
   - honorable mention # 8 Events: 1956, 1980-1984, 1989, 1999
   - honorary prize # 1 Event: 1956
   - 'honorary prize: short documentary/cultural film' # 1 Event: 1956
@@ -517,11 +519,11 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - journalists' special award # 1 Event: 1970
   - jury award # 7 Events: 2000-2002, 2013, 2019, 2022-2023
   - jury grand prix # 17 Events: 2000-2013, 2018, 2020-2021
-  - jury prize # 9 Events: 1969, 2000-2001, 2012, 2017, 2019, 2021-2023
-  - jury prize - short film # 8 Events: 2012-2015, 2017, 2021-2023
+  - jury prize # 10 Events: 1969, 2000-2001, 2012, 2017, 2019, 2021-2024
+  - jury prize - short film # 9 Events: 2012-2015, 2017, 2021-2024
   - jury prize for short film # 1 Event: 2016
-  - kompagnon-fellowship # 1 Event: 2023
-  - label europa cinemas # 17 Events: 2005-2018, 2020, 2022-2023
+  - kompagnon-fellowship # 2 Events: 2023-2024
+  - label europa cinemas # 18 Events: 2005-2018, 2020, 2022-2024
   - label europa cinemas - special mention # 1 Event: 2016
   - made in germany - perspektive fellowship award # 1 Event: 2015
   - manfred salzgeber award # 10 Events: 2000-2009
@@ -539,21 +541,22 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - ocic promotional award - honorable mention # 1 Event: 1985
   - otto domnick film award # 1 Event: 1985
   - outstanding artistic achievement # 13 Events: 1992-1994, 2000-2006, 2010-2012
-  - outstanding artistic contribution # 16 Events: 1997, 1999, 2007-2009, 2013-2023
+  - outstanding artistic contribution # 17 Events: 1997, 1999, 2007-2009, 2013-2024
   - outstanding single achievement # 18 Events: 1978-1979, 1981-1983, 1985, 1987-1992, 1994-1999
-  - panorama # 30 Events: 1988, 1990, 1995-1996, 1998-2023
+  - panorama # 31 Events: 1988, 1990, 1995-1996, 1998-2024
   - panorama audience award # 13 Events: 1996, 1999-2010
   - panorama award of the new york film academy # 9 Events: 1995-2002, 2009
   - panorama award of the new york film academy - special mention # 6 Events: 1996, 1998-2002
   - panorama short film award # 4 Events: 2003-2006
   - panorama short film award - special mention # 5 Events: 1988, 2003-2006
   - panorama special jury short film award # 1 Event: 2005
-  - peace film award # 37 Events: 1986-2020, 2022-2023
+  - peace film award # 38 Events: 1986-2020, 2022-2024
   - peace film award - honorable mention # 6 Events: 1988-1990, 2001, 2015, 2022
   - pierrot award for best european first work # 1 Event: 1998
   - planet documentary film award # 1 Event: 2004
   - prix berlin (efa european short film) # 1 Event: 2016
   - prix uip berlin (european short film) # 13 Events: 2001-2009, 2012-2015
+  - prize of the ecumenical jury - special mention # 1 Event: 2024
   - prize of the guild of german art house cinemas # 21 Events: 1992, 1996, 1998-2016
   - prize of the senator for people's education # 1 Event: 1958
   - reader jury of the "berliner morgenpost" # 40 Events: 1974-1990, 1992, 1996, 1998-2017, 2019
@@ -573,6 +576,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - special jury award # 3 Events: 2017-2018, 2021
   - special jury prize # 33 Events: 1968, 1971-1999, 2002, 2017, 2020
   - special mention # 9 Events: 1965-1966, 1991, 1993-1995, 1997-1998, 2018
+  - special mention of the generation 14plus international jury # 1 Event: 2024
   - special prize # 8 Events: 1957-1959, 1961-1964, 1968
   - special prize - best comedy # 1 Event: 1960
   - special prize - feature-length documentary # 1 Event: 1961
@@ -587,7 +591,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - 'special prize: short documentary/cultural film' # 2 Events: 1957-1958
   - 'special prize: short film' # 5 Events: 1959, 1962-1964, 1968
   - special teddy # 1 Event: 2009
-  - tagesspiegel readers' jury award # 1 Event: 2023
+  - tagesspiegel readers' jury award # 2 Events: 2023-2024
   - talent movie of the week # 4 Events: 2003-2006
   - teddy - special mention # 4 Events: 2001, 2007, 2019-2020
   - teddy audience award # 3 Events: 2007-2008, 2016
@@ -602,7 +606,7 @@ ev0000091: # Berlin International Film Festival (https://www.imdb.com/event/ev00
   - unicef award - honorable mention # 10 Events: 1982-1986, 1988-1990, 1996, 1998
   - unicrit award # 13 Events: 1963-1973, 1975-1976
   - unicrit award - honorable mention # 2 Events: 1969, 1976
-  - vff talent highlight award # 1 Event: 2023
+  - vff talent highlight award # 2 Events: 2023-2024
   - vff talent highlight pitch award # 1 Event: 2013
   - wolfgang staudte award # 16 Events: 1990-2002, 2004-2006
   - wolfgang staudte award - special mention # 1 Event: 2000
@@ -1688,9 +1692,9 @@ ev0000157: # César Awards, France (https://www.imdb.com/event/ev0000157)
   - best visual effects (meilleurs effets visuels) # 3 Events: 2022-2024
   - césar des césars # 1 Event: 1995
   - césar du public # 3 Events: 2018-2020
-  - female revelation # 1 Event: 2024
+  - female revelation # No Events Found
   - honorary césar # 1 Event: 1986
-  - male revelation # 1 Event: 2024
+  - male revelation # No Events Found
   - most promising actor (meilleur espoir masculin) # 17 Events: 2006-2017, 2019, 2021-2024
   - most promising actor (meilleur jeune espoir masculin) # 25 Events: 1983-2005, 2018, 2020
   - most promising actress (meilleur espoir féminin) # 17 Events: 2006-2017, 2019, 2021-2024

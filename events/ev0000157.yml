@@ -8,14 +8,14 @@
       nominee: [tt16160622, tt15789074, tt23049206, tt28236368, tt16606592]
       winner: [tt16160622]
     most promising actor (meilleur espoir masculin):
-      nominee: [tt26699529, tt17009710, tt16606592, tt18550220, tt14550346]
-      winner: []
+      nominee: [tt18550220, tt26699529, tt17009710, tt16606592, tt14550346]
+      winner: [tt18550220]
     best actress (meilleure actrice):
       nominee: [tt17009710, tt27531109, tt14550346, tt26714897, tt23049206]
       winner: [tt17009710]
     most promising actress (meilleur espoir féminin):
-      nominee: [tt26256216, tt26699529, tt26255020, tt23647880, tt27372066]
-      winner: []
+      nominee: [tt26699529, tt26256216, tt26255020, tt23647880, tt27372066]
+      winner: [tt26699529]
     best supporting actor (meilleur acteur dans un second rôle):
       nominee: [tt17009710, tt18550220, tt16160622, tt28236368]
       winner: [tt17009710]
@@ -73,12 +73,6 @@
     best production design (meilleurs décors):
       nominee: [tt12672536, tt17009710, tt17277414, tt16606592, tt19760052]
       winner: [tt12672536]
-    female revelation:
-      nominee: [tt26699529]
-      winner: [tt26699529]
-    male revelation:
-      nominee: [tt18550220]
-      winner: [tt18550220]
 '2023': # https://www.imdb.com/event/ev0000157/2023/1/?ref_=ev_eh
   césar:
     best actor (meilleur acteur):
