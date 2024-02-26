@@ -37,8 +37,8 @@
       nominee: [tt30953759, tt30953779, tt30953834, tt30887113, tt29045832, tt30953638, tt30953695, tt28090065, tt27907968, tt30953576]
       winner: [tt30953759]
     feature film:
-      nominee: [tt15716284, tt27417166, tt30439035, tt21186614, tt27722375, tt21443754, tt26749327, tt30953660, tt29102244, tt30440590, tt30441039, tt15574270, tt28366692, tt18246700, tt21247132, tt26760867, tt30953867, tt26270862, tt11687002, tt30414712]
-      winner: [tt15716284]
+      nominee: [tt30439035, tt15716284, tt27417166, tt21186614, tt27722375, tt21443754, tt26749327, tt30953660, tt29102244, tt30440590, tt30441039, tt15574270, tt28366692, tt18246700, tt21247132, tt26760867, tt30953867, tt26270862, tt11687002, tt30414712]
+      winner: [tt30439035, tt15716284]
   crystal bear:
     generation 14plus - best film:
       nominee: [tt30918821, tt27503706, tt28590981, tt31116678, tt30959077, tt30521164]
@@ -52,16 +52,23 @@
     generation kplus - best short film:
       nominee: [tt30970587, tt30970846, tt29622455, tt30521429, tt30521391, tt30968551, tt30831880, tt30970908, tt28356173]
       winner: [tt30970587]
+  crystal bear - special mention:
+    generation 14plus - feature film:
+      nominee: [tt31116678]
+      winner: [tt31116678]
   teddy:
     best documentary/essay film:
-      nominee: [tt30953638, tt28090065, tt29102354, tt30953834]
-      winner: []
+      nominee: [tt30953834, tt30953638, tt28090065, tt29102354]
+      winner: [tt30953834]
     best feature film:
       nominee: [tt30439035, tt27722375, tt21443754, tt30858110, tt27417166, tt12349832, tt28590981, tt15574270, tt31015291, tt19637052, tt26270862, tt30970709, tt29141112, tt30414712, tt28228462, tt31018983, tt15245268]
-      winner: []
+      winner: [tt30439035]
     best short film:
-      nominee: [tt30887276, tt28313741, tt31122601, tt30877925, tt28883139, tt30968660, tt30887209, tt30970908, tt28356173]
-      winner: []
+      nominee: [tt31459777, tt30887276, tt28313741, tt31122601, tt30877925, tt28883139, tt30968660, tt30887209, tt30970908, tt28356173]
+      winner: [tt31459777]
+    jury award:
+      nominee: [tt27417166]
+      winner: [tt27417166]
   fipresci prize:
     competition:
       nominee: [tt31015278]
@@ -157,7 +164,7 @@
       winner: [tt30953759]
   encounters award:
     best film:
-      nominee: [tt31015444]
+      nominee: [tt31015444, tt26655205]
       winner: [tt31015444]
   berlinale documentary award - special mention:
     berlinale documentary award - special mention:
@@ -203,6 +210,18 @@
     berlinale efm (screening):
       nominee: [tt14319730]
       winner: []
+  special mention ag-kino gilde cinema vision 14plus:
+    special mention ag-kino gilde cinema vision 14plus:
+      nominee: [tt27503706]
+      winner: [tt27503706]
+  special mention youth jury generation 14plus best film:
+    special mention youth jury generation 14plus best film:
+      nominee: [tt31116678]
+      winner: [tt31116678]
+  special mention youth jury generation 14plus best short film:
+    special mention youth jury generation 14plus best short film:
+      nominee: [tt30521212]
+      winner: [tt30521212]
 '2023': # https://www.imdb.com/event/ev0000091/2023/1/?ref_=ev_eh
   golden berlin bear:
     best film:

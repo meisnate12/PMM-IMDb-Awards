@@ -2,50 +2,50 @@
 '2024':  # https://www.imdb.com/event/ev0000598/2024/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
-      nominee: [tt23561236, tt1517268, tt5537002, tt15398776, tt1200263]
-      winner: []
+      nominee: [tt15398776, tt23561236, tt1517268, tt5537002, tt1200263]
+      winner: [tt15398776]
     outstanding performance by a male actor in a leading role:
-      nominee: [tt5535276, tt15398776, tt14160834, tt23561236, tt14849194]
-      winner: []
+      nominee: [tt15398776, tt5535276, tt14160834, tt23561236, tt14849194]
+      winner: [tt15398776]
     outstanding performance by a female actor in a leading role:
-      nominee: [tt5302918, tt5535276, tt14230458, tt5537002, tt1517268]
-      winner: []
+      nominee: [tt5537002, tt5302918, tt5535276, tt14230458, tt1517268]
+      winner: [tt5537002]
     outstanding performance by a male actor in a supporting role:
-      nominee: [tt5537002, tt15398776, tt1517268, tt23561236, tt14230458]
-      winner: []
+      nominee: [tt15398776, tt5537002, tt1517268, tt23561236, tt14230458]
+      winner: [tt15398776]
     outstanding performance by a female actor in a supporting role:
       nominee: [tt14849194, tt1200263, tt15398776, tt5302918, tt3758542]
-      winner: []
+      winner: [tt14849194]
     outstanding performance by an ensemble in a comedy series:
-      nominee: [tt14218830, tt5348176, tt11691774, tt10986410, tt14452776]
-      winner: []
+      nominee: [tt14452776, tt14218830, tt5348176, tt11691774, tt10986410]
+      winner: [tt14452776]
     outstanding performance by an ensemble in a drama series:
       nominee: [tt7660850, tt4786824, tt4406178, tt3581920, tt7203552]
-      winner: []
+      winner: [tt7660850]
     outstanding performance by a male actor in a comedy series:
-      nominee: [tt5348176, tt10986410, tt14452776]
-      winner: []
+      nominee: [tt14452776, tt5348176, tt10986410]
+      winner: [tt14452776]
     outstanding performance by a female actor in a comedy series:
-      nominee: [tt5788792, tt14452776, tt10986410, tt14218830]
-      winner: []
+      nominee: [tt14452776, tt5788792, tt10986410, tt14218830]
+      winner: [tt14452776]
     outstanding performance by a male actor in a drama series:
-      nominee: [tt7203552, tt7660850, tt3581920]
-      winner: []
+      nominee: [tt3581920, tt7203552, tt7660850]
+      winner: [tt3581920]
     outstanding performance by a female actor in a drama series:
-      nominee: [tt3581920, tt4786824, tt7203552, tt17491088, tt7660850]
-      winner: []
+      nominee: [tt4786824, tt3581920, tt7203552, tt17491088, tt7660850]
+      winner: [tt4786824]
     outstanding action performance by a stunt ensemble in a motion picture:
-      nominee: [tt1517268, tt6791350, tt1462764, tt10366206, tt9603212]
-      winner: []
+      nominee: [tt9603212, tt1517268, tt6791350, tt1462764, tt10366206]
+      winner: [tt9603212]
     outstanding performance by a female actor in a television movie or limited series:
       nominee: [tt14403178, tt17921714, tt13911628, tt20869432, tt11816814]
-      winner: []
+      winner: [tt14403178]
     outstanding performance by a male actor in a television movie or limited series:
-      nominee: [tt15399640, tt2802850, tt15384586, tt14403178, tt27145269]
-      winner: []
+      nominee: [tt14403178, tt15399640, tt2802850, tt15384586, tt27145269]
+      winner: [tt14403178]
     outstanding action performance by a stunt ensemble in a television series:
-      nominee: [tt13622776, tt5348176, tt14403178, tt3581920, tt8111088]
-      winner: []
+      nominee: [tt3581920, tt13622776, tt5348176, tt14403178, tt8111088]
+      winner: [tt3581920]
 '2023': # https://www.imdb.com/event/ev0000598/2023/1/?ref_=ev_eh
   actor:
     outstanding performance by a cast in a motion picture:
