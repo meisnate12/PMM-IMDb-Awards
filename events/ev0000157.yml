@@ -50,14 +50,14 @@
       nominee: [tt16606592, tt22180518, tt18550220, tt23049206, tt12672536]
       winner: [tt16606592]
     best animated short film (meilleur court métrage d'animation):
-      nominee: [tt28106821, tt27688625, tt31033834]
-      winner: []
+      nominee: [tt31033834, tt28106821, tt27688625]
+      winner: [tt31033834]
     best short film (meilleur film de court métrage de fiction):
-      nominee: [tt27549515, tt19783692, tt22023962, tt22054360]
-      winner: []
+      nominee: [tt19783692, tt27549515, tt22023962, tt22054360]
+      winner: [tt19783692]
     best documentary short film (meilleur film de court métrage documentaire):
-      nominee: [tt30807319, tt30971581, tt29432865]
-      winner: []
+      nominee: [tt29432865, tt30807319, tt30971581]
+      winner: [tt29432865]
     best documentary film (meilleur film documentaire):
       nominee: [tt27502426, tt20226766, tt26714897, tt26448811, tt26347358]
       winner: [tt27502426]
