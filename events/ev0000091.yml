@@ -224,7 +224,7 @@
       nominee: [tt26448811, tt21113962, tt26440619, tt1872160, tt14007288, tt21867434, tt22180518, tt16103266, tt21833834, tt14813150, tt15547924, tt13238346, tt21654390, tt16428256, tt15531718, tt26441793, tt15831022, tt23283892, tt26315142]
       winner: [tt26448811]
     best short film:
-      nominee: [tt25967938, tt26448973, tt26897473, tt26420539, tt26869970, tt26899038, tt26697938, tt21243134, tt22868136, tt21815342, tt26382358, tt26448886, tt26899023, tt26229698, tt22077574, tt26546210, tt26546233, tt26256574, tt26448852, tt26420692]
+      nominee: [tt25967938, tt26448973, tt26897473, tt26546210, tt26420539, tt26869970, tt26899038, tt26697938, tt21243134, tt22868136, tt21815342, tt26382358, tt26448886, tt26899023, tt26229698, tt22077574, tt26546233, tt26256574, tt26448852, tt26420692]
       winner: [tt25967938]
   silver berlin bear:
     best director:
@@ -279,7 +279,7 @@
       winner: [tt26440747]
   crystal bear:
     generation 14plus - best film:
-      nominee: [tt16907536, tt26541225, tt11488252, tt24082520, tt19631596, tt22459440, tt22777288, tt18281054, tt11647490, tt16148552, tt11930188, tt11389212, tt22694068]
+      nominee: [tt16907536, tt26541225, tt24082520, tt11488252, tt19631596, tt22459440, tt22777288, tt18281054, tt11647490, tt16148552, tt11930188, tt11389212, tt22694068]
       winner: [tt16907536]
     generation 14plus - best short film:
       nominee: [tt26772087, tt24653458, tt26423863, tt24653480, tt20879118, tt22006384, tt25504012, tt26425722, tt21247140, tt24654152, tt26425730]
@@ -419,7 +419,7 @@
       winner: [tt26448981, tt21909682]
   gwff best first feature award:
     gwff best first feature award:
-      nominee: [tt26448952, tt21113962, tt26441800, tt25161220, tt11488252, tt26332440, tt25846662, tt22180518, tt26448972, tt20114686, tt13866630, tt24068064, tt26348079, tt11647490, tt26343116, tt26441515, tt16148552, tt9861230, tt11930188]
+      nominee: [tt26448952, tt21113962, tt26441800, tt25161220, tt26332440, tt25846662, tt11488252, tt22180518, tt26448972, tt20114686, tt13866630, tt24068064, tt26348079, tt11647490, tt26343116, tt26441515, tt16148552, tt9861230, tt11930188]
       winner: [tt26448952]
   berlin short film candidate for the european film awards:
     best short film:
@@ -1028,7 +1028,7 @@
 '2019': # https://www.imdb.com/event/ev0000091/2019/1/?ref_=ev_eh
   golden berlin bear:
     best film:
-      nominee: [tt7016254, tt9418878, tt8095860, tt9581172, tt6704898, tt9068100, tt8054608, tt7760890, tt6828390, tt8959680, tt7319496, tt8740778, tt9581076, tt8535968, tt7670212, tt7902124, tt6515910]
+      nominee: [tt7016254, tt9418878, tt8095860, tt9581172, tt6704898, tt9068100, tt8054608, tt7760890, tt6828390, tt7319496, tt8740778, tt9581076, tt8535968, tt7670212, tt7902124, tt6515910]
       winner: [tt7016254]
     best short film:
       nominee: [tt9902408, tt9902912, tt9769192, tt9902526, tt10249396, tt9746928, tt10254638, tt10265080, tt9886436, tt8150744, tt6599276, tt10045280, tt9325464, tt8150654, tt10342690, tt10084950, tt9856552, tt9857490, tt10167480, tt9675006, tt10301380, tt10446100, tt9302096, tt10472194]
@@ -1467,6 +1467,10 @@
     outstanding artistic contribution:
       nominee: [tt6125690]
       winner: [tt6125690]
+  special mention:
+    best short film:
+      nominee: [tt6067908]
+      winner: [tt6067908]
   panorama audience award:
     documentary film:
       nominee: [tt5804038, tt6217664, tt6568868]
@@ -1869,6 +1873,10 @@
     outstanding artistic contribution:
       nominee: [tt4285198, tt4226388]
       winner: [tt4285198, tt4226388]
+  special mention:
+    international jury:
+      nominee: [tt3607740]
+      winner: [tt3607740]
   panorama audience award:
     documentary film:
       nominee: [tt4176750, tt2531282, tt3904176, tt3431798]
@@ -3910,6 +3918,10 @@
     best short film:
       nominee: [tt0783854]
       winner: [tt0783854]
+  "children's film festival: best short film":
+    "children's film festival: best short film":
+      nominee: [tt0490473]
+      winner: []
   teddy:
     best documentary film:
       nominee: [tt0783665, tt0760167, tt0970183]
@@ -4035,6 +4047,10 @@
     reader jury of the "siegessäule":
       nominee: [tt0783681]
       winner: [tt0783681]
+  special mention of the generation kplus international jury:
+    short film:
+      nominee: [tt0490473]
+      winner: []
   grand prix of the generation 14plus international jury:
     generation 14plus - best short film:
       nominee: [tt0490473]
@@ -5778,6 +5794,12 @@
       nominee: [tt0112951]
       winner: [tt0112951]
   unicef award:
+    best actor in a leading role:
+      nominee: [tt0124768]
+      winner: [tt0124768]
+    best long feature film:
+      nominee: [tt0124768]
+      winner: []
     best short film:
       nominee: [tt0124601]
       winner: [tt0124601]
@@ -5936,7 +5958,7 @@
       nominee: [tt0194931, tt0317114, tt0106446, tt0317566, tt0317383, tt0245110, tt0107173, tt0318663, tt0317591]
       winner: [tt0194931]
     golden berlin bear:
-      nominee: [tt0107207, tt0111396, tt0107486, tt0103638, tt0109083, tt0109378, tt0106546, tt0109291, tt0109757, tt0106881, tt0107023, tt0178502, tt0110296, tt0108167, tt0107171, tt0107818, tt0110784, tt0194957, tt0106966, tt0104328, tt0111507]
+      nominee: [tt0107207, tt0111396, tt0103638, tt0109083, tt0109378, tt0106546, tt0109291, tt0109757, tt0106881, tt0107486, tt0107023, tt0178502, tt0110296, tt0108167, tt0107171, tt0107818, tt0110784, tt0194957, tt0106966, tt0104328, tt0111507]
       winner: [tt0107207]
   silver berlin bear:
     best actor:
@@ -6092,7 +6114,7 @@
       nominee: [tt0317074, tt0318816, tt0318603, tt0318657, tt0318831]
       winner: []
     golden berlin bear:
-      nominee: [tt0101969, tt0104008, tt0105309, tt0101516, tt0101540, tt0102816, tt0103932, tt0101669, tt0105919, tt0103884, tt0104321, tt0101980, tt0101542, tt0104509, tt0101923, tt0102307, tt0102511, tt0102790, tt0101431, tt0121673, tt0104420, tt0103838, tt0104685, tt0102265, tt0103110, tt0105712]
+      nominee: [tt0101969, tt0104008, tt0105309, tt0101516, tt0101540, tt0102816, tt0103932, tt0101669, tt0105919, tt0103884, tt0104321, tt0101980, tt0101542, tt0104509, tt0101923, tt0102307, tt0104420, tt0102511, tt0102790, tt0101431, tt0121673, tt0103838, tt0104685, tt0102265, tt0103110, tt0105712]
       winner: [tt0101969]
   silver berlin bear:
     best actor:
@@ -7768,7 +7790,7 @@
       nominee: [tt0234686]
       winner: [tt0234686]
     golden berlin bear:
-      nominee: [tt0073948, tt0072701, tt0192454, tt0073654, tt0072970, tt0072843, tt0071527, tt0071672, tt0071688, tt0163023, tt0071716, tt0123949, tt0178705, tt0192472, tt0073312, tt0072208, tt0073501, tt0073502, tt0073559, tt0192566, tt0071449, tt0072766, tt0073934]
+      nominee: [tt0073948, tt0072701, tt0192454, tt0072970, tt0072843, tt0071527, tt0071672, tt0071688, tt0163023, tt0071716, tt0123949, tt0178705, tt0192472, tt0073312, tt0072208, tt0073501, tt0073502, tt0073559, tt0192566, tt0073654, tt0071449, tt0072766, tt0073934]
       winner: [tt0073948]
   silver berlin bear:
     best actor:
@@ -7821,8 +7843,8 @@
       winner: [tt0073444]
   ocic award - recommendation:
     competition:
-      nominee: [tt0073948, tt0073654, tt0072843]
-      winner: [tt0073948, tt0073654, tt0072843]
+      nominee: [tt0073948, tt0072843, tt0073654]
+      winner: [tt0073948, tt0072843, tt0073654]
     forum of new cinema:
       nominee: [tt0233697, tt0071758, tt0070262]
       winner: [tt0233697, tt0071758, tt0070262]

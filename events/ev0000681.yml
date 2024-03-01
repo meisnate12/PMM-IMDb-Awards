@@ -470,7 +470,7 @@
       winner: [tt1978735]
   gda director's award:
     gda director's award:
-      nominee: [tt21838736]
+      nominee: [tt21838736, tt18272884]
       winner: [tt21838736]
   verona film club award:
     verona film club award:
@@ -3740,7 +3740,7 @@
       winner: [tt1039652]
   venice horizons award:
     best film:
-      nominee: [tt0834170, tt1094235, tt1093836, tt0841017, tt1094270, tt1094643, tt2015288, tt0913958, tt1094262, tt1010420, tt1094648, tt0915749, tt1094655, tt0943982, tt1094277, tt1094621, tt0989890, tt1079450, tt1051905, tt1094635, tt1094286]
+      nominee: [tt0834170, tt1094235, tt1093836, tt0841017, tt1094270, tt1094643, tt2015288, tt0913958, tt1094262, tt1010420, tt1094648, tt0915749, tt1094655, tt0943982, tt1094277, tt1094621, tt0989890, tt1079450, tt1051905, tt1094286, tt1094635]
       winner: [tt0834170]
   venice horizons documentary award:
     venice horizons documentary award:
@@ -5043,7 +5043,7 @@
 '2000': # https://www.imdb.com/event/ev0000681/2000/1/?ref_=ev_eh
   golden lion:
     golden lion:
-      nominee: [tt0255094, tt0247196, tt0254325, tt0205271, tt0255327, tt0255177, tt0206093, tt0206200, tt0255321, tt0238891, tt0250809, tt0239381, tt0258885, tt0221115, tt0255195, tt0255589, tt0206917, tt0255665, tt0230753, tt0200257]
+      nominee: [tt0255094, tt0247196, tt0254325, tt0205271, tt0255327, tt0255177, tt0206093, tt0206200, tt0255321, tt0239381, tt0238891, tt0250809, tt0258885, tt0221115, tt0255195, tt0255589, tt0206917, tt0255665, tt0230753, tt0200257]
       winner: [tt0255094]
   grand special jury prize:
     grand special jury prize:
@@ -5854,7 +5854,7 @@
       winner: [tt0110348]
   audience award:
     best film:
-      nominee: [tt0110882]
+      nominee: [tt0110882, tt0169268]
       winner: [tt0110882]
   golden ciak:
     golden ciak:
@@ -5945,6 +5945,9 @@
       nominee: [tt0110882]
       winner: [tt0110882]
   fipresci award:
+    best film:
+      nominee: [tt0169268]
+      winner: []
     best film in competition:
       nominee: [tt0110882]
       winner: [tt0110882]
@@ -7017,7 +7020,7 @@
       nominee: [tt0084808]
       winner: []
     golden lion:
-      nominee: [tt0084725, tt0083904, tt0082053, tt0084042, tt0082066, tt0184883, tt0083744, tt0083903, tt0084012, tt0084027, tt0084030, tt0164621, tt0084065, tt0084123, tt0084829, tt0083984, tt0084019, tt0083732, tt0084558, tt0084565, tt0084776, tt0194234, tt0258587, tt0083851, tt0084432, tt0084136, tt0158532, tt0084697]
+      nominee: [tt0084725, tt0083904, tt0082053, tt0084042, tt0082066, tt0184883, tt0083744, tt0083903, tt0083984, tt0084012, tt0084027, tt0084030, tt0164621, tt0084065, tt0084123, tt0084829, tt0084019, tt0083732, tt0084558, tt0084565, tt0084776, tt0194234, tt0258587, tt0083851, tt0084432, tt0084136, tt0158532, tt0084697]
       winner: [tt0084725]
   special jury prize:
     special jury prize:
@@ -7734,7 +7737,7 @@
       nominee: [tt0059160, tt0057427]
       winner: []
     golden lion:
-      nominee: [tt0056966, tt0056111, tt0055798, tt0056076, tt0056193, tt0203629, tt0056215, tt0056205, tt0056663, tt0056502, tt0056568, tt0056581]
+      nominee: [tt0056966, tt0056111, tt0055798, tt0056076, tt0056193, tt0203629, tt0056215, tt0056205, tt0056502, tt0056568, tt0056581, tt0056663]
       winner: [tt0056966, tt0056111]
   special jury prize:
     special jury prize:
@@ -8136,7 +8139,7 @@
 '1954': # https://www.imdb.com/event/ev0000681/1954/1/?ref_=ev_eh
   golden lion:
     golden lion:
-      nominee: [tt0047029, tt0046690, tt0047315, tt0045593, tt0047489, tt0046963, tt0148440, tt0046451, tt0045980, tt0046769, tt0186473, tt0047397, tt0047528, tt0046051, tt0196063, tt0047296, tt0234455, tt0046218, tt0047396, tt0044386, tt0047445, tt0047469, tt0047478, tt0047496, tt0047513, tt0180721, tt0046816, tt0046970, tt0135534, tt0047435, tt0046299, tt0047580, tt0293679, tt0047427]
+      nominee: [tt0047029, tt0046690, tt0047315, tt0045593, tt0047489, tt0046963, tt0148440, tt0045980, tt0046769, tt0186473, tt0047397, tt0047528, tt0046051, tt0196063, tt0047296, tt0234455, tt0046218, tt0047396, tt0044386, tt0047445, tt0047469, tt0047478, tt0047496, tt0047513, tt0180721, tt0046816, tt0046970, tt0135534, tt0047435, tt0046299, tt0047580, tt0046451, tt0293679, tt0047427]
       winner: [tt0047029]
   silver lion:
     silver lion:

@@ -309,7 +309,7 @@
       nominee: [tt20852862, tt24020028, tt17676060, tt18816210, tt14834068, tt21030326]
       winner: [tt20852862]
     best debut game:
-      nominee: [tt18748744, tt19798900, tt12497220, tt22495400, tt21030326]
+      nominee: [tt18748744, tt19798900, tt12497220, tt27657536, tt22495400, tt21030326]
       winner: [tt18748744]
     best evolving game:
       nominee: [tt1737166, tt9730966, tt5309972, tt14870662, tt3819090, tt3485722]
@@ -336,7 +336,7 @@
       nominee: [tt13119450, tt10562854, tt12496904, tt21911886, tt22445726, tt12497220]
       winner: [tt13119450]
     game beyond entertainment:
-      nominee: [tt21371766, tt24020028, tt20239146, tt11238716]
+      nominee: [tt21371766, tt24020028, tt20239146, tt28364425, tt11238716]
       winner: [tt21371766]
     game design:
       nominee: [tt21030326, tt21907812, tt10562854, tt13119450, tt12496904, tt18748744]
@@ -7635,10 +7635,10 @@
       nominee: [tt0093010, tt0095159, tt0093389, tt0096438]
       winner: [tt0093010]
     best film:
-      nominee: [tt0093389, tt0095159, tt0092593, tt0092603]
+      nominee: [tt0093389, tt0095159, tt0092603, tt0092593]
       winner: [tt0093389]
     best film not in the english language:
-      nominee: [tt0092603, tt0092593, tt0093664, tt0093191]
+      nominee: [tt0092603, tt0093664, tt0092593, tt0093191]
       winner: [tt0092603]
     best make up artist:
       nominee: [tt0093389, tt0095274, tt0094721, tt0093870]
