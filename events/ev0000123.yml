@@ -73,6 +73,10 @@
     best british short film:
       nominee: [tt26769826, tt29228169, tt27727876, tt20779716, tt23836912]
       winner: [tt26769826]
+  bafta games award:
+    best game:
+      nominee: [tt16385682, tt28630698, tt26453303, tt15399898, tt20672830, tt10471854]
+      winner: []
 '2023': # https://www.imdb.com/event/ev0000123/2023/1/?ref_=ev_eh
   bafta film award:
     best film:
