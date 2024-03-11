@@ -74,8 +74,32 @@
       nominee: [tt26769826, tt29228169, tt27727876, tt20779716, tt23836912]
       winner: [tt26769826]
   bafta games award:
+    audio achievement:
+      nominee: [tt15399898]
+      winner: []
+    best animation:
+      nominee: [tt15399898]
+      winner: []
     best game:
       nominee: [tt16385682, tt28630698, tt26453303, tt15399898, tt20672830, tt10471854]
+      winner: []
+    best music:
+      nominee: [tt15399898]
+      winner: []
+    ee player's choice:
+      nominee: [tt15399898]
+      winner: []
+    game design:
+      nominee: [tt15399898]
+      winner: []
+    performer in a leading role:
+      nominee: [tt15399898]
+      winner: []
+    performer in a supporting role:
+      nominee: [tt15399898]
+      winner: []
+    technical achievement:
+      nominee: [tt15399898]
       winner: []
 '2023': # https://www.imdb.com/event/ev0000123/2023/1/?ref_=ev_eh
   bafta film award:
