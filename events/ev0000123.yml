@@ -141,7 +141,7 @@
       nominee: [tt10714820, tt2085059, tt13323596, tt20916306]
       winner: []
     live event coverage:
-      nominee: [tt20243990, tt31845376]
+      nominee: [tt20243990, tt30210296, tt31845376]
       winner: []
     make up & hair design:
       nominee: [tt5875444, tt4786824, tt13323596, tt13678006]
@@ -168,7 +168,7 @@
       nominee: [tt2085059, tt16233462, tt14688458, tt13323596]
       winner: []
     reality:
-      nominee: [tt29714497, tt30523849, tt27153473, tt28104766]
+      nominee: [tt29714497, tt5434216, tt27153473, tt28104766]
       winner: []
     scripted casting:
       nominee: [tt2085059, tt30412431, tt13678006, tt13138834]
@@ -202,6 +202,9 @@
       winner: []
     supporting actor:
       nominee: [tt3428912, tt15227418, tt5875444, tt7660850, tt4786824, tt20916306]
+      winner: []
+    supporting actress:
+      nominee: [tt4786824, tt7660850, tt1830379, tt3581920, tt3428912]
       winner: []
     titles & graphic identity:
       nominee: [tt31433814, tt1869454, tt14661396, tt15426714]
@@ -266,6 +269,10 @@
       winner: []
     technical achievement:
       nominee: [tt16385682, tt13103328, tt16901232, tt15399898, tt8545540, tt10471854]
+      winner: []
+  p&o cruises memorable moment:
+    p&o cruises memorable moment:
+      nominee: [tt7660850]
       winner: []
 '2023': # https://www.imdb.com/event/ev0000123/2023/1/?ref_=ev_eh
   bafta film award:
